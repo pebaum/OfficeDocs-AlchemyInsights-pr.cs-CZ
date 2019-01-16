@@ -1,0 +1,52 @@
+---
+title: Odstranění webu služby SharePoint
+ms.author: kirks
+author: Techwriter40
+ms.date: 12/3/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
+ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: cs-CZ
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28281851"
+---
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="a5a2b-102">Odstranění webu služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="a5a2b-102">Delete a SharePoint site</span></span>
+
+ <span data-ttu-id="a5a2b-103">**Odstraňte weby, které patří do skupiny Office 365:**</span><span class="sxs-lookup"><span data-stu-id="a5a2b-103">**Delete sites that belong to an Office 365 group:**</span></span>
+  
+<span data-ttu-id="a5a2b-p101">Když uživatelé vytvořit nový týmový web SharePoint doma (nebo vytvořit nový web týmu z nového náhledu SharePoint admin center), je automaticky vytvořena odpovídající skupiny Office 365. Office 365 připojení skupiny týmové weby jsou vytvářeny také při vytváření skupiny služby Office 365 nebo týmu v Teams společnosti Microsoft. Chcete-li odstranit web služby SharePoint, který náleží do skupiny Office 365, je nutné odstranit vlastní skupinu služeb Office 365.</span><span class="sxs-lookup"><span data-stu-id="a5a2b-p101">When users create a new team site from SharePoint Home (or you create a new team site from the new SharePoint admin center preview), a corresponding Office 365 group is automatically created. Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams. To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+  
+1. <span data-ttu-id="a5a2b-107">Přejděte na [stránku skupiny z středisku pro správce služeb Office 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="a5a2b-107">Go to the [Groups page of the Office 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+  
+2. <span data-ttu-id="a5a2b-108">Zaškrtněte políčko vedle skupiny.</span><span class="sxs-lookup"><span data-stu-id="a5a2b-108">Select the check box next to the group.</span></span>
+  
+3. <span data-ttu-id="a5a2b-109">Vyberte možnost **Odstranit**.</span><span class="sxs-lookup"><span data-stu-id="a5a2b-109">Select **Delete**.</span></span> 
+  
+<span data-ttu-id="a5a2b-110">Poznámka: Pokud odstraníte skupinu, může být zpoždění před odstraněním webu služby SharePoint.</span><span class="sxs-lookup"><span data-stu-id="a5a2b-110">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
+  
+ <span data-ttu-id="a5a2b-111">**Odstraňte komunikaci nebo klasické servery:**</span><span class="sxs-lookup"><span data-stu-id="a5a2b-111">**Delete communication sites or classic sites:**</span></span>
+  
+1. <span data-ttu-id="a5a2b-112">Přejděte na web.</span><span class="sxs-lookup"><span data-stu-id="a5a2b-112">Go to the site.</span></span>
+  
+2. <span data-ttu-id="a5a2b-113">Klepněte \*\* nastavení \*\* (ikona zařízení kolo) v pravé horní části.</span><span class="sxs-lookup"><span data-stu-id="a5a2b-113">Click the \*\* Settings \*\* (gear wheel icon) in the upper right.</span></span> 
+  
+3. <span data-ttu-id="a5a2b-p102">Klepněte na tlačítko **Nastavení webu**. Ve skupinovém rámečku **Informace o webu** nebo **Akce webu**klepněte na tlačítko **Odstranit tento web**a potom klepněte na příkaz **Odstranit**.</span><span class="sxs-lookup"><span data-stu-id="a5a2b-p102">Click **Site settings**. Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span> 
+  
+ <span data-ttu-id="a5a2b-116">**Odstranění kolekce webů služby SharePoint:**</span><span class="sxs-lookup"><span data-stu-id="a5a2b-116">**Delete a SharePoint site collection:**</span></span>
+  
+<span data-ttu-id="a5a2b-117">Chcete-li odstranit kolekci webů classic:</span><span class="sxs-lookup"><span data-stu-id="a5a2b-117">To delete a classic site collection:</span></span>
+  
+1. <span data-ttu-id="a5a2b-118">Ve středisku klasického Správce služby SharePoint na stránce kolekce webů, zaškrtněte **políčko** u kolekce webů.</span><span class="sxs-lookup"><span data-stu-id="a5a2b-118">In the classic SharePoint admin center, on the site collections page, select the **check box** next to the site collection.</span></span> 
+  
+2. <span data-ttu-id="a5a2b-119">Na kartě kolekce webů vyberte **Odstranit.**</span><span class="sxs-lookup"><span data-stu-id="a5a2b-119">On the Site Collections tab, select **Delete.**</span></span>
+  
+ <span data-ttu-id="a5a2b-120">**Odstranit web náhodou?**</span><span class="sxs-lookup"><span data-stu-id="a5a2b-120">**Deleted a site by accident?**</span></span>
+  
+<span data-ttu-id="a5a2b-121">V tématu [Obnovení odstraněných webů](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="a5a2b-121">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
+  
+
