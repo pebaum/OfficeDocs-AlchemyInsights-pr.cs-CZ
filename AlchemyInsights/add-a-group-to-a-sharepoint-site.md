@@ -1,0 +1,49 @@
+---
+title: Přidání skupiny do webu služby SharePoint
+ms.author: mikeplum
+author: MikePlumleyMSFT
+manager: scotv
+ms.date: 8/3/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
+ms.openlocfilehash: d7a63edc7d5fb51b5d92549d96b62854dbee2031
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: cs-CZ
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28282059"
+---
+# <a name="add-a-group-to-a-sharepoint-site"></a>Přidání skupiny do webu služby SharePoint
+
+Některé týmové weby služby SharePoint (včetně vytvořených v aplikaci Microsoft Teams) spravuje vlastníci skupiny Office 365. Obsah a weby služby SharePoint lze také sdílet s skupiny Office 365 a skupin SharePoint. Skupina SharePoint je sada uživatelů, kteří mají stejnou sadu oprávnění k webům a obsahu. Klasické servery doporučujeme použít skupiny pohodlně přiřadit stejnou úroveň oprávnění mnoho lidí najednou, spíše než přiřazením oprávnění jedna osoba současně.
+  
+Spravovat členy skupiny Office 365:
+  
+1. Přejděte na [stránku skupiny ve středisku pro správce služeb Office 365](https://portal.office.com/adminportal/home#/groups).
+    
+2. Vyberte skupinu zobrazíte jeho vlastníky a členy. Chcete-li přidat nebo odebrat uživatele, klepněte na odkaz **Upravit** v řádku **vlastníků** nebo **členů** . 
+    
+Sdílet web komunikace se skupinou služeb Office 365:
+  
+1. Přejděte na web v prohlížeči a klepněte na tlačítko **sdílené složky webu** vpravo nahoře. 
+    
+2. Zadejte název skupiny a pak vyberte úroveň oprávnění (číst, upravit nebo úplné řízení).
+    
+Vytvořte skupinu SharePoint pomocí klasického webu:
+  
+1. Přejděte na web v prohlížeči a klepněte na ikonu nastavení v pravém horním.
+    
+2. Klepněte na položku **Nastavení webu**a ve skupinovém rámečku **Uživatelé a oprávnění**klepněte na tlačítko **oprávnění webu**.
+    
+3. Na kartě oprávnění klepněte na tlačítko **Vytvořit skupinu**.
+    
+[Připojení klasické týmový web do nové skupiny Office 365](https://go.microsoft.com/fwlink/?linkid=2008654)
+  
+[Další informace o práci s skupiny SharePoint](https://go.microsoft.com/fwlink/?linkid=874658)
+  
+
