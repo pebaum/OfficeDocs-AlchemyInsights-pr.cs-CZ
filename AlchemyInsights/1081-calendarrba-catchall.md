@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
 ms.openlocfilehash: e608368a5a7250edfaff290203ba5f2e1d11cf16
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28281058"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29462497"
 ---
-# <a name="create-and-manage-room-mailboxes"></a>Vytvořit a spravovat poštovní schránky místnosti
+# <a name="create-and-manage-room-mailboxes"></a>Vytváření a správa poštovních schránek místností
 
 Vytvářet a upravovat poštovní schránky místnosti, viz [vytvořit a spravovat poštovní schránky místnosti](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
   
