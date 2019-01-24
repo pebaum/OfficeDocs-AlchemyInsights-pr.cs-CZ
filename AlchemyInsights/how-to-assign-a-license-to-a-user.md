@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
 ms.openlocfilehash: 61adcd2ba21a98793d072d3fad2d9d2e68fa3c20
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28281822"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29463405"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Přiřazení licence uživateli
 
 Uživatel potřebuje licenci k přístupu ke službám. Zde jsou kroky k přidání, změna nebo odebrání licence uživateli.
   
-1. Ve středisku pro správce naleznete na stránce [Aktivních uživatelů](https://go.microsoft.com/fwlink/p/?linkid=834822) nebo zvolte **uživatele,** \> **aktivních uživatelů**.
+1. V Centru pro správu přejděte na stránku [Aktivní uživatelé](https://go.microsoft.com/fwlink/p/?linkid=834822) nebo zvolte **Uživatelé** \> **Aktivní uživatelé**.
     
 2. Zaškrtněte políčko vedle názvu uživatele, kterému chcete přiřadit, změnit nebo odebrat licenci.
     
