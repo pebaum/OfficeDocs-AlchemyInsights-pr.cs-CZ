@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
 ms.openlocfilehash: 0d4bb7ea2e350dc91bb32f3c03d2f0b10b55477f
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28281807"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29462494"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Povolit externí sdílení pro službu SharePoint.
 
@@ -25,7 +25,7 @@ ms.locfileid: "28281807"
 2. Vypnutí a zapnutí nastavení nebo vyberte možnost sdílení, pokud je zapnutý.
     
 > [!NOTE]
-> Vypnutí sdílení pro SharePoint vypne pro OneDrive. Chcete-li povolit externí sdílení na libovolném webu, musí být nastavení celoorganizačních na. > Chcete-li povolit externí sdílení pro OneDrive nebo jakékoli jednotlivé weby služby SharePoint, musíte zapnout ji celou organizaci pro službu SharePoint. Můžete potom vypnout ji pro jednotlivé kolekce webů. Chcete-li spravovat nastavení externího sdílení pro komunikační weby a weby, které patří do skupiny Office 365, musíte použít nové Centrum správy služby SharePoint (Náhled) nebo v prostředí PowerShell. Další informace o správě nastavení externího sdílení naleznete v tématu [Povolit externí sdílení](https://go.microsoft.com/fwlink/?linkid=866426). 
+> Vypnutí sdílení pro SharePoint vypne pro OneDrive. Chcete-li povolit externí sdílení na libovolném webu, musí být nastavení celoorganizačních na. > povolit externí sdílení pro OneDrive nebo jakékoli jednotlivé weby služby SharePoint, je nutné zapnout ji celou organizaci pro službu SharePoint. Můžete potom vypnout ji pro jednotlivé kolekce webů. Chcete-li spravovat nastavení externího sdílení pro komunikační weby a weby, které patří do skupiny Office 365, musíte použít nové Centrum správy služby SharePoint (Náhled) nebo v prostředí PowerShell. Další informace o správě nastavení externího sdílení naleznete v tématu [Povolit externí sdílení](https://go.microsoft.com/fwlink/?linkid=866426). 
   
 [Další informace o externích sdílení ve službě SharePoint](https://go.microsoft.com/fwlink/?linkid=734908)
   

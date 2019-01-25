@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28280904"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29462587"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopírování nebo přesunutí položky v knihovně dokumentů služby SharePoint
 
@@ -37,6 +37,6 @@ Můžete kopírovat a přesouvat soubory, složky a odkazy do různých umístě
 3. Klepněte na tlačítko **zde zkopírovat** nebo **Přesunout sem**.
     
 > [!NOTE]
->  Až 500 MB pro soubory a složky lze kopírovat najednou. > Při kopírování dokladů, které mají historii verzí, je nejnovější verze zkopírovány. Při přesunutí dokumentů je přesunut také jejich historie. 
+>  Až 500 MB pro soubory a složky lze kopírovat najednou. > při kopírování dokladů, které mají historii verzí nejnovější verze se zkopíruje. Při přesunutí dokumentů je přesunut také jejich historie. 
   
 

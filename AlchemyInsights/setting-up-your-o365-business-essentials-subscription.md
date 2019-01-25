@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f637accfbcf9e3f77ab75dd89bb618e4eb5c4cf0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28282085"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29463326"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Nastavení předplatného O365 Business Essentials
 
 Vytvořit účty služeb Office 365 a přidání domény
   
-- V tomto kroku použijete Průvodce instalací vytvořit účty služeb Office 365 pro uživatele a přidat své vlastní domény. Průvodce umožňuje přizpůsobit prospívá identifikační číslo a e-mailu pro firmy, jako je [rob@contoso.com](mailto:rob@contoso.com).
+- V tomto kroku pomocí průvodce nastavením vytvoříte účty Office 365 pro své uživatele a přidáte vlastní doménu. Průvodce vám umožní přizpůsobit všechna ID uživatelů a e-mailové adresy podle potřeb vaší firmy. Můžou vypadat například takto: robert@contoso.com.
     
 - Přejděte do [Centra pro správu Office 365](https://login.partner.microsoftonline.cn/).
     

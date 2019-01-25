@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
 ms.openlocfilehash: ea8bdfd8b75d4730303394905f9cd190fa9074c4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28281440"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29463240"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>Vytvoření webu služby SharePoint rozbočovač
 
@@ -24,7 +24,7 @@ ms.locfileid: "28281440"
 3. Zadejte zobrazovaný název pro centrální lokalita a jednotlivé uživatele nebo skupiny zabezpečení, které chcete povolit, chcete-li přidružit servery rozbočovač.
     
     > [!NOTE]
-    >  Doporučujeme vybrat komunikační web nebo na týmovém webu, který používá novou šablonu. Pokud používáte klasické týmový web, rozbočovač navigace se zobrazí pouze na stránkách moderní a nastavení webu rozbočovač se zobrazí pouze na stránkách moderní. > Weby, které jsou přidruženy k jinému rozbočovači nemůže být registrováno jako centrální lokalita. 
+    >  Doporučujeme vybrat komunikační web nebo na týmovém webu, který používá novou šablonu. Pokud používáte klasické týmový web, rozbočovač navigace se zobrazí pouze na stránkách moderní a nastavení webu rozbočovač se zobrazí pouze na stránkách moderní. > servery, které jsou přidruženy k jinému rozbočovači nemůže být registrováno jako centrální lokalita. 
   
 [Další informace o sítích rozbočovačů](https://go.microsoft.com/fwlink/?linkid=869149)
   

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
 ms.openlocfilehash: 82bcf1d9530f81831d583b086e72fba484ac006d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28281970"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29463324"
 ---
 Vládní plány Office 365 jsou navrženy pro jedinečné potřeby organizací vládou USA. Poskytují všechny funkce a možnosti služby Office 365 ve Společenství Segmentovaný vláda cloud, umožňující organizacím USA soulad a standardy zabezpečení.
   
