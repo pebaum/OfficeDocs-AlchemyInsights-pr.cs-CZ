@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0d8dcdab-425e-40d9-b649-afc57ea1c761
 ms.openlocfilehash: b6aa08a31b5731fa3b19bff0fdbb631c576f25e5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28281772"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500527"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="fb9a2-102">Vytvořit a spravovat poštovní schránky místnosti</span><span class="sxs-lookup"><span data-stu-id="fb9a2-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="c12aa-102">Vytváření a správa poštovních schránek místností</span><span class="sxs-lookup"><span data-stu-id="c12aa-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="fb9a2-103">Vytvářet a upravovat poštovní schránky místnosti, viz [vytvořit a spravovat poštovní schránky místnosti](https://technet.microsoft.com/library/jj215781.aspx).</span><span class="sxs-lookup"><span data-stu-id="fb9a2-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://technet.microsoft.com/library/jj215781.aspx).</span></span>
+<span data-ttu-id="c12aa-103">Vytvářet a upravovat poštovní schránky místnosti, viz [vytvořit a spravovat poštovní schránky místnosti](https://technet.microsoft.com/library/jj215781.aspx).</span><span class="sxs-lookup"><span data-stu-id="c12aa-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://technet.microsoft.com/library/jj215781.aspx).</span></span>
   
-<span data-ttu-id="fb9a2-104">Další informace o poštovních schránek místností a vybavení (označované také jako prostředků poštovních schránek), viz [poštovní schránky místností a vybavení](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span><span class="sxs-lookup"><span data-stu-id="fb9a2-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
+<span data-ttu-id="c12aa-104">Další informace o poštovních schránek místností a vybavení (označované také jako prostředků poštovních schránek), viz [poštovní schránky místností a vybavení](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span><span class="sxs-lookup"><span data-stu-id="c12aa-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
   
 
