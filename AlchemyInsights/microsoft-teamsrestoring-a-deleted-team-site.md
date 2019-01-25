@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
 ms.openlocfilehash: 51474728bb6bd113fee56b491f637613c4b0515b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28282188"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29463017"
 ---
-# <a name="restoring-a-deleted-team-site"></a><span data-ttu-id="3b45e-102">Obnovení odstraněné týmový web</span><span class="sxs-lookup"><span data-stu-id="3b45e-102">Restoring a Deleted Team Site</span></span>
+# <a name="restoring-a-deleted-team-site"></a><span data-ttu-id="fc580-102">Obnovení odstraněné týmový web</span><span class="sxs-lookup"><span data-stu-id="fc580-102">Restoring a Deleted Team Site</span></span>
 
-<span data-ttu-id="3b45e-p101">, Jako vlastník týmu neúmyslně odstraníte týmu? To se stane, ale můžete stále vrátit jej zpět.</span><span class="sxs-lookup"><span data-stu-id="3b45e-p101">Did you, as a Team Owner, accidentally delete a team? It happens, but you can still get it back.</span></span>
+<span data-ttu-id="fc580-p101">, Jako vlastník týmu neúmyslně odstraníte týmu? To se stane, ale můžete stále vrátit jej zpět.</span><span class="sxs-lookup"><span data-stu-id="fc580-p101">Did you, as a Team Owner, accidentally delete a team? It happens, but you can still get it back.</span></span>
   
-<span data-ttu-id="3b45e-105">Obnovení odstraněné týmu pro Teams společnosti Microsoft, postupujte podle pokynů zde: [Obnovení odstraněné týmu](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)</span><span class="sxs-lookup"><span data-stu-id="3b45e-105">To restore a deleted team for Microsoft Teams, follow the steps here: [Restoring a deleted team](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)</span></span>
+<span data-ttu-id="fc580-105">Obnovení odstraněné týmu pro Teams společnosti Microsoft, postupujte podle pokynů zde: [Obnovení odstraněné týmu](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)</span><span class="sxs-lookup"><span data-stu-id="fc580-105">To restore a deleted team for Microsoft Teams, follow the steps here: [Restoring a deleted team](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)</span></span>
   
 

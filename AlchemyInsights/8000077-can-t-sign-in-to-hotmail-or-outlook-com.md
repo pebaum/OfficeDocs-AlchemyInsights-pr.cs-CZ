@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
 ms.openlocfilehash: b54f3dc704a321dd1cc574171b9978fa7978fad4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28282047"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29462830"
 ---
-# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a><span data-ttu-id="ce370-102">Nelze se přihlásit ke službě Hotmail nebo Outlook.com?</span><span class="sxs-lookup"><span data-stu-id="ce370-102">Can't sign in to Hotmail or Outlook.com?</span></span>
+# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a><span data-ttu-id="00e5b-102">Nelze se přihlásit ke službě Hotmail nebo Outlook.com?</span><span class="sxs-lookup"><span data-stu-id="00e5b-102">Can't sign in to Hotmail or Outlook.com?</span></span>
 
-<span data-ttu-id="ce370-p101">Pokud chcete zachovat aktivní účet Outlook.com, musíte se přihlásit k účtu nejméně jednou každých 365 dní. E-mailu po 365 dnech nečinnosti budou odstraněny a nelze ji obnovit.</span><span class="sxs-lookup"><span data-stu-id="ce370-p101">To keep your Outlook.com account active, you must sign in to the account at least once every 365 days. After 365 days of inactivity, your email will be deleted and cannot be recovered.</span></span>
+<span data-ttu-id="00e5b-p101">Pokud chcete zachovat aktivní účet Outlook.com, musíte se přihlásit k účtu nejméně jednou každých 365 dní. E-mailu po 365 dnech nečinnosti budou odstraněny a nelze ji obnovit.</span><span class="sxs-lookup"><span data-stu-id="00e5b-p101">To keep your Outlook.com account active, you must sign in to the account at least once every 365 days. After 365 days of inactivity, your email will be deleted and cannot be recovered.</span></span>
   
-<span data-ttu-id="ce370-105">Pokud jste přihlášeni do 365 dnů, ale stále nelze získat přístup k účtu služby Hotmail nebo Outlook.com, přečtěte si, [jak se přihlásit do nebo z Outlook.com](https://go.microsoft.com/fwlink/?linkid=2005840&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="ce370-105">If you've signed in within 365 days but still can't access your Hotmail or Outlook.com account, read [How to sign in to or out of Outlook.com](https://go.microsoft.com/fwlink/?linkid=2005840&amp;clcid=0x409).</span></span>
+<span data-ttu-id="00e5b-105">Pokud jste přihlášeni do 365 dnů, ale stále nelze získat přístup k účtu služby Hotmail nebo Outlook.com, přečtěte si, [jak se přihlásit do nebo z Outlook.com](https://go.microsoft.com/fwlink/?linkid=2005840&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="00e5b-105">If you've signed in within 365 days but still can't access your Hotmail or Outlook.com account, read [How to sign in to or out of Outlook.com](https://go.microsoft.com/fwlink/?linkid=2005840&amp;clcid=0x409).</span></span>
   
 
