@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454423"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -14,7 +6,7 @@ ms.locfileid: "29454423"
 ## <a name="week-of-january-07-2019"></a>Týden 07 leden 2019
 
 
-| Publikování na |Název tématu | Změnit. |
+| Publikování na |Název tématu | Změna |
 |------|------------|--------|
 | 7/1/2019 | [Změna hesla](/AlchemyInsights/change-your-password-in-outlook.com) | přidáno |
 | 7/1/2019 | [Změna oprávnění poštovní schránky](/AlchemyInsights/changing-permissions-on-a-mailbox) | přidáno |
@@ -218,7 +210,7 @@ ms.locfileid: "29454423"
 | 10/1/2019 | [Přidání nebo odebrání alias e-mailu pro uživatele](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | přidáno |
 | 10/1/2019 | [Přidání sedadel na předplacené předplatné](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | přidáno |
 | 10/1/2019 | [Přidání sedadel na předplacené předplatné](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | přidáno |
-| 10/1/2019 | Přidání uživatelů do Office 365 | přidáno |
+| 10/1/2019 | [Přidání uživatelů do Office 365](/AlchemyInsights/add-users-to-office-365) | přidáno |
 | 10/1/2019 | [Přidání externích uživatelů do distribuční skupiny?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | přidáno |
 | 10/1/2019 | [Přidání externích uživatelů](/AlchemyInsights/adding-external-users) | přidáno |
 | 10/1/2019 | [Službou AD FS Federation vypršení platnosti certifikátu](/AlchemyInsights/adfs-federation-certificate-expiring) | přidáno |
@@ -272,7 +264,7 @@ ms.locfileid: "29454423"
 | 10/1/2019 | [Změnit název domény v Online služby SharePoint](/AlchemyInsights/change-domain-name-in-sharepoint-online) | přidáno |
 | 10/1/2019 | [Změnit, jak často budete platit.](/AlchemyInsights/change-how-often-you-pay) | přidáno |
 | 10/1/2019 | [Změna úřadu MDM](/AlchemyInsights/change-mdm-authority) | přidáno |
-| 10/1/2019 | Change nameservers | přidáno |
+| 10/1/2019 | [Změna NameServers](/AlchemyInsights/change-nameservers) | přidáno |
 | 10/1/2019 | [Změna OneDrive pro Business kvóta úložiště](/AlchemyInsights/change-onedrive-for-business-storage-quota) | přidáno |
 | 10/1/2019 | [Změnit způsob platby](/AlchemyInsights/change-payment-method) | přidáno |
 | 10/1/2019 | [Změna oprávnění pro knihovnu nebo seznam SharePoint](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | přidáno |
@@ -515,7 +507,7 @@ ms.locfileid: "29454423"
 | 11/1/2019 | [Přidání nebo odebrání alias e-mailu pro uživatele](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | změněno |
 | 11/1/2019 | [Přidání sedadel na předplacené předplatné](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | změněno |
 | 11/1/2019 | [Přidání sedadel na předplacené předplatné](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | změněno |
-| 11/1/2019 | Přidání uživatelů do Office 365 | změněno |
+| 11/1/2019 | [Přidání uživatelů do Office 365](/AlchemyInsights/add-users-to-office-365) | změněno |
 | 11/1/2019 | [Přidání externích uživatelů do distribuční skupiny?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | změněno |
 | 11/1/2019 | [Přidání externích uživatelů](/AlchemyInsights/adding-external-users) | změněno |
 | 11/1/2019 | [Službou AD FS Federation vypršení platnosti certifikátu](/AlchemyInsights/adfs-federation-certificate-expiring) | změněno |
@@ -569,7 +561,7 @@ ms.locfileid: "29454423"
 | 11/1/2019 | [Změnit název domény v Online služby SharePoint](/AlchemyInsights/change-domain-name-in-sharepoint-online) | změněno |
 | 11/1/2019 | [Změnit, jak často budete platit.](/AlchemyInsights/change-how-often-you-pay) | změněno |
 | 11/1/2019 | [Změna úřadu MDM](/AlchemyInsights/change-mdm-authority) | změněno |
-| 11/1/2019 | Change nameservers | změněno |
+| 11/1/2019 | [Změna NameServers](/AlchemyInsights/change-nameservers) | změněno |
 | 11/1/2019 | [Změna OneDrive pro Business kvóta úložiště](/AlchemyInsights/change-onedrive-for-business-storage-quota) | změněno |
 | 11/1/2019 | [Změnit způsob platby](/AlchemyInsights/change-payment-method) | změněno |
 | 11/1/2019 | [Změna oprávnění pro knihovnu nebo seznam SharePoint](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | změněno |
@@ -637,9 +629,25 @@ ms.locfileid: "29454423"
 ## <a name="week-of-january-14-2019"></a>Týden od 14. ledna 2019
 
 
-| Publikování na |Název tématu | Změnit. |
+| Publikování na |Název tématu | Změna |
 |------|------------|--------|
 | 14/1/2019 | Zástupný symbol Alchymie | odebrat |
 | 14/1/2019 | Přidání domény Alchymie | odebrat |
 | 14/1/2019 | [Přehled domácí Alchymie](/AlchemyInsights/index) | změněno |
 | 17/1/2019 | [stejný jako název souboru je nejlepší [pravidlo #-popis]](/AlchemyInsights/1-alchemy-insight-template) | přidáno |
+
+
+## <a name="week-of-january-21-2019"></a>Týden 21. ledna 2019
+
+
+| Publikování na |Název tématu | Změna |
+|------|------------|--------|
+| 22/1/2019 | [1047 antiSpam 550 5.7.708 služba není k dispozici. Přístup odepřen přenos nebyla přijata z této adresy IP](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | změněno |
+| 22/1/2019 | [1049 antiSpam 4.5.3 příliš mnoho příjemců (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | změněno |
+| 22/1/2019 | [1050 antispam 4.7.500 Server zaneprázdněn. Opakujte akci znovu později z [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | změněno |
+| 22/1/2019 | [Antispam. 1051 4.7.500, který byl odepřen přístup, opakujte akci později](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | změněno |
+| 22/1/2019 | [Předávání e-mailu prostřednictvím služeb Office 365](/AlchemyInsights/relay-email-through-office-365) | změněno |
+| 24/1/2019 | [Vytvoření ovládacího prvku ze skupiny](/AlchemyInsights/control-creation-of-groups) | změněno |
+| 24/1/2019 | [Problémy aplikace Outlook s Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | přidáno |
+| 24/1/2019 | [Obnovení skupiny Office 365 pomocí centra pro správu Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | Přejmenovat |
+| 24/1/2019 | [Řešení potíží s Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | Přejmenovat |
