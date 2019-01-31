@@ -1,28 +1,31 @@
 ---
-title: Možnosti platby.
+title: Možnosti platby
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: 2130f3fffccdc71e2777991d34ed39402142c23c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 810ee8ac7d7fa29fd33f05bf365e062e3d66a28f
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29463367"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29658360"
 ---
- Možnosti platby.
+# <a name="payment-options"></a>Možnosti platby
+
+ **Možnosti platby**
   
 Kreditní karty, bankovního účtu (přímý debet) a fakturace (zaplatit šekem nebo elektronický převod peněžních prostředků)
   
  **Zaplatit pomocí platební karty a bankovního účtu**
   
-Při platbě platební karty nebo bankovního účtu, můžete budete automaticky účtovat za den po datu faktury až do konce platnosti předplatného předplatné. Můžete [Aktualizovat platební karty nebo bankovního účtu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) , kdykoli potřebujete. Také můžete [přijmout kopii vašeho výpis vyúčtování v e-mailu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
+Při platbě platební karty nebo bankovního účtu, můžete budete automaticky účtovat za den po datu faktury až do konce platnosti předplatného předplatné. Můžete [Aktualizovat platební karty nebo bankovního účtu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) , kdykoli potřebujete. Také můžete [přijmout kopii vašeho výpis vyúčtování v e-mailu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
   
 Pokud vaše kreditní karta byla odmítnuta nebo po splatnosti zůstatek můžete zvolit možnost **Zaplatit nyní** na **fakturační** \> stránce [předplatné](https://portal.office.com/adminportal/home#/subscriptions) . 
   
@@ -30,14 +33,14 @@ Pokud vaše kreditní karta byla odmítnuta nebo po splatnosti zůstatek můžet
   
 Pokud vaše předplatné stojí nad určitou částku peněz (Tato částka se může lišit podle umístění služby), budete mít možnost zaplatit faktury pomocí zaškrtnutí nebo EFT. Kontroly úvěru může být požadováno pro větší platby faktury. Pokud je požadována kontrola úvěru, obdržíte při nákupu předplatného. A pokud souhlasíte, že budete kontaktovat, dostanete e-mailovou zprávu, která obsahuje další informace o použití pro schválení úvěru. Kontroly úvěru proběhne obvykle do dvou pracovních dnů.
   
-Pokud na faktuře za předplatné, dostanete e-mail s upozorněním, že váš výpis vyúčtování je připraven k zobrazení. Tento e-mail neobsahuje kopii vašeho výpis vyúčtování. Však můžete také k [přijetí kopie vašeho výpis vyúčtování v e-mailu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Váš výpis vyúčtování obsahuje podrobnosti o možnostech platby. Pokud zadáte číslo nákupní objednávky (PO), je-li zakoupit předplatné, číslo se zobrazí na výpisu vyúčtování. Informace o přístupu k účetních výkazů naleznete v tématu [zobrazení kusovníku nebo faktury](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
+Pokud na faktuře za předplatné, dostanete e-mail s upozorněním, že váš výpis vyúčtování je připraven k zobrazení. Tento e-mail neobsahuje kopii vašeho výpis vyúčtování. Však můžete také k [přijetí kopie vašeho výpis vyúčtování v e-mailu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Váš výpis vyúčtování obsahuje podrobnosti o možnostech platby. Pokud zadáte číslo nákupní objednávky (PO), je-li zakoupit předplatné, číslo se zobrazí na výpisu vyúčtování. Informace o přístupu k účetních výkazů naleznete v tématu [zobrazení kusovníku nebo faktury](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
   
  **Změna způsobu platby**
   
-Pokud chcete změnit, jak zaplatit za aktuální předplatné, postupujte podle pokynů [zde](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
+Pokud chcete změnit, jak zaplatit za aktuální předplatné, postupujte podle pokynů [zde](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
   
  **Další informace o**
   
-[Platba předplatného Office 365 pro firmy](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
+[Mzda za vaše Office 365 předplatného Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
 

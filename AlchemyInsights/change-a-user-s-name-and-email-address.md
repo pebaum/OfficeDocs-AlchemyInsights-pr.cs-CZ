@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
-ms.openlocfilehash: 79d7b6bb76398dbc41b32af0bbb75edea652c8c2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5be4f432d21ab79c7a92d49a44889468d3a801c7
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29462623"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662032"
 ---
 # <a name="change-a-users-name-and-email-address"></a>Změnit uživatelské jméno a e-mailovou adresu
 
 Změna jména a e-mailová adresa uživatele je snadné! Přejděte na [Aktivní uživatelé](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/users) a vyberte uživatele, upravit informace o jejich. V tomto článku můžete použít také pro podrobné pokyny: 
   
-Změna uživatelského jména a e-mailové adresy v Office 365
+[Změna uživatelského jména a e-mailové adresy v Office 365](https://support.office.com/article/https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297?wt.mc_id=change_email_AI.aspx)
   
  **Poznámka**: Pokud změníte hlavní e-mailovou adresu uživatele, jejich původní e-mailovou adresu stále platí pro přijímání e-mailů (to se stane automaticky). Také pokud vaše organizace je ve stavu hybridní, všechny změny e-mailu a uživatelské jméno třeba provést v místní službě Active Directory a pak se synchronizují s cloudem. 
   

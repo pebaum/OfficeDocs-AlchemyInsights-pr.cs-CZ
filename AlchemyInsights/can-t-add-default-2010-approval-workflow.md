@@ -2,43 +2,21 @@
 title: Nelze přidat výchozí pracovní postup schválení 2010
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/28/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: 758b0339b842478f9609eb716b5b4ddab6579c80
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b57f44c85fcd5d1d227b64baa99a9790c2112c51
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29462517"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646128"
 ---
 # <a name="cant-add-default-2010-approval-workflow"></a>Nelze přidat výchozí pracovní postup schválení 2010
 
-V kolekci webů Microsoft SharePoint nelze přidat do seznamu nebo knihovny globálně opakovaně použitelný pracovní postup (například "schválení – SharePoint 2010").
+V kolekci webů Microsoft SharePoint nelze přidat do seznamu nebo knihovny globálně opakovaně použitelný pracovní postup (například "schválení – SharePoint 2010"). Pracovní postup schválení může chybět. Chcete-li vyřešit tento problém naleznete [globálně opakovaně použitelný pracovní postup do knihovny nebo seznamu SharePoint nelze přidat](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library). 
   
-Chcete-li tento problém vyřešit, postupujte takto: 
-  
-1. Otevřete kořenový web kolekce webů v aplikaci SharePoint Designer 2013.
-  
-2. Ve skupinovém rámečku **Objekty sítě**vyberte **pracovní postupy**. 
-  
-3. V části **Nový** pás karet **pracovních postupů** vyberte **Opakovaně použitelného pracovního postupu**. 
-  
-4. Ve formuláři **Vytvořit opakovaně použitelného pracovního postupu** zadejte název * **Repair2010***. Pro **Typ platformy** **Pracovního postupu služby SharePoint 2010**vyberte a potom klepněte na tlačítko **OK**. 
-  
-5. V části **ukládání** **pracovního postupu** pásu karet vyberte možnost **Publikovat**. 
-  
-6. V části **Správa** **pracovního postupu** pásu karet vyberte **Publikování globálně**. V dialogovém okně potvrzení klepněte na tlačítko **OK**. 
-  
-7. Ve webovém prohlížeči vyhledejte kořenový web kolekce webů a potom přístup k **Nastavení webu** \> **Funkce kolekce webů**. Potom přepnout funkce **pracovních postupů** : 
-  
-· Je-li funkce *aktivní* , klepněte na tlačítko **dezaktivovat** a potom klepněte na tlačítko **Aktivovat**. 
-  
-· Je-li funkce *deaktivovány* , klepněte na tlačítko **Aktivovat**. 
-  
-Další informace naleznete v následujícím [článku](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
-  
-

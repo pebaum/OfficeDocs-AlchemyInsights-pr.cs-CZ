@@ -6,23 +6,25 @@ manager: mnirkhe
 ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: eab000e0a850c522ede5f51ae46ba11b87ba4732
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0d50ac1aed1bd8168daa45e33b6e0bc37e95d1b7
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29462603"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661966"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP nefunguje podle očekávání
+
 
 Došlo k potížím s **Daty ztráty prevence (DLP)** ve službách Office 365 nepracuje podle očekávání? Pokud ano, ujistěte se, že vaše **zásady DLP** je nastaven správně a že data obsahují jaké **zásady DLP** hledá po jeho vyhodnocení. 
   
  **Nastavení DLP:**
   
-DLP zásady umožňuje identifikovat a chránit citlivé informace ve vaší organizaci. Chcete-li nastavit zásady DLP, informace [zde](https://docs.microsoft.com/en-us/office365/securitycompliance/prevent-data-loss#set-up-dlp).
+DLP zásady umožňuje identifikovat a chránit citlivé informace ve vaší organizaci. Chcete-li nastavit zásady DLP, informace [zde](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
   
  **Zásady DLP hledat:**
   
@@ -30,16 +32,16 @@ Při použití **typů předdefinovaných citlivé informace** v Centru zabezpe�
   
 - **Citlivé informace předdefinované typy:**
     
-    Informace o předdefinované typy citlivé a co DLP zásady hledá při zjištění citlivý typ, viz: [typy citlivé informace hledat](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+    Informace o předdefinované typy citlivé a co DLP zásady hledá při zjištění citlivý typ, viz: [typy citlivé informace hledat](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
     
 - **Typy vlastních důvěrných informací:**
     
-    Pokud se pokoušíte vytvořit typy vlastní důvěrné informace, použijte v následujícím článku informace o tom, jak vytvořit vlastní typ citlivé: [vytvořit typ vlastní důvěrné informace](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type).
+    Pokud se pokoušíte vytvořit typy vlastní důvěrné informace, použijte v následujícím článku informace o tom, jak vytvořit vlastní typ citlivé: [vytvořit typ vlastní důvěrné informace](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
     
- **Sestavy**
+ **Sestavy:**
   
-- Získat poznatky o citlivá data s [zprávy DLP.](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
+- Získat poznatky o citlivá data s [zprávy DLP.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
     
-- Zobrazit konkrétní podrobnosti o [Incidentu sestavy](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies#incident-reports)události.
+- Zobrazit konkrétní podrobnosti o [Incidentu sestavy](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports)události.
     
 

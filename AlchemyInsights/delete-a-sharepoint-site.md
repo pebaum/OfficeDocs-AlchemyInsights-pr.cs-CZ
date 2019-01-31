@@ -2,51 +2,30 @@
 title: Odstranění webu služby SharePoint
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29463371"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660009"
 ---
 # <a name="delete-a-sharepoint-site"></a>Odstranění webu služby SharePoint
-
- **Odstraňte weby, které patří do skupiny Office 365:**
+ **Odstranění stránky z nové Centrum správy služby SharePoint**
   
-Když uživatelé vytvořit nový týmový web SharePoint doma (nebo vytvořit nový web týmu z nového náhledu SharePoint admin center), je automaticky vytvořena odpovídající skupiny Office 365. Office 365 připojení skupiny týmové weby jsou vytvářeny také při vytváření skupiny služby Office 365 nebo týmu v Teams společnosti Microsoft. Chcete-li odstranit web služby SharePoint, který náleží do skupiny Office 365, je nutné odstranit vlastní skupinu služeb Office 365. 
+Chcete-li odstranit aktivní web, přejděte na stránku aktuální Správce služby SharePoint, klepněte na tlačítko "Zkuste ji nyní" v pravém horním. Vyberte **aktivní servery**, vyberte web a pak vyberte **Odstranit**. K [zobrazení a obnovení odstraněné stránky v nové Centrum správy služby SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)vyberte **Odstranit weby**. Další informace naleznete v tématu [Správa webů v centru nového správce služby SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
-1. Přejděte na [stránku skupiny z středisku pro správce služeb Office 365](https://portal.office.com/adminportal/home#/groups).
+**Důležité:** Pokud je součástí zásad uchovávání informací, nelze ji odstranit, dokud je odebrán z webu [zabezpečení &amp; Admin centra kompatibility](https://protection.office.com/?rfr=AdminCenter#/homepage). Další informace naleznete v tématu [Přehled zásad uchovávání informací](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
   
-2. Zaškrtněte políčko vedle skupiny.
-  
-3. Vyberte možnost **Odstranit**. 
-  
-Poznámka: Pokud odstraníte skupinu, může být zpoždění před odstraněním webu služby SharePoint.
-  
- **Odstraňte komunikaci nebo klasické servery:**
-  
-1. Přejděte na web.
-  
-2. Klepněte ** nastavení ** (ikona zařízení kolo) v pravé horní části. 
-  
-3. Klepněte na tlačítko **Nastavení webu**. Ve skupinovém rámečku **Informace o webu** nebo **Akce webu**klepněte na tlačítko **Odstranit tento web**a potom klepněte na příkaz **Odstranit**. 
-  
- **Odstranění kolekce webů služby SharePoint:**
-  
-Chcete-li odstranit kolekci webů classic:
-  
-1. Ve středisku klasického Správce služby SharePoint na stránce kolekce webů, zaškrtněte **políčko** u kolekce webů. 
-  
-2. Na kartě kolekce webů vyberte **Odstranit.**
-  
- **Odstranit web náhodou?**
-  
-V tématu [Obnovení odstraněných webů](https://go.microsoft.com/fwlink/?linkid=867660).
+Tipy:
+- Globální admins a admins služby SharePoint lze nyní odstranit weby, které patří do **Skupiny Office 365**. Tímto odstraníte skupinu a všechny jeho prostředky, včetně poštovních schránek aplikace Outlook a kalendář a všechny kanály, týmy. Další informace naleznete v tématu [Odstranění webu služby SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Je možné obnovit odstraněné stránky 93 dní. Všimněte si, že odstraněné skupiny musí být obnovena do 30 dnů. Další informace naleznete v tématu [zobrazení a obnovení odstraněné stránky](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- K úplnému odebrání serveru pomocí prostředí Powershell, naleznete v příkladu rutiny [SPSite odebrat](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) . 
   
 

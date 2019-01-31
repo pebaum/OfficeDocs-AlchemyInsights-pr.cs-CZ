@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
-ms.openlocfilehash: eaad6c0d62011957a870943e8868787d7926376c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d2dfb2b59fe78671980931d50a00a98af774a3df
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29463099"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660988"
 ---
 # <a name="trying-to-remove-your-domain"></a>Došlo k pokusu o odebrání domény?
 
-Odebrání domény ze služeb Office 365, postupujte podle kroků v tomto článku: [Odebrání domény ze služeb Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
+Odebrání domény ze služeb Office 365, postupujte podle kroků v tomto článku: [Odebrání domény ze služeb Office 365](https://support.office.com/article/https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
   
 Je třeba aktualizovat všechny uživatele nebo skupiny, které jsou přiřazeny k tento název domény před odebráním domény.
   

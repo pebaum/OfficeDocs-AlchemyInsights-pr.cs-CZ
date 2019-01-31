@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: b603f5347313b914d2b2a79ce585ca535d164e8d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e1b3df0aef535bb79531c12d80032ed85f084fb5
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29462462"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657389"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Řešení problémů s možností zápisu Microsoft Intune
 
 Zobrazit zdroje uvedené níže nyní vyřešit váš problém. Pokud nejsou tyto prostředky pomoci, obraťte se na podporu klepnutím [zde](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) a vybrat "vytvořit žádost o podporu." 
   
-- [Recenze Intune TechNet k nalezení odpovědi a řešení běžných problémů](https://social.technet.microsoft.com/Forums/en-US/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Recenze Intune TechNet k nalezení odpovědi a řešení běžných problémů](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
     
-- Pomocí [Poradce při potížích s portál Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnostikovat a vyřešit běžné chyby zápisu. Přečtěte [dokument](https://docs.microsoft.com/en-us/intune/help-desk-operators) pro další podrobnosti. 
+- Pomocí [Poradce při potížích s portál Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnostikovat a vyřešit běžné chyby zápisu. Přečtěte [dokument](https://docs.microsoft.com/intune/help-desk-operators) pro další podrobnosti. 
     
-- Přečtěte [dokument](https://docs.microsoft.com/en-us/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) seznam běžné chyby, které brání každému zápisu a usnesení. 
+- Přečtěte [dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) seznam běžné chyby, které brání každému zápisu a usnesení. 
     
-- [Další informace o možnostech zápisu v Microsoft Intune](https://docs.microsoft.com/en-us/intune/enrollment-options).
+- [Další informace o možnostech zápisu v Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
     
 
