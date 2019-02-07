@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3d8a7342-327e-43c1-b9a2-2b2b78651cae
-ms.openlocfilehash: 15f6fc741adde2208093b2ff45e5594f5beabbe3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 279afd104d442bfd99a56ea1d17168a9b2a5cfea
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29462695"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759633"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="ca17d-102">Události služby v průběhu</span><span class="sxs-lookup"><span data-stu-id="ca17d-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="ea0d0-102">Události služby v průběhu</span><span class="sxs-lookup"><span data-stu-id="ea0d0-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="ca17d-p101">Je pravděpodobně ovlivněny události služby nebo poradní, právě kdy se vyšetřuje křivka. Nejnovější stav zjistíte tak, že přejdete na stránku [Stav služby](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="ca17d-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) page.</span></span> 
+<span data-ttu-id="ea0d0-p101">Je pravděpodobně ovlivněny události služby nebo poradní, právě kdy se vyšetřuje křivka. Nejnovější stav zjistíte tak, že přejdete na stránku [Stav služby](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="ea0d0-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span> 
   
-<span data-ttu-id="ca17d-105">Komfortu můžete najít souhrn tohoto incidentu níže:</span><span class="sxs-lookup"><span data-stu-id="ca17d-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="ea0d0-105">Komfortu můžete najít souhrn tohoto incidentu níže:</span><span class="sxs-lookup"><span data-stu-id="ea0d0-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="ca17d-106">**Číslo případu:** [{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="ca17d-106">**Incident number:**[{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span></span>
+> <span data-ttu-id="ea0d0-106">**Číslo případu:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="ea0d0-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="ca17d-107">Vliv Popis: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="ca17d-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="ea0d0-107">Vliv Popis: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="ea0d0-107">Impact description: {ImpactDescription}</span></span>
     
 
