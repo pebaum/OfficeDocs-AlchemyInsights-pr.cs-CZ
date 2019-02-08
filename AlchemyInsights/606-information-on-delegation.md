@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29463355"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770646"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a>O delegátů v aplikaci Outlook a Outlook na webu
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Odstraňování potíží s delegováním v aplikacích Outlook a Outlook na webu
 
-Další informace naleznete v následujících tématech:
-  
-- **Outlook**: [umožnit někomu jinému spravovat pošta a kalendář](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)
-    
-- **Aplikace Outlook na webu**: [delegování kalendáře v aplikaci Outlook na webu pro firmu](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)
-    
+**Poradce při potížích s nástrojem SaRA:**
 
+1. Stáhněte a nainstalujte nástroj SaRA zde
+1. "Mám problémy s kalendáře" a poté vyberte aplikaci Outlook
+1. Řekněte Ano pro ohrožené počítače.
+1. Přidat e-mailovou adresu příslušného uživatele
+1. Vyberte "Došlo k potížím s delegovat oprávnění"
+1. Do dalšího příkazového řádku Pokud osoby poskytující oprávnění, zadejte e-mailovou adresu svého delegáta. Pokud jste obdrželi oprávnění a jste delegát, zadejte e-mailovou adresu osoby, která byla přidělena oprávnění.
+1. Na další nabídky vyberte možnost, která nejlépe odpovídá vaší situaci. 
+1. Na další nabídky vyberte úroveň oprávnění.
+1. V této fázi SaRA nástroj provede automatické kontroly a poskytne možná řešení nebo poskytne také diagnostický protokol, který lze použít pro další řešení potíží.
+1. Protokoly můžete najít ve složce SaRA výsledky na C:\Users\Username\AppData\Local\SaraResults
