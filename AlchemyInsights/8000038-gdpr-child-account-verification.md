@@ -7,19 +7,19 @@ ms.date: 5/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
-ms.openlocfilehash: 0e38f360e56d750c917e61a56bb8a7e8587c00fc
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 993797d951dddea20d7df24ad40b5834a537852a
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29463203"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29919937"
 ---
-# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a><span data-ttu-id="fe87a-102">Datum narození: zobrazí ve vašem účtu Microsoft je nesprávný</span><span class="sxs-lookup"><span data-stu-id="fe87a-102">Date of birth displayed in your Microsoft account is incorrect</span></span>
+# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a><span data-ttu-id="b813c-102">Datum narození: zobrazí ve vašem účtu Microsoft je nesprávný</span><span class="sxs-lookup"><span data-stu-id="b813c-102">Date of birth displayed in your Microsoft account is incorrect</span></span>
 
-<span data-ttu-id="fe87a-p101">Společnost Microsoft má účet zabezpečení velmi vážně. Můžete mít nedávno byly vyzváni poskytnout rodičovský souhlas pro účet Microsoft dítěte. Pokud potřebujete pomoc, poskytování souhlasu rodičů nebo aktualizace datum narození na účtu Microsoft, naleznete v tématu [ověření věku souhlasu rodičů](https://go.microsoft.com/fwlink/p/?linkid=874364).</span><span class="sxs-lookup"><span data-stu-id="fe87a-p101">Microsoft takes account security very seriously. You may have recently been prompted to provide parental consent for a child's Microsoft account. If you need help providing parental consent or updating the date of birth on a Microsoft account, see [Age verification for parental consent](https://go.microsoft.com/fwlink/p/?linkid=874364).</span></span>
+<span data-ttu-id="b813c-p101">Společnost Microsoft má účet zabezpečení velmi vážně. Můžete mít nedávno byly vyzváni poskytnout rodičovský souhlas pro účet Microsoft dítěte. Pokud potřebujete pomoc, poskytování souhlasu rodičů nebo aktualizace datum narození na účtu Microsoft, naleznete v tématu [ověření věku souhlasu rodičů](https://go.microsoft.com/fwlink/p/?linkid=874364).</span><span class="sxs-lookup"><span data-stu-id="b813c-p101">Microsoft takes account security very seriously. You may have recently been prompted to provide parental consent for a child's Microsoft account. If you need help providing parental consent or updating the date of birth on a Microsoft account, see [Age verification for parental consent](https://go.microsoft.com/fwlink/p/?linkid=874364).</span></span>
   
-<span data-ttu-id="fe87a-106">Další informace o [podřízené účty Microsoft a souhlasu rodičů](https://go.microsoft.com/fwlink/p/?linkid=874365).</span><span class="sxs-lookup"><span data-stu-id="fe87a-106">Learn more about [Parental consent and Microsoft child accounts](https://go.microsoft.com/fwlink/p/?linkid=874365).</span></span>
+<span data-ttu-id="b813c-106">Další informace o [podřízené účty Microsoft a souhlasu rodičů](https://go.microsoft.com/fwlink/p/?linkid=874365).</span><span class="sxs-lookup"><span data-stu-id="b813c-106">Learn more about [Parental consent and Microsoft child accounts](https://go.microsoft.com/fwlink/p/?linkid=874365).</span></span>
   
 
