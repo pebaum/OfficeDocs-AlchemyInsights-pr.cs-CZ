@@ -838,3 +838,57 @@
 | 30/1/2019 | [Získání účtu 123 zakázáno Chyba v aplikaci Outlook Web Access?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | změněno |
 | 1/2/2019 | [stejný jako název souboru je nejlepší [pravidlo #-popis]](/AlchemyInsights/1-alchemy-insight-template) | změněno |
 | 1/2/2019 | [Změna oprávnění poštovní schránky](/AlchemyInsights/changing-permissions-on-a-mailbox) | změněno |
+
+
+## <a name="week-of-february-04-2019"></a>Týden od 04. února 2019
+
+
+| Publikování na |Název tématu | Změna |
+|------|------------|--------|
+| 2, 4/2019 | [Přidání uživatelů do Office 365](/AlchemyInsights/add-users-to-office-365) | změněno |
+| 2, 6/2019 | [Ponechání zaměstnance](/AlchemyInsights/employee-leaving) | změněno |
+| 2, 6/2019 | [Převzetí správy](/AlchemyInsights/admin-takeover) | změněno |
+| 2, 6/2019 | [127, získávání TenantAccessBlockedException Chyba při přístupu k e-mailu?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | změněno |
+| 2, 6/2019 | [959 změnit zobrazovaný název](/AlchemyInsights/959-change-display-name) | změněno |
+| 2, 6/2019 | [Přidání nebo odebrání alias e-mailu pro uživatele](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | změněno |
+| 2, 6/2019 | Přidání sedadel na předplacené předplatné | odebrat |
+| 2, 6/2019 | [Přidání uživatelů do Office 365](/AlchemyInsights/add-users-to-office-365) | změněno |
+| 2, 6/2019 | [Přidání externích uživatelů do distribuční skupiny?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | změněno |
+| 2, 6/2019 | Admin - globální Office 365 nastavení a Správa | odebrat |
+| 2, 6/2019 | Admin - spravovat Moje uživatelů, skupin a prostředků | odebrat |
+| 2, 6/2019 | Admin - nastavení domény a nastavení služby DNS | odebrat |
+| 2, 6/2019 | Admin - přihlášení a heslo problémy | odebrat |
+| 2, 6/2019 | [Zrušit předplatné služeb Office 365](/AlchemyInsights/cancel-office-365-subscription) | změněno |
+| 2, 6/2019 | [Změnit uživatelské jméno a e-mailovou adresu](/AlchemyInsights/change-a-user-s-name-and-email-address) | změněno |
+| 2, 6/2019 | Obchod - spravovat účty, platby, předplatné a licence | odebrat |
+| 2, 6/2019 | [Při přístupu k e-mailu se zobrazuje chybová TenantAccessBlockedException?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | změněno |
+| 2, 6/2019 | [S doručováním e-mailů?](/AlchemyInsights/having-email-delivery-issues-0) | změněno |
+| 2, 6/2019 | [S doručováním e-mailů?](/AlchemyInsights/having-email-delivery-issues) | změněno |
+| 2, 6/2019 | [Máte problémy získání Outlook připojit?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | změněno |
+| 2, 6/2019 | [Máte problémy získání Outlook připojit?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | změněno |
+| 2, 6/2019 | Intune - stažení, instalaci a použití Intune | odebrat |
+| 2, 6/2019 | [Problém s Skype pro firmy?](/AlchemyInsights/issue-with-skype-for-business) | změněno |
+| 2, 6/2019 | ODSP | odebrat |
+| 2, 6/2019 | Klienta sady Office - Excel | odebrat |
+| 2, 6/2019 | [Obnovení odstraněných uživatelské](/AlchemyInsights/restore-deleted-user) | změněno |
+| 2, 6/2019 | [Události služby v průběhu](/AlchemyInsights/service-incident-in-progress-0) | změněno |
+| 2, 6/2019 | [Události služby v průběhu](/AlchemyInsights/service-incident-in-progress-1) | změněno |
+| 2, 6/2019 | [Události služby v průběhu](/AlchemyInsights/service-incident-in-progress-2) | změněno |
+| 2, 6/2019 | [Události služby v průběhu](/AlchemyInsights/service-incident-in-progress-3) | změněno |
+| 2, 6/2019 | [Události služby v průběhu](/AlchemyInsights/service-incident-in-progress-4) | změněno |
+| 2, 6/2019 | [Události služby v průběhu](/AlchemyInsights/service-incident-in-progress-5) | změněno |
+| 2, 6/2019 | [Události služby v průběhu](/AlchemyInsights/service-incident-in-progress) | změněno |
+| 2, 6/2019 | [Nastavení projektu](/AlchemyInsights/setting-up-project) | změněno |
+| 2, 6/2019 | Funkce nastavení dodržování předpisů, například archiv, uchovávání, soudní spory, služba eDiscovery a MDM | odebrat |
+| 2, 6/2019 | Pomocí Offline instalační program sady Office | odebrat |
+| 2, 6/2019 | Yammer – instalace a použití služby Yammer | odebrat |
+| 7/2/2019 | [Selhání aplikace Excel?](/AlchemyInsights/excel-crashing) | změněno |
+| 7/2/2019 | [Jak přidat nebo upravit VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | změněno |
+| 7/2/2019 | [Zdarma Minecraft Edition s Office 365 pro vzdělávání](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | změněno |
+| 7/2/2019 | [606 informace o delegování](/AlchemyInsights/606-information-on-delegation) | změněno |
+| 7/2/2019 | [Skupina není zobrazen v seznamu skupin](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | změněno |
+| 8/2/2019 | [Tipy zásady DLP nefunguje](/AlchemyInsights/dlp-policy-tips-not-working) | změněno |
+| 8/2/2019 | [DLP pravidlo pro US / UK číslo pasu nefunguje](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | změněno |
+| 8/2/2019 | [Zdarma Office 365 pro vzdělávání](/AlchemyInsights/office-365-education-for-free) | změněno |
+| 8/2/2019 | [Povinné licence pro Microsoft ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | změněno |
+| 8/2/2019 | [Zásady uchovávání informací v Exchange Admin Center nefunguje](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | změněno |
