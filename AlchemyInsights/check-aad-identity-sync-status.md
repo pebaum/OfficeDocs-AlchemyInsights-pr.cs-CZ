@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: c4b0dfdf1b5cc52bd08dc6f7273efb67f6bec117
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b2788e98cf7c94d8dd4c1543145f30a442072f1e
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913386"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209694"
 ---
-# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="67d7d-102">Zkontrolujte stav synchronizace zvukové poplašné zařízení Identity</span><span class="sxs-lookup"><span data-stu-id="67d7d-102">Check AAD Identity Sync status</span></span>
+# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="8cf9a-102">Zkontrolujte stav synchronizace zvukové poplašné zařízení Identity</span><span class="sxs-lookup"><span data-stu-id="8cf9a-102">Check AAD Identity Sync status</span></span>
 
-<span data-ttu-id="67d7d-103">Kontrola stavu synchronizace je snadné:</span><span class="sxs-lookup"><span data-stu-id="67d7d-103">Checking sync status is easy:</span></span> 
+<span data-ttu-id="8cf9a-103">Kontrola stavu synchronizace je snadné:</span><span class="sxs-lookup"><span data-stu-id="8cf9a-103">Checking sync status is easy:</span></span> 
   
-- <span data-ttu-id="67d7d-104">Přihlaste se na stránku Správce služeb Office 365 a zvolte \*\* DirSync stav \*\* na domovské stránce.</span><span class="sxs-lookup"><span data-stu-id="67d7d-104">Sign in to the Office 365 admin center and choose \*\* DirSync Status \*\* on the home page.</span></span> 
+- <span data-ttu-id="8cf9a-104">Přihlášení na stránku Správce Microsoft 365 a zvolte \*\* DirSync stav \*\* na domovské stránce.</span><span class="sxs-lookup"><span data-stu-id="8cf9a-104">Sign in to the Microsoft 365 admin center and choose \*\* DirSync Status \*\* on the home page.</span></span> 
     
-- <span data-ttu-id="67d7d-105">Alternativně můžete přejít na uživatele \> aktivních uživatelů a na stránce aktivní uživatelé zvolit více \> synchronizace adresářů.</span><span class="sxs-lookup"><span data-stu-id="67d7d-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
+- <span data-ttu-id="8cf9a-105">Alternativně můžete přejít na uživatele \> aktivních uživatelů a na stránce aktivní uživatelé zvolit více \> synchronizace adresářů.</span><span class="sxs-lookup"><span data-stu-id="8cf9a-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
     
-- <span data-ttu-id="67d7d-106">V podokně adresáře synchronizace zvolte Přejít na řízení DirSync.</span><span class="sxs-lookup"><span data-stu-id="67d7d-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span> 
+- <span data-ttu-id="8cf9a-106">V podokně adresáře synchronizace zvolte Přejít na řízení DirSync.</span><span class="sxs-lookup"><span data-stu-id="8cf9a-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span> 
     
-<span data-ttu-id="67d7d-p101">Pokud dojde k problému s vaší synchronizace adresářů, chyby jsou uvedeny na této stránce. Další informace o různých chyb, ke kterým může dojít v tématu [Identifikace chyby synchronizace adresářů ve službách Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span><span class="sxs-lookup"><span data-stu-id="67d7d-p101">If there is a problem with your directory synchronization, the errors are listed on this page. For more information about different errors you might encounter, see [Identify directory synchronization errors in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span></span>
+<span data-ttu-id="8cf9a-p101">Pokud dojde k problému s vaší synchronizace adresářů, chyby jsou uvedeny na této stránce. Další informace o různých chyb, ke kterým může dojít v tématu [Identifikace chyby synchronizace adresářů ve službách Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span><span class="sxs-lookup"><span data-stu-id="8cf9a-p101">If there is a problem with your directory synchronization, the errors are listed on this page. For more information about different errors you might encounter, see [Identify directory synchronization errors in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span></span>
   
 
