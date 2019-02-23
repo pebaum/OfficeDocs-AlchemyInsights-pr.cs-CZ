@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 7788acd13218b6e15a7accb7e87ca14e9c90b691
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901037"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208434"
 ---
 # <a name="change-a-users-email-address"></a>Změna e-mailové adresy uživatele
 
 Změna e-mailová adresa uživatele je snadné! Postupujte podle následujících kroků:
   
-1. Ve středisku pro správce služeb Office 365, přejděte na stránku [Uživatelé](https://go.microsoft.com/fwlink/p/?linkid=834822) nebo **Uživatelé** zvolte \> **Aktivních uživatelů**.
+1. Ve středisku pro správce služeb Microsoft 365 přejděte na stránku [uživatele](https://go.microsoft.com/fwlink/p/?linkid=834822) nebo vyberte **uživatele** \> **Aktivních uživatelů**.
     
 2. Vyberte uživatele.
     

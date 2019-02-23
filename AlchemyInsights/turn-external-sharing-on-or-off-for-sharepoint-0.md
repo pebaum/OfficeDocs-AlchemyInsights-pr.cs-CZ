@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 91bbdb6b3dbdc73e61405dc27cbced188198ada9
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1e1e80839b167fc7c99ad94daca10c9affa427a1
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938189"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209766"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Povolit externí sdílení pro službu SharePoint.
 
-1. Ve středisku pro správce služeb Office 365, přejděte na [služby &amp; doplňky stránku](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)a klepněte na tlačítko **servery**.
+1. Přejděte ve středisku pro správce služeb Microsoft 365 [služby &amp; doplňky stránku](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)a klepněte na tlačítko **servery**.
     
 2. Vypnutí a zapnutí nastavení nebo vyberte možnost sdílení, pokud je zapnutý.
     

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906401"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207750"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Jak zvětšit úložiště v OneDrive pro firmy
 
@@ -27,7 +27,7 @@ Toto nastavení místa skladování platí pro všechny uživatele, kterým jste
   
 Chcete-li zvětšit v OneDrive pro firmy, zvolte plán služeb Office 365, který zahrnuje **OneDrive pro Business plán 2** nebo **Office 365 Enterprise E3**. 
   
-Chcete-li změnit plány ve středisku pro správce služeb Office 365 přejděte na **fakturační** \> **Odběry**a pak zvolte **Přepnout plány.**
+Chcete-li změnit plány ve středisku pro správce služeb Microsoft 365 přejděte na **fakturační** \> **Odběry**a pak zvolte **Přepnout plány.**
   
 Další informace o přepínání plány a OneDrive pro obchodní úložiště naleznete v tématu [Přepnutí do různých služeb Office 365 pro obchodní plán](https://go.microsoft.com/fwlink/?LinkId=2031117) a [OneDrive pro obchodní popis služby](https://go.microsoft.com/fwlink/?LinkId-2031122).
   

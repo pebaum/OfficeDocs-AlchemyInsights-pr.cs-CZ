@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: f1ecdafdf21fa3cd026108738432c942d2c1ad45
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6fc7e4211691e0f29b9a65db2d33540804ea7b4a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941105"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209838"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Uživatelská oprávnění služby SharePoint a OneDrive
 
 Pokud uživatel v organizaci není možné získat přístup k serveru SharePoint nebo OneDrive, ujistěte se, že mají licenci, která zahrnuje služby SharePoint a OneDrive. 
   
-1. Přejděte na [stránku aktivních uživatelů ve středisku pro správce služeb Office 365](https://portal.office.com/adminportal/home#/users) a vyberte uživatele. 
+1. Přejděte na [stránku aktivních uživatelů ve středisku pro správce služeb Microsoft 365](https://portal.office.com/adminportal/home#/users) a vyberte uživatele. 
     
 2. Zkontrolujte pod **licencí**je přiřazena licence a vybrané **Online služby SharePoint** . 
     

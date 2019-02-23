@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
-ms.openlocfilehash: 3e1eb0f00f829b7a0657a652d2c50309b944a72c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c052fac9434738c987fcbc2566943f5f117aef2d
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940025"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209298"
 ---
 # <a name="manage-synchronized-user-accounts"></a>Spravovat účty synchronizované uživatele.
 
-Obvykle přidávat a měnit uživatelské účty pomocí středisku pro správce služeb Office 365. Nelze ji však použít, pokud je povolena synchronizace adresáře klienta nebo SSO. Místo toho spravujte uživatele pomocí prostředí Windows PowerShell, jak je popsáno v [Konfigurace vlastností pro uživatele účtu Office 365 prostředí PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ). 
+Obvykle pomocí středisku pro správce služeb Microsoft 365 přidávat a měnit uživatelské účty. Nelze ji však použít, pokud je povolena synchronizace adresáře klienta nebo SSO. Místo toho spravujte uživatele pomocí prostředí Windows PowerShell, jak je popsáno v [Konfigurace vlastností pro uživatele účtu Office 365 prostředí PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ). 
   
 
