@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
-ms.openlocfilehash: 7b66cfc49df40b326506a089fc29d58e35fb1f5e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 88906b68e22bc21549e92c074ebb053be9b8660b
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929114"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244466"
 ---
 # <a name="delete-a-contact"></a>Odstranění kontaktu
 
-1. V horní části stránky vyberte app launcher ![tlačítko spuštění aplikace. ](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) a pak vyberte **lidé**. 
+1. V horní části stránky vyberte app launcher a pak vyberte **lidé**. 
     
-2. Vyberte kontakt, který chcete odstranit a vyberte možnost **Odstranit**![odstranit](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).
+2. Vyberte kontakt, který chcete odstranit a klepněte na příkaz **Odstranit**.
     
     Nelze **Odstranit**, vyberete kontakt může být ze Skype nebo účet připojené sociální sítě. Chcete-li odstranit kontakt, přejděte na Skype nebo účtu, kde je umístěn kontakt.
     

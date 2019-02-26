@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e03a7476-f02d-4c2c-bc55-42cad0ab8622
-ms.openlocfilehash: 0b9022698567a572156201a40271ee46ec01e5fc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 26e7ecf0d6c2fe5eb94fa2fc10015e45850f955e
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920117"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244718"
 ---
 # <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a>Čelit nevyžádané nebo podvodné zprávy ve složce Doručená pošta
 
@@ -26,7 +26,7 @@ Filtry nevyžádané pošty v Outlook.com zlepšení po zrušení označení zpr
   
 Pokud si myslíte, jste přijali weby útoku phishing nebo falšování identity podvod, označit jako nevyžádané e-mailu, přejděte do složky Nevyžádaná pošta a vyberte **není spam** \> **podvodné** označíte jako nevyžádanou podvodnou poštu. Další informace o tom, jak [koupě zneužívání, phishingu, nebo falšování](https://go.microsoft.com/fwlink/p/?linkid=873139).
   
-Blokování e-mailových adres, přejděte na stránku **Nastavení**![nastavení](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **možností** \> **Blokovaní odesílatelé**. Chcete-li přidat adresy nebo domény do seznamu bezpečných odesílatelů, vyberte **Bezpeční odesílatelé**. 
+Blokování e-mailových adres, přejděte na stránku **Nastavení** \> **možností** \> **Blokovaní odesílatelé**. Chcete-li přidat adresy nebo domény do seznamu bezpečných odesílatelů, vyberte **Bezpeční odesílatelé**. 
   
 Pokud jste očekávaný nárůst spamu, přečtěte si jak [zabránit spamu a nevyžádané pošty do složky Doručená pošta](https://go.microsoft.com/fwlink/p/?linkid=873140).
   

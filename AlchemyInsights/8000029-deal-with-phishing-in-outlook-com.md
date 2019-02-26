@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
-ms.openlocfilehash: 4683bd62adb7bf9096dc7e5fedca8b42d6dcccf0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ed917050637d3984cc120fa26ecb29719a921878
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29930493"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244502"
 ---
 # <a name="deal-with-phishing-scams-in-your-inbox"></a>Řešení (phishing scam) ve složce Doručená pošta
 
@@ -32,6 +32,6 @@ Další informace o tom, jak [koupě zneužívání, phishingu, nebo falšován�
   
 Pokud jste očekávaný nárůst spamu, přečtěte si jak [zabránit spamu a nevyžádané pošty do složky Doručená pošta](https://go.microsoft.com/fwlink/p/?linkid=873140).
   
-Blokování e-mailových adres, přejděte na stránku **Nastavení**![nastavení](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **možností** \> **Blokovaní odesílatelé**. Chcete-li přidat adresy nebo domény do seznamu bezpečných odesílatelů, vyberte **Bezpeční odesílatelé**. 
+Blokování e-mailových adres, přejděte na stránku **Nastavení** \> **možností** \> **Blokovaní odesílatelé**. Chcete-li přidat adresy nebo domény do seznamu bezpečných odesílatelů, vyberte **Bezpeční odesílatelé**. 
   
 

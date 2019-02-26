@@ -3,17 +3,6 @@
 
 
 
-## <a name="week-of-january-14-2019"></a>Týden od 14. ledna 2019
-
-
-| Publikování na |Název tématu | Změna |
-|------|------------|--------|
-| 14/1/2019 | Zástupný symbol Alchymie | odebrat |
-| 14/1/2019 | Přidání domény Alchymie | odebrat |
-| 14/1/2019 | [Přehled domácí Alchymie](/AlchemyInsights/index) | změněno |
-| 17/1/2019 | [stejný jako název souboru je nejlepší [pravidlo #-popis]](/AlchemyInsights/1-alchemy-insight-template) | přidáno |
-
-
 ## <a name="week-of-january-21-2019"></a>Týden 21. ledna 2019
 
 
@@ -687,3 +676,61 @@
 | 14/2/2019 | [1245 import PST služby](/AlchemyInsights/1245-import-pst-services) | přidáno |
 | 14/2/2019 | [1385-office-365výstraha zásady](/AlchemyInsights/1385-office-365-alert-policies) | přidáno |
 | 15/2/2019 | [Jak nainstalovat sadu Office](/AlchemyInsights/how-to-install-office) | změněno |
+
+
+## <a name="week-of-february-18-2019"></a>Týden od 18. února 2019
+
+
+| Publikování na |Název tématu | Změna |
+|------|------------|--------|
+| 19/2/2019 | [Máte chybu parametru nelze najít?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | změněno |
+| 19/2/2019 | [Přesunutí e-mailu do služeb Office 365](/AlchemyInsights/move-email-to-office-365) | změněno |
+| 19/2/2019 | [Obnovení odstraněné poštovní schránky](/AlchemyInsights/restore-deleted-mailbox) | změněno |
+| 21/2/2019 | [Jak nainstalovat sadu Office pro Mac z portálu](/AlchemyInsights/647-how-to-install-mac-office-from-the-portal) | Přejmenovat |
+| 22/2/2019 | [1048 5.7.750 služba není k dispozici. Klient zablokováno odesílání z registrace domén](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | změněno |
+| 22/2/2019 | [125, získání licence neplatná Chyba v aplikaci Outlook na webu?](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | změněno |
+| 22/2/2019 | [126 získání poštovní schránku nelze najít chyby v aplikaci OWA?](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | změněno |
+| 22/2/2019 | [127, získávání TenantAccessBlockedException Chyba při přístupu k e-mailu?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | změněno |
+| 22/2/2019 | [128, získávání TenantAccessBlockedException Chyba při přístupu k e-mailu?](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | změněno |
+| 22/2/2019 | [Vytvoření distribučního seznamu nebo skupiny 711](/AlchemyInsights/711-creating-a-distribution-list-or-group) | změněno |
+| 22/2/2019 | [912 Focused Doručená pošta konfigurace pro všechny uživatele v organizaci](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | změněno |
+| 22/2/2019 | [Odebrání domény](/AlchemyInsights/remove-domain) | změněno |
+| 22/2/2019 | [Přidání skupiny do webu služby SharePoint](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | změněno |
+| 22/2/2019 | [Přidat jiný e-mailový alias.](/AlchemyInsights/add-another-email-alias) | změněno |
+| 22/2/2019 | [Přidání kontaktů do skupiny O365](/AlchemyInsights/add-contacts-to-o365-group) | změněno |
+| 22/2/2019 | [Změna UPN](/AlchemyInsights/change-upn) | změněno |
+| 22/2/2019 | [Změna oprávnění veřejné složky](/AlchemyInsights/changing-public-folder-permissions) | změněno |
+| 22/2/2019 | [Změna chování odeslat jako sdílené poštovní schránky](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | změněno |
+| 22/2/2019 | [Zkontrolujte stav synchronizace zvukové poplašné zařízení Identity](/AlchemyInsights/check-aad-identity-sync-status) | změněno |
+| 22/2/2019 | [Porovnat plány služeb Office 365](/AlchemyInsights/compare-office-365-plans) | změněno |
+| 22/2/2019 | [Vytvořit web classic](/AlchemyInsights/create-a-classic-site) | změněno |
+| 22/2/2019 | [Vytvoření webu v Online služby SharePoint](/AlchemyInsights/create-a-site-in-sharepoint-online) | změněno |
+| 22/2/2019 | [Vytvoření veřejné složky](/AlchemyInsights/creating-public-folders) | změněno |
+| 22/2/2019 | [Odstranění webu služby SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | změněno |
+| 22/2/2019 | [Udělit uživatelům přístup k webu služby SharePoint a OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | změněno |
+| 22/2/2019 | [Máte chybu parametru nelze najít?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | změněno |
+| 22/2/2019 | [S doručováním e-mailů?](/AlchemyInsights/having-email-delivery-issues-0) | změněno |
+| 22/2/2019 | [S doručováním e-mailů?](/AlchemyInsights/having-email-delivery-issues) | změněno |
+| 22/2/2019 | [Máte problémy získání Outlook připojit?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | změněno |
+| 22/2/2019 | [Máte problémy získání Outlook připojit?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | změněno |
+| 22/2/2019 | [Jak přiřadit uživatelům Mac licencí sady Office](/AlchemyInsights/how-to-assign-office-licenses-to-mac-users) | změněno |
+| 22/2/2019 | [Jak zakoupit licence pro předplatné služeb Office 365 business](/AlchemyInsights/how-to-buy-licenses-for-your-office-365-business-subscription) | změněno |
+| 22/2/2019 | [Jak zvětšit úložiště v OneDrive pro firmy](/AlchemyInsights/how-to-increase-storage-in-onedrive-for-business) | změněno |
+| 22/2/2019 | [K aktivaci předplatného](/AlchemyInsights/how-to-reactivate-a-subscription) | změněno |
+| 22/2/2019 | [Zvětšení velikosti poštovní schránky pro Enterprise SKU](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | změněno |
+| 22/2/2019 | [Zvětšení velikosti poštovní schránky pro SMB SKU](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | změněno |
+| 22/2/2019 | [Zvětšit velikost poštovní schránky](/AlchemyInsights/increase-mailbox-size) | změněno |
+| 22/2/2019 | [Problém s Skype pro firmy?](/AlchemyInsights/issue-with-skype-for-business) | změněno |
+| 22/2/2019 | [Spravovat účty synchronizované uživatele.](/AlchemyInsights/manage-synchronized-user-accounts) | změněno |
+| 22/2/2019 | [Sledování využití OneDrive a služby SharePoint a aktivity](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | změněno |
+| 22/2/2019 | [Aktivovat předplatné](/AlchemyInsights/reactivate-a-subscription) | změněno |
+| 22/2/2019 | [Obnovení odstraněné OneDrive](/AlchemyInsights/restore-a-deleted-onedrive) | změněno |
+| 22/2/2019 | [Obnovení skupiny Office 365 pomocí centra pro správu Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | změněno |
+| 22/2/2019 | [Nastavení předplatného O365 Business Essentials](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | změněno |
+| 22/2/2019 | [S externím uživatelům sdílení nefunguje.](/AlchemyInsights/sharing-with-external-users-isn-t-working) | změněno |
+| 22/2/2019 | [Došlo k pokusu o nalezení zkušební verzi?](/AlchemyInsights/trying-to-find-a-trial) | změněno |
+| 22/2/2019 | [Povolit externí sdílení pro službu SharePoint.](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | změněno |
+| 22/2/2019 | [Povolit externí sdílení pro službu SharePoint.](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | změněno |
+| 22/2/2019 | [Uživatelská oprávnění](/AlchemyInsights/user-permissions) | změněno |
+| 22/2/2019 | [Pokud je generován výpis vyúčtování](/AlchemyInsights/when-is-the-billing-statement-generated) | změněno |
+| 22/2/2019 | [Jak ověřit vaší domény služeb Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | změněno |

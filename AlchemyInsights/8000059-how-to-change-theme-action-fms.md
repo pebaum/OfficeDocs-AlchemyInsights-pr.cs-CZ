@@ -9,15 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 90219a36-2d1c-4917-af91-0fcf693f659b
-ms.openlocfilehash: 0b1fc087d5c086469598e07cc0addd6a90ea6956
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a49d5ed1c29ce618feee4df1b8feb838524f328e
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902189"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243926"
 ---
 # <a name="how-to-change-your-theme"></a>Změna motivu
 
-Chcete-li změnit motiv v Outlook.com nebo Outlook na webu, přejděte na **Nastavení**![nastavení](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) a zvolte motiv podle **motivu**. Chcete-li zobrazit všechny dostupné motivy, vyberte **Zobrazit vše** v **motivu**. 
+Chcete-li změnit motiv v Outlook.com nebo Outlook na webu, přejděte do **nabídky nastavení** a zvolte motiv podle **motivu**. Chcete-li zobrazit všechny dostupné motivy, vyberte **Zobrazit vše** v **motivu**. 
   
 

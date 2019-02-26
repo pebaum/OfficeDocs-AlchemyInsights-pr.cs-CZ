@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
-ms.openlocfilehash: 9f3a47f27099c5e53e251ed9d80a18dd643069f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 251ffb13eb2c0042b9c077acc8845f89c06ab2d7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898517"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243962"
 ---
 # <a name="read-receipts-in-outlookcom"></a>Potvrzení o přečtení v Outlook.com
 
 Nelze požadovat potvrzení o přečtení v Outlook.com, ale můžete požádat o přečtení u Outlook.com zprávy odeslané pomocí aplikace Outlook pro Windows. Chcete-li zjistit postup naleznete v tématu [Přidání a žádost o potvrzení a oznámení o doručení](https://go.microsoft.com/fwlink/p/?linkid=874355).
   
-Zvolte, jak odpovídá příjmu žádostí o čtení Outlook.com, přejděte na stránku **Nastavení**![nastavení](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Možnosti** \> **Mail** \> **Automatické zpracování** \> **potvrzení o přečtení**. 
+Zvolte, jak odpovídá příjmu žádostí o čtení Outlook.com, přejděte na stránku **Nastavení** \> **Možnosti** \> **Mail** \> **Automatické zpracování** \> **potvrzení o přečtení**. 
   
-V Outlook.com beta, vyberte **Nastavení**![nastavení](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) a vyhledejte **potvrzení o přečtení**. 
+V Outlook.com beta vyberte **Nastavení** a Hledat **potvrzení o přečtení**. 
   
 
