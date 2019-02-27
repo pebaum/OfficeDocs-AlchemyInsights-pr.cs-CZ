@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: dc11334c20996e7ae31bcbd363208d94014b9073
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c17b01595d05fe8aaafb36b5a990d1848268711d
+ms.sourcegitcommit: 3a0cb1ff821de410a22caa978333eb9e4adc3f29
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942113"
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "30274694"
 ---
 # <a name="restore-a-deleted-office-365-group"></a>Obnovení odstraněné skupiny Office 365
 
 Odstraněné skupiny jsou uchovávány po 30 dnů. Chcete-li obnovit odstraněné skupiny:
   
-1. Ve středisku pro správce serveru Exchange **příjemci v levém podokně** a potom vyberte **skupiny**. Pokud skupina byla odstraněna před méně než 30 dny, zobrazí se v seznamu a ve sloupci Stav zobrazí seznam data odstraněna.
+1. V [Exchange admin center](https://outlook.office365.com/ecp/)vyberte **příjemce** v levém podokně a potom vyberte **skupiny**. Pokud skupina byla odstraněna před méně než 30 dny, zobrazí se v seznamu a ve sloupci Stav zobrazí seznam data odstraněna.
     
 2. Vyberte skupinu a na panelu příkazů klepněte na tlačítko **Obnovit** nebo klepněte na odkaz "klepněte sem, chcete-li obnovit v podokně podrobností. 
     
