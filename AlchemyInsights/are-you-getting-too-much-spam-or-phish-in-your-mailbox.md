@@ -7,23 +7,23 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 75d912b3-f154-4219-9b8c-4e1d41aaa442
-ms.openlocfilehash: e5e611fd9f59ca33f05a31201fa5fa38b131056f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: dc65d3d027f11fd6ccf328141d0f1d080c53a482
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29924833"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404920"
 ---
-# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a><span data-ttu-id="a14ca-102">Zobrazují se příliš mnoho nevyžádané nebo podvodné zprávy v poštovní schránce?</span><span class="sxs-lookup"><span data-stu-id="a14ca-102">Are you getting too much spam or phish in your mailbox?</span></span>
+# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a><span data-ttu-id="eaab5-102">Zobrazují se příliš mnoho nevyžádané nebo podvodné zprávy v poštovní schránce?</span><span class="sxs-lookup"><span data-stu-id="eaab5-102">Are you getting too much spam or phish in your mailbox?</span></span>
 
-<span data-ttu-id="a14ca-103">Informace [o omezení nevyžádaných e-mailů ve službách Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) pro poradce při potížích s nevyžádanou poštou.</span><span class="sxs-lookup"><span data-stu-id="a14ca-103">See [How to reduce spam email in Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for troubleshooting spam.</span></span> 
+<span data-ttu-id="eaab5-103">Informace [o omezení nevyžádaných e-mailů ve službách Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) pro poradce při potížích s nevyžádanou poštou.</span><span class="sxs-lookup"><span data-stu-id="eaab5-103">See [How to reduce spam email in Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for troubleshooting spam.</span></span> 
   
-<span data-ttu-id="a14ca-104">Je nejlepší způsob, jak ohlásit tyto typy otázek:</span><span class="sxs-lookup"><span data-stu-id="a14ca-104">The best way to report these types of issues is to:</span></span> 
+<span data-ttu-id="eaab5-104">Je nejlepší způsob, jak ohlásit tyto typy otázek:</span><span class="sxs-lookup"><span data-stu-id="eaab5-104">The best way to report these types of issues is to:</span></span> 
   
-1. <span data-ttu-id="a14ca-105">[Povolit vykazování doplněk](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) pro uživatele.</span><span class="sxs-lookup"><span data-stu-id="a14ca-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span> 
+1. <span data-ttu-id="eaab5-105">[Povolit vykazování doplněk](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) pro uživatele.</span><span class="sxs-lookup"><span data-stu-id="eaab5-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span> 
     
-2. <span data-ttu-id="a14ca-106">Máte [uživatel zaslat zprávu](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) jako nevyžádanou poštu.</span><span class="sxs-lookup"><span data-stu-id="a14ca-106">Have the [user report the message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) as Junk.</span></span> 
+2. <span data-ttu-id="eaab5-106">Máte [uživatel zaslat zprávu](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) jako nevyžádanou poštu.</span><span class="sxs-lookup"><span data-stu-id="eaab5-106">Have the [user report the message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) as Junk.</span></span> 
     
 
