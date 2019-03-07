@@ -9,18 +9,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e9b8b86c5e00dc23e78d204d6e375554f96f805f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941573"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468476"
 ---
-# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="e5250-102">Týmy společnosti Microsoft - hosty</span><span class="sxs-lookup"><span data-stu-id="e5250-102">Microsoft Teams - Guest Access</span></span>
+# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="b4ecd-102">Týmy společnosti Microsoft - hosty</span><span class="sxs-lookup"><span data-stu-id="b4ecd-102">Microsoft Teams - Guest Access</span></span>
 
+<span data-ttu-id="b4ecd-103">Potřebujete pomoci zapnutí a nastavení funkce hosty v Teams společnosti Microsoft?</span><span class="sxs-lookup"><span data-stu-id="b4ecd-103">Do you need help turning on and setting up the Guest Access feature in Microsoft Teams?</span></span>
 
-<span data-ttu-id="e5250-103">Pokud potřebujete povolit či konfigurovat Role přístup hosta v Teams společnosti Microsoft, máme podrobný návod návod pro: [Kontrolní přístup hosta](https://docs.microsoft.com/microsoftteams/guest-access-checklist)</span><span class="sxs-lookup"><span data-stu-id="e5250-103">If you need to enable or configure the Guest Access Role in Microsoft Teams, we have a step-by-step instruction guide for you: [Guest Access Checklist](https://docs.microsoft.com/microsoftteams/guest-access-checklist)</span></span>
-  
-<span data-ttu-id="e5250-104">Musíte počkat, až 24 hodin pro týmy změny konfigurace projevily.</span><span class="sxs-lookup"><span data-stu-id="e5250-104">You may need to wait up to 24 hours for Teams configuration changes to take effect.</span></span>
-  
+<span data-ttu-id="b4ecd-104">Zde je, co je třeba udělat:</span><span class="sxs-lookup"><span data-stu-id="b4ecd-104">Here's what you need to do:</span></span>
+
+1. <span data-ttu-id="b4ecd-105">Povolit přístup hosta.</span><span class="sxs-lookup"><span data-stu-id="b4ecd-105">Authorize guest access.</span></span>
+1. <span data-ttu-id="b4ecd-106">Přidáte hosta k vašemu týmu.</span><span class="sxs-lookup"><span data-stu-id="b4ecd-106">Add guest users to your team.</span></span>
+1. <span data-ttu-id="b4ecd-107">Nastavte oprávnění uživatele guest.</span><span class="sxs-lookup"><span data-stu-id="b4ecd-107">Set up guest user permissions.</span></span>
+
+<span data-ttu-id="b4ecd-108">Další informace, včetně videa s návody viz [hosty v týmy společnosti Microsoft](https://docs.microsoft.com/en-us/microsoftteams/guest-access).</span><span class="sxs-lookup"><span data-stu-id="b4ecd-108">For more information, including how-to videos, see [Guest access in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/guest-access).</span></span>
 
