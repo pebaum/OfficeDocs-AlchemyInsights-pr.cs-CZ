@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: d349d107642ed042c8878d3703a1def89e2906d5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c698c085fc7d1d62eb5c615061198cd5395fbbab
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936965"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758531"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a><span data-ttu-id="77746-102">Určení nákladů na kreditní kartu nebo bankovní výpis</span><span class="sxs-lookup"><span data-stu-id="77746-102">How to identify a charge on your credit card or bank statement</span></span>
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a><span data-ttu-id="84614-102">Určení nákladů na kreditní kartu nebo bankovní výpis</span><span class="sxs-lookup"><span data-stu-id="84614-102">How to identify a charge on your credit card or bank statement</span></span>
 
-<span data-ttu-id="77746-103">Popis poplatku za odběr služeb Office 365 vypadá takto:</span><span class="sxs-lookup"><span data-stu-id="77746-103">The charge description for an Office 365 subscription looks like this:</span></span>
+<span data-ttu-id="84614-103">Popis poplatku za odběr služeb Office 365 vypadá takto:</span><span class="sxs-lookup"><span data-stu-id="84614-103">The charge description for an Office 365 subscription looks like this:</span></span>
   
-<span data-ttu-id="77746-104">MSFT \* WA E012345ABC 0000 - MSBILL.INFO,</span><span class="sxs-lookup"><span data-stu-id="77746-104">MSFT \* E012345ABC 0000 - MSBILL.INFO, WA</span></span>
+<span data-ttu-id="84614-104">MSFT \* WA E012345ABC 0000 - MSBILL.INFO,</span><span class="sxs-lookup"><span data-stu-id="84614-104">MSFT \* E012345ABC 0000 - MSBILL.INFO, WA</span></span>
   
-<span data-ttu-id="77746-p101">Alfanumerický řetězec 10 znaků po MSFT \* je číslo faktury, poplatek se týká. Vyhledání faktury, přejděte na stránku [účtů](https://go.microsoft.com/fwlink/p/?linkid=848039) nebo zvolte **fakturační** \> **směnky** zobrazit nedávné faktury. Číslo faktury je blízko pravého rohu dokumentu faktury.</span><span class="sxs-lookup"><span data-stu-id="77746-p101">The 10 character alpha-numeric string following MSFT \* is the Invoice Number the charge relates to. To find the invoice, go to the [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page, or choose **Billing** \> **Bills** to view your recent invoices. The invoice number is near the right corner of the invoice document.</span></span> 
+<span data-ttu-id="84614-105">Alfanumerický řetězec 10 znaků po MSFT \* je číslo faktury, poplatek se týká.</span><span class="sxs-lookup"><span data-stu-id="84614-105">The 10 character alpha-numeric string following MSFT \* is the Invoice Number the charge relates to.</span></span> <span data-ttu-id="84614-106">Vyhledání faktury, přejděte na stránku [účtů](https://go.microsoft.com/fwlink/p/?linkid=848039) nebo zvolte **fakturační** \> **směnky** zobrazit nedávné faktury.</span><span class="sxs-lookup"><span data-stu-id="84614-106">To find the invoice, go to the [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page, or choose **Billing** \> **Bills** to view your recent invoices.</span></span> <span data-ttu-id="84614-107">Číslo faktury je blízko pravého rohu dokumentu faktury.</span><span class="sxs-lookup"><span data-stu-id="84614-107">The invoice number is near the right corner of the invoice document.</span></span> 
   
 
