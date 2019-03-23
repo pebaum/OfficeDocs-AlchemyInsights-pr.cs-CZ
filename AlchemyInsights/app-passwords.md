@@ -1,39 +1,37 @@
 ---
-title: App hesla
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 app hesla
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938225"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762525"
 ---
 # <a name="app-passwords"></a>App hesla
 
-Zadání hesla app je kód, který poskytuje o oprávnění aplikace nebo zařízení pro přístup k účtu služeb Office 365. Pokud správce povolil vícenásobné ověření vaší organizace a používáte aplikace, které se připojují k vašemu účtu služeb Office 365, budete potřebovat vygenerovat heslo aplikace app, tak aplikace může připojit k Office 365. Například pokud používáte aplikaci Outlook 2016 nebo dřívější verzi s Office 365, musíte vytvořit heslo aplikace app.
+Zadání hesla app je kód, který poskytuje aplikace nebo zařízení oprávnění přístupu služeb Office 365 práce nebo škola účet. Pokud váš účet vyžaduje vícenásobné ověření (MFA) a aplikace se připojuje k vašemu účtu, je nutné generovat heslo aplikace app, aplikace můžete připojit k Office 365. Například aplikace Outlook 2016 a dřívější verze aplikace Outlook vyžadují zadání hesla aplikace.
   
-1. Zkontrolujte, zda správce služeb Office 365, zapnul vícenásobné ověření pro váš účet. Pokud by nebyla, když se pokusíte takto nezobrazí možnosti ve službách Office 365.
+ **Poznámka**: před provedením následujících kroků, ověřte u správce služeb Office 365, aby MFA je vyžadován pro váš účet. Pokud tomu tak není, nebude k dispozici možnosti popsané v krocích.
+  
+1. Přihlášení k aplikaci Office 365 práce nebo škola účet a heslo.
     
-2. Přihlášení k aplikaci Office 365 pomocí účtu práci a ve škole s heslo stejně jako obvykle. Po **přihlášení**, uvidíte stránku s vaším uživatelským jménem a několik možností 
+2. Zvolte **nyní nastavit**.
     
-3. Zvolte **nyní nastavit**. 
+3. Vyberte metodu ověření a postupujte podle pokynů.
     
-4. Vyberte metodu ověřování a potom postupujte podle pokynů na stránce.
+4. Po ověření vaší alternativní způsob kontaktu, zvolte **Další**.
     
-5. Po ověření vaší alternativní způsob kontaktu, zvolte **Další**. 
-    
-6. Dosáhnete app heslo, které můžete použít s aplikací Outlook, Apple Mail, atd. Zvolte ikonu kopírovat zkopírovat heslo do schránky. Nebude nutné toto heslo nazpaměť. 
-    
-7. Pokud přidat váš účet služeb Office 365 e-mailu aplikace Outlook (nebo jiné aplikace) a budete vyzváni k zadání hesla za app heslo do pole heslo místo zadávání hesla účtu. 
+5. Dosáhnete app heslo, které můžete použít s aplikací Outlook, Apple Mail a další aplikace, které to vyžadují. Zvolte možnost **Kopírovat** kopírování hesla a vložit jej na jiné místo (není potřeba ji nazpaměť). 
     
 
