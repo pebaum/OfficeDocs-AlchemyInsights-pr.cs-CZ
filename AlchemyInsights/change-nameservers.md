@@ -1,5 +1,5 @@
 ---
-title: Změna NameServers
+title: Změna názvových serverů
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 61c4c5e43a247679bf18fd3861dd98fbe9a7b3eb
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: ea25afd85e9ef1ae89f3a8908dc1e83a4433c890
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405316"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754679"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>Aktualizace názvových serverů pro doménu za účelem nastavení Office 365
 
-Poznámka: Nameserver změny může někdy trvat až 48 hodin k šíření.
+Poznámka: Rozšíření změn názvových serverů může v některých případech trvat až 48 hodin.
   
 Když si nastavujete doménu v Office 365, je třeba aktualizovat názvové servery u vašeho registrátora. Vytvořte nebo upravte záznamy názvových serverů u svého doménového registrátora.
   
@@ -30,7 +30,7 @@ Když si nastavujete doménu v Office 365, je třeba aktualizovat názvové serv
     
   - ns1.bdm.microsoftonline.com
     
-  - Ns2.bdm.microsoftonline.com
+  - ns2.bdm.microsoftonline.com
     
 3. Uložte změny.
     
