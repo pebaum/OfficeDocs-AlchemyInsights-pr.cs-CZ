@@ -15,14 +15,14 @@ ms.contentlocale: cs-CZ
 ms.lasthandoff: 02/12/2019
 ms.locfileid: "29923033"
 ---
-# <a name="access-the-domains-page"></a><span data-ttu-id="d90f4-102">Přístup ke stránce domén</span><span class="sxs-lookup"><span data-stu-id="d90f4-102">Access the Domains Page</span></span>
+# <a name="access-the-domains-page"></a><span data-ttu-id="1f6e3-102">Přístup ke stránce domén</span><span class="sxs-lookup"><span data-stu-id="1f6e3-102">Access the Domains Page</span></span>
 
-<span data-ttu-id="d90f4-103">Přístup na stránku domény, klepněte na tlačítko tato ikona:</span><span class="sxs-lookup"><span data-stu-id="d90f4-103">To access the domains page, just click this icon:</span></span>
+<span data-ttu-id="1f6e3-103">Přístup na stránku domény, klepněte na tlačítko tato ikona:</span><span class="sxs-lookup"><span data-stu-id="1f6e3-103">To access the domains page, just click this icon:</span></span>
   
 ![Ikona domény](media/e8377292-1d1f-4b45-a91d-05eb2914519c.png)
   
-<span data-ttu-id="d90f4-105">Můžete pak přidání, úprava nebo odebrání domény.</span><span class="sxs-lookup"><span data-stu-id="d90f4-105">Then you can add, modify, or remove your domain.</span></span>
+<span data-ttu-id="1f6e3-105">Můžete pak přidání, úprava nebo odebrání domény.</span><span class="sxs-lookup"><span data-stu-id="1f6e3-105">Then you can add, modify, or remove your domain.</span></span>
   
-<span data-ttu-id="d90f4-106">Další informace naleznete [Nejčastější dotazy týkající se domény.](https://support.office.com/article/1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx)</span><span class="sxs-lookup"><span data-stu-id="d90f4-106">For more information, see the [Domains FAQ.](https://support.office.com/article/1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx)</span></span>
+<span data-ttu-id="1f6e3-106">Další informace naleznete [Nejčastější dotazy týkající se domény.](https://support.office.com/article/1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx)</span><span class="sxs-lookup"><span data-stu-id="1f6e3-106">For more information, see the [Domains FAQ.](https://support.office.com/article/1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx)</span></span>
   
 
