@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 244cf804ea0f270bf56ba3247beb91463ffb66b4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 38d706c035613bf4f3ff87ffbfa19621aa386763
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922889"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767421"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Jak přidat nebo snížení licencí
 
@@ -37,7 +37,7 @@ Chcete-li odebrat nebo zakoupit další licence.
 > [!NOTE]
 > Žádné nové náklady (zvýšení licence) nebo dobropisu (snížení licence) se zobrazí ve vašem dalším vyúčtování. 
   
- **Prostředky**
+ **Zdroje informací**
   
 - [Odebrání licencí z předplatného Office 365 pro firmy](https://support.office.com/article/9c64d127-e2dd-4ecc-81f5-2f87e5a74803)
     

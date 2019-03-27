@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 1fd498dbbc96b2226c42553b652c04cfbb5e75ca
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 66d20ca17287ee762266a22a376f59f5f8975a00
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208002"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767313"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Vytvořit nebo přidat alias e-mailu pro uživatele
 
@@ -28,7 +28,7 @@ Je nutné vytvořit alias e-mailu pro uživatele nebo přidat další e-mailovou
     
 3. Napravo v řádku **Uživatelské jméno / E-mailové aliasy** zvolte **Upravit**.
     
-4. V poli **Alias** zadejte nové zprávy elektronické pošty a potom klepnutím na tlačítko **Přidat**. Pokud jste zakoupili předplatné od GoDaddy nebo jiný Partner, nový alias nastavit jako primární, je třeba přejít ke konzole správy GoDaddy/partnera. 
+4. V poli **Alias** zadejte nové zprávy elektronické pošty a potom klepnutím na tlačítko **Přidat**. Pokud jste si předplatné koupili od GoDaddy nebo jiného partnera a chcete si nastavit nový alias jako primární, musíte přejít do konzoly pro správu GoDaddy nebo konzoly pro správu příslušného partnera. 
     
     **DŮLEŽITÉ:** Pokud se zobrazí chybová zpráva **Nebyl nalezen parametr, který odpovídá názvu parametru EmailAddresses**, znamená to, že Office 365 trvá delší dobu, než nastaví vašeho tenanta nebo vaši vlastní doménu, pokud jste ji nedávno přidali. Nastavení může trvat až 4 hodiny. Chvíli počkejte, aby mohl proces nastavení doběhnout do konce, a potom to zkuste znovu. Pokud se tím problém nevyřeší, zavolejte pracovníkům podpory a požádejte je o úplnou synchronizaci.
     
