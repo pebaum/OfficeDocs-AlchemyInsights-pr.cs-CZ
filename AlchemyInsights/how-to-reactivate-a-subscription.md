@@ -1,5 +1,5 @@
 ---
-title: K aktivaci předplatného
+title: Opětovná aktivace předplatného
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 614bdcc4fa2bf6904e054417541f487d04cb6e0c
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 643c1778ea080442fbd9d0c33258938af52b150c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468872"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766845"
 ---
-# <a name="how-to-reactivate-a-subscription"></a>K aktivaci předplatného
+# <a name="how-to-reactivate-a-subscription"></a>Opětovná aktivace předplatného
 
-Pokud vaše předplatné vypršelo, byl zrušen nebo zakázán společností Microsoft, můžete je aktivovat ve středisku pro správce služeb Microsoft 365.
+Pokud vám vypršela platnost předplatného, zrušili jste ho nebo ho Microsoft deaktivoval, můžete si ho znovu aktivovat v Centru pro správu služby Microsoft 365.
   
 1. V Centru pro správu přejděte na stránku [Předplatná](https://go.microsoft.com/fwlink/p/?linkid=842054) nebo zvolte **Fakturace** \> **Předplatná**.
     
-2. Vyberte předplatné, které chcete aktivovat.
+2. Zvolte předplatné, které chcete znovu aktivovat.
     
-3. Klepněte na tlačítko **Aktivovat** na pravé straně. 
+3. Zvolte tlačítko **Znovu aktivovat** napravo. 
     
-4. Zobrazí se výzva k aktualizaci informací o platbách. Pokud jsou všechny informace správné, zvolte **Odeslat**.
+4. Zobrazí se žádost o aktualizaci platebních údajů. Po vyplnění všech správných údajů zvolte **Odeslat**.
     
-5. Potvrzení se zobrazí v dolní části obrazovky. Zvolte **Zavřít** se vrátíte na stránku **přihlášení k odběru** . 
+5. Dole na obrazovce se zobrazí potvrzení. Zvolte **Zavřít** a vraťte se na stránku **Předplatná**. 
     
-6. Pokud odběr není aktivní po několik minut, aktualizujte stránku.
+6. Pokud se po několika minutách předplatné nezobrazí jako aktivní, aktualizujte stránku.
     
-Další informace naleznete v tématu: [obnovení služeb Office 365 pro firmy](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
+Další informace najdete tady: [Prodloužení platnosti Office 365 pro firmy](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
   
 

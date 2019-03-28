@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81f4dca4-7ae7-4dc9-929e-7b91b1711118
-ms.openlocfilehash: bff8a8867cc73a54afcec43580868712b427e9c8
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: cfdfcb588f16f1871fa405b264be22a0bb1e074c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404704"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767133"
 ---
 # <a name="submit-dynamics-365-support-requests"></a>Odeslání žádosti o podporu Dynamics 365
 
-Pokud jste zákazníkem **Angažovanost zákazníků Microsoft Dynamics** odešlete váš lístek prostřednictvím nové [platformy Power Admin Center](https://admin.powerplatform.microsoft.com/?ref=officemodern).
+Pokud jste zákazník **Microsoft Dynamics Customer Engagement**, odešlete prosím svůj požadavek prostřednictvím nového [Centra pro správu platformy Power](https://admin.powerplatform.microsoft.com/?ref=officemodern).
   
-Nový portál poskytuje odborná, která je optimalizována pro Dynamics angažovanost zákazníků a dalších produktů platformy Power přímější cestu.
+Tento nový portál nabízí jednodušší cestu k odborné pomoci, která je optimalizovaná pro Dynamics Customer Engagement a další produkty platformy Power.
   
 
