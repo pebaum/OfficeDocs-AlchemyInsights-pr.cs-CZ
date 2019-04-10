@@ -1,5 +1,5 @@
 ---
-title: Odstranit kolekci webů
+title: Odstranit web
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 04edde4c22c9ab465cbcff4cb08d8f5965943fad
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 37606af8cbbd1d54cde646400386652b0d5aae56
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757523"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747555"
 ---
-# <a name="delete-a-sharepoint-site-collection"></a><span data-ttu-id="81489-102">Odstranění kolekce webů služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="81489-102">Delete a SharePoint site collection</span></span>
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="f314e-102">Odstranění webu služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="f314e-102">Delete a SharePoint site</span></span>
 
-1. <span data-ttu-id="81489-103">Ve středisku klasického Správce služby SharePoint na stránce kolekce webů zaškrtněte políčko vedle položky v kolekci webů.</span><span class="sxs-lookup"><span data-stu-id="81489-103">In the classic SharePoint admin center, on the site collections page, select the check box next to the site collection.</span></span>
+1. <span data-ttu-id="f314e-103">V centru nového správce služby SharePoint na stránce Weby zaškrtněte políčko vedle lokality, kterou chcete odstranit.</span><span class="sxs-lookup"><span data-stu-id="f314e-103">In the new  SharePoint admin center, on the Sites page, click the check box next to the site you wish to delete.</span></span>
     
-2. <span data-ttu-id="81489-104">Na kartě kolekce webů vyberte možnost **Odstranit**.</span><span class="sxs-lookup"><span data-stu-id="81489-104">On the Site Collections tab, select **Delete**.</span></span>
+2. <span data-ttu-id="f314e-104">Na panelu nástrojů na pásu karet klepněte na tlačítko **Odstranit**.</span><span class="sxs-lookup"><span data-stu-id="f314e-104">On the ribbon toolbar, click **Delete**.</span></span>
     
 
