@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: af9b6c50430814a356a08e661a0bc4e237f4616e
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 9dfd0a4c72a279970bc883aee1e999e2bf63cc61
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758459"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747267"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Povolit externí sdílení na webu služby SharePoint
 
-Kolekce klasických webů:
+Pro web:
   
-1. V klasické SharePoint admin center v levém podokně klikněte na **kolekce webů**.
+1. V centru nového správce služby SharePoint v levém podokně klepněte na tlačítko **servery**.
     
 2. Vyberte web nebo weby a na pásu karet, klepněte na příkaz **sdílení**.
     
-Nové weby, které uživatelé vytvářet i (týmové weby, které patří do skupiny Office 365) a komunikace mají standardně stejné sdílení nastavení jako celopodnikové nastavení, pokud nastavení celoorganizačních umožňuje sdílení souborů pomocí odkazů, které nejsou požadovat přihlášení. V tomto případě weby povolit sdílení se nové a existující externí uživatelé přihlásit. Chcete-li změnit nastavení pro konkrétní weby, použijte nové Centrum správy služby SharePoint (Náhled).
+Nové weby, které uživatelé vytvářet i (týmové weby, které patří do skupiny Office 365) a komunikace mají standardně stejné sdílení nastavení jako celopodnikové nastavení, pokud nastavení celoorganizačních umožňuje sdílení souborů pomocí odkazů, které nejsou požadovat přihlášení. V tomto případě weby povolit sdílení se nové a existující externí uživatelé přihlásit. Chcete-li změnit nastavení pro konkrétní weby, použijte nové Centrum správy služby SharePoint.
   
 > [!NOTE]
 > Externí sdílení nastavení libovolného webu může být více omezující než nastavení celoorganizačních ale povolující ne více než celopodnikové nastavení. 

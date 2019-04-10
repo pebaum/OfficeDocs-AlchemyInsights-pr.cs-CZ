@@ -1,5 +1,5 @@
 ---
-title: Odstranit kolekci webů
+title: Odstranit web
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 04edde4c22c9ab465cbcff4cb08d8f5965943fad
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 37606af8cbbd1d54cde646400386652b0d5aae56
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757523"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747555"
 ---
-# <a name="delete-a-sharepoint-site-collection"></a>Odstranění kolekce webů služby SharePoint
+# <a name="delete-a-sharepoint-site"></a>Odstranění webu služby SharePoint
 
-1. Ve středisku klasického Správce služby SharePoint na stránce kolekce webů zaškrtněte políčko vedle položky v kolekci webů.
+1. V centru nového správce služby SharePoint na stránce Weby zaškrtněte políčko vedle lokality, kterou chcete odstranit.
     
-2. Na kartě kolekce webů vyberte možnost **Odstranit**.
+2. Na panelu nástrojů na pásu karet klepněte na tlačítko **Odstranit**.
     
 

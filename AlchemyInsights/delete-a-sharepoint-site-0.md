@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754643"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747987"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Odstraňte weby, které patří do skupiny Office 365:
 
-Když uživatelé vytvořit nový týmový web SharePoint doma (nebo vytvořit nový web týmu z nového náhledu SharePoint admin center), je automaticky vytvořena odpovídající skupiny Office 365. Office 365 připojení skupiny týmové weby jsou vytvářeny také při vytváření skupiny služby Office 365 nebo týmu v Teams společnosti Microsoft. Chcete-li odstranit web služby SharePoint, který náleží do skupiny Office 365, je nutné odstranit vlastní skupinu služeb Office 365. 
+Když uživatelé vytvořit nový týmový web SharePoint doma nebo vytvořit nový týmový web z nové Centrum správy služby SharePoint, je automaticky vytvořena odpovídající skupiny Office 365. Office 365 připojení skupiny týmové weby jsou vytvářeny také při vytváření skupiny služby Office 365 nebo týmu v Teams společnosti Microsoft. Chcete-li odstranit web služby SharePoint, který náleží do skupiny Office 365, je nutné odstranit vlastní skupinu služeb Office 365. 
   
 1. Přejděte na [stránku skupiny z středisku pro správce služeb Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
@@ -40,11 +40,11 @@ Poznámka: Pokud odstraníte skupinu, může být zpoždění před odstranění
   
 **Odstranění kolekce webů služby SharePoint:**
 
-Chcete-li odstranit kolekci webů classic:
+Chcete-li odstranit web:
   
-1. Ve středisku klasického Správce služby SharePoint na stránce kolekce webů, zaškrtněte **políčko** u kolekce webů. 
+1. V centru nového správce služby SharePoint na stránce weby klepněte na **políčko** u webu, který chcete odstranit. 
     
-2. Na kartě kolekce webů vyberte **Odstranit.**
+2. Na panelu nástrojů na pásu karet, klepněte na tlačítko **Odstranit.**
     
 **Odstranit web náhodou?**
 

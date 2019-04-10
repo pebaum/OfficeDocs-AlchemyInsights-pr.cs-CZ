@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 2b0f6d84c53b812fe0552fc05473eebdfcc8d71a
-ms.sourcegitcommit: 56c52c73e752414d66785f175c3a0e2925ad41c1
+ms.openlocfilehash: 467feb3cb436a2e0135162657876e5c45d8d56bd
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31044033"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747232"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>Poradce při potížích s chybu 404 Soubor nebyl nalezen.
 
@@ -23,7 +23,7 @@ Chcete-li vyřešit chybu 404 pro web, který byl přejmenován, přesunut nebo 
 Klasické servery, které existují v klasickém Admin Center viz [Obnovení odstraněných webů](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
 
 
-Moderní servery (komunikace, připojené skupiny nebo jiné weby) nacházející se v náhledu nový admin center viz [zobrazení a obnovení odstraněné stránky v nové Centrum správy služby SharePoint](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
+Moderní servery (komunikace, připojené skupiny nebo jiné weby) nacházející se v centru nového správce služby SharePoint viz [zobrazení a obnovení odstraněné stránky v nové Centrum správy služby SharePoint](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
 
 Chcete-li vyřešit chybu 404 soubor (nebo jiné položky), která byla přejmenována, přesunuta nebo odstraněna:
 

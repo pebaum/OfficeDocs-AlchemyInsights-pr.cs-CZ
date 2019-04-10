@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 700e6d24e49cf11bf91780895f5a796cc1d8349d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 69e290e5a13f40ad045086791189a7d0af88240b
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753419"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747591"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Řešení potíží s externím uživatelům sdílení obsahu služby SharePoint
 
@@ -28,13 +28,13 @@ Ujistěte se, že externí sdílení pro vaši organizaci:
     
 Přesvědčte se, zda externí sdílení zapnuta pro web. Kolekce klasických webů:
   
-1. V klasické SharePoint admin center v levém podokně klikněte na **kolekce webů**.
+1. V centru nového správce služby SharePoint v levém podokně klepněte na tlačítko **servery**.
     
 2. Vyberte web nebo weby a na pásu karet, klepněte na příkaz **sdílení**.
     
 Pro týmový web, který patří do skupiny Office 365, nebo komunikační web:
   
-- Tyto nové typy webu Pokud budou mít stejné sdílení nastavení jako nastavení celoorganizačních celopodnikové nastavení umožňuje sdílení souborů pomocí odkazů, které nevyžadují přihlásit. V tomto případě weby povolit sdílení se nové a existující externí uživatelé přihlásit. Chcete-li změnit nastavení pro konkrétní weby, pomocí nového centra správy služby SharePoint (Náhled) nebo v prostředí PowerShell. [Další informace](https://go.microsoft.com/fwlink/?linkid=871863).
+- Tyto nové typy webu Pokud budou mít stejné sdílení nastavení jako nastavení celoorganizačních celopodnikové nastavení umožňuje sdílení souborů pomocí odkazů, které nevyžadují přihlásit. V tomto případě weby povolit sdílení se nové a existující externí uživatelé přihlásit. Chcete-li změnit nastavení pro konkrétní weby, použijte nové SharePoint admin center nebo PowerShell. [Další informace](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
 > Externí sdílení nastavení libovolného webu může být více omezující než nastavení celoorganizačních ale povolující ne více než celopodnikové nastavení. 
