@@ -10,27 +10,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1332
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
-ms.openlocfilehash: 9e782faa59bb9a16c271f7c46c79635961e88aed
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: c0b221b5335254bd0f1eb4b258efa6946376ca12
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30784335"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858737"
 ---
-# <a name="an-inbox-rule-doesnt-work-as-expected"></a><span data-ttu-id="32557-102">Pravidlo pro doručenou poštu nefunguje podle očekávání</span><span class="sxs-lookup"><span data-stu-id="32557-102">An Inbox rule doesn't work as expected</span></span>
+# <a name="an-inbox-rule-doesnt-work-as-expected"></a><span data-ttu-id="695f1-102">Pravidlo pro doručenou poštu nefunguje podle očekávání</span><span class="sxs-lookup"><span data-stu-id="695f1-102">An Inbox rule doesn't work as expected</span></span>
 
-<span data-ttu-id="32557-103">Ověřte následující nastavení:</span><span class="sxs-lookup"><span data-stu-id="32557-103">Verify the following settings:</span></span>
-  
-- <span data-ttu-id="32557-104">Zprávy mohou být přesměrovány, předání dál nebo odpovědi automaticky, na základě pravidla složky Doručená pošta pouze jednou.</span><span class="sxs-lookup"><span data-stu-id="32557-104">A message can be redirected, forwarded, or replied to automatically based on Inbox rules only one time.</span></span> <span data-ttu-id="32557-105">Přesměrování pravidla (pravidla složky Doručená pošta nebo aplikace pravidla toku pošty, označované také jako přenosové pravidlo) můžete přidat maximálně deset předávání příjemci zprávy.</span><span class="sxs-lookup"><span data-stu-id="32557-105">A redirecting rule (an Inbox rule or mail flow rule, also known as a transport rule) can add a maximum of ten forwarding recipients to a message.</span></span> <span data-ttu-id="32557-106">Další informace naleznete v tématu [omezení pravidla deníku, dopravy a složky Doručená pošta](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).</span><span class="sxs-lookup"><span data-stu-id="32557-106">For more information, see [Journal, Transport, and Inbox rule limits](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).</span></span>
-    
-- <span data-ttu-id="32557-107">Na alternativní ukládání do deníku poštovní schránky nefungují pravidla složky Doručená pošta.</span><span class="sxs-lookup"><span data-stu-id="32557-107">Inbox rules don't work on the alternate journaling mailbox.</span></span> <span data-ttu-id="32557-108">Další informace o alternativní ukládání do deníku poštovní schránky viz [alternativní ukládání do deníku poštovní schránky](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).</span><span class="sxs-lookup"><span data-stu-id="32557-108">For more information about the alternate journaling mailbox, see [Alternate journaling mailbox](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).</span></span>
-    
-<span data-ttu-id="32557-109">Chcete-li vyřešit tyto problémy, viz [KB 2829319](https://support.microsoft.com/kb/2829319).</span><span class="sxs-lookup"><span data-stu-id="32557-109">To fix these issues, see [KB 2829319](https://support.microsoft.com/kb/2829319).</span></span>
-  
-<span data-ttu-id="32557-110">Pokud nechcete použít předchozí problémy, spusťte diagnostickou zprávu pravidla složky Doručená pošta před eskalovat problém na Microsoft Support:</span><span class="sxs-lookup"><span data-stu-id="32557-110">If the previous issues don't apply, run the Inbox rule diagnostic report before you escalate the issue to Microsoft Support:</span></span>
-  
-1. <span data-ttu-id="32557-111">Otevřít poštovní schránku v aplikaci Outlook na webu a klepněte na tlačítko **Nastavení** \> **možností** \> **uspořádat e-mail** \> **pravidla složky Doručená pošta**.</span><span class="sxs-lookup"><span data-stu-id="32557-111">Open the mailbox in Outlook on the web, and click **Settings** \> **Options** \> **Organize email** \> **Inbox rules**.</span></span>
-    
-2. <span data-ttu-id="32557-112">V dolní části stránky klepněte na tlačítko **Pokud nefungují pravidla klepněte na Generovat diagnostickou zprávu**.</span><span class="sxs-lookup"><span data-stu-id="32557-112">At the bottom of the page, click **If your rules are not working click here to generate a diagnostic report**.</span></span>
-    
+<span data-ttu-id="695f1-103">Ověřte následující nastavení:</span><span class="sxs-lookup"><span data-stu-id="695f1-103">Verify the following settings:</span></span>
 
+- <span data-ttu-id="695f1-104">Zprávy mohou být přesměrovány, předání dál nebo odpovědi automaticky, na základě pravidla složky Doručená pošta pouze jednou.</span><span class="sxs-lookup"><span data-stu-id="695f1-104">A message can be redirected, forwarded, or replied to automatically based on Inbox rules only one time.</span></span> <span data-ttu-id="695f1-105">Přesměrování pravidla (pravidla složky Doručená pošta nebo aplikace pravidla toku pošty, označované také jako přenosové pravidlo) můžete přidat maximálně deset předávání příjemci zprávy.</span><span class="sxs-lookup"><span data-stu-id="695f1-105">A redirecting rule (an Inbox rule or mail flow rule, also known as a transport rule) can add a maximum of ten forwarding recipients to a message.</span></span> <span data-ttu-id="695f1-106">Další informace naleznete v tématu [omezení pravidla deníku, dopravy a složky Doručená pošta](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).</span><span class="sxs-lookup"><span data-stu-id="695f1-106">For more information, see [Journal, Transport, and Inbox rule limits](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).</span></span>
+
+- <span data-ttu-id="695f1-107">Na alternativní ukládání do deníku poštovní schránky nefungují pravidla složky Doručená pošta.</span><span class="sxs-lookup"><span data-stu-id="695f1-107">Inbox rules don't work on the alternate journaling mailbox.</span></span> <span data-ttu-id="695f1-108">Další informace o alternativní ukládání do deníku poštovní schránky viz [alternativní ukládání do deníku poštovní schránky](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).</span><span class="sxs-lookup"><span data-stu-id="695f1-108">For more information about the alternate journaling mailbox, see [Alternate journaling mailbox](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).</span></span>
+
+<span data-ttu-id="695f1-109">Chcete-li vyřešit tyto problémy, viz [KB 2829319](https://support.microsoft.com/kb/2829319).</span><span class="sxs-lookup"><span data-stu-id="695f1-109">To fix these issues, see [KB 2829319](https://support.microsoft.com/kb/2829319).</span></span>
+
+<span data-ttu-id="695f1-110">Pokud nechcete použít předchozí problémy, spusťte diagnostickou zprávu pravidla složky Doručená pošta před eskalovat problém na Microsoft Support:</span><span class="sxs-lookup"><span data-stu-id="695f1-110">If the previous issues don't apply, run the Inbox rule diagnostic report before you escalate the issue to Microsoft Support:</span></span>
+
+1. <span data-ttu-id="695f1-111">Otevřít poštovní schránku v aplikaci Outlook na webu a klepněte na tlačítko **Nastavení** \> **možností** \> **uspořádat e-mail** \> **pravidla složky Doručená pošta**.</span><span class="sxs-lookup"><span data-stu-id="695f1-111">Open the mailbox in Outlook on the web, and click **Settings** \> **Options** \> **Organize email** \> **Inbox rules**.</span></span>
+
+2. <span data-ttu-id="695f1-112">V dolní části stránky klepněte na tlačítko **Pokud nefungují pravidla klepněte na Generovat diagnostickou zprávu**.</span><span class="sxs-lookup"><span data-stu-id="695f1-112">At the bottom of the page, click **If your rules are not working click here to generate a diagnostic report**.</span></span>
