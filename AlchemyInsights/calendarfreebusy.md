@@ -10,15 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: a45cf5b3c7a958a3f819b2cd3c1c15368ff2708c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 284f069416ee9fecbd623beb4f4174212179099c
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785490"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859241"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>Problémy při prohlížení kalendáře volném informace
 
-Pokud nelze zobrazit informace volném kalendáře v jiných kalendářů nebo nemohou jiní uživatelé zobrazit informace o volném čase v kalendáři, pomocí [oddělení podpory společnosti Microsoft a Pomocník pro obnovení pro Office 365](https://diagnostics.office.com/).
-  
-
+Pokud nevidíte v kalendářích jiných uživatelů informace o volném čase nebo pokud jiní uživatelé nevidí informace o volném čase ve vašem kalendáři, použijte [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).
