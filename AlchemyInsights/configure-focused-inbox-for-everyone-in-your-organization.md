@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 912
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: d06546178855e5fedce798b13fac55c791cc963c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: e6a87641d937d3e827ee94507af6e534371237cf
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785420"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31857261"
 ---
 # <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Zapnout pro všechny zaměřený složky Doručená pošta nebo vypnutí
 
 Pokyny naleznete v tématu [Konfigurace zaměřený doručené pošty pro všechny uživatele v organizaci](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).
-  
- **Poznámka**: Tento postup vyžaduje Exchange Online PowerShell. Chcete to provést ve středisku pro správce služeb Microsoft 365? [Hlasujte tady!](https://go.microsoft.com/fwlink/p/?linkid=862489)
-  
 
+**Poznámka**: Tento postup vyžaduje Exchange Online PowerShell. Chcete to provést ve středisku pro správce služeb Microsoft 365? [Hlasujte tady!](https://go.microsoft.com/fwlink/p/?linkid=862489)
