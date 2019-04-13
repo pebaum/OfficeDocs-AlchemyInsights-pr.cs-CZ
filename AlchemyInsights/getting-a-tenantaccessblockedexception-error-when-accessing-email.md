@@ -13,21 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 56a7cd3f588a16883c7a49b35a825301c10e2777
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754247"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858377"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="d0acc-102">Při přístupu k e-mailu se zobrazuje chybová TenantAccessBlockedException?</span><span class="sxs-lookup"><span data-stu-id="d0acc-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="fd55f-102">Při přístupu k e-mailu se zobrazuje chybová TenantAccessBlockedException?</span><span class="sxs-lookup"><span data-stu-id="fd55f-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="d0acc-103">Existuje několik různých důvodů, proč se může zobrazit tato chyba.</span><span class="sxs-lookup"><span data-stu-id="d0acc-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="d0acc-104">Příklady:</span><span class="sxs-lookup"><span data-stu-id="d0acc-104">For example:</span></span>
-  
-- <span data-ttu-id="d0acc-105">Ověřte, zda je platný v **Fakturace** předplatného \> **Odběry** stránka ve středisku pro správce služeb Microsoft 365 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span><span class="sxs-lookup"><span data-stu-id="d0acc-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span></span>
-    
-- <span data-ttu-id="d0acc-106">Kontrola pro všechny po splatnosti oznámení v **účtování** \> stránku **směnky** ve středisku pro správce služeb Microsoft 365 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span><span class="sxs-lookup"><span data-stu-id="d0acc-106">Check for any past due notifications in the **Billing** \> **Bills** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span></span>
-    
-- <span data-ttu-id="d0acc-107">Pokud byly nedávno aktualizovány fakturace a předplatného pro váš účet, může trvat času pro změny šíří.</span><span class="sxs-lookup"><span data-stu-id="d0acc-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="d0acc-108">Opakujte akci za několik minut a pokud problém přetrvává, kontaktujte nás.</span><span class="sxs-lookup"><span data-stu-id="d0acc-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
-    
+<span data-ttu-id="fd55f-103">Existuje několik různých důvodů, proč se může zobrazit tato chyba.</span><span class="sxs-lookup"><span data-stu-id="fd55f-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="fd55f-104">Příklady:</span><span class="sxs-lookup"><span data-stu-id="fd55f-104">For example:</span></span>
 
+- <span data-ttu-id="fd55f-105">Ověřte, zda je platný v **Fakturace** předplatného \> **Odběry** stránka v aplikaci [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/subscriptions).</span><span class="sxs-lookup"><span data-stu-id="fd55f-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/subscriptions).</span></span>
+
+- <span data-ttu-id="fd55f-106">Kontrola pro všechny po splatnosti oznámení v **účtování** \> **směnky** stránky v aplikaci [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/billoverview).</span><span class="sxs-lookup"><span data-stu-id="fd55f-106">Check for any past due notifications in the **Billing** \> **Bills** page in the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/billoverview).</span></span>
+
+- <span data-ttu-id="fd55f-107">Pokud byly nedávno aktualizovány fakturace a předplatného pro váš účet, může trvat času pro změny šíří.</span><span class="sxs-lookup"><span data-stu-id="fd55f-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="fd55f-108">Opakujte akci za několik minut a pokud problém přetrvává, kontaktujte nás.</span><span class="sxs-lookup"><span data-stu-id="fd55f-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>

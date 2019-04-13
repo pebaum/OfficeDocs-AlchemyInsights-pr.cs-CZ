@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 608
+ms.custom:
+- "608"
+- "896"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: 4099bf42b394f90693ec22c5373de9d1360f1dcc
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 936c708e53ee02d5de49783bd38091d0dac73efa
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30777965"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31857873"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="1e5d9-102">Kalendář volném problémy v hybridních prostředích</span><span class="sxs-lookup"><span data-stu-id="1e5d9-102">Calendar free/busy issues in hybrid environments</span></span>
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="41cba-102">Kalendář volném problémy v hybridních prostředích</span><span class="sxs-lookup"><span data-stu-id="41cba-102">Calendar free/busy issues in hybrid environments</span></span>
 
-<span data-ttu-id="1e5d9-103">Pokud uživatelé jsou s problémy zobrazení kalendáře volném informace v hybridních prostředích, spusťte znovu Průvodce konfigurací Hybrid.</span><span class="sxs-lookup"><span data-stu-id="1e5d9-103">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard.</span></span> <span data-ttu-id="1e5d9-104">Další informace o Průvodci konfigurací hybridní naleznete v tématu [Průvodce konfigurací Hybrid](https://go.microsoft.com/fwlink/p/?linkid=528149).</span><span class="sxs-lookup"><span data-stu-id="1e5d9-104">For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
-  
-<span data-ttu-id="1e5d9-105">Poradce při potížích kroky v hybridních prostředích, naleznete [Poradce při potížích s hybridní nasazení](https://technet.microsoft.com/library/jj659053.aspx).</span><span class="sxs-lookup"><span data-stu-id="1e5d9-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>
-  
+<span data-ttu-id="41cba-103">Pokud uživatelé jsou s problémy zobrazení kalendáře volném informace v hybridních prostředích, spusťte znovu Průvodce konfigurací Hybrid.</span><span class="sxs-lookup"><span data-stu-id="41cba-103">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard.</span></span> <span data-ttu-id="41cba-104">Další informace o Průvodci konfigurací hybridní naleznete v tématu [Průvodce konfigurací Hybrid](https://go.microsoft.com/fwlink/p/?linkid=528149).</span><span class="sxs-lookup"><span data-stu-id="41cba-104">For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
 
+<span data-ttu-id="41cba-105">Poradce při potížích kroky v hybridních prostředích, naleznete [Poradce při potížích s hybridní nasazení](https://technet.microsoft.com/library/jj659053.aspx).</span><span class="sxs-lookup"><span data-stu-id="41cba-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>
