@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000015
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: ce2ee427887ac51dfbbcbc7b7d9e511cab7e3da7
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 2c58a22878b5d36554a17d4363303ccf6207a4ac
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30788500"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903549"
 ---
 # <a name="block-or-unblock-senders"></a>Blokování nebo zrušení blokování odesílatelů
 
 Přidáte všechny e-mailové adresy nebo domény do seznamu blokovaných odesílatelů, chcete-li přesunout tyto zprávy přímo do složky nevyžádané E-maily. E-mail je automaticky odebrán ze složky nevyžádané E-maily po 14 dnech a není obnovitelné.
   
-1. Přejděte na **Nastavení** \> **úplné nastavení zobrazení**. 
+1. Přejděte na **Nastavení** \> **Zobrazit všechna nastavení aplikace Outlook**. 
     
-2. Vyberte **Mail** \> **nevyžádané e-maily**. 
+2. Vyberte [ **pošty** \> **nevyžádané e-mailu**](https://outlook.live.com/mail/options/mail/junkEmail). 
     
 3. Chcete-li blokovat odesílatele, zadejte e-mailovou adresu nebo doménu, kterou chcete blokovat a vyberte příkaz **Přidat**. 
     

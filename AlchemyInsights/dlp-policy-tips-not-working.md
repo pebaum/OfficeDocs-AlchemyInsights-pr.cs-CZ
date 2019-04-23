@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: ffed863e8d44d2513fbcf53edd9bfa14b859b913
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cddc790c7ad64cb917fb91df9fcdb60fd22bb306
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900785"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869588"
 ---
 # <a name="dlp-policy-tip-issues"></a>Tip zásady DLP problémy
 
 Při použití **zásady DLP**, uživatelé oznámení o porušení zásad s **tipy zásady**. Admins můžete nakonfigurovat zásady tipy Chcete-li zobrazit během testování jejich DLP zásady nebo zásady je v režimu plného vynucení. 
   
-Konfigurace zásad tipy zásady DLP v Centru zabezpečení a dodržování předpisů v režimu plného vynucení, postupujte takto:
+Chcete-li nakonfigurovat zásady tipy zásady DLP v Centru zabezpečení a dodržování předpisů v režimu plného vynucení, postupujte takto:
   
 - Zajištění, tipy zásady byly **povoleny** na DLP pravidlo, pomocí kroků [v tomto poli](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
     
