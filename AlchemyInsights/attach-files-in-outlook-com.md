@@ -10,27 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000052
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
-ms.openlocfilehash: 1663d471655e080a692be9562cbb1451f13e3f74
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: ea64b9d4a8153867e9752b57c3d3a35836772053
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30780485"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903693"
 ---
-# <a name="how-to-attach-files"></a><span data-ttu-id="1e47a-102">Jak připojit soubory</span><span class="sxs-lookup"><span data-stu-id="1e47a-102">How to attach files</span></span>
+# <a name="how-to-attach-files"></a><span data-ttu-id="af172-102">Jak připojit soubory</span><span class="sxs-lookup"><span data-stu-id="af172-102">How to attach files</span></span>
 
-<span data-ttu-id="1e47a-103">Chcete-li připojit soubory v klasické Outlook.com:</span><span class="sxs-lookup"><span data-stu-id="1e47a-103">To attach files in classic Outlook.com:</span></span>
   
-1. <span data-ttu-id="1e47a-104">Vytvořte novou zprávu nebo odpovíte na zprávu.</span><span class="sxs-lookup"><span data-stu-id="1e47a-104">Compose a new message or reply to a message.</span></span>
+1. <span data-ttu-id="af172-103">Vytvořte novou zprávu nebo odpovíte na zprávu.</span><span class="sxs-lookup"><span data-stu-id="af172-103">Compose a new message or reply to a message.</span></span>
     
-2. <span data-ttu-id="1e47a-105">V horní části podokna vytvořit vyberte **Připojit**.</span><span class="sxs-lookup"><span data-stu-id="1e47a-105">At the top of the compose pane, select **Attach**.</span></span> 
+2. <span data-ttu-id="af172-104">V dolní části podokna vytváření vyberte ikona kancelářské svorky.</span><span class="sxs-lookup"><span data-stu-id="af172-104">At the bottom of the compose pane, select the paperclip icon.</span></span>
     
-<span data-ttu-id="1e47a-106">Chcete-li připojit soubory v Outlook.com beta:</span><span class="sxs-lookup"><span data-stu-id="1e47a-106">To attach files in the Outlook.com beta:</span></span>
-  
-1. <span data-ttu-id="1e47a-107">Vytvořte novou zprávu nebo odpovíte na zprávu.</span><span class="sxs-lookup"><span data-stu-id="1e47a-107">Compose a new message or reply to a message.</span></span>
-    
-2. <span data-ttu-id="1e47a-108">V dolní části podokna vytváření vyberte ikona kancelářské svorky.</span><span class="sxs-lookup"><span data-stu-id="1e47a-108">At the bottom of the compose pane, select the paperclip icon.</span></span>
-    
-<span data-ttu-id="1e47a-109">Další informace o [tom, jak připojit soubory v Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="1e47a-109">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
+<span data-ttu-id="af172-105">Další informace o [tom, jak připojit soubory v Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="af172-105">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
   
 
