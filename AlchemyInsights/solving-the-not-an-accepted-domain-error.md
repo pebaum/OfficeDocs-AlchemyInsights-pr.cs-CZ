@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5190e27b-f94b-4f3c-b5b8-841e2bd7cff9
 ms.openlocfilehash: c202527610f349bef1129b1307f7cb10c13f2165
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404488"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32374209"
 ---
 # <a name="got-a-parameter-cannot-be-found-error"></a>Máte chybu parametru nelze najít?
 
 Pokud se zobrazí chybová zpráva **"parametr nebyl nalezen odpovídající název parametru" EmailAddresses "**, znamená to, že trvá poněkud déle, Office 365, chcete-li dokončit nastavení vašeho klienta nebo vaší vlastní domény, pokud jste nedávno přidali jednu. 
   
-Proces instalace může trvat až 4 hodiny. Počkejte chvíli, takže proces instalace nemá čas na dokončení a akci opakujte.
+Nastavení může trvat až 4 hodiny. Chvíli počkejte, aby mohl proces nastavení doběhnout do konce, a potom to zkuste znovu.
   
 

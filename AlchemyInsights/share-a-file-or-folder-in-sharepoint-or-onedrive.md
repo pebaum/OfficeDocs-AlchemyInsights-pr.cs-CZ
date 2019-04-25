@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
 ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747843"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370391"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Sdílení souboru nebo složky služby SharePoint nebo OneDrive
 
@@ -28,7 +28,7 @@ ms.locfileid: "31747843"
   - **Určité osoby** poskytuje přístup pouze uživatelům, zadáte, přestože ostatní uživatelé již mají přístup. Pokud lidé dál pozvání ke sdílení, pouze uživatelé, kteří již mají přístup k položce bude moci použít odkaz. 
     
     > [!NOTE]
-    > Pokud jednu z těchto možností není k dispozici nebo pokud chcete odkaz na jiný typ ve výchozím nastavení zobrazit, můžete změnit nastavení celoorganizačních přechodem na stránku nového správce SharePoint a klepnutím na tlačítko **sdílení** v levém podokně. [Další informace](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Pokud jednu z těchto možností není k dispozici nebo pokud chcete odkaz na jiný typ ve výchozím nastavení zobrazit, můžete změnit nastavení celoorganizačních přechodem na stránku nového správce SharePoint a klepnutím na tlačítko **sdílení** v levém podokně. [Víc se uč](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. Ve výchozím nastavení **Povolit úpravy** zapnuta. Pokud chcete uživatelům zobrazit pouze soubory, zrušte zaškrtnutí políčka. 
     
