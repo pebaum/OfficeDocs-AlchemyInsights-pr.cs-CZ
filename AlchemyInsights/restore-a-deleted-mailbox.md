@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
 ms.openlocfilehash: 9d6a232821884644db08160f18e1dfae2349c349
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911513"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422317"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Obnovení odstraněné poštovní schránky
 
@@ -22,7 +22,7 @@ Když ztratí své licenci Exchange Online poštovní schránky je zachován z d
   
 Do portálu pro správce:
   
-- Přejděte na **uživatele** \> **aktivních uživatelů**. Vyberte uživatele.
+- Přejděte na **Uživatelé** \> **Aktivní uživatelé**. Vyberte uživatele.
     
 - Vyberte ** upravit ** ke změně licencí na produkt. 
     
