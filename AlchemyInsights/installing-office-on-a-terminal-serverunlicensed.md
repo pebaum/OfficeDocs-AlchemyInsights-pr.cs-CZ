@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: 971edd9c064b448446ba16361e99df4a2291c14f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918967"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410115"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Instalace sady Office na terminálovém serveru
 
@@ -25,9 +25,9 @@ Pro nasazení sady Office 365 ProPlus na serveru systému Windows pomocí služb
     
 Pokud chcete nainstalovat sadu Office 365 ProPlus RDS z portálu služeb Office 365 ** *který používá výchozí nastavení instalace* **, postupujte takto: 
   
-1. Zkontrolujte, jaký plán služeb Office 365 máte. [Informace jak](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Zkontrolujte, jaký plán služeb Office 365 máte. [Zjistěte, jak](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
     
-2. Pokud je plán nutné přepnout do různých služeb Office 365. [Informace jak](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Pokud je plán nutné přepnout do různých služeb Office 365. [Zjistěte, jak](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
     
 3. Již je nainstalována sada Office na serveru RDS pomocí jiné plány služeb Office 365, odinstalujte jej. Například v Ovládacích panelech \> odinstalovat program. Odinstalujte, pokud používáte do problémy pomocí [odborné pomoci společnosti Microsoft a Pomocník pro obnovení](https://aka.ms/SARA-OfficeUninstall-Alchemy) . 
     

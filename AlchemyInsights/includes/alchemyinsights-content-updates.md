@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Týden 11. března 2019
-
-
-| Publikování na |Název tématu | Změna |
-|------|------------|--------|
-| 12/3/2019 | 8000054 doručené pošty Outlook.com není načítání. | přidáno |
-| 12/3/2019 | [8000078 doručené pošty Outlook.com není načítání.](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | Přejmenovat |
-| 12/3/2019 | [8000078 doručené pošty Outlook.com není načítání.](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | změněno |
-| 13/3/2019 | [Přenos e-mailů přes Office 365](/AlchemyInsights/relay-email-through-office-365) | změněno |
-| 14/3/2019 | [stejný jako název souboru je nejlepší [pravidlo #-popis]](/AlchemyInsights/1-alchemy-insight-template) | změněno |
-| 14/3/2019 | [Zvětšit velikost poštovní schránky](/AlchemyInsights/increase-mailbox-size) | změněno |
-| 15/3/2019 | [Stolní Odvolaná zpráva aplikace Outlook nebo nahradit e-mailové zprávě](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | přidáno |
-
-
 ## <a name="week-of-march-18-2019"></a>Týden 18. března 2019
 
 
@@ -530,3 +516,47 @@
 | 12/4/2019 | [932 AADConnect inovace](/AlchemyInsights/upgrading-aadconnect) | změněno |
 | 12/4/2019 | [E-mailový alias 725 pomocí mobilního zařízení](/AlchemyInsights/using-email-alias-on-mobile-device) | změněno |
 | 12/4/2019 | [Chybě rozhraní Winsock. 1554 10061](/AlchemyInsights/winsock-error-10061) | změněno |
+
+
+## <a name="week-of-april-15-2019"></a>Týden od 15. dubna 2019
+
+
+| Publikování na |Název tématu | Změna |
+|------|------------|--------|
+| 15/4/2019 | [Alchymie - diagnostikovat a vyřešit problémy s připojením aplikace Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | změněno |
+| 15/4/2019 | [Alchymie - znovu vytvořit váš profil aplikace Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | změněno |
+| 15/4/2019 | [DLP potřebovat vlastní typ](/AlchemyInsights/dlp-might-need-custom-type) | přidáno |
+| 15/4/2019 | [DLP nefunguje podle očekávání](/AlchemyInsights/dlp-not-working-as-expected) | změněno |
+| 15/4/2019 | [Tipy zásady DLP nefunguje](/AlchemyInsights/dlp-policy-tips-not-working) | změněno |
+| 15/4/2019 | [Outlook.com chyba 550](/AlchemyInsights/outlook-com-error-550) | přidáno |
+| 15/4/2019 | [Outlook.com nad kvótu](/AlchemyInsights/outlook-com-over-quota) | přidáno |
+| 15/4/2019 | [Skype pro Outlook.com odebrat](/AlchemyInsights/outlook-com-remove-skype-rule-1) | přidáno |
+| 15/4/2019 | [Skype pro Outlook.com odebrat](/AlchemyInsights/outlook-com-remove-skype-rule-2) | přidáno |
+| 15/4/2019 | [182, spusťte SaRA diagnostikovat &amp; řešení problémů ověřování aplikace Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | změněno |
+| 16/4/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | změněno |
+| 16/4/2019 | [Skype pro Outlook.com odebrat](/AlchemyInsights/outlook-com-remove-skype-rule-1) | změněno |
+| 16/4/2019 | [8000088 ukládání e-mailů v Outlook.com](/AlchemyInsights/outlook-com-save-emails) | změněno |
+| 16/4/2019 | [8000052 připojit soubory v Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | změněno |
+| 16/4/2019 | [8000015 blokování a odblokování odesílatelů](/AlchemyInsights/block-or-unblock-senders) | změněno |
+| 16/4/2019 | [8000014 jak změnit jazyk v Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | změněno |
+| 16/4/2019 | [8000059 jak změnit rozložení](/AlchemyInsights/how-to-change-your-layout) | změněno |
+| 16/4/2019 | [8000033 jak odpovědět nebo předávání zpráv v Outlook.com beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | změněno |
+| 16/4/2019 | [8000055 jak se přihlásit do nebo z Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | změněno |
+| 16/4/2019 | [Přesunutí složky v Outlook.com 8000062](/AlchemyInsights/moving-a-folder-in-outlook-com) | změněno |
+| 16/4/2019 | [Automaticky použít popisky citlivost](/AlchemyInsights/auto-apply-sensitivity-labels) | přidáno |
+| 16/4/2019 | [Citlivost popisky nezobrazují](/AlchemyInsights/sensitivity-labels-not-appearing) | přidáno |
+| 16/4/2019 | [Nové retenční popisky automaticky vytvořena](/AlchemyInsights/new-retention-labels-created-automatically) | přidáno |
+| 16/4/2019 | [Protokoly auditu OneDrive a služby SharePoint](/AlchemyInsights/classic-sharepoint-audit-log-reports) | přidáno |
+| 16/4/2019 | [Identifikovat odstranit zprávy události v protokolech auditování](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | přidáno |
+| 16/4/2019 | [Identifikovat externí e-mailu předávání poštovních schránek z protokolů auditování](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | přidáno |
+| 16/4/2019 | [Identifikace aktivity pravidla složky Doručená pošta z protokolů auditování](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | přidáno |
+| 16/4/2019 | [Určení adresy IP a klient z protokolů auditování](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | přidáno |
+| 16/4/2019 | [Oprava souboru PST před importem](/AlchemyInsights/repair-pst-before-importing) | přidáno |
+| 16/4/2019 | [Klasické sestavy protokolu auditování služby SharePoint](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | přidáno |
+| 16/4/2019 | [Klasické sestavy protokolu auditování služby SharePoint](/AlchemyInsights/classic-sharepoint-audit-log-reports) | změněno |
+| 16/4/2019 | [Identifikovat externí e-mailu předávání poštovních schránek z protokolů auditování](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | změněno |
+| 16/4/2019 | [Identifikace aktivity pravidla složky Doručená pošta z protokolů auditování](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | změněno |
+| 16/4/2019 | [Klasické sestavy protokolu auditování služby SharePoint](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | změněno |
+| 17/4/2019 | [Odstraňuje problémy doručení e-mailu do poštovní veřejných složek](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | přidáno |
+| 17/4/2019 | [Týmy směny](/AlchemyInsights/teams-shifts) | změněno |
+| 18/4/2019 | [8000011 obnovit odstraněné e-mailů v Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | změněno |
