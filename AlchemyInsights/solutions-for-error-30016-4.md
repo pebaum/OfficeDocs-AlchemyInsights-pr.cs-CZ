@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
 ms.openlocfilehash: 841e181243932bacb18bdb49508468db1da3c715
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760151"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421161"
 ---
-# <a name="solutions-for-error-30016-4"></a><span data-ttu-id="b96b0-102">Řešení chyb 30016 4</span><span class="sxs-lookup"><span data-stu-id="b96b0-102">Solutions for error 30016-4</span></span>
+# <a name="solutions-for-error-30016-4"></a><span data-ttu-id="0f684-102">Řešení chyb 30016 4</span><span class="sxs-lookup"><span data-stu-id="0f684-102">Solutions for error 30016-4</span></span>
 
 
-<span data-ttu-id="b96b0-103">Při pokusu odinstalovat z počítače Office 365 ProPlus a zobrazí chybová zpráva, **došlo k nějaké nesprávné 30016 4**, znamená to, že na jinou jednotku než **% ProgramFiles %** je mapována na jednotku **% temp %** .</span><span class="sxs-lookup"><span data-stu-id="b96b0-103">When you try to uninstall Office 365 ProPlus from a computer, and you get the error message, **Something went wrong 30016-4**, it means the **%temp%** drive is mapped to a drive other than **%ProgramFiles%**.</span></span>
+<span data-ttu-id="0f684-103">Při pokusu odinstalovat z počítače Office 365 ProPlus a zobrazí chybová zpráva, **došlo k nějaké nesprávné 30016 4**, znamená to, že na jinou jednotku než **% ProgramFiles %** je mapována na jednotku **% temp %** .</span><span class="sxs-lookup"><span data-stu-id="0f684-103">When you try to uninstall Office 365 ProPlus from a computer, and you get the error message, **Something went wrong 30016-4**, it means the **%temp%** drive is mapped to a drive other than **%ProgramFiles%**.</span></span>
   
-<span data-ttu-id="b96b0-104">Chcete-li vyřešit, stáhněte a nainstalujte [podporu a Pomocník pro obnovení](https://aka.ms/SARA-OfficeUninstall-Alchemy)</span><span class="sxs-lookup"><span data-stu-id="b96b0-104">To fix, download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy)</span></span>
+<span data-ttu-id="0f684-104">Chcete-li vyřešit, stáhněte a nainstalujte [podporu a Pomocník pro obnovení](https://aka.ms/SARA-OfficeUninstall-Alchemy)</span><span class="sxs-lookup"><span data-stu-id="0f684-104">To fix, download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy)</span></span>
   
-1. <span data-ttu-id="b96b0-105">Po otevření, z **produktů sady Office odinstalovat** vyberte verzi, kterou chcete odinstalovat a klepněte na tlačítko **Další**.</span><span class="sxs-lookup"><span data-stu-id="b96b0-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
+1. <span data-ttu-id="0f684-105">Po otevření, z **produktů sady Office odinstalovat** vyberte verzi, kterou chcete odinstalovat a klepněte na tlačítko **Další**.</span><span class="sxs-lookup"><span data-stu-id="0f684-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
     
-2. <span data-ttu-id="b96b0-106">Pokračovat v procházení obrazovek a po zobrazení výzvy restartujte počítač.</span><span class="sxs-lookup"><span data-stu-id="b96b0-106">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="0f684-106">Pokračovat v procházení obrazovek a po zobrazení výzvy restartujte počítač.</span><span class="sxs-lookup"><span data-stu-id="0f684-106">Continue going through screens and restart your computer when prompted.</span></span>
     
-    <span data-ttu-id="b96b0-107">Po restartování počítače, podpora a Pomocník pro obnovení automaticky znovu otevře dokončete proces odinstalace.</span><span class="sxs-lookup"><span data-stu-id="b96b0-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="0f684-107">Po restartování počítače, podpora a Pomocník pro obnovení automaticky znovu otevře dokončete proces odinstalace.</span><span class="sxs-lookup"><span data-stu-id="0f684-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
     
-3. <span data-ttu-id="b96b0-108">Postupujte podle zbývajících pokynů a [znovu nainstalujte sadu Office](https://portal.office.com/OLS/MySoftware.aspx) nebo zavřete pomocníka.</span><span class="sxs-lookup"><span data-stu-id="b96b0-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
+3. <span data-ttu-id="0f684-108">Postupujte podle zbývajících pokynů a [znovu nainstalujte sadu Office](https://portal.office.com/OLS/MySoftware.aspx) nebo zavřete pomocníka.</span><span class="sxs-lookup"><span data-stu-id="0f684-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
     
 
