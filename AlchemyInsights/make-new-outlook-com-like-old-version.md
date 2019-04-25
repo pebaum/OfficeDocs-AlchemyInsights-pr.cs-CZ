@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000035
 ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30779715"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409395"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Jak vytvořit nový Outlook.com vypadají jako staré verze
 
