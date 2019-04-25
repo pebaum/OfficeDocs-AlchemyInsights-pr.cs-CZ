@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom: 1488
 ms.assetid: ''
 ms.openlocfilehash: 5830f4ce5be6a5c10e0696a57f0b83b4c5606f2b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30783985"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32373309"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a><span data-ttu-id="d413d-102">Jak provést hledání obsahu a služba eDiscovery hledání</span><span class="sxs-lookup"><span data-stu-id="d413d-102">How to perform Content Searches and eDiscovery searches</span></span>
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a><span data-ttu-id="3265a-102">Jak provést hledání obsahu a služba eDiscovery hledání</span><span class="sxs-lookup"><span data-stu-id="3265a-102">How to perform Content Searches and eDiscovery searches</span></span>
 
-<span data-ttu-id="d413d-103">**Vyhledávání obsahu**</span><span class="sxs-lookup"><span data-stu-id="d413d-103">**Content Search**</span></span>
+<span data-ttu-id="3265a-103">**Vyhledávání obsahu**</span><span class="sxs-lookup"><span data-stu-id="3265a-103">**Content Search**</span></span>
 
-1. <span data-ttu-id="d413d-104">Přejít na [& zabezpečení centra kompatibility](https://protection.office.com) a přihlaste se.</span><span class="sxs-lookup"><span data-stu-id="d413d-104">Go to the [Security & Compliance Center](https://protection.office.com) and sign in.</span></span>
-2. <span data-ttu-id="d413d-105">Klepněte na tlačítko **hledání & šetření > obsahu hledání**.</span><span class="sxs-lookup"><span data-stu-id="d413d-105">Click **Search & investigation > Content search**.</span></span>
-3. <span data-ttu-id="d413d-106">Klepněte na tlačítko **nové hledání** Chcete-li vytvořit nové hledání.</span><span class="sxs-lookup"><span data-stu-id="d413d-106">Click **New search** to create a new search.</span></span>
-4. <span data-ttu-id="d413d-107">Zadejte požadované vyhledávací podmínky, včetně klíčových slov a umístění obsahu.</span><span class="sxs-lookup"><span data-stu-id="d413d-107">Enter the required search conditions including keywords and content locations.</span></span>  
-5. <span data-ttu-id="d413d-108">Klepnutím na tlačítko **Spustit & uložit** název hledání, spusťte ji a pak zobrazte náhled výsledků.</span><span class="sxs-lookup"><span data-stu-id="d413d-108">Click **Save & run** to name the search, start it, and then preview the results.</span></span> 
+1. <span data-ttu-id="3265a-104">Přejít na [& zabezpečení centra kompatibility](https://protection.office.com) a přihlaste se.</span><span class="sxs-lookup"><span data-stu-id="3265a-104">Go to the [Security & Compliance Center](https://protection.office.com) and sign in.</span></span>
+2. <span data-ttu-id="3265a-105">Klepněte na tlačítko **hledání & šetření > obsahu hledání**.</span><span class="sxs-lookup"><span data-stu-id="3265a-105">Click **Search & investigation > Content search**.</span></span>
+3. <span data-ttu-id="3265a-106">Klepněte na tlačítko **nové hledání** Chcete-li vytvořit nové hledání.</span><span class="sxs-lookup"><span data-stu-id="3265a-106">Click **New search** to create a new search.</span></span>
+4. <span data-ttu-id="3265a-107">Zadejte požadované vyhledávací podmínky, včetně klíčových slov a umístění obsahu.</span><span class="sxs-lookup"><span data-stu-id="3265a-107">Enter the required search conditions including keywords and content locations.</span></span>  
+5. <span data-ttu-id="3265a-108">Klepnutím na tlačítko **Spustit & uložit** název hledání, spusťte ji a pak zobrazte náhled výsledků.</span><span class="sxs-lookup"><span data-stu-id="3265a-108">Click **Save & run** to name the search, start it, and then preview the results.</span></span> 
  
-<span data-ttu-id="d413d-109">Podrobné pokyny týkající se vytvoření vyhledávání a export výsledků naleznete v [tomto článku](https://docs.microsoft.com/office365/securitycompliance/content-search).</span><span class="sxs-lookup"><span data-stu-id="d413d-109">For detailed instructions about creating searches and exporting results, see [this article](https://docs.microsoft.com/office365/securitycompliance/content-search).</span></span>
+<span data-ttu-id="3265a-109">Podrobné pokyny týkající se vytvoření vyhledávání a export výsledků naleznete v [tomto článku](https://docs.microsoft.com/office365/securitycompliance/content-search).</span><span class="sxs-lookup"><span data-stu-id="3265a-109">For detailed instructions about creating searches and exporting results, see [this article](https://docs.microsoft.com/office365/securitycompliance/content-search).</span></span>
 
-<span data-ttu-id="d413d-110">**služba eDiscovery hledání**</span><span class="sxs-lookup"><span data-stu-id="d413d-110">**eDiscovery searches**</span></span>
+<span data-ttu-id="3265a-110">**služba eDiscovery hledání**</span><span class="sxs-lookup"><span data-stu-id="3265a-110">**eDiscovery searches**</span></span>
 
-1. <span data-ttu-id="d413d-111">Přejít na [& zabezpečení centra kompatibility](https://protection.office.com) a přihlaste se.</span><span class="sxs-lookup"><span data-stu-id="d413d-111">Go to the [Security & Compliance Center](https://protection.office.com) and sign in.</span></span>
-2. <span data-ttu-id="d413d-112">Klepněte na tlačítko **hledání & šetření > služba eDiscovery**.</span><span class="sxs-lookup"><span data-stu-id="d413d-112">Click **Search & investigation > eDiscovery**.</span></span>
-3. <span data-ttu-id="d413d-113">Otevřete existující případ nebo vytvořte nový.</span><span class="sxs-lookup"><span data-stu-id="d413d-113">Open an existing case or create a new one.</span></span>
-4. <span data-ttu-id="d413d-114">Na domovské stránce případu klepněte na kartu **vyhledávání** .</span><span class="sxs-lookup"><span data-stu-id="d413d-114">On the case home page, click the **Searches** tab.</span></span>  
-5. <span data-ttu-id="d413d-115">Klepněte na tlačítko **nové hledání** Chcete-li vytvořit nové hledání.</span><span class="sxs-lookup"><span data-stu-id="d413d-115">Click **New search** to create a new search.</span></span>
-6. <span data-ttu-id="d413d-116">Zadejte požadované vyhledávací podmínky, včetně klíčových slov a umístění obsahu.</span><span class="sxs-lookup"><span data-stu-id="d413d-116">Enter the required search conditions including keywords and content locations.</span></span>  
-7. <span data-ttu-id="d413d-117">Klepnutím na tlačítko **Spustit & uložit** název hledání, spusťte ji a pak zobrazte náhled výsledků.</span><span class="sxs-lookup"><span data-stu-id="d413d-117">Click **Save & run** to name the search, start it, and then preview the results.</span></span>
+1. <span data-ttu-id="3265a-111">Přejít na [& zabezpečení centra kompatibility](https://protection.office.com) a přihlaste se.</span><span class="sxs-lookup"><span data-stu-id="3265a-111">Go to the [Security & Compliance Center](https://protection.office.com) and sign in.</span></span>
+2. <span data-ttu-id="3265a-112">Klepněte na tlačítko **hledání & šetření > služba eDiscovery**.</span><span class="sxs-lookup"><span data-stu-id="3265a-112">Click **Search & investigation > eDiscovery**.</span></span>
+3. <span data-ttu-id="3265a-113">Otevřete existující případ nebo vytvořte nový.</span><span class="sxs-lookup"><span data-stu-id="3265a-113">Open an existing case or create a new one.</span></span>
+4. <span data-ttu-id="3265a-114">Na domovské stránce případu klepněte na kartu **vyhledávání** .</span><span class="sxs-lookup"><span data-stu-id="3265a-114">On the case home page, click the **Searches** tab.</span></span>  
+5. <span data-ttu-id="3265a-115">Klepněte na tlačítko **nové hledání** Chcete-li vytvořit nové hledání.</span><span class="sxs-lookup"><span data-stu-id="3265a-115">Click **New search** to create a new search.</span></span>
+6. <span data-ttu-id="3265a-116">Zadejte požadované vyhledávací podmínky, včetně klíčových slov a umístění obsahu.</span><span class="sxs-lookup"><span data-stu-id="3265a-116">Enter the required search conditions including keywords and content locations.</span></span>  
+7. <span data-ttu-id="3265a-117">Klepnutím na tlačítko **Spustit & uložit** název hledání, spusťte ji a pak zobrazte náhled výsledků.</span><span class="sxs-lookup"><span data-stu-id="3265a-117">Click **Save & run** to name the search, start it, and then preview the results.</span></span>
 
-<span data-ttu-id="d413d-118">Podrobné pokyny týkající se vytvoření vyhledávání přidružené s případem služba eDiscovery a exportování výsledků, naleznete v [tomto článku](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).</span><span class="sxs-lookup"><span data-stu-id="d413d-118">For detailed instructions about creating searches associated with an eDiscovery case and exporting results, see [this article](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).</span></span>
+<span data-ttu-id="3265a-118">Podrobné pokyny týkající se vytvoření vyhledávání přidružené s případem služba eDiscovery a exportování výsledků, naleznete v [tomto článku](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).</span><span class="sxs-lookup"><span data-stu-id="3265a-118">For detailed instructions about creating searches associated with an eDiscovery case and exporting results, see [this article](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).</span></span>
