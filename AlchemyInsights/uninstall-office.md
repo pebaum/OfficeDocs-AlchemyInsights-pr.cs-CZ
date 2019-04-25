@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: Následující kroky popisují, jak odinstalovat sadu Office z počítače.
 ms.openlocfilehash: 5702f41f3c43183381608f2a2cfc8218887ba21a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940169"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423788"
 ---
-# <a name="uninstall-office"></a><span data-ttu-id="14dbb-103">Odinstalování sady Office</span><span class="sxs-lookup"><span data-stu-id="14dbb-103">Uninstall Office</span></span>
+# <a name="uninstall-office"></a><span data-ttu-id="873f9-103">Odinstalování sady Office</span><span class="sxs-lookup"><span data-stu-id="873f9-103">Uninstall Office</span></span>
 
-<span data-ttu-id="14dbb-104">Stáhněte a nainstalujte [podporu a Pomocník pro obnovení](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="14dbb-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+<span data-ttu-id="873f9-104">Stáhněte a nainstalujte [podporu a Pomocník pro obnovení](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="873f9-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
   
-1. <span data-ttu-id="14dbb-105">Po otevření, z **produktů sady Office odinstalovat** vyberte verzi, kterou chcete odinstalovat a klepněte na tlačítko **Další**.</span><span class="sxs-lookup"><span data-stu-id="14dbb-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
+1. <span data-ttu-id="873f9-105">Po otevření, z **produktů sady Office odinstalovat** vyberte verzi, kterou chcete odinstalovat a klepněte na tlačítko **Další**.</span><span class="sxs-lookup"><span data-stu-id="873f9-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
     
-2. <span data-ttu-id="14dbb-106">Pokračovat v procházení obrazovek a po zobrazení výzvy restartujte počítač.</span><span class="sxs-lookup"><span data-stu-id="14dbb-106">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="873f9-106">Pokračovat v procházení obrazovek a po zobrazení výzvy restartujte počítač.</span><span class="sxs-lookup"><span data-stu-id="873f9-106">Continue going through screens and restart your computer when prompted.</span></span>
     
-    <span data-ttu-id="14dbb-107">Po restartování počítače, podpora a Pomocník pro obnovení automaticky znovu otevře dokončete proces odinstalace.</span><span class="sxs-lookup"><span data-stu-id="14dbb-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="873f9-107">Po restartování počítače, podpora a Pomocník pro obnovení automaticky znovu otevře dokončete proces odinstalace.</span><span class="sxs-lookup"><span data-stu-id="873f9-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
     
-3. <span data-ttu-id="14dbb-108">Postupujte podle zbývajících pokynů a [znovu nainstalujte sadu Office](https://portal.office.com/OLS/MySoftware.aspx) nebo zavřete pomocníka.</span><span class="sxs-lookup"><span data-stu-id="14dbb-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
+3. <span data-ttu-id="873f9-108">Postupujte podle zbývajících pokynů a [znovu nainstalujte sadu Office](https://portal.office.com/OLS/MySoftware.aspx) nebo zavřete pomocníka.</span><span class="sxs-lookup"><span data-stu-id="873f9-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
     
-<span data-ttu-id="14dbb-109">Seznam dalších možností odinstalovat vyberte [Odinstalovat sadu Office z počítače](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="14dbb-109">For a list of other uninstall options, select [Uninstall Office from a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="873f9-109">Seznam dalších možností odinstalovat vyberte [Odinstalovat sadu Office z počítače](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="873f9-109">For a list of other uninstall options, select [Uninstall Office from a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
 

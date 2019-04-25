@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: Více než 500 slov článek cíl.
 ms.openlocfilehash: fed43928bcf8a232901c0679376fed3f43705265
-ms.sourcegitcommit: b3cf5130ac8118f0fed66abe5286aa80ee91af52
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "30683806"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421413"
 ---
-# <a name="setting-up-project"></a><span data-ttu-id="9ada8-103">Nastavení projektu</span><span class="sxs-lookup"><span data-stu-id="9ada8-103">Setting up Project</span></span>
+# <a name="setting-up-project"></a><span data-ttu-id="d5f77-103">Nastavení projektu</span><span class="sxs-lookup"><span data-stu-id="d5f77-103">Setting up Project</span></span>
 
-<span data-ttu-id="9ada8-104">Vypadá jako pomoc při nastavení projektu s předplatným Office 365.</span><span class="sxs-lookup"><span data-stu-id="9ada8-104">Looks like you need help setting up Project with your Office 365 subscription.</span></span>
-<span data-ttu-id="9ada8-105">Oznámení pro uživatele Mac: produkt projekt není k dispozici pro MacOS v tomto okamžiku.</span><span class="sxs-lookup"><span data-stu-id="9ada8-105">Notice for Mac users: The Project product is not available for MacOS at this time.</span></span> <span data-ttu-id="9ada8-106">Pokud máte počítač by měl moci nainstalovat software, pomocí následujícího postupu.</span><span class="sxs-lookup"><span data-stu-id="9ada8-106">If you have a PC you should be able to install the software using the steps below.</span></span>
+<span data-ttu-id="d5f77-104">Vypadá jako pomoc při nastavení projektu s předplatným Office 365.</span><span class="sxs-lookup"><span data-stu-id="d5f77-104">Looks like you need help setting up Project with your Office 365 subscription.</span></span>
+<span data-ttu-id="d5f77-105">Oznámení pro uživatele Mac: produkt projekt není k dispozici pro MacOS v tomto okamžiku.</span><span class="sxs-lookup"><span data-stu-id="d5f77-105">Notice for Mac users: The Project product is not available for MacOS at this time.</span></span> <span data-ttu-id="d5f77-106">Pokud máte počítač by měl moci nainstalovat software, pomocí následujícího postupu.</span><span class="sxs-lookup"><span data-stu-id="d5f77-106">If you have a PC you should be able to install the software using the steps below.</span></span>
   
-<span data-ttu-id="9ada8-107">Provedením kroků v [tomto článku](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)získat vaše instalace byla dokončena.</span><span class="sxs-lookup"><span data-stu-id="9ada8-107">You can follow the steps in [this article](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)to get your setup completed.</span></span>
+<span data-ttu-id="d5f77-107">Provedením kroků v [tomto článku](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)získat vaše instalace byla dokončena.</span><span class="sxs-lookup"><span data-stu-id="d5f77-107">You can follow the steps in [this article](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)to get your setup completed.</span></span>
   
-<span data-ttu-id="9ada8-108">Pokud používáte do chyby během instalace, [instalace projektu pomocí podpory a Pomocník pro obnovení](https://aka.ms/SaRA-ProjectSetupScenario)</span><span class="sxs-lookup"><span data-stu-id="9ada8-108">If you are running into errors during setup, [Install Project using the Support and Recovery Assistant](https://aka.ms/SaRA-ProjectSetupScenario)</span></span>
+<span data-ttu-id="d5f77-108">Pokud používáte do chyby během instalace, [instalace projektu pomocí podpory a Pomocník pro obnovení](https://aka.ms/SaRA-ProjectSetupScenario)</span><span class="sxs-lookup"><span data-stu-id="d5f77-108">If you are running into errors during setup, [Install Project using the Support and Recovery Assistant](https://aka.ms/SaRA-ProjectSetupScenario)</span></span>

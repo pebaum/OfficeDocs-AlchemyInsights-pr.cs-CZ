@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5213e00e-c856-4155-8364-d7f97e3cb094
 ms.openlocfilehash: e10a7cefa28c437fb7d041fda8cbcb164940b0f9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755111"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404886"
 ---
-# <a name="delete-a-sharepoint-team-site"></a><span data-ttu-id="44b53-102">Odstranění webu služby SharePoint team</span><span class="sxs-lookup"><span data-stu-id="44b53-102">Delete a SharePoint team site</span></span>
+# <a name="delete-a-sharepoint-team-site"></a><span data-ttu-id="09651-102">Odstranění webu služby SharePoint team</span><span class="sxs-lookup"><span data-stu-id="09651-102">Delete a SharePoint team site</span></span>
 
-1. <span data-ttu-id="44b53-103">Přejděte na web.</span><span class="sxs-lookup"><span data-stu-id="44b53-103">Go to the site.</span></span>
+1. <span data-ttu-id="09651-103">Přejděte na web.</span><span class="sxs-lookup"><span data-stu-id="09651-103">Go to the site.</span></span>
     
-2. <span data-ttu-id="44b53-104">Klepněte na ikonu **Nastavení** v pravém horním.</span><span class="sxs-lookup"><span data-stu-id="44b53-104">Click the **Settings** icon in the upper right.</span></span> 
+2. <span data-ttu-id="09651-104">Klepněte na ikonu **Nastavení** v pravém horním.</span><span class="sxs-lookup"><span data-stu-id="09651-104">Click the **Settings** icon in the upper right.</span></span> 
     
-3. <span data-ttu-id="44b53-105">Klepněte na tlačítko Nastavení **webu** .</span><span class="sxs-lookup"><span data-stu-id="44b53-105">Click **Site** settings.</span></span> <span data-ttu-id="44b53-106">Ve skupinovém rámečku **Informace o webu** nebo **Akce webu**klepněte na tlačítko **Odstranit tento web**a potom klepněte na příkaz **Odstranit**.</span><span class="sxs-lookup"><span data-stu-id="44b53-106">Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
+3. <span data-ttu-id="09651-105">Klepněte na tlačítko Nastavení **webu** .</span><span class="sxs-lookup"><span data-stu-id="09651-105">Click **Site** settings.</span></span> <span data-ttu-id="09651-106">Ve skupinovém rámečku **Informace o webu** nebo **Akce webu**klepněte na tlačítko **Odstranit tento web**a potom klepněte na příkaz **Odstranit**.</span><span class="sxs-lookup"><span data-stu-id="09651-106">Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
     
 
