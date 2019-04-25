@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f32262a370abf8b6e0801cd0741f827a9d4be707
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207858"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421377"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Nastavení předplatného O365 Business Essentials
 
@@ -23,7 +23,7 @@ Vytvořit účty služeb Office 365 a přidání domény
     
 - Přejděte na [Microsoft 365 admin center](https://login.partner.microsoftonline.cn/).
     
-- Chcete-li spustit průvodce, zvolte **Přejít na nastavení**. Další informace naleznete v tématu [Přidat uživatele a domény do služeb Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- Průvodce spustíte tak, že zvolíte **Přejít do nastavení**. Další informace najdete v tématu [Přidání uživatelů a domény do Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
     
 Import e-mailu
   
@@ -31,7 +31,7 @@ Import e-mailu
     
 - Připojení e-mailových účtů
     
-  - Kromě správy e-mailu služeb Office 365 v aplikaci Outlook, můžete připojit dalších e-mailových účtů do aplikace Outlook, příliš, jako jsou například účty služby Gmail a Yahoo. To umožňuje spravovat všechny vaše e-maily na jednom místě. Můžete připojit až 5 e-mailových účtů do aplikace Outlook. Další informace naleznete v tématu [připojit e-mailových účtů v aplikaci Outlook na webu (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - Kromě správy e-mailu Office 365 v Outlooku můžete k Outlooku připojit taky jiné e-mailové účty, třeba účty Gmail a Yahoo. Můžete tak spravovat všechny své e-maily na jednom místě. K Outlooku můžete připojit až 5 e-mailových účtů. Další informace naleznete v tématu [připojit e-mailových účtů v aplikaci Outlook na webu (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
     
 Instalace Skypu pro firmy
   
@@ -39,7 +39,7 @@ Instalace Skypu pro firmy
     
 Ukládání souborů online
   
-- Jsou nejvhodnější pro vaše podnikání umístění úložiště naleznete v tématu [kam můžete ukládat soubory ve službách Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Každý uživatel získá **OneDrive** cloud úložiště automaticky pro ně vytvoříte účty služeb Office 365. S OneDrive můžete přístup k souborům přes počítače, telefony a tablety. 
+- Informace o tom, která umístění úložiště jsou pro vaši firmu nejvhodnější, najdete v článku [Kde se dají ukládat soubory v Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Každý uživatel automaticky dostane cloudové úložiště na **OneDrivu**, když pro něj vytvoříte účet Office 365. Díky OneDrivu můžete mít ke svým souborům přístup ze všech svých počítačů, telefonů a tabletů. 
     
 Podrobný postup nastavení naleznete v [tomto článku](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials).
   
