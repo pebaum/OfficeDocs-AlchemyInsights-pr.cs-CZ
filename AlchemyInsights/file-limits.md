@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
 ms.openlocfilehash: 3735499b4548f91455f787a60492267d68f2b47d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926813"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401892"
 ---
-# <a name="file-upload-limits-in-sharepoint-online"></a><span data-ttu-id="c1e1b-102">Omezení odesílání souboru v Online služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="c1e1b-102">File upload limits in SharePoint Online</span></span>
+# <a name="file-upload-limits-in-sharepoint-online"></a><span data-ttu-id="352c7-102">Omezení odesílání souboru v Online služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="352c7-102">File upload limits in SharePoint Online</span></span>
 
-- <span data-ttu-id="c1e1b-103">Knihovny mohou mít až 30 milionů souborů a složek.</span><span class="sxs-lookup"><span data-stu-id="c1e1b-103">A library can have up to 30 million files and folders.</span></span>
+- <span data-ttu-id="352c7-103">Knihovny mohou mít až 30 milionů souborů a složek.</span><span class="sxs-lookup"><span data-stu-id="352c7-103">A library can have up to 30 million files and folders.</span></span>
     
-- <span data-ttu-id="c1e1b-104">Celková délka adresy URL, včetně názvu souboru nesmí přesáhnout 400 znaků.</span><span class="sxs-lookup"><span data-stu-id="c1e1b-104">The total length of the URL, including the file name, can't exceed 400 characters.</span></span>
+- <span data-ttu-id="352c7-104">Celková délka adresy URL, včetně názvu souboru nesmí přesáhnout 400 znaků.</span><span class="sxs-lookup"><span data-stu-id="352c7-104">The total length of the URL, including the file name, can't exceed 400 characters.</span></span>
     
-- <span data-ttu-id="c1e1b-p101">Každý soubor třeba být menší než 15 GB. Souborů připojených k položkám seznamu může být až 250 MB.</span><span class="sxs-lookup"><span data-stu-id="c1e1b-p101">Each file mush be less than 15 GB. Files attached to list items can be up to 250 MB in size.</span></span>
+- <span data-ttu-id="352c7-105">Každý soubor třeba být menší než 15 GB.</span><span class="sxs-lookup"><span data-stu-id="352c7-105">Each file mush be less than 15 GB.</span></span> <span data-ttu-id="352c7-106">Souborů připojených k položkám seznamu může být až 250 MB.</span><span class="sxs-lookup"><span data-stu-id="352c7-106">Files attached to list items can be up to 250 MB in size.</span></span>
     
-- <span data-ttu-id="c1e1b-107">Pro optimální výkon synchronizace se nového klienta synchronizace OneDrive, doporučujeme uložit více než 100 000 souborů v knihovně.</span><span class="sxs-lookup"><span data-stu-id="c1e1b-107">For optimum performance syncing with the new OneDrive sync client, we recommend storing no more than 100,000 files in a library.</span></span> 
+- <span data-ttu-id="352c7-107">Pro optimální výkon synchronizace se nového klienta synchronizace OneDrive, doporučujeme uložit více než 100 000 souborů v knihovně.</span><span class="sxs-lookup"><span data-stu-id="352c7-107">For optimum performance syncing with the new OneDrive sync client, we recommend storing no more than 100,000 files in a library.</span></span> 
     
-[<span data-ttu-id="c1e1b-108">Znaky, které nelze použít v názvech souborů</span><span class="sxs-lookup"><span data-stu-id="c1e1b-108">Characters that can't be used in file names</span></span>](https://go.microsoft.com/fwlink/?linkid=866430)
+[<span data-ttu-id="352c7-108">Znaky, které nelze použít v názvech souborů</span><span class="sxs-lookup"><span data-stu-id="352c7-108">Characters that can't be used in file names</span></span>](https://go.microsoft.com/fwlink/?linkid=866430)
   
-[<span data-ttu-id="c1e1b-109">Typy souborů, které nelze přidat do seznamu nebo knihovny</span><span class="sxs-lookup"><span data-stu-id="c1e1b-109">Types of files that can't be added to a list or library</span></span>](https://go.microsoft.com/fwlink/?linkid=273757)
+[<span data-ttu-id="352c7-109">Typy souborů, které nelze přidat do seznamu nebo knihovny</span><span class="sxs-lookup"><span data-stu-id="352c7-109">Types of files that can't be added to a list or library</span></span>](https://go.microsoft.com/fwlink/?linkid=273757)
   
-[<span data-ttu-id="c1e1b-110">Další informace o omezení v Online služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="c1e1b-110">More info about SharePoint Online limits</span></span>](https://go.microsoft.com/fwlink/?linkid=271273)
+[<span data-ttu-id="352c7-110">Další informace o omezení v Online služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="352c7-110">More info about SharePoint Online limits</span></span>](https://go.microsoft.com/fwlink/?linkid=271273)
   
 
