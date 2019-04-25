@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0ae81203-7cbf-48a1-bd1a-2711e1c92e7b
 ms.openlocfilehash: afd27d7f844d3dcde9037242de55794dff23615f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404812"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389520"
 ---
-# <a name="trying-to-remove-your-domain"></a>Došlo k pokusu o odebrání domény?
+# <a name="trying-to-remove-your-domain"></a>Pokoušíte se odebrat doménu?
 
-Postupujte podle kroků v [Odebrání domény ze služeb Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx).
+Postupujte podle pokynů v článku [Odebrání domény z Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx).
   
-Budete muset aktualizovat všechny uživatele nebo skupiny, které jsou přiřazeny k tento název domény před odebráním domény. Kontrola [Domény FAQ](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx) další společné řešení. 
+Než doménu odeberete, musíte aktualizovat všechny uživatele nebo skupiny přiřazené k tomuto názvu domény. Informace o dalších běžných řešeních najdete v [častých otázkách k doménám](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx). 
   
