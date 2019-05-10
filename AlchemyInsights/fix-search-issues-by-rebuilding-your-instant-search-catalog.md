@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401177"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867931"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>Hledat problémy řešit opětovným katalog rychlé hledání
+# <a name="troubleshoot-search-issues"></a>Řešení problémů, hledání
 
-1. Ukončete aplikaci Outlook a otevřete **Ovládací panely**.
-    
-    > [!NOTE]
-    > V závislosti na verzi sady Office, kterou používáte můžete klepnutím na tlačítko **Start** a v nabídce **Start** klepněte pravým tlačítkem na **Ovládacím panelu**. 
-  
-2. Udělejte jedno z tohoto:
-    
-  - Vyberte **Možnosti indexování**.
-    
-  - Do **vyhledávacího** pole zadejte *indexování* a pak vyberte **Možnosti indexování**.
-    
-3. V dialogovém okně **Indexovaná umístění** v seznamu **Změnit vybraná umístění**zaškrtněte políčko pro umístění, které chcete upravit a klepněte na tlačítko **OK**.
-    
-4. V dialogovém okně **Upřesnit možnosti** na kartě **Nastavení indexu** v části **Poradce při potížích**klepněte na tlačítko **znovu sestavit**.
-    
-    > [!NOTE]
-    > **Znovu sestavit Index** dialogové upozornění, která se otevře "index může trvat dlouhou dobu dokončit." Klepněte na tlačítko **OK** spusťte nové sestavení indexu. 
-  
-Další informace naleznete v tématu známé problémy [žádné výsledky hledání pro účty POP nebo IMAP](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).
-  
+Pokud máte potíže s hledáním, naleznete na následujících odkazech nápovědy Poradce při potížích.
 
+Tyto jsou nejběžnější problémy a jsou vhodným místem pro start:
+- [Vráceny žádné výsledky hledání v aplikaci Outlook](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Aplikace Outlook hledání vrátí neúplné výsledky](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Hledání v aplikaci Outlook nelze najít starší e-maily](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+Možná řešení pro méně běžné problémy můžete najít zde:
+- [Pouze aplikace Outlook 2016: není k dispozici kartu Hledat](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Sdílené poštovní schránky: Problémy s výsledky hledání](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Chyba: Hledání bude mít dopad na výkon je problém s konfigurace aplikace Outlook](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Složky výsledků hledání zobrazit neočekávané PersonMetadata položky bez předmětu](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
