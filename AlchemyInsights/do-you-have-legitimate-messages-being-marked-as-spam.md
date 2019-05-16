@@ -21,12 +21,12 @@ ms.locfileid: "32399126"
 
 Zkuste diagnostiku uvedenou výše nebo tento [ podrobný průvodce pro řešení potíží s označováním legitimních zpráv jako spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
   
-Nejlepší způsob, jak tyto problémy nahlásit je:
+Nejlepší způsob, jak tyto problémy nahlásit, je:
   
 1. [Povolit doplněk pro nahlašování](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) pro uživatele. 
     
 2. Uživatel [nahlásí zprávu jako legitimní poštu](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).
     
-Pokud chcete otevřít lístek podpory, připojte prosím plné záhlaví aspoň **jedné naprosto původní zprávy** níže. 
+Pokud chcete otevřít lístek podpory, připojte prosím plné záhlaví aspoň **jedné celé původní zprávy** níže. 
   
 
