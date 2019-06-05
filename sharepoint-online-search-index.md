@@ -1,0 +1,22 @@
+---
+title: Správa vyhledávání slovníků v Online služby SharePoint
+ms.author: kirks
+author: Techwriter40
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
+ms.openlocfilehash: 4b51c6d44940c1a65ecf93a149430f05882452ba
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.translationtype: MT
+ms.contentlocale: cs-CZ
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34715345"
+---
+# <a name="search-in-sharepoint-online"></a>Vyhledávání ve službě SharePoint Online
+
+<p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black; background: white;">Obsah musí být procházeny a přidán do indexu hledání uživatelům najít, co se při hledání v SharePoint Online. Automatické procházení obsahu na základě plánu předem definované procházení (plán procházení nelze změnit). Prohledávací modul zvedne obsah, který se změnil od posledního procházení a aktualizuje index.</span> K zajištění procházení obsahu a aktualizace indexu, postupujte následujícím způsobem.</p> <ol style="margin-top: 0in;" start="1" type="1"> <li style="color: black; ; font-size: 11pt; font-style: normal; font-weight: 400; margin-left: 0in;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: white;">Zkontrolujte, zda obsah lze nalézt tím, že lze prohledávat obsah webu. Další informace naleznete v tématu <a href="https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable">Povolení obsahu na webu, abyste je mohli prohledávat</a>. <br /><br /></span></li> <li style="color: black; ; font-size: 11pt; font-style: normal; font-weight: 400; margin-left: 0in;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: white;"><span style="display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Segoe UI,SegoeUI,Segoe WP,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Při změně na spravovanou vlastnost nebo při změně mapování procházených a spravované vlastnosti, <strong>musí znovu procházení webu</strong> před změny se projeví ve vyhledávacím indexu. <span style="display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Segoe UI,SegoeUI,Segoe WP,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Protože jsou změny provedeny ve schématu hledání a nikoli na skutečný web prohledávací modul nebude Přeindexovat automaticky Web.</span> </span> </span> <span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: windowtext;">Další informace naleznete v tématu <a href="https://docs.microsoft.com/en-us/sharepoint/crawl-site-content">Ruční vyžádání prohledávání a indexování znovu serveru, knihovny nebo seznamu</a>.&nbsp;<br /><br /></span><strong style="mso-bidi-font-weight: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Poznámka:</span> </strong> <span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;"> počkejte alespoň 24 hodin po ručně procházení a úplné Přeindexovat zobrazíte, pokud přetrvávají problém. <span style="color: black; background: white;">Pokud více než 24 hodin uplynulo od zahájeno procházení a úplné Přeindexovat, prosím přihlásit případ podpory. V mnoha případech již pracujeme na řešení. Uveďte, prosím, nás alespoň 24 hodin, řešení.<br /><br /></span></span><strong style="mso-bidi-font-weight: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Důležité:</span></strong> <span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">-Li web, dokument (knihovna) nebo seznamu byla odstraněna a stále zobrazena ve výsledcích hledání, uživatelé měli obdržet chyba 404 Soubor nebyl nalezen při pokusu o přístup. Tento problém je zaznamenán jako případ podpory pro další výzkum. </span></li> </ol>
+
+
+
