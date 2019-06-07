@@ -8,13 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 875abf0c820c480f4dbf905f19d75cc4c299f9fb
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: de45b05aa3c8e8c3fd7b9d75b01a26f791135b51
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34718005"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34756336"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>Proč není možné upravovat soubory?
 
-<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; ">Pokud dokument, sešit nebo prezentace je uzamčena pro úpravy a může&rsquo;t otevřít, je možné, že soubor je již upravován jiným uživatelem nebo má soubor rezervován. Podívejme se rychle na některé z důvodů, <a href="https://support.office.com/en-us/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b"><span style="color: blue;">Proč nemusí být možné upravit soubor</span></a>.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Poznámka:</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Sloupce/metadata požadovaných knihoven s rezervaci, nebo při zabezpečení konceptů je nastavena na hodnotu pouze uživatelé, kteří mohou upravovat nebo pouze uživatelé, kteří mohou schvalovat položky v nastavení verze knihovny</span></p> <ul style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Pro knihovny OneDrive OneDrive se zobrazí ikona stavu synchronizace s zámek a uživatel nebude moci synchronizovat knihovny, dokud byla odebrána uvedené nastavení.</span></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Další informace o uzamčené soubory aplikace Word nebo Excel odkaz prosím níže uvedené články.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://support.office.com/en-us/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3"> <span style="color: blue;">Soubor je uzamčen pro úpravy jiným uživatelem</span></a></span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://support.microsoft.com/en-us/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when"> <span style="color: blue;">Word soubor je uzamčen pro úpravy jiným uživatelem</span></a></span></p>
+Pokud dokument, sešit nebo prezentace je uzamčena pro úpravy a nelze jej otevřít, může být soubor je již upravuje někdo jiný, zda má soubor rezervován. Podívejme se rychle na některé z důvodů, [Proč nemusí být možné upravit soubor](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+
+Poznámka: Knihovny s rezervaci, požadované sloupce/metadata nebo při zabezpečení konceptů je nastavena na hodnotu pouze uživatelé, kteří mohou upravovat nebo pouze uživatelé, kteří mohou schvalovat položky v nastavení verze knihovny.
+
+Pro knihovny OneDrive OneDrive se zobrazí ikona stavu synchronizace s zámek a uživatel nebude moci synchronizovat knihovny, dokud byla odebrána uvedené nastavení.
+
+Další informace o uzamčené soubory aplikace Word nebo Excel odkaz prosím níže uvedené články.
+
+- [Aplikace Excel soubor je uzamčen pro úpravy jiným uživatelem](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+
+- [Word soubor je uzamčen pro úpravy jiným uživatelem](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
