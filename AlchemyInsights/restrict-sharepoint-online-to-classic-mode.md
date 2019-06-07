@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
-ms.openlocfilehash: c51e48fe5694f964aef74c2973f774b44415ebb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 76f0b5ed67d3220559d25dfd72c7535181a4513b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422168"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761752"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Omezení služby SharePoint Online do klasického režimu
 
-Některé organizace vyžadují stále klasický režim zkušenosti. Pokud nejsou žádné plány k odebrání klasického režimu na nejnižší úrovni, počínaje dne 1,2019, již bude možné omezit celou organizaci (nájemce) do klasického režimu pro seznamy a knihovny.
+Některé organizace vyžadují stále klasický režim zkušenosti. Když nejsou žádné plány k odebrání klasického režimu na nejnižší úrovni, je již možné omezit celou organizaci (nájemce) do klasického režimu pro seznamy a knihovny.
 
 Správce bude mít následující možnosti spravovat jednotlivé seznamy a knihovny v klasickém režimu granulovaných přepínače opt-out, které poskytujeme na následujících úrovních:
 
@@ -28,6 +28,6 @@ Správce bude mít následující možnosti spravovat jednotlivé seznamy a knih
 
 Dále se seznamy, které používají určité funkce a vlastní nastavení, které nejsou podporovány moderní se stále automaticky přepne do klasického režimu.
 
-Po 1. duben seznamy a knihovny, které jsou v klasickém režimu v důsledku odhlášení klienta budou automaticky spravovány na úrovni webu a na úroveň seznamu.
+Od 1. dubna 2019, zakázat na úrovni klienta proces odhlášení moderní seznamu a knihovny bude spustit a pokračovat do 31. května 2019.  Seznamy a knihovny, které jsou v klasickém režimu v důsledku odhlášení klienta budou automaticky posunuty na moderní.
 
-Pokud požadujete klasického režimu naleznete zde další informace a PnP Powershell instrukce zde popisuje nástroje a možnosti můžete použít dnes Příprava odebrání nájemce úrovně odhlásit dne 1.
+Pokud vyžadujete klasický režim naleznete v tématu Další informace [zde](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) a PnP Powershell instrukce [zde](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) popisující možnosti a nástroje, které dnes na klasický režim rozhraní.
