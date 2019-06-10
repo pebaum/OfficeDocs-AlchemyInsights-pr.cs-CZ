@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096454"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770802"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Odvolat nebo nahradit e-mailové zprávě
 
@@ -36,7 +36,7 @@ Další informace včetně Kontrola odvolání, [odvolání](https://support.off
 
 ***Vyhledání a odstranění e-mailových zpráv v organizaci*** Vyhledání a odstranění e-mailových zpráv v organizaci, je nejjednodušší Pokud jste globální správce. Pokud si nejste globální správce, musí váš účet přidán do skupiny rolí správce služba eDiscovery nebo řídící role hledání shody. Chcete-li odstranit zprávy, musíte připojit ke skupině rolí Správa organizace nebo řídící role hledání a vymazat. Do [centra kompatibility & zabezpečení](https://protection.office.com/)jsou přiřazena oprávnění k těmto rolím.
 
-1. [Hledání obsahu vytvořit](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) zprávu odstranit.
-2. [Připojení k prostředí PowerShell centra kompatibility & zabezpečení](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Hledání obsahu vytvořit](https://docs.microsoft.com/office365/securitycompliance/content-search) zprávu odstranit.
+2. [Připojení k prostředí PowerShell centra kompatibility & zabezpečení](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Pokud používáte MFA, naleznete v tématu [připojit k zabezpečení Office 365 & PowerShell Centrum kompatibility pomocí vícenásobné ověření](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Pokud používáte MFA, naleznete v tématu [připojit k zabezpečení Office 365 & PowerShell Centrum kompatibility pomocí vícenásobné ověření](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

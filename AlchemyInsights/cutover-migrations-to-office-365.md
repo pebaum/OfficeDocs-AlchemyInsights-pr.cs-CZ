@@ -1,23 +1,23 @@
 ---
-title: Cutover migrace na Office 365
+title: Přímé migrace do Office 365
 ms.author: dstrome
 author: dstrome
-manager: serdars
+manager: dansimp
 ms.date: 5/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 11929899-2837-4b45-ba79-873bb5485810
-ms.openlocfilehash: a48304c7f654af5b040c0b8ce8b78c7f25a35f7d
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 00ea61d7931c6016fa1e1019a1cc83bf78ff8f58
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405244"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34753128"
 ---
-# <a name="cutover-migrations-to-office-365"></a>Cutover migrace na Office 365
+# <a name="cutover-migrations-to-office-365"></a>Přímé migrace do Office 365
 
-Při přihlášení služeb Office 365 z místního serveru Exchange organizace můžete migrovat obsah poštovních schránek uživatelů do služeb Office 365. Pokud to vše najednou, volal cutover migrace. Pokud používáte podporovanou verzi serveru Exchange a méně než 2 000 poštovních schránek, cutover migrace může být pro vás. Chcete-li zjistit více o cutover migrace, podívejte se na: [Cutover migrace na Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx).
+Když se zaregistrujete do Office 365, můžete migrovat obsah poštovních schránek uživatelů z místní organizace Exchange do Office 365. Jednorázové migraci se taky říká přímá migrace. Pokud používáte podporovanou verzi Exchange a máte méně než 2 000 poštovních schránek, může pro vás být přímá migrace to pravé. Pokud se chcete dozvědět o přímé migraci víc, podívejte se na téma [Přímá migrace do Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx).
   
 

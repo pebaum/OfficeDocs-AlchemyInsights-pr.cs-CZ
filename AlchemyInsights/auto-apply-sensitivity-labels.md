@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408712"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769536"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Automaticky použít popisky citlivost
 
@@ -25,7 +25,7 @@ Automatické použití popisků citlivost odstraní nutnost Školit uživatele o
 Chcete-li použít popisky automaticky, je nutné:
 
 - Předplatné Azure P2 ochrany informací
-- [Stáhněte a nainstalujte unified popisovací klienta Azure ochrana údajů](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Stáhněte a nainstalujte unified popisovací klienta Azure ochrana údajů](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 Pracujeme na nativní podporu, která nebude vyžadovat jednotný popisovací klienta Azure ochrana informací v budoucnu.
 
@@ -33,5 +33,5 @@ V současné době podporuje pouze systém Windows unified popisovací klienta. 
 
 Další informace o citlivosti popisky a automatickému použití obsahu v tématu:
 
-- [Přehled štítků citlivost](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [Automaticky použít popisek citlivost na obsah](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Přehled štítků citlivost](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Automaticky použít popisek citlivost na obsah](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

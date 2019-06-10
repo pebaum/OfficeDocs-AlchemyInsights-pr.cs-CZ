@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f30db7cdb083356b0ad02348b7c5188280dc88f0
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412469"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769888"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Přepínač se plánuje zvýšit velikost poštovní schránky
 
@@ -34,4 +34,4 @@ Pokud velikost poštovní schránky 50 GB, můžete přepnutím na [Office 365 E
     
 Další podrobnosti naleznete v tématu [Přepnutí do jiného plánu služeb Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-Pokud budete mít [O365 plán, který podporuje In-place archiv](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), získáte také další e-mailové úložiště povolením poštovní schránky na archiv.  Poskytuje další úložiště poštovní schránky na archiv a umožňuje přesunout, kopírovat a hledání zpráv v obou primární a archivační poštovní schránky. Postup povolení poštovní schránky na archiv v tématu [povolení poštovní schránky na archiv](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
+Pokud budete mít [O365 plán, který podporuje In-place archiv](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), získáte také další e-mailové úložiště povolením poštovní schránky na archiv.  Poskytuje další úložiště poštovní schránky na archiv a umožňuje přesunout, kopírovat a hledání zpráv v obou primární a archivační poštovní schránky. Postup povolení poštovní schránky na archiv v tématu [povolení poštovní schránky na archiv](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
