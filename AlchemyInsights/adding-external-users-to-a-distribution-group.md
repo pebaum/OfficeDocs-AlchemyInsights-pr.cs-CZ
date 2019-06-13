@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: ce67797a1838630ab3a42e1eeeefc401a0e3f753
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a5def36fbb662037851158722db60494f00ce850
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398451"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34895198"
 ---
 # <a name="adding-external-users-to-a-distribution-group"></a>Přidání externích uživatelů do distribuční skupiny?
 
@@ -43,4 +43,3 @@ Pokud i po provedení těchto kroků externích uživatelů nelze odeslat e-mail
   
  **Poznámka:** Tyto pokyny se nevztahují, je-li vaše skupina typu "Office 365 skupina" místo "Distribuční skupiny." Pokud tomu tak je, přímo do skupiny můžete přidat externí uživatel z aplikace Outlook nebo Outlook na webu. Podrobné vysvětlení o O365 skupiny guests a pokyny pro přidání externích hostů lze nalézt v [tomto článku](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
   
-
