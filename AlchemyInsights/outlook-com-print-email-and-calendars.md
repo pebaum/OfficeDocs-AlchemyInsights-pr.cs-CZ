@@ -14,19 +14,19 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: db963210d99ad41fe69eeae11baac9590f429448
-ms.sourcegitcommit: 03af2db31b45958e5f541d7740078cf65e0589ce
+ms.openlocfilehash: 81da5338117b49a21c95de2beae8319c55c83c4a
+ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34709010"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34957374"
 ---
 # <a name="print-email-and-calendars"></a>Tisk e-mailu a kalendáře
 
 Při tisku e-mailové zprávy:
   
 1. Vyberte zprávu, kterou chcete vytisknout.
-1. Nad podoknem čtení vyberte tři tečky a pak vyberte možnost **Tisk**.
+1. V pravém horním rohu zprávy vyberte tři tečky a pak vyberte možnost **Tisk**.
 
 Tisk kalendáře:
 
