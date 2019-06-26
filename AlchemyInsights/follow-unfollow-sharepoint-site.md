@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a79bc2557feccc3ceb5b02a4c1c79093ddf31233
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 7701ddd79f81a2988d6fcfbcbbc18d6b9302f03a
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119752"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222733"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Zpracování nebo un následovat na webu služby SharePoint
 
@@ -23,4 +23,4 @@ Přehrát video sledovat [na webu služby SharePoint](https://support.office.com
 
 Pokud nemůžete postupujte nebo un následovat web a pocit, že výsledky nejsou očekávané, viz Pokud problém se vztahuje k jednomu uživateli nebo všem uživatelům v organizaci. Pokud se vyskytne problém všech uživatelů, může být problém s dočasnou službu. 
 
-Kontrola [Řídicí panel stavu služeb](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)zobrazíte, pokud vaše organizace klesá.
+Kontrola [Řídicí panel stavu služeb](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) zobrazíte, pokud vaše organizace klesá.

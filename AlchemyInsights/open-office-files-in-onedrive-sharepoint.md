@@ -1,5 +1,5 @@
 ---
-title: Otevření knihovny služby SharePoint v Průzkumníku souborů
+title: Problémy při otevírání souborů z webu služby Sharepoint nebo OneDrive
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 0f72136d788167472be3b77e83034f5147bbc92c
-ms.sourcegitcommit: ed30ec6cae5e52b54aa1ac7248a847579ad16062
+ms.openlocfilehash: 58ee71bfc802bdd6fe1f1d892399dff4f71641fe
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35079306"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223669"
 ---
-# <a name="open-office-files-and-documents-from-sharepoint-and-onedrive"></a>Otevírat soubory sady Office a dokumenty z webu služby SharePoint a OneDrive
+# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Problémy při otevírání souborů z webu služby Sharepoint nebo OneDrive 
 
 
 Pokud máte problémy při otevírání souborů sady Office a dokumenty z knihoven dokumentů služby SharePoint nebo OneDrive, zde jsou některé návrhy pro jejich odstranění.

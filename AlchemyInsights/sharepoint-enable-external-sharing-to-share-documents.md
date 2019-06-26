@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 425752ce9b25132005fcff503b90aac2b9130903
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 081c6f38247e1dcfb0aaf88f01e2661aad432b54
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760727"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223849"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Povolit externí sdílení v Online služby SharePoint
 
@@ -21,22 +21,22 @@ Pokud vaše organizace vykonává práci, která zahrnuje sdílení dokumentů a
 
 Další informace o sdílení externích navštivte níže uvedené odkazy.
 
-[Co je externím uživatelem?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [Co je externím uživatelem?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-[Co se stane při sdílení sítě nebo dokument?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [Co se stane při sdílení sítě nebo dokument?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
 
-[Povolit externí sdílení pro Online služby SharePoint](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)</
+- [Zapnutí nebo vypnutí externího sdílení pro SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-[Povolit externí sdílení webu](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Povolit externí sdílení webu](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-[Pomocí služby Sharepoint Online jako extranetové řešení business to business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Pomocí služby Sharepoint Online jako extranetové řešení business to business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-[Sdílet soubory služby SharePoint nebo složku](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Sdílet soubory služby SharePoint nebo složku](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-[Ukončení sdílení OneDrive nebo SharePoint soubory nebo složky nebo změnit oprávnění](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Ukončení sdílení OneDrive nebo SharePoint soubory nebo složky nebo změnit oprávnění](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[Odstranit externí uživatel](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [Odstranit externí uživatel](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
 Dochází k chybě s externím uživatelem? &nbsp;Zkontrolujte níže uvedené odkazy.
 

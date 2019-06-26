@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 299a31719696778d66afc4f1c4f9b7c3ff3970f3
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: e083431df1a86aad3d428901754f8150f5059b45
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758059"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223165"
 ---
 # <a name="workflows-in-sharepoint"></a>Pracovní postupy služby SharePoint
 
 Pracovní postupy služby SharePoint jsou předem naprogramované miniaplikace, které zjednodušit a automatizovat celou řadu obchodních procesů. Pracovní postupy v rozsahu shromažďujete podpisy, zpětnou vazbu nebo schválení plánu nebo dokument, ke sledování aktuálního stavu rutinní postup.
 
-Začínáme: Pokud jste se právě Začínáme s pracovní postupy služby SharePoint, naleznete v tématu [Úvod do pracovních postupů služby SharePoint pro další informace](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+**Začínáme:** Pokud jste se právě Začínáme s pracovní postupy služby SharePoint, naleznete v tématu [Úvod do pracovních postupů služby SharePoint pro další informace](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
 **Microsoft toku**: Zvažte použití Microsoft Flow místo klasických řešení pracovního postupu služby SharePoint. Další informace naleznete v tématu [vytvořit tok dat pro seznam nebo knihovnu SharePoint Online nebo OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
 
