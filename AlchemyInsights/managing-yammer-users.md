@@ -7,32 +7,33 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "733"
+- "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 124cebf935444632517851ef37436f3f931f1b42
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7a0cd68d672c49c9d049611cbc4b6ee0ee5c001c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408855"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35380354"
 ---
 # <a name="managing-yammer-users"></a>Správa uživatelů Yammer
 
 1. Informace o správě uživatelů Yammer ze služeb Office 365 naleznete v tématu [uživatelé spravovat Yammer přes jejich životního cyklu ze služeb Office 365](https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039). To zahrnuje podrobnosti na:
-    
-  - Vytvoření uživatele
-    
-  - Odstranění uživatelů
-    
-  - Správa uživatelů Yammer ze služeb Office 365
-    
-2. Prosím naleznete v tématu [blokovat, nebo odebrat Yammer uživatele přidat](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) informace o správě uživatelů z konzoly admin Yammer. To zahrnuje: 
-    
-  - Pozvání nebo odebrání uživatelů
-    
-  - Pozvat uživatele guest
-    
-  - Export seznamu uživatelů
-    
-3. Informace o přidávání, odebírání a správě externích uživatelů naleznete v tématu [Přidat k síti Yammer externí zasílání zpráv účastníků](https://support.office.com/article/423653bb-86b2-4eac-9d7e-dca121f7c16c).
-    
 
+  - Vytvoření uživatele
+
+  - Odstranění uživatelů
+
+  - Správa uživatelů Yammer ze služeb Office 365
+
+2. Prosím naleznete v tématu [blokovat, nebo odebrat Yammer uživatele přidat](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) informace o správě uživatelů z konzoly admin Yammer. To zahrnuje:
+
+  - Pozvání nebo odebrání uživatelů
+
+  - Pozvat uživatele guest
+
+  - Export seznamu uživatelů
+
+3. Informace o přidávání, odebírání a správě externích uživatelů naleznete v tématu [Přidat k síti Yammer externí zasílání zpráv účastníků](https://support.office.com/article/423653bb-86b2-4eac-9d7e-dca121f7c16c).
