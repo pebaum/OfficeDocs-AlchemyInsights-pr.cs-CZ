@@ -9,34 +9,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "454"
+- "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: f7cc1369bd179bf410871054b2d4184a55a2b342
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: df62f02790294fa674bf6768924c5a89a7d85dfc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407655"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360298"
 ---
-# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a><span data-ttu-id="92687-102">Kopírování nebo přesunutí položky v knihovně dokumentů služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="92687-102">Copy or move items in a SharePoint document library</span></span>
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a><span data-ttu-id="e4527-102">Kopírování nebo přesunutí položky v knihovně dokumentů služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="e4527-102">Copy or move items in a SharePoint document library</span></span>
 
-<span data-ttu-id="92687-103">Můžete kopírovat a přesouvat soubory, složky a odkazy do různých umístění v knihovně dokumentů.</span><span class="sxs-lookup"><span data-stu-id="92687-103">You can copy and move files, folders, and links to different locations within a document library.</span></span> <span data-ttu-id="92687-104">Položky můžete také zkopírovat na webech.</span><span class="sxs-lookup"><span data-stu-id="92687-104">You can also copy items across sites.</span></span> <span data-ttu-id="92687-105">Pokud jste [nastavit možnost uvolnění Targeted](https://go.microsoft.com/fwlink/?linkid=622980), položky lze přesunout na webech, příliš.</span><span class="sxs-lookup"><span data-stu-id="92687-105">If you've [set up the Targeted release option](https://go.microsoft.com/fwlink/?linkid=622980), you can move items across sites, too.</span></span>
+<span data-ttu-id="e4527-103">Můžete kopírovat a přesouvat soubory, složky a odkazy do různých umístění v knihovně dokumentů.</span><span class="sxs-lookup"><span data-stu-id="e4527-103">You can copy and move files, folders, and links to different locations within a document library.</span></span> <span data-ttu-id="e4527-104">Položky můžete také zkopírovat na webech.</span><span class="sxs-lookup"><span data-stu-id="e4527-104">You can also copy items across sites.</span></span> <span data-ttu-id="e4527-105">Pokud jste [nastavit možnost uvolnění Targeted](https://go.microsoft.com/fwlink/?linkid=622980), položky lze přesunout na webech, příliš.</span><span class="sxs-lookup"><span data-stu-id="e4527-105">If you've [set up the Targeted release option](https://go.microsoft.com/fwlink/?linkid=622980), you can move items across sites, too.</span></span>
   
-1. <span data-ttu-id="92687-106">V prohlížeči vyhledejte soubory, složky nebo odkazy, které chcete přesunout a potom klepněte na tlačítko **Kopírovat** nebo **Přesunout**.</span><span class="sxs-lookup"><span data-stu-id="92687-106">In a browser, browse to the files, folders, or links you want to move, and then click **Copy to** or **Move to**.</span></span>
-    
+1. <span data-ttu-id="e4527-106">V prohlížeči vyhledejte soubory, složky nebo odkazy, které chcete přesunout a potom klepněte na tlačítko **Kopírovat** nebo **Přesunout**.</span><span class="sxs-lookup"><span data-stu-id="e4527-106">In a browser, browse to the files, folders, or links you want to move, and then click **Copy to** or **Move to**.</span></span>
+
     > [!NOTE]
-    > <span data-ttu-id="92687-107">**Kopírování** a **Přesunutí** nejsou k dispozici, pokud používáte klasické prostředí SharePoint online.</span><span class="sxs-lookup"><span data-stu-id="92687-107">**Copy to** and **Move to** aren't available if you're using the classic experience of SharePoint Online.</span></span> 
+    > <span data-ttu-id="e4527-107">**Kopírování** a **Přesunutí** nejsou k dispozici, pokud používáte klasické prostředí SharePoint online.</span><span class="sxs-lookup"><span data-stu-id="e4527-107">**Copy to** and **Move to** aren't available if you're using the classic experience of SharePoint Online.</span></span>
   
-2. <span data-ttu-id="92687-108">Ve skupinovém rámečku **Vybrat cílové umístění**vyberte umístění, do kterého chcete zkopírovat nebo přesunout položky nebo klepněte na tlačítko **Procházet weby,** Chcete-li zobrazit úplný seznam webů.</span><span class="sxs-lookup"><span data-stu-id="92687-108">Under **Choose a destination**, select the location to which you want to copy or move the items or click **Browse sites** to see the full list of sites.</span></span> 
-    
+2. <span data-ttu-id="e4527-108">Ve skupinovém rámečku **Vybrat cílové umístění**vyberte umístění, do kterého chcete zkopírovat nebo přesunout položky nebo klepněte na tlačítko **Procházet weby,** Chcete-li zobrazit úplný seznam webů.</span><span class="sxs-lookup"><span data-stu-id="e4527-108">Under **Choose a destination**, select the location to which you want to copy or move the items or click **Browse sites** to see the full list of sites.</span></span>
+
     > [!NOTE]
-    > <span data-ttu-id="92687-109">Pokud nevidíte ostatní weby uvedené při kopírování položek, kopírování na webech nebyl nakonfigurován.</span><span class="sxs-lookup"><span data-stu-id="92687-109">If you don't see other sites listed when you copy items, copying across sites hasn't been configured.</span></span> <span data-ttu-id="92687-110">Chcete-li ji povolit, přejděte na stránku nastavení Centra správy služby SharePoint a klepněte na tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="92687-110">To enable it, go to the settings page of the SharePoint admin center and click **OK**.</span></span> 
+    > <span data-ttu-id="e4527-109">Pokud nevidíte ostatní weby uvedené při kopírování položek, kopírování na webech nebyl nakonfigurován.</span><span class="sxs-lookup"><span data-stu-id="e4527-109">If you don't see other sites listed when you copy items, copying across sites hasn't been configured.</span></span> <span data-ttu-id="e4527-110">Chcete-li ji povolit, přejděte na stránku nastavení Centra správy služby SharePoint a klepněte na tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="e4527-110">To enable it, go to the settings page of the SharePoint admin center and click **OK**.</span></span>
   
-    <span data-ttu-id="92687-111">Chcete-li vytvořit novou složku, vyberte umístění v hierarchii složek, klepněte na tlačítko **Nová složka**, zadejte název složky a klepněte na zaškrtávací políčko, chcete-li uložit název.</span><span class="sxs-lookup"><span data-stu-id="92687-111">To create a new folder, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
-    
-3. <span data-ttu-id="92687-112">Klepněte na tlačítko **zde zkopírovat** nebo **Přesunout sem**.</span><span class="sxs-lookup"><span data-stu-id="92687-112">Click **Copy here** or **Move here**.</span></span>
-    
+    <span data-ttu-id="e4527-111">Chcete-li vytvořit novou složku, vyberte umístění v hierarchii složek, klepněte na tlačítko **Nová složka**, zadejte název složky a klepněte na zaškrtávací políčko, chcete-li uložit název.</span><span class="sxs-lookup"><span data-stu-id="e4527-111">To create a new folder, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
+
+3. <span data-ttu-id="e4527-112">Klepněte na tlačítko **zde zkopírovat** nebo **Přesunout sem**.</span><span class="sxs-lookup"><span data-stu-id="e4527-112">Click **Copy here** or **Move here**.</span></span>
+
 > [!NOTE]
->  <span data-ttu-id="92687-113">Až 500 MB pro soubory a složky lze kopírovat najednou.</span><span class="sxs-lookup"><span data-stu-id="92687-113">You can copy up to 500 MB of files and folders at one time.</span></span> <span data-ttu-id="92687-114">> při kopírování dokladů, které mají historii verzí nejnovější verze se zkopíruje.</span><span class="sxs-lookup"><span data-stu-id="92687-114">>  When you copy documents that have version history, only the latest version is copied.</span></span> <span data-ttu-id="92687-115">Při přesunutí dokumentů je přesunut také jejich historie.</span><span class="sxs-lookup"><span data-stu-id="92687-115">When you move documents, their history is also moved.</span></span> 
+> <span data-ttu-id="e4527-113">Až 500 MB pro soubory a složky lze kopírovat najednou.</span><span class="sxs-lookup"><span data-stu-id="e4527-113">You can copy up to 500 MB of files and folders at one time.</span></span> <span data-ttu-id="e4527-114">> při kopírování dokladů, které mají historii verzí nejnovější verze se zkopíruje.</span><span class="sxs-lookup"><span data-stu-id="e4527-114">>  When you copy documents that have version history, only the latest version is copied.</span></span> <span data-ttu-id="e4527-115">Při přesunutí dokumentů je přesunut také jejich historie.</span><span class="sxs-lookup"><span data-stu-id="e4527-115">When you move documents, their history is also moved.</span></span>
   
-

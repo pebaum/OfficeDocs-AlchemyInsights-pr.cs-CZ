@@ -8,17 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 743
+ms.custom:
+- "743"
+- "1200022"
 ms.assetid: a47ef0c1-5f44-4c5f-aa91-b681c0c17ebf
-ms.openlocfilehash: fa691df766f8250839cff3df6a907f88fd475057
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 1537c7b90c7565771513d0aabd3f3ac6455d4119
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753092"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35363862"
 ---
-# <a name="create-mailboxes-that-dont-require-licenses"></a><span data-ttu-id="c6f40-102">Vytvoření poštovních schránek, které nevyžadují licence</span><span class="sxs-lookup"><span data-stu-id="c6f40-102">Create mailboxes that don't require licenses</span></span>
+# <a name="create-mailboxes-that-dont-require-licenses"></a><span data-ttu-id="38600-102">Vytvoření poštovních schránek, které nevyžadují licence</span><span class="sxs-lookup"><span data-stu-id="38600-102">Create mailboxes that don't require licenses</span></span>
 
-- <span data-ttu-id="c6f40-103">Pokud potřebujete e-mailovou adresu skupiny pro více uživatelů, naleznete v tématu [Vytvoření sdílené poštovní schránky](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9).</span><span class="sxs-lookup"><span data-stu-id="c6f40-103">If you need a group email address for multiple people, see [Create a shared mailbox](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9).</span></span>
+- <span data-ttu-id="38600-103">Pokud potřebujete e-mailovou adresu skupiny pro více uživatelů, naleznete v tématu [Vytvoření sdílené poštovní schránky](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9).</span><span class="sxs-lookup"><span data-stu-id="38600-103">If you need a group email address for multiple people, see [Create a shared mailbox](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9).</span></span>
 
-- <span data-ttu-id="c6f40-104">Aby celý tým lidí spolupracovat a sdílet soubory a e-mailu, naleznete [Další informace o skupiny Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="c6f40-104">To allow a team of people to work together and share email and files, see [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
+- <span data-ttu-id="38600-104">Aby celý tým lidí spolupracovat a sdílet soubory a e-mailu, naleznete [Další informace o skupiny Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="38600-104">To allow a team of people to work together and share email and files, see [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
