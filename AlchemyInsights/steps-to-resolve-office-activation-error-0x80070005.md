@@ -8,21 +8,22 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "914"
+- "2000021"
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
-ms.openlocfilehash: 7dcb04d0e1613ed75e664345ecc35cae86dadc1f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6408a266ca34b237f020aeb0c1b83a3d10d39a5f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373741"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35367966"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80070005"></a><span data-ttu-id="bb5db-102">Postup řešení office aktivaci chyba 0x80070005</span><span class="sxs-lookup"><span data-stu-id="bb5db-102">Steps to resolve office activation error 0x80070005</span></span>
+# <a name="steps-to-resolve-office-activation-error-0x80070005"></a><span data-ttu-id="f645c-102">Postup řešení office aktivaci chyba 0x80070005</span><span class="sxs-lookup"><span data-stu-id="f645c-102">Steps to resolve office activation error 0x80070005</span></span>
 
-
-<span data-ttu-id="bb5db-103">Pokud chyba 0x80070005 spuštění po aktualizaci systému Windows, můžete vyřešit problém při aktualizaci registru.</span><span class="sxs-lookup"><span data-stu-id="bb5db-103">If the 0x80070005 error started after updating Windows, you can fix the issue by updating the registry.</span></span> 
+<span data-ttu-id="f645c-103">Pokud chyba 0x80070005 spuštění po aktualizaci systému Windows, můžete vyřešit problém při aktualizaci registru.</span><span class="sxs-lookup"><span data-stu-id="f645c-103">If the 0x80070005 error started after updating Windows, you can fix the issue by updating the registry.</span></span>
   
-<span data-ttu-id="bb5db-104">Stáhněte a nainstalujte [podporu a Pomocník pro obnovení](https://aka.ms/SARA-OfficeActivation-Alchemy) a spusťte **Poradce při potížích s aktivací**.</span><span class="sxs-lookup"><span data-stu-id="bb5db-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>
+<span data-ttu-id="f645c-104">Stáhněte a nainstalujte [podporu a Pomocník pro obnovení](https://aka.ms/SARA-OfficeActivation-Alchemy) a spusťte **Poradce při potížích s aktivací**.</span><span class="sxs-lookup"><span data-stu-id="f645c-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>
   
-<span data-ttu-id="bb5db-105">Další informace naleznete v tématu: [Office kód chyby 0x80070005 při aktivaci sady Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)</span><span class="sxs-lookup"><span data-stu-id="bb5db-105">For additional help, see: [Office error code 0x80070005 when activating Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)</span></span>
+<span data-ttu-id="f645c-105">Další informace naleznete v tématu: [Office kód chyby 0x80070005 při aktivaci sady Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)</span><span class="sxs-lookup"><span data-stu-id="f645c-105">For additional help, see: [Office error code 0x80070005 when activating Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)</span></span>
   
-
