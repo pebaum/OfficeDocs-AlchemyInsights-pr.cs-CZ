@@ -9,15 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7a81baab-dca5-463f-9c1b-336dff507d49
-ms.openlocfilehash: 38d1c36019a2ca135ff94e196d3c356ee19f1a77
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "756"
+- "2000016"
+ms.openlocfilehash: b15a706ce70ce5b60348afb2e7fdf8247758c608
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419721"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35378338"
 ---
 # <a name="office-products-not-available-for-the-mac-platform"></a>Produkty sady Office není k dispozici pro platformy Mac
 
-Aplikace Visio, Project, Publisher a Access nejsou k dispozici pro platformy Mac, [Online aplikace Visio](https://products.office.com/visio/visio-online) a [Project Online](https://products.office.com/project/project-online-premium) jsou však k dispozici a pracovat na všech platformách. 
+Aplikace Visio, Project, Publisher a Access nejsou k dispozici pro platformy Mac, [Online aplikace Visio](https://products.office.com/visio/visio-online) a [Project Online](https://products.office.com/project/project-online-premium) jsou však k dispozici a pracovat na všech platformách.
   
-
