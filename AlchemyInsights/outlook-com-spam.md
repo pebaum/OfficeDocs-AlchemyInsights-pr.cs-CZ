@@ -1,34 +1,29 @@
 ---
-title: Outlook.com nevyžádané
+title: Boji proti spamu a nevyžádané v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 31d81e48cfbc02ad5f93faf1aa707f98a3c67f8e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1896"
+- "9000290"
+ms.openlocfilehash: 37e37c7c810ef23182d6d31eec14b0dfa01b615e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373525"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372002"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a><span data-ttu-id="7fd19-102">Nevyžádané e-mailů v Outlook.com</span><span class="sxs-lookup"><span data-stu-id="7fd19-102">Spam and junk email in Outlook.com</span></span>
+# <a name="mark-email-messages-as-junk"></a><span data-ttu-id="49903-102">Označit e-mailové zprávy jako nevyžádané</span><span class="sxs-lookup"><span data-stu-id="49903-102">Mark email messages as junk</span></span>
 
-<span data-ttu-id="7fd19-103">Chcete-li označit jako nevyžádaná pošta a spam e-mail:</span><span class="sxs-lookup"><span data-stu-id="7fd19-103">To mark an email as junk or spam:</span></span>
+<span data-ttu-id="49903-103">Označení zprávy jako nevyžádané nebo nevyžádané pošty, vyberte zprávu v seznamu zpráv a vyberte **nevyžádané** > **nevyžádané**.</span><span class="sxs-lookup"><span data-stu-id="49903-103">To mark a message as junk or spam, select the message in your message list and select **Junk** > **Junk**.</span></span>
 
-1. <span data-ttu-id="7fd19-104">V seznamu zpráv vyberte zprávu nebo zprávy.</span><span class="sxs-lookup"><span data-stu-id="7fd19-104">Select the message or messages in your message list.</span></span>
-1. <span data-ttu-id="7fd19-105">Nad seznamem zpráv, vyberte **nevyžádané** > **nevyžádané**.</span><span class="sxs-lookup"><span data-stu-id="7fd19-105">Above the message list, select **Junk** > **Junk**.</span></span>
+<span data-ttu-id="49903-104">Chcete-li blokovat všechny zprávy z konkrétní e-mailovou adresu, vyberte zprávu nebo zprávy v seznamu zpráv a potom vyberte **nevyžádané** > **blok**.</span><span class="sxs-lookup"><span data-stu-id="49903-104">To block all messages from a specific email address, select the message or messages in your message list and then select **Junk** > **Block**.</span></span>
 
-<span data-ttu-id="7fd19-106">**Poznámka:** Pokud zjistíte, že e-mailové zprávy nebyly nevyžádané pošty, vyberte zprávu znovu (je ve složce nevyžádané pošty) a vyberte **nevyžádané** > **není nevyžádaná**.</span><span class="sxs-lookup"><span data-stu-id="7fd19-106">**Note:** If you discover that an email message was not spam, select the message again (it will be in your Junk Email folder) and select **Not junk** > **Not junk**.</span></span> <span data-ttu-id="7fd19-107">Položky ve složce nevyžádané E-maily jsou odstraněny po uplynutí 30 dnů.  [Další informace o tom, jak pomoci zachovat spam a nevyžádané pošty do složky doručené pošty Outlook.com.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)</span><span class="sxs-lookup"><span data-stu-id="7fd19-107">Items in your Junk Email folder are deleted after 30 days. [Learn more about how to Help keep spam and junk email out of your Outlook.com inbox.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)</span></span>
+<span data-ttu-id="49903-105">Pokud omylem označíte zprávu jako nevyžádanou poštu, vyberte zprávu do [složky Nevyžádaná pošta](https://outlook.live.com/mail/junkemail) a vyberte **nevyžádané** > **není nevyžádaná**.</span><span class="sxs-lookup"><span data-stu-id="49903-105">If you accidentally mark a message as junk, select the message in your [Junk Email folder](https://outlook.live.com/mail/junkemail) and select **Not junk** > **Not junk**.</span></span> <span data-ttu-id="49903-106">(*Poznámka:* položky do složky nevyžádané E-maily jsou odstraněny po uplynutí 30 dnů.)</span><span class="sxs-lookup"><span data-stu-id="49903-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
 
-<span data-ttu-id="7fd19-108">Chcete-li blokovat všechny zprávy z určité e-mailové adresy nebo domény:</span><span class="sxs-lookup"><span data-stu-id="7fd19-108">To block all messages from specific email addresses or domains:</span></span>
-
-1. <span data-ttu-id="7fd19-109">Vyberte zprávu nebo zprávy v seznamu zpráv a potom vyberte **nevyžádané** > **blok** > **OK**.</span><span class="sxs-lookup"><span data-stu-id="7fd19-109">Select the message or messages in your message list and then select **Junk** > **Block** > **OK**.</span></span> <span data-ttu-id="7fd19-110">(Je-li e-mailové zprávy je již otevřen v novém okně **bloku** se zobrazí jako možnost v horní části okna.)</span><span class="sxs-lookup"><span data-stu-id="7fd19-110">(If the email message is already open in a new window, **Block** appears as an option at the top of the window.)</span></span>
-1. <span data-ttu-id="7fd19-111">Otevřete [nastavení nevyžádané e-mailu](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2), zadejte e-mailovou adresu nebo doménu, kterou chcete blokovat a vyberte příkaz **Přidat** > **Uložit**.</span><span class="sxs-lookup"><span data-stu-id="7fd19-111">Open your [Junk email settings](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2), enter the email address or domain you want to block, and select **Add** > **Save**.</span></span>
-1. <span data-ttu-id="7fd19-112">V [nevyžádané e-mailové filtry](https://outlook.live.com/mail/options/mail/junkEmail/filtersOption)můžete vybrat pouze důvěryhodné e-mailové adresy v mé bezpečných odesílatelů a seznamu domény a Důvěryhodné seznamy adresátů.</span><span class="sxs-lookup"><span data-stu-id="7fd19-112">In your [Junk email filters](https://outlook.live.com/mail/options/mail/junkEmail/filtersOption), you can select to only trust email from addresses in my Safe senders and domains list and Safe mailing lists.</span></span>
-
-[<span data-ttu-id="7fd19-113">Další informace o blokování nebo zrušení blokování odesílatelů v Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="7fd19-113">Learn more about how to block or unblock senders in Outlook.com.</span></span>](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e)
+<span data-ttu-id="49903-107">Chcete-li získat další informace, přečtěte si [označení e-mailů jako nevyžádané nebo blokování odesílatelů v Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span><span class="sxs-lookup"><span data-stu-id="49903-107">To learn more, read [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span></span>
