@@ -9,17 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 711
+ms.custom:
+- "711"
+- "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: a45bf0eea6abcd0fdb5c5d4aeec00a91a3e038f4
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: bec7a5813e026eb3cd94bcad65a35824751f7fe7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753376"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35364150"
 ---
 # <a name="create-distribution-groups"></a>Vytvořit distribuční skupiny
 
 E-mailové zprávy doručovány do skupin uživatelů uvnitř i vně vaší organizace pomocí distribučních skupin (známé také jako seznamy pro distribuci). Jejich vytvoření je snadné! Pokyny naleznete v tématu [vytvoření distribučních seznamů ve středisku pro správce služeb Microsoft 365](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).
 
-**Poznámka**: Správce musí spravovat členství distribuční skupinu. Pokud chcete, aby uživatelé spravovat své vlastní členství ve skupině jsou uvedeny, můžete chtít zvažte místo [Skupiny Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) . 
+**Poznámka**: Správce musí spravovat členství distribuční skupinu. Pokud chcete, aby uživatelé spravovat své vlastní členství ve skupině jsou uvedeny, můžete chtít zvažte místo [Skupiny Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) .
