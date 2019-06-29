@@ -1,28 +1,28 @@
 ---
-title: 8000041 Změna vzhledu poštovní schránky Outlook.com
+title: Změna vzhledu z poštovní schránky Outlook.com
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 11/2/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/4/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000041
+ms.custom:
+- "775"
+- "789"
+- "792"
+- "8000041"
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
-ms.openlocfilehash: 20c8ac5d15d878f2ebddbe2b31831a89eb6a0cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9c9e7b18761d712b9e953276e5da7338bff15619
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32394031"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362638"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Změna vzhledu z poštovní schránky Outlook.com
+# <a name="change-the-look-of-your-mailbox"></a>Změna vzhledu vaší poštovní schránky
 
-Můžete změnit vzhled podokno Seznam a čtení zpráv v Outlook.com. Zvolte, zda mají být seřazeny zprávy do Focused a další karty a chcete-li e-mailu, který se má zobrazit jako jednotlivé zprávy nebo konverzace.
+Můžete změnit vzhled podokno seznamu a čtení zprávy v [Nastavení rozložení](https://outlook.live.com/mail/options/mail/layout). Zvolte, pokud e-mailu mají být zobrazeny jako jednotlivé zprávy nebo konverzace, pokud nové zprávy se zobrazí na horní nebo dolní části seznamu zpráv a další.
   
-Zjistěte, jak [změnit vzhled své poštovní schránky na Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).
-  
- **Poznámka:** Již je možné nechat Outlook.com beta a vrátíte se do klasické verze Outlook.com. [Další informace o nový Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874356).
-  
-
+Další informace naleznete v tématu [Změna vzhledu poštovní schránky Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).

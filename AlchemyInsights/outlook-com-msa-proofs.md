@@ -1,38 +1,38 @@
 ---
-title: 8000060 doklady Outlook.com MSA
+title: Outlook.com MSA doklady
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000060
+ms.custom:
+- "1006"
+- "1008"
+- "1009"
+- "1010"
+- "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392329"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373874"
 ---
 # <a name="security-info-and-security-codes"></a>Informace o zabezpečení a zabezpečení kódy
 
-1. Přihlaste se na stránku s vaším účtem Microsoft [Základy zabezpečení](https://account.microsoft.com/security) . 
-    
-2. Vyberte **informace o aktualizaci**. 
-    
-3. Můžete být vyzváni k zadání bezpečnostního kódu, chcete-li pokračovat. Pokud nemáte přístup k alternativní e-mailové nebo telefonní číslo, zvolte **nemám žádné z těchto** a postupujte podle pokynů a nahradit vaše informace o zabezpečení. 
-    
-4. Vyberte možnost **informace o zabezpečení přidat** a potom postupujte podle pokynů a zadejte nové zprávy elektronické pošty nebo telefonní číslo. 
-    
-5. Bezpečnostní kód zašleme na nový e-mail nebo telefonní číslo. Zadejte tento bezpečnostní kód a klepněte na tlačítko **Další**. Nové informace o zabezpečení se zobrazí v seznamu. 
-    
-6. Pro všechny, které chcete odstranit, zvolte **Odebrat** . 
-    
-7. Pokud chcete aktualizovat které zabezpečení info zašleme oznámení, **změnit možnosti výstrah** vyberte a zrušte zaškrtnutí políčka pro jste již chcete dostávat upozornění, pokud jsou důležité. 
-    
-Další informace o [zabezpečení kódy a informace o zabezpečení](https://support.microsoft.com/help/12428/).
-  
+Chcete-li přidat informace o zabezpečení účtu:
 
+1. Přihlásit se k [zabezpečení základy](https://account.microsoft.com/security) s vaším účtem Microsoft.
+1. Vyberte **zabezpečení kontaktní informace**.
+1. Vyberte **informace o zabezpečení přidat** a postupujte podle pokynů a zadejte telefonní číslo nebo e-mailovou adresu.
+1. Zobrazí se na dané telefonní číslo nebo e-mailovou adresu bezpečnostní kód. Zadejte bezpečnostní kód, který jste obdrželi v okně **Přidat informace o zabezpečení** a klepněte na tlačítko **Další**.
+
+Pokud chcete odebrat telefonní číslo nebo e-mailovou adresu, vyberte **Odebrat** vedle něho.
+
+Pokud chcete změnit číslo, které telefonu nebo výstrahy zabezpečení obdrží e-mailovou adresu, vyberte **změnit možnosti výstrah**.
+
+Chcete-li získat další informace, číst [kódy info a ověření účtu zabezpečení společnosti Microsoft](https://support.microsoft.com/help/12428/).

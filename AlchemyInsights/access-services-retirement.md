@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769430"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359332"
 ---
 # <a name="access-services-retirement"></a>Přístup služby odchod do důchodu
 
@@ -24,7 +27,7 @@ Od června 2019, jsme zastaví vytváření nové databáze aplikace Access v On
 
 **Co je třeba udělat, aby tuto změnu připravit?**
 
-Doporučujeme vytvořit plán přechodu pro databáze web Access vaší organizace. Admins můžete získat soupis přístup aplikací, které používají servery [přístupu služby SharePoint app skener](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) . 
+Doporučujeme vytvořit plán přechodu pro databáze web Access vaší organizace. Admins můžete získat soupis přístup aplikací, které používají servery [přístupu služby SharePoint app skener](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) .
 
 K migraci dat databáze webového přístupu několika způsoby:
 
