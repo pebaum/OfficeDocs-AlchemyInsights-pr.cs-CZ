@@ -9,13 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
+ms.custom:
+- "1639"
+- "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: 58781dd64bd99d2b709142aa090a30d1e8d4652a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a3534000b8b8f3d8c2a2cd9b5b3cf1eb278d3c85
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372625"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360766"
 ---
 # <a name="payment-options"></a>Možnosti platby
 
@@ -27,7 +30,7 @@ Kreditní karta, bankovní účet (inkaso) nebo faktura (platba šekem nebo elek
   
 Pokud platíte strháváním z kreditní karty nebo bankovního účtu, bude se vám částka za předplatné automaticky strhávat následující den po datu fakturace až do konce období platnosti předplatného. [Informace o kreditní kartě nebo bankovním účtu můžete podle potřeby kdykoliv aktualizovat](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide). Můžete také zvolit možnost [Příjem kopie vyúčtování v e-mailu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
   
-Pokud byla vaše kreditní karta odmítnuta nebo má zůstatek po splatnosti, můžete u **Fakturace** na stránce \> [Předplatná](https://portal.office.com/adminportal/home#/subscriptions) zvolit možnost **Zaplatit hned**. 
+Pokud byla vaše kreditní karta odmítnuta nebo má zůstatek po splatnosti, můžete u **Fakturace** na stránce \> [Předplatná](https://portal.office.com/adminportal/home#/subscriptions) zvolit možnost **Zaplatit hned**.
   
  **Platba fakturou (šek nebo elektronický převod finančních prostředků)**
   
@@ -43,4 +46,3 @@ Pokud chcete změnit způsob placení za své aktuální předplatné, postupujt
   
 [Platba předplatného Office 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
-

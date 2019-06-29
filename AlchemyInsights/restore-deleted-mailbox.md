@@ -8,31 +8,32 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "360"
+- "3500005"
 search.appverid:
 - MOE150
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 760587c0e58662283c3c1a647d1cc5fb81187545
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 92761e4679a155781555daec023ee9602d62a857
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770731"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356086"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Obnovení odstraněné poštovní schránky
 
 Pokud uživatel ztratí svou licenci Exchange Online, poštovní schránka je zachován 30 dnů a kryté jednoduše znovu přiřazení licence uživateli.
   
- *Toto bude fungovat pouze do 30 dnů.*  Na portálu správce přejděte na: 
+ *Toto bude fungovat pouze do 30 dnů.*  Na portálu správce přejděte na:
   
-1. **Uživatelé** \> **Aktivních** uživatelů. Vyberte uživatele. 
-    
-2. Stiskněte **Upravit** změnit licence na produkty 
-    
-3. Přiřaďte licenci Exchange Online a stiskněte **Uložit**
-    
-Pokud se pokoušíte obnovit sdílené schránky je také obnovitelná 30 dní. Najdete je v části **Uživatelé** \> **odstraněných** uživatelů; sdílené poštovní schránky nevyžadují licenci. Pokud zjistíte, že potřebujete obnovit odstraněný uživatelský, naleznete v tématu [obnovení uživatele ve službách Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
-  
+1. **Uživatelé** \> **Aktivních** uživatelů. Vyberte uživatele.
 
+2. Stiskněte **Upravit** změnit licence na produkty
+
+3. Přiřaďte licenci Exchange Online a stiskněte **Uložit**
+
+Pokud se pokoušíte obnovit sdílené schránky je také obnovitelná 30 dní. Najdete je v části **Uživatelé** \> **odstraněných** uživatelů; sdílené poštovní schránky nevyžadují licenci. Pokud zjistíte, že potřebujete obnovit odstraněný uživatelský, naleznete v tématu [obnovení uživatele ve službách Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).
+  

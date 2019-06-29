@@ -6,22 +6,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: ''
-ms.openlocfilehash: 6166493f79379f44b1a9bbbaca6becfe624fe912
-ms.sourcegitcommit: 22ce2315c8cf643137ab3420cdc1cda41433d44a
+ms.custom:
+- "1874"
+- "9000265"
+ms.openlocfilehash: 8b45766e920fa5bd6eab8abc6ef808ae978808dc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "34057687"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379634"
 ---
 # <a name="modern-site-as-root-site"></a>Moderní web jako kořenový web
 
-Zákazníci [Cílovou verzi](https://docs.microsoft.com/en-us/office365/admin/manage/release-options-in-office-365?view=o365-worldwide) můžete povolit nyní zkušenosti moderních komunikačních webů na klasické kořenového webu jejich klienta SharePoint.
+V tuto chvíli na základě názorů náhled, jsme se rozhodli odložit zavádění funkce umožňující komunikaci serveru jako kořenový Web. Omlouváme se za nepříjemnosti a sdělí nový plán prostřednictvím Centra zpráv, jakmile je k dispozici.
 
-Tuto funkci lze aktivovat spuštěním jednoduché rutiny prostředí PowerShell. Na úspěšné spuštění prostředí PowerShell příkazy kořenový web bude mít novou domovskou stránku webu komunikace. Podrobnosti o požadavky na prostředí PowerShell rutiny a funkce jsou k dispozici v článku [SPOCommSite povolit](https://docs.microsoft.com/en-us/powershell/module/sharepoint-online/Enable-SPOCommSite?view=sharepoint-ps). 
+V současné době nelze povolit komunikační weby jako kořenový Web.
 
-Jsme budete být postupně postupných to, vypnuto ve výchozím nastavení cílené uvolnění zákazníkům včasné května 2019 a role, budou k dispozici po celém světě do konce června 2019. I nadále odkazovat na [Centrum zpráv](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter) pro další nové funkce s moderní. 
-
-**Důležité**: neodstraňujte klasické kořenového webu vytvoření moderní komunikační sítě. To není podporován společností Microsoft. Odstranění kořenového webu bude všechny weby služby SharePoint v organizaci přístupný všem uživatelům, dokud obnovit web nebo vytvořit nový web na adrese URL stejné. 
- 
- 
+**Důležité**: neodstraňujte klasické kořenového webu vytvoření moderní komunikační sítě. To není podporován společností Microsoft. Odstranění kořenového webu bude všechny weby služby SharePoint v organizaci přístupný všem uživatelům, dokud obnovit web nebo vytvořit nový web na adrese URL stejné.
