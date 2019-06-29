@@ -6,22 +6,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: ''
-ms.openlocfilehash: 6166493f79379f44b1a9bbbaca6becfe624fe912
-ms.sourcegitcommit: 22ce2315c8cf643137ab3420cdc1cda41433d44a
+ms.custom:
+- "1874"
+- "9000265"
+ms.openlocfilehash: 8b45766e920fa5bd6eab8abc6ef808ae978808dc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "34057687"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379634"
 ---
-# <a name="modern-site-as-root-site"></a><span data-ttu-id="bec8a-102">Moderní web jako kořenový web</span><span class="sxs-lookup"><span data-stu-id="bec8a-102">Modern site as root site</span></span>
+# <a name="modern-site-as-root-site"></a><span data-ttu-id="a8c12-102">Moderní web jako kořenový web</span><span class="sxs-lookup"><span data-stu-id="a8c12-102">Modern site as root site</span></span>
 
-<span data-ttu-id="bec8a-103">Zákazníci [Cílovou verzi](https://docs.microsoft.com/en-us/office365/admin/manage/release-options-in-office-365?view=o365-worldwide) můžete povolit nyní zkušenosti moderních komunikačních webů na klasické kořenového webu jejich klienta SharePoint.</span><span class="sxs-lookup"><span data-stu-id="bec8a-103">[Target Release](https://docs.microsoft.com/en-us/office365/admin/manage/release-options-in-office-365?view=o365-worldwide) customers can now enable the modern communication site experience at the classic root site of their SharePoint tenant.</span></span>
+<span data-ttu-id="a8c12-103">V tuto chvíli na základě názorů náhled, jsme se rozhodli odložit zavádění funkce umožňující komunikaci serveru jako kořenový Web.</span><span class="sxs-lookup"><span data-stu-id="a8c12-103">At this time, based on preview feedback, we have decided to postpone rolling out the feature to enable a communication site as a root site.</span></span> <span data-ttu-id="a8c12-104">Omlouváme se za nepříjemnosti a sdělí nový plán prostřednictvím Centra zpráv, jakmile je k dispozici.</span><span class="sxs-lookup"><span data-stu-id="a8c12-104">We apologize for any inconvenience and will communicate a new schedule via Message Center, once it is available.</span></span>
 
-<span data-ttu-id="bec8a-104">Tuto funkci lze aktivovat spuštěním jednoduché rutiny prostředí PowerShell.</span><span class="sxs-lookup"><span data-stu-id="bec8a-104">This feature can be activated by running a simple PowerShell cmdlet.</span></span> <span data-ttu-id="bec8a-105">Na úspěšné spuštění prostředí PowerShell příkazy kořenový web bude mít novou domovskou stránku webu komunikace.</span><span class="sxs-lookup"><span data-stu-id="bec8a-105">On the successful execution of the PowerShell command(s), the root site will have a new communication site home page.</span></span> <span data-ttu-id="bec8a-106">Podrobnosti o požadavky na prostředí PowerShell rutiny a funkce jsou k dispozici v článku [SPOCommSite povolit](https://docs.microsoft.com/en-us/powershell/module/sharepoint-online/Enable-SPOCommSite?view=sharepoint-ps).</span><span class="sxs-lookup"><span data-stu-id="bec8a-106">Details about the PowerShell cmdlet and feature requirements are available in the article [Enable-SPOCommSite](https://docs.microsoft.com/en-us/powershell/module/sharepoint-online/Enable-SPOCommSite?view=sharepoint-ps).</span></span> 
+<span data-ttu-id="a8c12-105">V současné době nelze povolit komunikační weby jako kořenový Web.</span><span class="sxs-lookup"><span data-stu-id="a8c12-105">Currently, communication sites cannot be enabled as the root site.</span></span>
 
-<span data-ttu-id="bec8a-107">Jsme budete být postupně postupných to, vypnuto ve výchozím nastavení cílené uvolnění zákazníkům včasné května 2019 a role, budou k dispozici po celém světě do konce června 2019.</span><span class="sxs-lookup"><span data-stu-id="bec8a-107">We'll be gradually rolling this out, off by default, to Targeted Release customers in early May 2019, and the roll out will be available worldwide by the end of June 2019.</span></span> <span data-ttu-id="bec8a-108">I nadále odkazovat na [Centrum zpráv](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter) pro další nové funkce s moderní.</span><span class="sxs-lookup"><span data-stu-id="bec8a-108">Continue to refer to the [Message Center](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter) for other new features with Modern.</span></span> 
-
-<span data-ttu-id="bec8a-109">**Důležité**: neodstraňujte klasické kořenového webu vytvoření moderní komunikační sítě.</span><span class="sxs-lookup"><span data-stu-id="bec8a-109">**Important**: Do not delete your classic root site to create a modern Communication Site.</span></span> <span data-ttu-id="bec8a-110">To není podporován společností Microsoft.</span><span class="sxs-lookup"><span data-stu-id="bec8a-110">This is not supported by Microsoft.</span></span> <span data-ttu-id="bec8a-111">Odstranění kořenového webu bude všechny weby služby SharePoint v organizaci přístupný všem uživatelům, dokud obnovit web nebo vytvořit nový web na adrese URL stejné.</span><span class="sxs-lookup"><span data-stu-id="bec8a-111">Deleting the root site will make all SharePoint sites in your organization inaccessible to all users, until you restore the site or create a new site at the same URL.</span></span> 
- 
- 
+<span data-ttu-id="a8c12-106">**Důležité**: neodstraňujte klasické kořenového webu vytvoření moderní komunikační sítě.</span><span class="sxs-lookup"><span data-stu-id="a8c12-106">**Important**: Do not delete your classic root site to create a modern Communication Site.</span></span> <span data-ttu-id="a8c12-107">To není podporován společností Microsoft.</span><span class="sxs-lookup"><span data-stu-id="a8c12-107">This is not supported by Microsoft.</span></span> <span data-ttu-id="a8c12-108">Odstranění kořenového webu bude všechny weby služby SharePoint v organizaci přístupný všem uživatelům, dokud obnovit web nebo vytvořit nový web na adrese URL stejné.</span><span class="sxs-lookup"><span data-stu-id="a8c12-108">Deleting the root site will make all SharePoint sites in your organization inaccessible to all users, until you restore the site or create a new site at the same URL.</span></span>
