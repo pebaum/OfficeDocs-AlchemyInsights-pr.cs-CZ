@@ -9,16 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
-ms.custom: 1048
-ms.openlocfilehash: 9417fef2584e9b81a2ca71cbcc5e23ce093d94e8
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.custom:
+- "1048"
+- "3100026"
+ms.openlocfilehash: b94fcc697bb7ac065cef57f3e3eb0b515c3094a0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751696"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35352846"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="1c1bb-103">5.7.750 klient zablokováno odesílání z registrace domény</span><span class="sxs-lookup"><span data-stu-id="1c1bb-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="4d3ff-103">5.7.750 klient zablokováno odesílání z registrace domény</span><span class="sxs-lookup"><span data-stu-id="4d3ff-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
 
-<span data-ttu-id="1c1bb-104">K této chybě dojde, když velkou svazku zprávy jsou odesílány z domén, které nejsou zřízeny ve službách Office 365 (přidány jako přijaté domény a ověření).</span><span class="sxs-lookup"><span data-stu-id="1c1bb-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in Office 365 (added as accepted domains and validated).</span></span>
+<span data-ttu-id="4d3ff-104">K této chybě dojde, když velkou svazku zprávy jsou odesílány z domén, které nejsou zřízeny ve službách Office 365 (přidány jako přijaté domény a ověření).</span><span class="sxs-lookup"><span data-stu-id="4d3ff-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in Office 365 (added as accepted domains and validated).</span></span>
 
-<span data-ttu-id="1c1bb-105">Chcete-li se vyhnout této chybě, můžete toku konektor pošty na základě certifikátů, kde je certifikát domény je zřízena doména nebo zřizujete všechny odesílající domény.</span><span class="sxs-lookup"><span data-stu-id="1c1bb-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
+<span data-ttu-id="4d3ff-105">Chcete-li se vyhnout této chybě, můžete toku konektor pošty na základě certifikátů, kde je certifikát domény je zřízena doména nebo zřizujete všechny odesílající domény.</span><span class="sxs-lookup"><span data-stu-id="4d3ff-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
