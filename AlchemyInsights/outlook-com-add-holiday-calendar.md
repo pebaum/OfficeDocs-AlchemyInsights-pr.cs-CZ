@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9000229"
 - "1812"
-ms.openlocfilehash: 16a5af9cb5779bf4dd1084e697001fb968bb1d35
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+- "9000229"
+ms.openlocfilehash: 46fc81bf5ed608d3b92a7e3f45cc5f3a37619d95
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643314"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377546"
 ---
 # <a name="add-a-holiday-calendar-in-outlookcom"></a>Přidání kalendáře svátků v Outlook.com
 
-1. V dolní části stránky vyberte ikonu kalendáře přejdete do kalendáře.
-1. V levém podokně vyberte **importovat kalendář** > **svátky**.
-1. Vyberte kalendář svátků a potom vyberte **X** v horním rohu volbu uložte a zavřete okno **Import kalendáře** .
+1. V dolní části stránky vyberte ikonu kalendáře přejdete [do kalendáře](https://outlook.live.com/mail/calendar).
+1. V levém podokně vyberte **Přidat kalendář** > **Zajímavé kalendáře** > **svátky**.
+1. Vyberte kalendář svátků a potom vyberte **X** v horním rohu volbu uložte a zavřete okno **Přidat kalendář** .
 
 Další informace o [přidávání a odebírání kalendáře narozenin a svátků](https://support.office.com/article/b8e636da-fda8-413f-940e-68396efa49a6).

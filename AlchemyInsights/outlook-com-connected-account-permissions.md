@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000093
-ms.openlocfilehash: 9bd711a5780129ac643ec9bf0000adf69ae2153b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1431"
+- "8000093"
+ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417939"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375782"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Jak opravit "Vypadá to nemáme oprávnění"
 
 Pokud se zobrazí chybová zpráva "vypadá to nemáme oprávnění k získání e-mailů pro..." prosím proveďte následující kroky:
 
-1. Otevřít [Nastavení účtů pro připojení](https://outlook.live.com/mail/options/mail/accounts) a odebrat nebo odstranit připojený účet uveden v chybě. 
+1. Otevřít [Nastavení účtů pro připojení](https://outlook.live.com/mail/options/mail/accounts) a odebrat nebo odstranit připojený účet uveden v chybě.
 2. Znovu přidáte připojený účet.
 3. Přejděte [zpět do poštovní schránky](https://outlook.live.com/mail/inbox).
 

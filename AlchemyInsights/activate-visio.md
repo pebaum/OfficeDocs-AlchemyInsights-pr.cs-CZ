@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883154"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358894"
 ---
 # <a name="activate-visio"></a>Spusťte aplikaci Visio
 
@@ -27,8 +27,8 @@ Předtím, než uživatel může nainstalovat a aktivovat stolní plochy aplikac
 
 K aktivaci aplikace Visio:
 
-1. [Instalace aplikace Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) Pokud již není nainstalována.
-2. Po dokončení instalace spusťte aplikaci Visio. V mnoha případech aplikace automaticky aktivuje a můžete začít ihned používat aplikace Visio. Pokud se zobrazí výzva k přihlášení, ujistěte se, že jste přihlášení pomocí stejné pracovní nebo školní účet, který byl přiřazen licenci aplikace Visio. 
+1. Instalaci aplikace Visio na [portálu Můj účet](https://portal.office.com/account#installs) , pokud již není nainstalována. Vám pomůže [Nainstalovat aplikaci Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. Po dokončení instalace spusťte aplikaci Visio. Aplikace Visio pravděpodobně aktivovat automaticky a můžete začít ji hned používat. Pokud tomu tak není, můžete být vyzváni k přihlášení. Je nutné přihlásit se pomocí stejné pracovní nebo školní účet, který byl přiřazen licenci aplikace Visio. Postupujte podle pokynů a pokračovat s aktivací. 
 
 Problémy s aktivací spusťte [Poradce při potížích s aktivací](https://aka.ms/SARA-OfficeActivation-Alchemy) v příslušném počítači.
 

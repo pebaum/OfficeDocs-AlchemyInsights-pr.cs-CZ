@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392358"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372542"
 ---
 # <a name="replying-in-outlookcom"></a>Odpovídání v Outlook.com
 
 Chcete-li odpovědět na jednu zprávu najednou:
 
-1. V seznamu zpráv vyberte zprávu, kterou chcete předat dál.
+1. V seznamu zpráv vyberte zprávu, kterou chcete odpovědět.
 2. V horní části v podokně zpráv vyberte šipku **Odpovědět** nebo **Odpovědět všem** šipky.
 3. Napište zprávu a pak vyberte **Odeslat**.
 
 Automatické odpovědi na všechny zprávy:
 
-1. Otevřete [Nastavení automatické odpovědi](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption).
+1. Přejděte na **Nastavení** > **Zobrazit všechna nastavení aplikace Outlook** > **Mail** > **Automatické odpovědi** , otevřete [Nastavení automatické odpovědi](https://outlook.live.com/mail/options/mail/automaticReplies).
 2. Vyberte přepínač **zapnout automatické odpovědi** .
 3. Zaškrtnutím políčka **odesílat odpovědi pouze během časového období** umožňuje:
     - Odešlete pouze odpovědi, když zvolíte. Pokud nechcete nastavit časové období, zůstane automatické odpovědi na dokud jej nevypnete.

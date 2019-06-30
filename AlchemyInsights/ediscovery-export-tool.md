@@ -9,39 +9,42 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "263"
+- "928"
+- "1100001"
+- "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 51e010dd19419f21c67d589b9833821b1e5075c0
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bb72bd96bd19d5e5a8f87b91042a2423c5e003df
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404114"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388886"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nelze nainstalovat nebo spustit služba eDiscovery Export Tool?
 
 Pokud nelze nainstalovat nebo spustit služba Office 365 eDiscovery Export nástroj ke stažení výsledky hledání, zkontrolujte následující skutečnosti:
   
 - Počítač, který používáte, splňuje tyto předpoklady:
-    
+
   - 32 nebo 64-bit verze Windows 7 a novější verze
-    
+
   - Rozhraní.NET Framework Microsoft 4.7
-    
+
   - Podporované prohlížeče:
-    
+
   - Microsoft okraj
-    
+
     Nebo
-    
+
   - Internet Explorer 10 a novější verze
-    
+
     Nejsou podporovány jiné prohlížeče, například Google Chrome a Mozilla Firefox.
-    
-- Organizace mohou připojit ke koncovému bodu v Azure, což je ** \*. blob.core.windows.net** (zástupný znak představuje jedinečný identifikátor úlohy exportu). 
-    
+
+- Organizace mohou připojit ke koncovému bodu v Azure, což je ** \*. blob.core.windows.net** (zástupný znak představuje jedinečný identifikátor úlohy exportu).
+
 - Budou vám přiřazena role Export v zabezpečení Office 365 &amp; centra kompatibility. Ve výchozím nastavení tato role přiřazena pouze skupiny rolí správce služba eDiscovery. V tématu [přiřazení oprávnění služba eDiscovery](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).
-    
+
 Další informace naleznete v tématu [Export obsahu hledání výsledky](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
   
-
