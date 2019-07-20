@@ -11,22 +11,23 @@ ms.custom:
 - "1012"
 - "5300012"
 ms.assetid: 50249bb9-3c28-408f-946b-2caab6b1b9f4
-ms.openlocfilehash: 88086a37b30448b6849f78f7504e64f5c38ecbee
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4915604747f504ddc321f6f845940218743c6c4f
+ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360442"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35802779"
 ---
 # <a name="associate-a-hub-site"></a>Přidružit centrální lokalita
 
 Chcete-li přidružit existující stránky na webu rozbočovač, postupujte takto:
   
-1. Na webu, klepněte na **nastavení (** ikonu zařízení v pravém horním rohu) a potom klepněte na tlačítko **informace o webu**.
+1. Na webu vyberte **Nastavení** (ikona zařízení v pravém horním rohu) a pak vyberte **informace o webu**.
 
-2. V panelu Upravit informace webu v části přidružení webu rozbočovač centrální lokalitě, ke které chcete přiřadit webu vyberte a klepněte na tlačítko **Uložit**. Změní vzhled vašeho webu stejná s centrální lokalita a rozbočovač webu navigační panel se zobrazí v horní.
+2. V panelu **Upravit informace** v nabídce **přidružení webu rozbočovač** vyberte centrální lokalitě, kterou chcete přidružit jste webu a pak vyberte **Uložit**. Změní vzhled vašeho webu stejná s centrální lokalita a rozbočovač webu navigační panel se zobrazí v horní.
 
- **Poznámka**: Pokud není k dispozici možnost přidružení webu rozbočovač nebo jsou uvedeny žádné servery, servery rozbočovač nemusí být povoleny nebo nemáte oprávnění k přidružení k síti rozbočovače servery. Další informace získáte od správce.
-  
- **Poznámka:** Neexistuje žádné omezení počtu serverů, které mohou být přiřazeny k síti rozbočovače.
+ > [!Note]
+>Pokud není k dispozici možnost přidružení webu rozbočovač nebo jsou uvedeny žádné servery, servery rozbočovač nemusí být povoleny nebo nemáte oprávnění k přidružení k síti rozbočovače servery. Další informace získáte od správce.
+
+>Neexistuje žádné omezení počtu serverů, které mohou být přiřazeny k síti rozbočovače.
   
