@@ -7,19 +7,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: c1d8635346cbc260d5191878879f1120e6a3a602
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: cb2afc4cacf4c45b7643ebce7b6e8ca6f92c9e03
+ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760194"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35803067"
 ---
-# <a name="modernize-classic-sharepoint-site"></a>Modernizaci klasické webu služby SharePoint
+# <a name="modernize-your-classic-sharepoint-site"></a>Modernizaci klasické webu služby SharePoint
 
-Podrobný přehled modernizing klasické webů služby SharePoint na moderní zkušenosti viz [Modernize klasické weby služby SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+Přečtěte si následující podrobné informace o použití nové moderní zkušenosti:
 
-Maximalizovat využití moderního uživatelského rozhraní pro vaše web stránky a stránky seznamů a knihoven, naleznete v tématu [Modernize uživatelského rozhraní](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface). 
+- Podrobný přehled modernizing klasické webů služby SharePoint na moderní zkušenosti viz [Modernize klasické weby služby SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
 
-Další informace o tom, jak odblokovat seznamy a knihovny při použití moderního uživatelského rozhraní, viz [Maximalizovat využívání moderních seznamů a knihoven](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+- Maximalizovat využití moderního uživatelského rozhraní pro vaše web stránky a stránky seznamů a knihoven, naleznete v tématu [Modernize uživatelského rozhraní](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface). 
 
-Další informace o připojení ke skupině služeb Office 365 a provedení připojení skupiny viz [připojení do skupiny Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+- Další informace o tom, jak odblokovat seznamy a knihovny při použití moderního uživatelského rozhraní, viz [Maximalizovat využívání moderních seznamů a knihoven](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+
+- Další informace o připojení ke skupině služeb Office 365 a provedení připojení skupiny viz [připojení do skupiny Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
