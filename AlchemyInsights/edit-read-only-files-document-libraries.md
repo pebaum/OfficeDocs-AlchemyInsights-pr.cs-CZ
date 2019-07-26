@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 5da4914548348418c42e1e1b52d1428c0ed0af9b
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132716"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903931"
 ---
 # <a name="edit-a-read-only-file"></a>Upravte soubor jen pro čtení
 
@@ -25,7 +25,7 @@ Místo klepnutí na název dokumentu, klepněte na tlačítko **Otevřené nabí
 
 Poznámky:
 
-- Pokud by spíše dokumenty otevřít pro úpravy v Office Online klepnutím na nadpis, můžete nastavit knihovny k tomu (tak dlouho, dokud nemáte oprávnění ke změně nastavení knihovny).
+- Pokud by spíše dokumenty otevřete pro úpravy v sadě Office po klepnutí na nadpis, můžete nastavit knihovny k tomu (tak dlouho, dokud nemáte oprávnění ke změně nastavení knihovny).
 
 - Pokud máte knihovny s rezervaci požadovaných sloupců nebo pokud pouze uživatelé, kteří můžete upravit v nastavení verze služby SharePoint knihovny dokumentů, tyto položky budou synchronizovány pouze pro čtení.
 
