@@ -1,0 +1,40 @@
+---
+title: Nasazení týmů jako samostatné, nebo s novou nebo existující instalace sady Office
+ms.author: danbrown
+author: DHB-MSFT
+manager: laurawi
+ms.date: 08/01/2019
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9000660"
+- "2509"
+ms.openlocfilehash: 3318e1b17cc99e927e1011f7ca9eca8dec616d59
+ms.sourcegitcommit: 4600dd4fb577bf5f5482a24616c2d9a6b81e8052
+ms.translationtype: MT
+ms.contentlocale: cs-CZ
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054224"
+---
+# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a><span data-ttu-id="32851-102">Nasazení týmů jako samostatné, nebo s novou nebo existující instalace sady Office</span><span class="sxs-lookup"><span data-stu-id="32851-102">Deploying Teams as standalone or with new or existing Office installations</span></span>
+
+<span data-ttu-id="32851-103">Teams společnosti Microsoft je nyní součástí ***nové instalace*** sady Office 365 ProPlus, Office 365 Business a Office for Mac.</span><span class="sxs-lookup"><span data-stu-id="32851-103">Microsoft Teams is now included as part of ***new installations*** of Office 365 ProPlus, Office 365 Business, and Office for Mac.</span></span> <span data-ttu-id="32851-104">Další informace naleznete v tématu [Při Teams Microsoft začne být součástí nové instalace sady Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="32851-104">For more information, see [When will Microsoft Teams start being included with new installations of Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)</span></span>
+
+<span data-ttu-id="32851-105">Navíc verze. 1906 v kanálu měsíčně počínaje, týmy bude ***přidán do existující instalace*** sady Office 365 ProPlus (a Office 365 Business) na zařízení se systémem Windows při aktualizaci stávající instalace na nejnovější verzi.</span><span class="sxs-lookup"><span data-stu-id="32851-105">Additionally, starting with Version 1906 in Monthly Channel, Teams will be ***added to existing installations*** of Office 365 ProPlus (and Office 365 Business) on devices running Windows when you update your existing installation to the latest version.</span></span> <span data-ttu-id="32851-106">Další informace naleznete v tématu [a co existující instalace sady Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="32851-106">For more information, see [What about existing installations of Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="32851-107">Pokud nechcete čekat na tento plán zavedení, můžete nasadit týmy jako samostatný pro uživatele podle [následujícího postupu](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) nebo mohou uživatelé nainstalovat týmy pro sebe z [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).</span><span class="sxs-lookup"><span data-stu-id="32851-107">If you don't want to wait for this rollout schedule, you can deploy Teams as standalone for your users by [following these instructions](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) or you can have your users install Teams for themselves from [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).</span></span>
+
+<span data-ttu-id="32851-108">Pokud vaše organizace není připravena k nasazení týmů, máme kroky, které můžete provést k ***vyloučení týmy*** z [nové](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) nebo [existující](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) instalace sady Office.</span><span class="sxs-lookup"><span data-stu-id="32851-108">If your organization isn't ready to deploy Teams, we have the steps you can take to ***exclude Teams*** from [new](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) or [existing](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) installations of Office.</span></span> <span data-ttu-id="32851-109">Pokud chcete týmy byl nainstalován, ale není má týmy spustit automaticky pro uživatele po instalaci naleznete v tématu [Týmy společnosti Microsoft zabránit spuštění automaticky po instalaci](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).</span><span class="sxs-lookup"><span data-stu-id="32851-109">If you want Teams to be installed, but don't want Teams to start automatically for the user after it's installed, see [Prevent Microsoft Teams from starting automatically after installation](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).</span></span>
+
+<span data-ttu-id="32851-110">***Odinstalovat týmy*** ze zařízení se systémem Windows naleznete v tématu [Odinstalace týmy společnosti Microsoft](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81).</span><span class="sxs-lookup"><span data-stu-id="32851-110">To ***uninstall Teams*** from a device running Windows, see [Uninstall Microsoft Teams](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81).</span></span> <span data-ttu-id="32851-111">Vyčištění Microsoft Teams z více cílových počítačů nebo uživatelů naleznete v [nasazení týmy společnosti Microsoft vyčistit](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).</span><span class="sxs-lookup"><span data-stu-id="32851-111">To cleanup Microsoft Teams from multiple target machines or users, see [Microsoft Teams deployment clean up](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).</span></span>
+
+<span data-ttu-id="32851-112">Pokud používáte sdílené počítače, Remote Desktop Services (RDS) nebo virtuální plochy infrastruktury (VDI), viz [sdílené počítače a prostředích VDI s týmy společnosti Microsoft](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="32851-112">If you're using shared computers, Remote Desktop Services (RDS), or Virtual Desktop Infrastructure (VDI), see [Shared computer and VDI environments with Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).</span></span>
+
+<span data-ttu-id="32851-113">Pokud používáte Office for Mac, naleznete v tématu [instalace týmy společnosti Microsoft na Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).</span><span class="sxs-lookup"><span data-stu-id="32851-113">If you're using Office for Mac, see [Microsoft Teams installations on a Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="32851-114">Po instalaci týmy je [automaticky aktualizována](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) přibližně každé dva týdny s novými funkcemi a jakost aktualizace.</span><span class="sxs-lookup"><span data-stu-id="32851-114">After Teams is installed, it's [automatically updated](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) approximately every two weeks with new features and quality updates.</span></span> 
