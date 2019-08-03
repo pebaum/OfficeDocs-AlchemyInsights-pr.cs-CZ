@@ -1,25 +1,24 @@
 ---
-title: Nové retenční popisky automaticky vytvořena
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: Další informace o zásadách uchovávání informací
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222985"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448828"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Nové retenční popisky automaticky vytvořena
+# <a name="more-info-about-retention-policies"></a>Další informace o zásadách uchovávání informací
 
 Pro většinu organizací, rozsah a složitost jejich data narůstá denně - email, dokumenty, zprávy a další.
-
-Efektivní správa nebo týkající se těchto informací, je důležité, zásady uchovávání informací vám pomohou dosáhnout těchto cílů. Další informace o zásadách uchovávání informací naleznete na níže uvedené odkazy.
+Efektivní správa nebo upravující tyto informace je důležité a zásady uchovávání informací vám pomohou dosáhnout těchto cílů. Další informace o zásadách uchovávání informací navštivte tyto odkazy:
 
 - [Přehled zásad uchovávání informací](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 

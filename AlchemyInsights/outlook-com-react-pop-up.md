@@ -12,12 +12,12 @@ ms.custom:
 - "1412"
 - "1413"
 - "8000091"
-ms.openlocfilehash: e2347c94ac3741e8e455cab81db68ca7e747205d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: c1986cf591e9d2325bc8a89771b627ca3c719784
+ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373154"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35602064"
 ---
 # <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com je připraven pro prime
 
@@ -25,4 +25,4 @@ Jsme si vědomi, že někteří zákazníci může zobrazit automaticky otevíra
 
 Bohužel, o který.
 
-[Další informace o nový Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=2001300)
+[Další informace o nový Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
