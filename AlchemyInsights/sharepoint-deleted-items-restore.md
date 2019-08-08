@@ -1,40 +1,45 @@
 ---
 title: Obnovení odstraněného souboru nebo složky
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
+ms.date: 8/6/2019
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 52b93516e47fcc6b221e2cc24993d0cd81413b55
-ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
+ms.custom:
+- "1782"
+- "9000210"
+ms.openlocfilehash: 413797fa30a03e31e20a7074f93b481301225af8
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "35199302"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232435"
 ---
-# <a name="restore-deleted-items-from-sharepoint"></a><span data-ttu-id="51644-102">Obnovení odstraněných položek ze služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="51644-102">Restore deleted items from SharePoint</span></span>
+# <a name="restore-deleted-items-from-sharepoint"></a><span data-ttu-id="f9c95-102">Obnovení odstraněných položek ze služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="f9c95-102">Restore deleted items from SharePoint</span></span>
 
-<span data-ttu-id="51644-103">Při odstranění položky nebo webu služby Sharepoint, není okamžitě odstraněna.</span><span class="sxs-lookup"><span data-stu-id="51644-103">When you delete an item or site from Sharepoint, it isn't immediately removed.</span></span> <span data-ttu-id="51644-104">Odstraněné položky Přejít do koše pro časové období.</span><span class="sxs-lookup"><span data-stu-id="51644-104">Deleted items go into the recycle bin for a period of time.</span></span> <span data-ttu-id="51644-105">Během této doby můžete obnovit odstraněné položky do původního umístění.</span><span class="sxs-lookup"><span data-stu-id="51644-105">During that time, you can restore the items you deleted to their original location.</span></span> <span data-ttu-id="51644-106">Další informace naleznete na níže uvedené odkazy.</span><span class="sxs-lookup"><span data-stu-id="51644-106">For more information please visit the links below.</span></span>
+<span data-ttu-id="f9c95-103">Při odstranění položky nebo webu služby Sharepoint, není okamžitě odstraněna.</span><span class="sxs-lookup"><span data-stu-id="f9c95-103">When you delete an item or site from Sharepoint, it isn't immediately removed.</span></span> <span data-ttu-id="f9c95-104">Odstraněné položky Přejít do koše pro časové období.</span><span class="sxs-lookup"><span data-stu-id="f9c95-104">Deleted items go into the recycle bin for a period of time.</span></span> <span data-ttu-id="f9c95-105">Během této doby můžete obnovit odstraněné položky do původního umístění.</span><span class="sxs-lookup"><span data-stu-id="f9c95-105">During that time, you can restore the items you deleted to their original location.</span></span> <span data-ttu-id="f9c95-106">Další informace naleznete na níže uvedené odkazy.</span><span class="sxs-lookup"><span data-stu-id="f9c95-106">For more information please visit the links below.</span></span>
 
-<span data-ttu-id="51644-107">[Obnovení položky do složky Koš webu služby SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US).</span><span class="sxs-lookup"><span data-stu-id="51644-107">[Restore items in the Recycle Bin of a SharePoint site](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span>
+<span data-ttu-id="f9c95-107">[Obnovení položky do složky Koš webu služby SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US).</span><span class="sxs-lookup"><span data-stu-id="f9c95-107">[Restore items in the Recycle Bin of a SharePoint site](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span>
 
-[<span data-ttu-id="51644-108">Obnovit odstraněné soubory nebo složky v OneDrive</span><span class="sxs-lookup"><span data-stu-id="51644-108">Restore deleted files or folders in OneDrive</span></span>](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+[<span data-ttu-id="f9c95-108">Obnovit odstraněné soubory nebo složky v OneDrive</span><span class="sxs-lookup"><span data-stu-id="f9c95-108">Restore deleted files or folders in OneDrive</span></span>](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
-[<span data-ttu-id="51644-109">Odstranění položek nebo vysypat Koš</span><span class="sxs-lookup"><span data-stu-id="51644-109">Delete items or empty the Recycle Bin</span></span>](https://support.office.com/article/delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site-2e713599-d13e-40d6-96dc-66f0a366f74e#ID0EAADAAA=Online)
+[<span data-ttu-id="f9c95-109">Odstranění položek nebo vysypat Koš</span><span class="sxs-lookup"><span data-stu-id="f9c95-109">Delete items or empty the Recycle Bin</span></span>](https://support.office.com/article/delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site-2e713599-d13e-40d6-96dc-66f0a366f74e#ID0EAADAAA=Online)
 
-<span data-ttu-id="51644-110">[Obnovení odstraněných webů (včetně skupiny, komunikace a jiné weby)](https://docs.microsoft.com/onedrive/restore-deleted-onedrive).</span><span class="sxs-lookup"><span data-stu-id="51644-110">[Restore a deleted site collection (Including group, communication and other sites)](https://docs.microsoft.com/onedrive/restore-deleted-onedrive).</span></span>
+<span data-ttu-id="f9c95-110">[Obnovení odstraněných webů (včetně skupiny, komunikace a jiné weby)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection ).</span><span class="sxs-lookup"><span data-stu-id="f9c95-110">[Restore a deleted site collection (Including group, communication and other sites)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection ).</span></span>
 
-[<span data-ttu-id="51644-111">SharePoint Online PNP</span><span class="sxs-lookup"><span data-stu-id="51644-111">SharePoint Online PNP</span></span>](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
+[<span data-ttu-id="f9c95-111">Obnovení odstraněné OneDrive</span><span class="sxs-lookup"><span data-stu-id="f9c95-111">Restore a deleted OneDrive</span></span>](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-<span data-ttu-id="51644-112">**Funkce obnovení souborů**</span><span class="sxs-lookup"><span data-stu-id="51644-112">**Files Restore feature**</span></span>
+[<span data-ttu-id="f9c95-112">SharePoint Online PNP</span><span class="sxs-lookup"><span data-stu-id="f9c95-112">SharePoint Online PNP</span></span>](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
-<span data-ttu-id="51644-113">Pokud mnoho souborů OneDrive nebo Sharepoint získat odstraněny, přepsány, poškození nebo nakažen malwarem, předchozí čas pomocí funkce obnovení souborů můžete obnovit celou knihovnu OneDrive nebo služby Sharepoint.</span><span class="sxs-lookup"><span data-stu-id="51644-113">If lots of your OneDrive or Sharepoint files get deleted, overwritten, corrupted, or infected by malware, you can restore your entire OneDrive or Sharepoint library to a previous time using the files restore feature.</span></span>
+<span data-ttu-id="f9c95-113">**Funkce obnovení souborů**</span><span class="sxs-lookup"><span data-stu-id="f9c95-113">**Files Restore feature**</span></span>
 
-[<span data-ttu-id="51644-114">Obnovení knihovny OneDrive</span><span class="sxs-lookup"><span data-stu-id="51644-114">Restore a OneDrive library</span></span>](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
+<span data-ttu-id="f9c95-114">Pokud mnoho souborů OneDrive nebo Sharepoint získat odstraněny, přepsány, poškození nebo nakažen malwarem, předchozí čas pomocí funkce obnovení souborů můžete obnovit celou knihovnu OneDrive nebo služby Sharepoint.</span><span class="sxs-lookup"><span data-stu-id="f9c95-114">If lots of your OneDrive or Sharepoint files get deleted, overwritten, corrupted, or infected by malware, you can restore your entire OneDrive or Sharepoint library to a previous time using the files restore feature.</span></span>
 
-[<span data-ttu-id="51644-115">Obnovení knihovny dokumentů</span><span class="sxs-lookup"><span data-stu-id="51644-115">Restore a Document library</span></span>](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US)
+[<span data-ttu-id="f9c95-115">Obnovení knihovny OneDrive</span><span class="sxs-lookup"><span data-stu-id="f9c95-115">Restore a OneDrive library</span></span>](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
+
+[<span data-ttu-id="f9c95-116">Obnovení knihovny dokumentů</span><span class="sxs-lookup"><span data-stu-id="f9c95-116">Restore a Document library</span></span>](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US)
