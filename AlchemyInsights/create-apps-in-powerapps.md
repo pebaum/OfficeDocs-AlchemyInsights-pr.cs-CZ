@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
 ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "30404956"
 ---
-# <a name="create-apps-with-powerapps"></a>Vytváření aplikací s PowerApps
+# <a name="create-apps-with-powerapps"></a>Vytváření aplikací pomocí PowerApps
 
-PowerApps je vývojovou platformu pro obchodní aplikace. Má tři hlavní součásti: 
+PowerApps je vývojová platforma pro podnikové aplikace. Obsahuje tři hlavní komponenty: 
   
-- [Plátno apps](https://go.microsoft.com/fwlink/?linkid=874495) začíná uživatelské zkušenosti, řemeslné vysoce přesný rozhraní s výkonem prázdné plátno a připojení na váš výběr zdroje dat 200. Můžete sestavit apps plátno pro webové, mobilní a tablet aplikace. 
+- [Aplikace plátna](https://go.microsoft.com/fwlink/?linkid=874495) začínají vaším uživatelským prostředím, vytvořením rozhraní šitého na míru s využitím prázdného plátna a jeho připojením k jednomu z 200 zdrojů dat, dle vašeho výběru. Aplikace plátna můžete vytvářet pro webové aplikace, mobilní aplikace a aplikace pro tablety. 
     
-- [Řízený model apps](https://go.microsoft.com/fwlink/?linkid=874496) začínat datového modelu - z tvaru klíčová podniková data a procesy v běžné službě Data sestavování vzorové formuláře, zobrazení a další součásti. Řízený model aplikací automaticky generovat velké uživatelské rozhraní, které je citlivé na zařízeních. 
+- [Modelem řízené aplikace](https://go.microsoft.com/fwlink/?linkid=874496) začínají vašim datovým modelem – vytvoření z modelu vašich základních obchodních dat a procesů ve službě Common Data Service, která umožňuje modelovat formuláře, zobrazení a další součásti. Modelem řízené aplikace automaticky vygenerují skvělé uživatelské rozhraní, které je funkční na různých zařízeních. 
     
-- [Společná Data Service](https://go.microsoft.com/fwlink/?linkid=874497) je datovou platformu, která se dodává s PowerApps a umožňuje ukládat a obchodní data modelu. Jedná se o platformu, na kterém jsou postaveny aplikace Dynamics 365. Pokud si zákazník Dynamics, již data v běžné službě Data. 
+- [Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) je datová platforma, která přichází s PowerApps a umožňuje ukládání a modelování obchodních dat. Jde o platformu, na které jsou vytvořeny aplikace Dynamics 365. Pokud jste zákazníkem Dynamics, vaše data už jsou ve službě Common Data Service. 
     
-[Další informace o PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
+[Další informace o službě PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
   
 
