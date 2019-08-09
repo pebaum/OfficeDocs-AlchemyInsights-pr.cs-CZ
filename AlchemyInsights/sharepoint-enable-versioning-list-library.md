@@ -2,6 +2,7 @@
 title: Správa verzí služby SharePoint a OneDrive
 ms.author: efrene
 author: efrene
+ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+ms.openlocfilehash: 97cab1d3d88721b03e703623128229935074ebf1
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232651"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270413"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Správa verzí služby SharePoint a OneDrive 
 
@@ -37,6 +38,7 @@ Další informace o správě verzí naleznete níže články.
 
 - [Limity pro správu verzí](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
-**Poznámka:** Pokud jste zákazník Office 365, Správa verzí je nyní ve výchozím nastavení zapnuta při vytváření nové OneDrive pro obchodní knihovny a automaticky uloží poslední 500 verze dokumentu. To vám pomůže předejít ztrátě důležité dokumenty nebo data. Pokud máte existující knihovny na vaše OneDrive pro obchodní web nebo na týmovém webu, který není povolena Správa verzí, můžete zapnout správu verzí pro ně kdykoli.
+>[!Note] 
+>Pokud jste zákazník Office 365, Správa verzí je nyní ve výchozím nastavení zapnuta při vytváření nové OneDrive pro obchodní knihovny a automaticky uloží poslední 500 verze dokumentu. To vám pomůže předejít ztrátě důležité dokumenty nebo data. Pokud máte existující knihovny na vaše OneDrive pro obchodní web nebo na týmovém webu, který není povolena Správa verzí, můžete zapnout správu verzí pro ně kdykoli.
 
 
