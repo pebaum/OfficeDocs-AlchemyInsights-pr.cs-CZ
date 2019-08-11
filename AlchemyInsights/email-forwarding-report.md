@@ -22,5 +22,5 @@ ms.locfileid: "35388814"
 
 Pokud se chcete podívat na to, kolik má vaše organizace zpráv s automatickým přeposíláním, podívejte se na [Přehled toků pošty](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46) v [Centru zabezpečení &amp;a dodržování předpisů Office 365](https://protection.office.com/#/homepage).
   
-Poznámka: Pokud se do Centra zabezpečení &amp;a dodržování předpisů přihlašujete poprvé, budete možná muset po několika minutách aktualizovat prohlížeč, abyste viděli všechny dostupné možnosti.
+Poznámka: Pokud se do Centra zabezpečení a dodržování předpisů přihlašujete poprvé, budete možná muset po několika minutách aktualizovat prohlížeč, abyste viděli všechny dostupné možnosti.
   
