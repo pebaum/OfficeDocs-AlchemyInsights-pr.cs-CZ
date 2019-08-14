@@ -13,14 +13,13 @@ ms.custom:
 - "469"
 - "1500025"
 ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: aa7a7c1bea0ae08f4781c656646ef65aefd1301c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361846"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386894"
 ---
 # <a name="change-how-often-you-pay"></a>Změnit, jak často budete platit.
 
  **Chcete změnit četnost plateb?** Pokud chcete změnit, jak často budete platit pro vaše Office 365 předplatného business, buď z roční, měsíční nebo na roční, měsíční pomůžeme vám s informacemi. Bude nutné zakoupit stejný odběr s novou frekvenci platby a staré předplatné zrušit. Použijte možnost "budeme vám volat" obraťte se na pracovníka podpory.
-  

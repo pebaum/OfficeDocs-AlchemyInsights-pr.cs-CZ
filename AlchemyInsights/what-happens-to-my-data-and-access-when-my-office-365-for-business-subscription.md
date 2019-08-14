@@ -13,12 +13,12 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 9f448e8927f60c6045831805ee238a1762531fd6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 55243adda44931a78ca2a8af06565b8a48dd10b5
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365230"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387561"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>Co se stane s přístupem k mým datům, když mi skončí platnost předplatného na Office 365 pro firmy?
 
@@ -26,8 +26,6 @@ ms.locfileid: "35365230"
   
 Před odběr skutečně dosáhne jeho platnosti, máte několik možností **Spravovat opakovaná fakturace předplatného**.
   
-- Pokud už máte zapnutou možnost **Opakovaná fakturace**, nemusíte nic dělat. Vaše předplatné bude vyúčtována na jeho datum **Fakturace periodický** a je budete účtovat další rok nebo měsíc, v závislosti na vaší aktuální frekvence platby. Pokud z nějakého důvodu jste vypnuli **Opakovaná fakturace** , je možné [Zapnout opakované fakturace zpět na](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)vždy.
+- Pokud už máte zapnutou možnost **Opakovaná fakturace**, nemusíte nic dělat. Vaše předplatné bude vyúčtována na jeho datum **Fakturace periodický** a je budete účtovat další rok nebo měsíc, v závislosti na vaší aktuální frekvence platby. Pokud z nějakého důvodu jste vypnuli **Opakovaná fakturace** , je možné [Zapnout opakované fakturace zpět na](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)vždy.
 
-- Pokud jste zákazníkem multilicenčního programu s předplaceným jednoročním předplatným, kontaktujte svého partnera a kupte si nový kód Product Key. E-mailem vám přijdou pokyny, jak máte tento kód aktivovat na webu [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Další informace o vyhledání nového partnera nebo partnera, se kterým jste spolupracovali už dřív, najdete v článku o [vyhledání partnera nebo prodejce Office 365](https://support.office.com/article/b6c18a9b-2aed-4c84-9d75-af709160258c).
-
-- Pokud máte Office 365 Business, podívejte se na článek s informacemi o [správě opakované fakturace předplatného](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
+- Pokud jste zákazníkem multilicenčního programu s předplaceným jednoročním předplatným, kontaktujte svého partnera a kupte si nový kód Product Key. E-mailem vám přijdou pokyny, jak máte tento kód aktivovat na webu [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Další informace o vyhledání nového partnera nebo partnera, se kterým jste spolupracovali už dřív, najdete v článku o [vyhledání partnera nebo prodejce Office 365](https://docs.microsoft.com/en-us/office365/admin/manage/find-your-partner-or-reseller).

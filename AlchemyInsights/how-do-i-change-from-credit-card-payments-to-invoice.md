@@ -13,24 +13,26 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 2afff350b0d55f8c6962963b65a159ad4dcf76b0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: da38d20aca2b367a423250cda997ee09ed42b25a
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386186"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390361"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Jak změnit z platby kreditní kartou na fakturu?
 
 > [!NOTE]
-> Možnost platby fakturou je dostupná jenom v případě, že cena za vaše předplatné Office 365 překročí určitou částku (která se liší podle místa využívání služby). U větších částek se pro platby fakturou může vyžadovat ověření kredibility. Další informace najdete v tématu [Platba předplatného Office 365 pro firmy](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).
+> Možnost platby fakturou je dostupná jenom v případě, že cena za vaše předplatné Office 365 překročí určitou částku (která se liší podle místa využívání služby). U větších částek se pro platby fakturou může vyžadovat ověření kredibility. Další informace najdete v tématu [Platba předplatného Office 365 pro firmy](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
   
-1. Ve středisku pro správce naleznete na stránce [Odběry](https://go.microsoft.com/fwlink/p/?linkid=842054) nebo zvolte **fakturační** \> **Odběry**.
+1. Ve středisku pro správce přejděte na **fakturační** \> stránce [předplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Vyberte předplatné, které chcete změnit. V části **Způsob platby** zvolte **Změnit podrobnosti platby**.
 
 3. V podokně **Změnit podrobnosti platby** zvolte **Změnit způsob platby**.
-<br>*Poznámka: Pokud se nezobrazí odkaz **změnit svůj způsob platby** , znamená to, že není dostupný pro odběr přepínání z platební karty nebo bankovního účtu faktury, protože odběr nesplňuje minimální náklady pro účtování podle faktury. Minimální náklady potřebné k fakturaci podle faktury se liší podle zeměpisné polohy.*
+
+> [!NOTE]
+> Pokud se odkaz **Změnit způsob platby** nezobrazuje, znamená to, že přechod z platby platební kartou nebo převodem z účtu na platbu fakturou není pro toto předplatné dostupný, protože výše předplatného nedosahuje minimální nutné částky pro platby fakturou. Minimální náklady potřebné k fakturaci podle faktury se liší podle zeměpisné location.*
   
 4. V dialogovém okně **Změnit způsob platby** zvolte **Pokračovat**.
 
