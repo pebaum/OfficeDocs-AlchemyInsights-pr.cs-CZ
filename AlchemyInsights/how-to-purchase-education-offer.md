@@ -14,23 +14,21 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: f2603b0ae3d739de43c1ed6bcf7703fcd4c5379c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 208eb40788fcf27332245e4590ad204709b32371
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384206"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390181"
 ---
 # <a name="how-to-purchase-education-offer"></a>Zakoupení nabídky vzdělávání
 
 Jste byly schváleny pro vzdělávání Office 365. Koupit:
   
-1. V Centru pro správu přejděte na stránku [Předplatná](https://go.microsoft.com/fwlink/p/?linkid=842054) nebo zvolte **Fakturace** \> **Předplatná**.
-    
-2. Zvolte zkušební verze pro **studenty a vyučující**.
-    
-3. **Koupit nyní** zvolte na zkušební verze, kterou chcete zakoupit. 
-    
-Pokud chcete zakoupit předplatné, než co je ve zkušební verzi, přejděte na stránku [Nákupu služeb](https://go.microsoft.com/fwlink/p/?linkid=868433) nebo zvolte **fakturační** \> **Nákupu služeb**a zvolte ze seznamu **Plánů vzdělávání**.
-  
+1. Ve středisku pro správce, přejděte na **fakturační** \> stránce [předplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
+2. Zvolte zkušební verze pro **studenty a vyučující**.
+
+3. **Koupit nyní** zvolte na zkušební verze, kterou chcete zakoupit. 
+
+Pokud chcete zakoupit předplatné, než co je ve zkušební verzi, přejděte na **fakturační** \> [Nákup služeb](https://go.microsoft.com/fwlink/p/?linkid=868433) stránky a vyberte ze seznamu podle **Plánů vzdělávání**.
