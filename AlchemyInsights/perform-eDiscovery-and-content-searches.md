@@ -13,33 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371426"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444765"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a><span data-ttu-id="be7f6-102">Jak provést hledání obsahu a služba eDiscovery hledání</span><span class="sxs-lookup"><span data-stu-id="be7f6-102">How to perform Content Searches and eDiscovery searches</span></span>
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a><span data-ttu-id="2b3b1-102">Jak provést hledání obsahu a služba eDiscovery hledání</span><span class="sxs-lookup"><span data-stu-id="2b3b1-102">How to perform Content Searches and eDiscovery searches</span></span>
 
-<span data-ttu-id="be7f6-103">**Vyhledávání obsahu**</span><span class="sxs-lookup"><span data-stu-id="be7f6-103">**Content Search**</span></span>
+<span data-ttu-id="2b3b1-103">Použití nástroje pro hledání obsahu v & zabezpečení centra kompatibility můžete rychle najít e-mail do poštovní schránky serveru Exchange, dokumenty a weby služby SharePoint a účet OneDrive, rychlých zpráv v konverzaci v Skype pro firmy.</span><span class="sxs-lookup"><span data-stu-id="2b3b1-103">Use the Content Search tool in the Security & Compliance Center to quickly find email in Exchange mailboxes, documents in SharePoint sites and OneDrive account, and instant messaging conversations in Skype for Business.</span></span> <span data-ttu-id="2b3b1-104">Nástroj pro vyhledávání obsahu můžete také hledat e-maily, dokumenty a rychlé zasílání zpráv konverzace do nástroje spolupráce služeb Office 365 jako Teams společnosti Microsoft a skupiny Office 365.</span><span class="sxs-lookup"><span data-stu-id="2b3b1-104">You can also use the Content Search Tool to search for email, documents, and instant messaging conversations in Office 365 collaboration tools such as Microsoft Teams and Office 365 Groups.</span></span>
 
-1. <span data-ttu-id="be7f6-104">Přejít na [& zabezpečení centra kompatibility](https://protection.office.com) a přihlaste se.</span><span class="sxs-lookup"><span data-stu-id="be7f6-104">Go to the [Security & Compliance Center](https://protection.office.com) and sign in.</span></span>
-2. <span data-ttu-id="be7f6-105">Klepněte na tlačítko **hledání & šetření > obsahu hledání**.</span><span class="sxs-lookup"><span data-stu-id="be7f6-105">Click **Search & investigation > Content search**.</span></span>
-3. <span data-ttu-id="be7f6-106">Klepněte na tlačítko **nové hledání** Chcete-li vytvořit nové hledání.</span><span class="sxs-lookup"><span data-stu-id="be7f6-106">Click **New search** to create a new search.</span></span>
-4. <span data-ttu-id="be7f6-107">Zadejte požadované vyhledávací podmínky, včetně klíčových slov a umístění obsahu.</span><span class="sxs-lookup"><span data-stu-id="be7f6-107">Enter the required search conditions including keywords and content locations.</span></span>  
-5. <span data-ttu-id="be7f6-108">Klepnutím na tlačítko **Spustit & uložit** název hledání, spusťte ji a pak zobrazte náhled výsledků.</span><span class="sxs-lookup"><span data-stu-id="be7f6-108">Click **Save & run** to name the search, start it, and then preview the results.</span></span>
+<span data-ttu-id="2b3b1-105">**Pro vyhledávání obsahu**</span><span class="sxs-lookup"><span data-stu-id="2b3b1-105">**To perform a content search**</span></span>
 
-<span data-ttu-id="be7f6-109">Podrobné pokyny týkající se vytvoření vyhledávání a export výsledků naleznete v [tomto článku](https://docs.microsoft.com/office365/securitycompliance/content-search).</span><span class="sxs-lookup"><span data-stu-id="be7f6-109">For detailed instructions about creating searches and exporting results, see [this article](https://docs.microsoft.com/office365/securitycompliance/content-search).</span></span>
+1. <span data-ttu-id="2b3b1-106">Přejít na [& zabezpečení centra kompatibility](https://protection.office.com) a přihlaste se.</span><span class="sxs-lookup"><span data-stu-id="2b3b1-106">Go to the [Security & Compliance Center](https://protection.office.com) and sign in.</span></span>
+2. <span data-ttu-id="2b3b1-107">Klepněte na tlačítko **hledání > obsahu hledání**.</span><span class="sxs-lookup"><span data-stu-id="2b3b1-107">Click **Search > Content search**.</span></span>
+3. <span data-ttu-id="2b3b1-108">Klepněte na tlačítko **nové hledání** Chcete-li vytvořit nové hledání.</span><span class="sxs-lookup"><span data-stu-id="2b3b1-108">Click **New search** to create a new search.</span></span>
+4. <span data-ttu-id="2b3b1-109">Zadejte požadované vyhledávací podmínky, včetně klíčových slov a umístění obsahu.</span><span class="sxs-lookup"><span data-stu-id="2b3b1-109">Enter the required search conditions including keywords and content locations.</span></span>  
+5. <span data-ttu-id="2b3b1-110">Klepnutím na tlačítko **Spustit & uložit** název hledání, spusťte ji a pak zobrazte náhled výsledků.</span><span class="sxs-lookup"><span data-stu-id="2b3b1-110">Click **Save & run** to name the search, start it, and then preview the results.</span></span>
 
-<span data-ttu-id="be7f6-110">**služba eDiscovery hledání**</span><span class="sxs-lookup"><span data-stu-id="be7f6-110">**eDiscovery searches**</span></span>
+<span data-ttu-id="2b3b1-111">Podrobné pokyny týkající se obsahu hledání exportování výsledků a vytváření případů služba eDiscovery pro uložení dat, naleznete v [Obsahu hledání](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) a [služba eDiscovery případů](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).</span><span class="sxs-lookup"><span data-stu-id="2b3b1-111">For detailed instructions about Content searches, exporting results, and creating eDiscovery cases to hold data, see [Content Search](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) and [eDiscovery cases](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).</span></span>
 
-1. <span data-ttu-id="be7f6-111">Přejít na [& zabezpečení centra kompatibility](https://protection.office.com) a přihlaste se.</span><span class="sxs-lookup"><span data-stu-id="be7f6-111">Go to the [Security & Compliance Center](https://protection.office.com) and sign in.</span></span>
-2. <span data-ttu-id="be7f6-112">Klepněte na tlačítko **hledání & šetření > služba eDiscovery**.</span><span class="sxs-lookup"><span data-stu-id="be7f6-112">Click **Search & investigation > eDiscovery**.</span></span>
-3. <span data-ttu-id="be7f6-113">Otevřete existující případ nebo vytvořte nový.</span><span class="sxs-lookup"><span data-stu-id="be7f6-113">Open an existing case or create a new one.</span></span>
-4. <span data-ttu-id="be7f6-114">Na domovské stránce případu klepněte na kartu **vyhledávání** .</span><span class="sxs-lookup"><span data-stu-id="be7f6-114">On the case home page, click the **Searches** tab.</span></span>  
-5. <span data-ttu-id="be7f6-115">Klepněte na tlačítko **nové hledání** Chcete-li vytvořit nové hledání.</span><span class="sxs-lookup"><span data-stu-id="be7f6-115">Click **New search** to create a new search.</span></span>
-6. <span data-ttu-id="be7f6-116">Zadejte požadované vyhledávací podmínky, včetně klíčových slov a umístění obsahu.</span><span class="sxs-lookup"><span data-stu-id="be7f6-116">Enter the required search conditions including keywords and content locations.</span></span>  
-7. <span data-ttu-id="be7f6-117">Klepnutím na tlačítko **Spustit & uložit** název hledání, spusťte ji a pak zobrazte náhled výsledků.</span><span class="sxs-lookup"><span data-stu-id="be7f6-117">Click **Save & run** to name the search, start it, and then preview the results.</span></span>
-
-<span data-ttu-id="be7f6-118">Podrobné pokyny týkající se vytvoření vyhledávání přidružené s případem služba eDiscovery a exportování výsledků, naleznete v [tomto článku](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).</span><span class="sxs-lookup"><span data-stu-id="be7f6-118">For detailed instructions about creating searches associated with an eDiscovery case and exporting results, see [this article](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).</span></span>
+<span data-ttu-id="2b3b1-112">Další informace o obsahu hledání kontrolou [požadavky a limity](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) a [vyšetřování částečně indexované položky](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) a ostatní výsledky znát pochopit.</span><span class="sxs-lookup"><span data-stu-id="2b3b1-112">Understand more about Content Search by reviewing the [requirements and limits](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) and  [investigating partially indexed items](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) and other results to be aware of.</span></span>
