@@ -13,33 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371426"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444765"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Jak provést hledání obsahu a služba eDiscovery hledání
 
-**Vyhledávání obsahu**
+Použití nástroje pro hledání obsahu v & zabezpečení centra kompatibility můžete rychle najít e-mail do poštovní schránky serveru Exchange, dokumenty a weby služby SharePoint a účet OneDrive, rychlých zpráv v konverzaci v Skype pro firmy. Nástroj pro vyhledávání obsahu můžete také hledat e-maily, dokumenty a rychlé zasílání zpráv konverzace do nástroje spolupráce služeb Office 365 jako Teams společnosti Microsoft a skupiny Office 365.
+
+**Pro vyhledávání obsahu**
 
 1. Přejít na [& zabezpečení centra kompatibility](https://protection.office.com) a přihlaste se.
-2. Klepněte na tlačítko **hledání & šetření > obsahu hledání**.
+2. Klepněte na tlačítko **hledání > obsahu hledání**.
 3. Klepněte na tlačítko **nové hledání** Chcete-li vytvořit nové hledání.
 4. Zadejte požadované vyhledávací podmínky, včetně klíčových slov a umístění obsahu.  
 5. Klepnutím na tlačítko **Spustit & uložit** název hledání, spusťte ji a pak zobrazte náhled výsledků.
 
-Podrobné pokyny týkající se vytvoření vyhledávání a export výsledků naleznete v [tomto článku](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Podrobné pokyny týkající se obsahu hledání exportování výsledků a vytváření případů služba eDiscovery pro uložení dat, naleznete v [Obsahu hledání](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) a [služba eDiscovery případů](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
 
-**služba eDiscovery hledání**
-
-1. Přejít na [& zabezpečení centra kompatibility](https://protection.office.com) a přihlaste se.
-2. Klepněte na tlačítko **hledání & šetření > služba eDiscovery**.
-3. Otevřete existující případ nebo vytvořte nový.
-4. Na domovské stránce případu klepněte na kartu **vyhledávání** .  
-5. Klepněte na tlačítko **nové hledání** Chcete-li vytvořit nové hledání.
-6. Zadejte požadované vyhledávací podmínky, včetně klíčových slov a umístění obsahu.  
-7. Klepnutím na tlačítko **Spustit & uložit** název hledání, spusťte ji a pak zobrazte náhled výsledků.
-
-Podrobné pokyny týkající se vytvoření vyhledávání přidružené s případem služba eDiscovery a exportování výsledků, naleznete v [tomto článku](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Další informace o obsahu hledání kontrolou [požadavky a limity](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) a [vyšetřování částečně indexované položky](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) a ostatní výsledky znát pochopit.
