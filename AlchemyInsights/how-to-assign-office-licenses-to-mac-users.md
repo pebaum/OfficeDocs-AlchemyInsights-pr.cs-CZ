@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385349"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522496"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Jak přiřadit uživatelům Mac licencí sady Office
 
-- Ve středisku pro správce služeb Microsoft 365 přejděte na stránku [aktivního uživatele](https://go.microsoft.com/fwlink/p/?linkid=834822) nebo zvolte **uživatele,** \> **aktivních uživatelů**.
+1. Ve středisku pro správce, přejděte na **uživatele** \> stránky [aktivních uživatelů](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-- Zaškrtněte políčko u jména uživatele, kterému chcete přiřadit licenci.
+2. Vyberte jméno uživatele, kterému chcete přiřadit, změnit nebo odebrat licenci.
 
-- Vpravo v řádku **Licence na produkty** zvolte **Upravit**.
+3. Na kartě **Apps a licence** vyberte licenci, kterou chcete přiřadit tomuto uživateli.
 
-- V podokně s **licenci na produkt**přejděte do umístění **na** licenci, kterou chcete přiřadit tomuto uživateli přepínacím.
+    Ve výchozím nastavení se uživateli automaticky přiřadí všechny služby přidružené k této licenci. Chcete-li omezit služby, které jsou uživateli k dispozici, zrušte zaškrtnutí políčka u služby, které nechcete, aby tento uživatel mít.
 
-- V dolní části podokna **Licence na produkty** zvolte **Uložit** \> **Zavřít** \> **Zavřít**.
+4. V dolní části podokna vyberte **Uložit změny**.
 
 Další informace: [přiřazení licencí uživatelům služeb Office 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   

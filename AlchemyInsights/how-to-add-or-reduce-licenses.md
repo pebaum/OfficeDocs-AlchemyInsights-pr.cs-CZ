@@ -13,20 +13,20 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: f2d9896f10f122e3d1e6b24de441144134d03570
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b6a8e6dc08941bf18c3ef8f36a14d63a41b34d4d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388809"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522424"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Jak přidat nebo snížení licencí
 
-Chcete-li odebrat nebo zakoupit další licence.
+Chcete-li odebrat nebo zakoupit další licence služeb Office 365.
   
-1. Ve středisku pro správce, přejděte na **fakturační** \> stránce [předplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Ve středisku pro správce, přejděte na **fakturační** \> stránku [produkty a služby &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Na levé straně vyberte předplatné, ze kterého chcete přidat nebo odebrat licence
+2. Vyberte předplatné, ze kterého chcete přidat nebo odebrat licence.
 
 3. Vyberte **Přidat nebo odebrat licence**.
 
@@ -34,19 +34,17 @@ Chcete-li odebrat nebo zakoupit další licence.
 
     Například pokud máte aktuálně 25 licencí a chcete odebrat 5, zadejte v tomto poli 20.
 
-5. Zvolte **Submit** (Odeslat).
+5. Zvolte **změnit odeslat**.
 
 > [!NOTE]
 > Žádné nové náklady (zvýšení licence) nebo dobropisu (snížení licence) se zobrazí ve vašem dalším vyúčtování.
 
-Používáte nový admin center? Nové kroky v tématu [zakoupit licence pro vaše Office 365 předplatného business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).
+Další informace naleznete v tématu [zakoupit licence pro vaše Office 365 předplatného business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
- **Zdroje informací**
+ **Další zdroje**
   
-- [Odebrání licencí z předplatného Office 365 pro firmy](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [Odebrání licencí z předplatného Office 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
 
-- [Nákup licencí k předplatnému Office 365 pro firmy](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)
+- [Zrušení Office 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
 
-- [Zrušení Office 365 pro firmy](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
-
-- [Zakoupení dalšího předplatného Office 365 pro firmy](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Zakoupení dalšího předplatného Office 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
