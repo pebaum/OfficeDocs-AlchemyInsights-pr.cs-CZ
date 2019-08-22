@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 956cf333f83dc681b7d74e984fdeb4c6c273d703
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769475"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544551"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Došlo k potížím se službou cloud?
 
-Pokud dochází k potížím se službou cloud, můžete zkontrolovat [zdravotní služby](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Chcete-li zjistit, zda je známý problém s rozlišením probíhá před volání odborné pomoci nebo trávit čas řešení problémů. Problém může být velmi dočasné a již označen společností Microsoft, ale pravděpodobně zanikla v době mezi identifikace problému a účtování do řídicího panelu zdravotní služby. Prosím nadále kontrolovat řídicího panelu služby pro další aktualizace.
+Pokud dochází k potížím se službou cloud, můžete zkontrolovat [zdravotní služby](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ve středisku pro správce služeb Microsoft 365 Chcete-li zjistit, zda je známý problém s rozlišením probíhá před volání odborné pomoci nebo trávit čas řešení problémů. Problém může být velmi dočasné a již označen společností Microsoft, ale pravděpodobně zanikla v době mezi identifikace problému a účtování do řídicího panelu zdravotní služby. Prosím nadále kontrolovat řídicího panelu služby pro další aktualizace.
 
 **Oznámení zásad**
 

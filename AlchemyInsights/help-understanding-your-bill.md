@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: 3a0b1c52c54773d51467c6c427374c9270ac6938
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389061"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523072"
 ---
 # <a name="help-understanding-your-bill"></a>Zjistit vaše faktura
 
-Fakturovaná částka odráží cenu licence vynásobené počet zakoupených licencí a jakékoli požadované daně nebo poplatky.
+Částka fakturována pro váš Office 365 předplatného business odráží cenu licence vynásobené počet zakoupených licencí a jakékoli požadované daně nebo poplatky.
   
-Pokud fakturovaná částka je jiný, než očekáváte, že existuje několik důvodů k tomu může dojít:
+Pokud fakturovaná částka se liší pak očekávat, jsou z několika důvodů že k tomu může dojít:
   
-- Licence je přidán nebo odebrán z odběru. Pokud licence, jsou změněné hodnocení v polovině období, to se odrazí na následující faktuře. Může se zobrazit Dal a znovu vyúčtování za předchozí období služby na účet pro tuto změnu.
+- Licence byly přidán nebo odebrán z odběru. Pokud licence, jsou změněné hodnocení v polovině období, to se odrazí na následující faktuře. Může se zobrazit Dal a znovu vyúčtování za předchozí období služby na účet pro tuto změnu.
 
 - Předplatné bylo zrušeno. Fakturu obdržíte po zrušení s jakýkoli zůstatek po odečtení všech úvěrů.
 
 - Vaše předplatné obnoveno na nový termín a cena licence změněny.
 
-Další informace o faktuře, viz: [Principy fakturu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/understand-your-invoice)
+Další informace o faktuře, viz: [Principy fakturu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)
