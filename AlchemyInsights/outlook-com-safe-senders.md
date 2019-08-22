@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 81ee40a9f9598b6a9fbc0f28c04a0d229c8442c8
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35601992"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535348"
 ---
 # <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Přechod do složky nevyžádané e-mailové zprávy Stop
 
-Existují situace, kdy nechcete skončit ve vaší složce nevyžádané e-mailové zprávy od konkrétní osoby nebo domény. Zprávy z adres nebo domén na seznamu Bezpeční odesílatelé nebudou budou přesunuty do složky nevyžádané E-maily.
+Existují situace, kdy nechcete, aby končit do složky nevyžádané E-maily v Outlook.com zpráv od určité osoby nebo domény. Zprávy z adres nebo domén na seznamu Bezpeční odesílatelé nebudou budou přesunuty do složky nevyžádané E-maily.
 
 1. Otevřete [Nastavení Bezpeční odesílatelé](https://go.microsoft.com/fwlink/?linkid=2035804).
 2. V seznamu **bezpečných odesílatelů a domén**zadejte e-mailovou adresu nebo doménu, kterou chcete přidat a vyberte příkaz **Přidat**.

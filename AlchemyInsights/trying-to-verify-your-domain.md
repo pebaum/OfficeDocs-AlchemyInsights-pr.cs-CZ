@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
-ms.openlocfilehash: 2f5323e6179bcce3dd25833d263dfe095f6c6d12
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 189eb0365e57bb872e1fb4ea400bff0f786e640b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420117"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533207"
 ---
 # <a name="trying-to-verify-your-domain"></a>Zkoušíte ověřit svoji doménu?
 
-Kvůli ověření toho, že jste vlastníky své domény, budete muset přidat ke svému doménovému registrátorovi záznam TXT. Postupujte podle pokynů průvodce Přidat doménu: klikněte na **Nastavení** \> **Doména**a potom na **Přidat doménu**. 
+Kvůli ověření toho, že jste vlastníky své domény, budete muset přidat ke svému doménovému registrátorovi záznam TXT. Postupujte podle pokynů Průvodce novou doménou ve středisku pro správce služeb Microsoft 365 tak, že přejdete do **Nastavení** \> **domény**a **domény přidat**. 
   
 Řiďte se pokyny v níže uvedeném článku a přidejte záznam TXT k ověření vaší domény. Konkrétní pokyny pro vaši doménu získáte tak, že vyberete svého doménového registrátora.
   
