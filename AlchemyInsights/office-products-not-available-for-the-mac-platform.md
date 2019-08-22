@@ -12,14 +12,14 @@ ms.assetid: 9233f862-ebbb-4913-a83a-52cc3b99a644
 ms.custom:
 - "648"
 - "2000016"
-ms.openlocfilehash: 5c1aab2f3d519cfd13dbc4c4ffa09a1ba9c214ca
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7c0d80222e2ccfe42a46cb06f191a0d3e2fdfdea
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35378446"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522064"
 ---
-# <a name="office-products-not-available-for-the-mac-platform"></a><span data-ttu-id="e036c-102">Produkty sady Office není k dispozici pro platformy Mac</span><span class="sxs-lookup"><span data-stu-id="e036c-102">Office products not available for the Mac platform</span></span>
+# <a name="office-products-not-available-for-the-mac-platform"></a><span data-ttu-id="920b4-102">Produkty sady Office není k dispozici pro platformy Mac</span><span class="sxs-lookup"><span data-stu-id="920b4-102">Office products not available for the Mac platform</span></span>
 
-<span data-ttu-id="e036c-103">Aplikace Visio, Project, Publisher a Access nejsou k dispozici pro platformy Mac, Online aplikace Visio a Project Online jsou však k dispozici a pracovat na všech platformách.</span><span class="sxs-lookup"><span data-stu-id="e036c-103">Visio, Project, Publisher, and Access are not available for the Mac platform, however, Visio Online and Project Online are available and work on all platforms.</span></span>
+<span data-ttu-id="920b4-103">Aplikace Visio, Project, Publisher a Access nejsou k dispozici pro platformy Mac, Online aplikace Visio a Project Online jsou však k dispozici a pracovat na všech platformách.</span><span class="sxs-lookup"><span data-stu-id="920b4-103">Visio, Project, Publisher, and Access are not available for the Mac platform, however, Visio Online and Project Online are available and work on all platforms.</span></span>
   
