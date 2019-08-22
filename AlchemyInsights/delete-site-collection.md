@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 37606af8cbbd1d54cde646400386652b0d5aae56
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bc91c02f4f7b09f8ec6c3288319afa6c6c3bc400
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405004"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512812"
 ---
-# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="0cca5-102">Odstranění webu služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="0cca5-102">Delete a SharePoint site</span></span>
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="6ce40-102">Odstranění webu služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="6ce40-102">Delete a SharePoint site</span></span>
 
-1. <span data-ttu-id="0cca5-103">V centru nového správce služby SharePoint na stránce Weby zaškrtněte políčko vedle lokality, kterou chcete odstranit.</span><span class="sxs-lookup"><span data-stu-id="0cca5-103">In the new  SharePoint admin center, on the Sites page, click the check box next to the site you wish to delete.</span></span>
+1. <span data-ttu-id="6ce40-103">V centru nového správce služby SharePoint na stránce Weby zaškrtněte políčko vedle lokality, kterou chcete odstranit.</span><span class="sxs-lookup"><span data-stu-id="6ce40-103">In the new  SharePoint admin center, on the Sites page, click the check box next to the site you wish to delete.</span></span>
     
-2. <span data-ttu-id="0cca5-104">Na panelu nástrojů na pásu karet klepněte na tlačítko **Odstranit**.</span><span class="sxs-lookup"><span data-stu-id="0cca5-104">On the ribbon toolbar, click **Delete**.</span></span>
+2. <span data-ttu-id="6ce40-104">Na panelu nástrojů na pásu karet klepněte na tlačítko **Odstranit**.</span><span class="sxs-lookup"><span data-stu-id="6ce40-104">On the ribbon toolbar, click **Delete**.</span></span>
     
 
