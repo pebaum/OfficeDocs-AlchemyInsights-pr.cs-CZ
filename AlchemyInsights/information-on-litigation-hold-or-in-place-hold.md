@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 7d300bd006c3e7fae68da1245037819396122fc9
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754923"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498948"
 ---
+# <a name="about-litigation-holds-and-in-place-holds"></a>O sporu drží a místo blokování
+
 - Použít soudní spory blokování nebo v místě držení poštovní schránky [Exchange Online plán 2 licence](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Pokud máte jiný plán, přiřadíte účtu samostatnou licenci [Exchange Online archivaci](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) . 
     
 - **Povolení blokování sporu** pro jednoho uživatele, postupujte podle pokynů uvedených [zde](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Při zapnuté funkci blokování sporu, veškerý obsah poštovní schránky je umístěn na blokování.

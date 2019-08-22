@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: d9e92b484e36e3fcc6a84dd655385b6e8d21434b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 33bf81d01653f29369672819cfe8446809584ec1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405801"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514114"
 ---
 # <a name="delete-a-communication-site"></a>Odstranit web komunikace
 
@@ -25,14 +25,12 @@ Chcete-li odstranit web komunikace, proveďte následující kroky:
   
 3. Ve skupinovém rámečku **Informace o serveru**klepněte na tlačítko **Odstranit tento web**a potom klepněte na příkaz **Odstranit**. 
   
-Správci také odstranit web komunikace v moderní Admin Center pomocí následujících kroků: 
+Správci také odstranit komunikační web nový admin Center pomocí následujících kroků: 
   
-1. Zkuste nový Admin Center klepnutím na tlačítko v pravém horním rohu **zkuste jej nyní** . 
+1. Vlevo vyberte **aktivní weby** . 
   
-2. Vyberte **aktivní weby**. 
+2. Volbu **Odstranit** , zobrazí se v horní nabídce klepněte u webu odstranit. 
   
-3. Volbu **Odstranit** , zobrazí se v horní nabídce klepněte u webu odstranit. 
-  
- **Poznámka:** Pokud chcete trvale odstranit web komunikace (odstraněním z koše), můžete znovu použít adresu URL webu, použijte [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) k vyhodnocení do odpadkového koše a [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) Chcete-li odebrat web ze složky Koš. 
+ **Poznámka:** Pokud chcete trvale odstranit web komunikace (odstraněním z koše), můžete znovu použít adresu URL webu, použít [Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) Koš a [Odebrat SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) Chcete-li odebrat web ze složky Koš. 
   
 

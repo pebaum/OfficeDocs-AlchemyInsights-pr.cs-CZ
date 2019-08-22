@@ -13,12 +13,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: ab26fc36d31badde5eef3a23082c96d23a5d744f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3963f9627da61e6b49f00593094084af3c2db5ec
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389025"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526132"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Prodloužení zkušební verze Office 365 pro firmy
 
@@ -32,4 +32,4 @@ Pokud zkušební předplatné bude do 15 dnů od vypršení platnosti a nebyl ro
 
 4. Je třeba zadat údaje o kreditní kartě prodloužení zkušební verze. Jsme vaši kreditní kartu pro zkušební rozšíření neúčtuje.
 
-Další informace o rozšíření hodnocení a podrobné pokyny naleznete v tématu [rozšířit vaše zkušební verze pro Office 365 pro firmy](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/extend-your-trial).
+Další informace o rozšíření hodnocení a podrobné pokyny naleznete v tématu [rozšířit vaše zkušební verze pro Office 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).

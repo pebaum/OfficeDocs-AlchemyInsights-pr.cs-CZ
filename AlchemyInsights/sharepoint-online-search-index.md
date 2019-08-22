@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: fc49978fbd2c07381dae83061b1a1868cd1df0d0
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059245"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507624"
 ---
-# <a name="search-in-sharepoint-online"></a>Vyhledávání ve službě SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Procházení obsahu a indexování v Online služby SharePoint
 
 Obsah musí být procházeny a přidán do indexu hledání uživatelům najít, co se při hledání v SharePoint Online. Automatické procházení obsahu na základě plánu předem definované procházení (plán procházení nelze změnit). Prohledávací modul zvedne obsah, který se změnil od posledního procházení a aktualizuje index. K zajištění procházení obsahu a aktualizace indexu, pamatujte si následující:
 
@@ -30,7 +30,8 @@ Obsah musí být procházeny a přidán do indexu hledání uživatelům najít,
 
     Pokud více než 24 hodin uplynulo od zahájeno procházení a úplné Přeindexovat, prosím přihlásit případ podpory. V mnoha případech již pracujeme na řešení. Uveďte, prosím, nás alespoň 24 hodin, řešení.
 
->[! Důležité!]: Pokud webu, dokument (knihovna) nebo seznamu byla odstraněna a stále zobrazuje ve výsledcích vyhledávání, by měly uživatelům zobrazí **Chyba 404 Soubor nebyl nalezen** při pokusu o přístup. Tento problém je zaznamenán jako případ podpory pro další výzkum. 
+> [!IMPORTANT]
+> Pokud web, byl odstraněn dokument (knihovna) nebo seznam a stále zobrazena ve výsledcích hledání uživatelů mělo by se zobrazit **Chyba 404 Soubor nebyl nalezen** při pokusu o přístup. Tento problém je zaznamenán jako případ podpory pro další výzkum. 
 
 
 

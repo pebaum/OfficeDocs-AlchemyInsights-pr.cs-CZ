@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 1ea457bd69e7d545cf761a0be849695738b19d8b
-ms.sourcegitcommit: d6ea6f4456a582559f27b34c0b9455a86a8e61f1
+ms.openlocfilehash: 102c8025571f840cf64091d75295acec50661df2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "35941061"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530272"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP nefunguje podle očekávání
 
@@ -42,7 +42,7 @@ Při použití **typů předdefinovaných citlivé informace** v Centru zabezpe�
 
 **Testování zásad DLP**
 
-Chcete-li testovat data typu vestavěné nebo vlastní důvěrné informace, použijte možnost **Typ testu** podle **klasifikace** > **typy citlivých informací**. Další informace naleznete v tématu [typy testu vlastní důvěrné informace](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Chcete-li testovat data typu vestavěné nebo vlastní důvěrné informace, použijte možnost **Typ testu** podle **klasifikace** > **typy citlivých informací**. Další informace naleznete v tématu [typy testu vlastní důvěrné informace](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
 
  **Sestavy**
   

@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 06cd582c30a59a94ee117728bd5daebecca77bc8
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 777c2d8d530d03d58180f43b362ee065439b56b3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757988"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507408"
 ---
 # <a name="sync-errors-due-to-duplicate-objects"></a>Chyby synchronizace z duplikovaných objektů
 
-Po dokončení synchronizace adresáře se může zobrazit jedna z následujících chybových zpráv:
+Po dokončení synchronizace adresářů ve službách Office 365 se může zobrazit jedna z následujících chybových zpráv:
 
 - Nelze aktualizovat objekt v aplikaci Microsoft Online Services, protože mají následující atributy přidružené k tomuto objektu hodnoty, které již mohou být spojen s jiným objektem v místní adresář.
 
