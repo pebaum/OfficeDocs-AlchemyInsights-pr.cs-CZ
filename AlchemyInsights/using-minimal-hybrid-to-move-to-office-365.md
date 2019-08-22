@@ -12,13 +12,13 @@ ms.custom:
 - "691"
 - "3500010"
 ms.assetid: f974fc09-ae6e-4b3d-94cb-1b1021d2ee31
-ms.openlocfilehash: 6591ff2f4141a1a3dacc40a5c9b633e3df474bae
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a1cd9c07e56a525d82e905070571812bf4fd8d40
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365986"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531640"
 ---
-# <a name="using-minimal-hybrid-to-move-to-office-365"></a><span data-ttu-id="6fb0d-102">Použití minimální hybridní přejděte do služeb Office 365</span><span class="sxs-lookup"><span data-stu-id="6fb0d-102">Using Minimal Hybrid to move to Office 365</span></span>
+# <a name="using-minimal-hybrid-to-move-to-office-365"></a><span data-ttu-id="853a2-102">Použití minimální hybridní přejděte do služeb Office 365</span><span class="sxs-lookup"><span data-stu-id="853a2-102">Using Minimal Hybrid to move to Office 365</span></span>
 
-<span data-ttu-id="6fb0d-103">Další informace o minimální hybridní, označované také jako Express migrace, rezervaci [Minimální hybridní použití rychle migrovat poštovní schránky serveru Exchange do služeb Office 365](https://support.office.com/article/FDECCEED-0702-4AF3-85BE-F2A0013937EF.aspx).</span><span class="sxs-lookup"><span data-stu-id="6fb0d-103">To learn more about Minimal Hybrid, also known as Express migration, check out [Use Minimal Hybrid to quickly migrate Exchange mailboxes to Office 365](https://support.office.com/article/FDECCEED-0702-4AF3-85BE-F2A0013937EF.aspx).</span></span>
+<span data-ttu-id="853a2-103">Další informace o minimální hybridní, označované také jako Express migrace, rezervaci [Minimální hybridní použití rychle migrovat poštovní schránky serveru Exchange do služeb Office 365](https://support.office.com/article/FDECCEED-0702-4AF3-85BE-F2A0013937EF.aspx).</span><span class="sxs-lookup"><span data-stu-id="853a2-103">To learn more about Minimal Hybrid, also known as Express migration, check out [Use Minimal Hybrid to quickly migrate Exchange mailboxes to Office 365](https://support.office.com/article/FDECCEED-0702-4AF3-85BE-F2A0013937EF.aspx).</span></span>
