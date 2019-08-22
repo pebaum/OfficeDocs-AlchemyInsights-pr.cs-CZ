@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 8c0ab0086ca47ead5705d423f01824081d0e109e
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755324"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523972"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Při přístupu k e-mailu se zobrazuje chybová TenantAccessBlockedException?
 
 Existuje několik různých důvodů, proč se může zobrazit tato chyba. Příklady:
 
-- Ověřte, zda je platný v **Fakturace** předplatného \> **Odběry** stránka v aplikaci [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/subscriptions).
+- Ověřte, zda je platný pro **fakturaci** předplatného \> stránky [& produkty a služby](https://portal.office.com/adminportal/home#/subscriptions) ve středisku pro správce služeb Microsoft 365.
 
-- Kontrola pro všechny po splatnosti oznámení v **účtování** \> **směnky** stránky v aplikaci [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/billoverview).
+- Kontrola pro všechny po splatnosti oznámení o **fakturaci** \> stránky [& platby kusovníku](https://portal.office.com/adminportal/home#/billoverview) ve středisku pro správce služeb Microsoft 365.
 
 - Pokud byly nedávno aktualizovány fakturace a předplatného pro váš účet, může trvat času pro změny šíří. Opakujte akci za několik minut a pokud problém přetrvává, kontaktujte nás.

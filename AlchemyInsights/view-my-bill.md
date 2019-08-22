@@ -13,19 +13,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387735"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506112"
 ---
 # <a name="view-my-bill"></a>Zobrazit Moje vyúčtování
 
-1. Ve středisku pro správce, přejděte na **fakturační** \> stránky [kusovníků](https://go.microsoft.com/fwlink/p/?linkid=848039) .
+1. Ve středisku pro správce služeb Microsoft 365 přejděte na **fakturační** \> stránky [& platby směnky](https://go.microsoft.com/fwlink/p/?linkid=848039) .
 
-2. Zvolte měsíc a den faktury, kterou chcete vidět, a pak klikněte na **Zobrazit**.
+2. Z rozevíracího seznamu vyberte rozsah dat a potom vyberte objednávku, kterou chcete zobrazit.
 
-3. Zvolte objednávku a pak klikněte na **Zobrazit podrobnosti**.
-
-Další informace naleznete v tématu [zobrazení kusovníku nebo faktury](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Další informace naleznete v tématu [zobrazení kusovníku nebo faktury](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).

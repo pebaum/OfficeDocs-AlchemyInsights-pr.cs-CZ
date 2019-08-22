@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: e6681268c3932fd96cb05ffd41149c890f37c6c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386829"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517996"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Zakoupení předplatného Office 365 z bezplatné zkušební verze
 
@@ -26,16 +26,14 @@ Vyzkoušeli jste Office 365 a teď jste připravení si ho koupit. Při zakoupen
   
  **Můžete si koupit stejný plán jako zkušební verze**
   
-1. Ve středisku pro správce, přejděte na **fakturační** \> stránce [předplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Ve středisku pro správce, přejděte na **fakturační** \> stránku [produkty a služby &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Zvolte zkušební předplatné, které chcete **Koupit nyní** a postupujte podle pokynů k rezervaci.
+2. Vyhledejte předplatné, které chcete nakoupit. V sekci **licence** vyberte **Nákup předplatného**a postupujte podle pokynů k rezervaci.
 
 nebo **je lze zakoupit jiné předplatné**
   
-1. Ve středisku pro správce, přejděte na **fakturační** \> stránce [předplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Ve středisku pro správce, přejděte na **fakturační** \> stránce [nákupní služby](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-2. Na stránce **předplatného** vyberte **Přidat předplatné**.
+3. Vyhledejte předplatné, které chcete zakoupit, vyberte možnost **koupit**a postupujte podle pokynů k rezervaci.
 
-3. Vyhledejte předplatné, které chcete zakoupit, vyberte **Koupit nyní**a postupujte podle pokynů k rezervaci.
-
-Používáte nový admin center? Nový postup naleznete v tématu [zakoupit předplatné služeb Office 365 pro firmy z bezplatné zkušební verze](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Další informace najdete v článku [Kupte si předplatné Office 365 pro firmy při přechodu z bezplatné zkušební verze](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

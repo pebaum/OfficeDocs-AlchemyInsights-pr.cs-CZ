@@ -13,25 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388167"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501358"
 ---
 # <a name="subscription-recurring-billing"></a>Opakovaná fakturace předplatného
 
-Pokud chcete vědět, kdy vaše měsíční nebo roční předplatné předčíslím (Pokud je zapnutý **Periodický fakturace** ) nebo vyprší (je-li **Periodický účtování** je vypnuta):
+Pokud chcete vědět při vaší měsíční nebo roční předplatné služeb Office 365 s předčíslím (Pokud je zapnutý **Periodický fakturace** ) nebo vypršet (je-li **Periodický účtování** je vypnuta):
   
-1. Ve středisku pro správce, přejděte na **fakturační** \> stránce [předplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Ve středisku pro správce, přejděte na **fakturační** \> stránku [produkty a služby &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Vyberte předplatné, které chcete vědět více.
+2. Předplatné, které chcete vědět více, podle **Fakturace**, viz **obnoví na** nebo **hodnotu před vypršením na** datum.
 
-3. Na pravé straně karty předplatného je informace o stav předplatného, nastavení **účtování periodický** a datum další fakturace nebo vypršení platnosti.
+4. Chcete-li provést změny, vyberte **Upravit** a v podokně nastavení **účtování periodický** vyberte **Vypnout** tuto funkci vypnout. Opakovaná fakturace je již vypnutý, vyberte možnost **Měsíčně** nebo **jednou** ji zapnout.
 
-4. Chcete-li pokračovat v používání služeb po tomto datu, přepněte do **na** **Periodický fakturační nastavení** přepnout. Stav se zobrazí datum další fakturace předplatného.
-
-5. Zastavení služby k tomuto datu, přepněte na **vypnout**přepnout **Periodický účtování** . Stav bude obsahovat datum že vypršení platnosti předplatného.
-
-Používáte nový admin center? Nový postup naleznete v tématu [opakované fakturace nebo vypnout zapnout](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Další informace naleznete v tématu [opakované fakturace nebo vypnout zapnout](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 7bba3d7fc4e432c7c266ce8aa87322fc784a8ac0
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 1e925ef8e83dfc5d16b4d19dee88f1a26abe6ef4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754269"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520516"
 ---
 # <a name="check-in-several-files-at-once"></a>Se změnami několika souborů najednou
 
-Kontrola souborů uvnitř a venku je skvělým způsobem, jak sledovat a řídit způsob aktualizace obsahu. Pokud chcete provést změny souboru na webu, a chcete Ujistěte se, že nikdo upravovat soubor rezervujte. Pokud máte soubor rezervovaný, můžete upravit jej online nebo offline a uložte jej několikrát, pokud je to nutné.
+Kontrola souborů a SharePoint knihovny je skvělý způsob, jak sledovat a aktualizace obsahu ovládacího prvku. Pokud chcete provést změny souboru na webu, a chcete Ujistěte se, že nikdo upravovat soubor rezervujte. Pokud máte soubor rezervovaný, můžete upravit jej online nebo offline a uložte jej několikrát, pokud je to nutné.
 
 Níže jsou některé užitečné odkazy týkající se této funkce.
 
-- [Jak zjistíte, out, změnami nebo zahodit změny v souborech](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [Jak rezervovat, změnami nebo zahodit změny v souborech](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
 - [Hlavní otázky týkající se rezervace, vrácení se změnami a verze](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
 
