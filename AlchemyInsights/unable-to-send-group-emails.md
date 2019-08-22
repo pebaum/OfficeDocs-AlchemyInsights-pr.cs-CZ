@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: 595ed7b6cd27261de82e6d0a96a985a19383f4d3
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bcce81f304988e9f66512a19ec0ef0dcb6120eb5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423860"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533368"
 ---
 # <a name="unable-to-send-group-emails"></a>Nelze odeslat e-mailů skupině
 
-Pokud nelze odeslat e-mailové seznamy kontaktů nebo skupin kontaktů, zkuste následující:
+Pokud nelze odeslat e-mailové seznamy kontaktů nebo kontaktní skupiny v Outlook.com, zkuste následující:
   
 1. Použití beta Outlook.com. Další informace [informace o Outlook.com beta](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
     
