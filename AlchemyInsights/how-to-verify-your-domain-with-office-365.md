@@ -14,16 +14,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 01bf56bf3ef6f788762ac3d87947572908d6ffe2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f849711544e5afdaedb16db55bb087db4175c44e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383306"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539526"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="846b9-102">Jak ověřit vaší domény služeb Office 365</span><span class="sxs-lookup"><span data-stu-id="846b9-102">How to verify your domain with Office 365</span></span>
+# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="b4656-102">Jak ověřit vaší domény služeb Office 365</span><span class="sxs-lookup"><span data-stu-id="b4656-102">How to verify your domain with Office 365</span></span>
 
-<span data-ttu-id="846b9-103">Je třeba přidat záznam TXT registrátora vaší domény ověřte, že jste vlastníkem domény.</span><span class="sxs-lookup"><span data-stu-id="846b9-103">You will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="846b9-104">Nejprve postupujte podle pokynů [Průvodce přidejte domény](https://portal.office.com/adminportal/home#/Domains) klepnutím na **Nastavení** \> **doménu**a pak **Přidejte domény**.</span><span class="sxs-lookup"><span data-stu-id="846b9-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by clicking on **Settings** \> **Domain**, and then **Add Domain**.</span></span>
+<span data-ttu-id="b4656-103">Je třeba přidat záznam TXT registrátora vaší domény ověřte, že jste vlastníkem domény.</span><span class="sxs-lookup"><span data-stu-id="b4656-103">You will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="b4656-104">Nejprve postupujte podle pokynů [Průvodce přidejte domény](https://portal.office.com/adminportal/home#/Domains) klepnutím na **Nastavení** \> **doménu**a pak **Přidejte domény**.</span><span class="sxs-lookup"><span data-stu-id="b4656-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by clicking on **Settings** \> **Domain**, and then **Add Domain**.</span></span>
   
-<span data-ttu-id="846b9-105">Postupujte podle pokynů přidat záznam TXT ověřit vaší domény [záznamy DNS vytvořit na jakékoli DNS poskytovatele hostitelských služeb pro Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) .</span><span class="sxs-lookup"><span data-stu-id="846b9-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="b4656-105">Postupujte podle pokynů přidat záznam TXT ověřit vaší domény [záznamy DNS vytvořit na jakékoli DNS poskytovatele hostitelských služeb pro Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) .</span><span class="sxs-lookup"><span data-stu-id="b4656-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
   
