@@ -13,24 +13,24 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 624c8a65d4031a3b9b9e0e8a3ccecde1333dda0f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3ab140f81b208053906dfe030d98f4590d6f39d5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357670"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494196"
 ---
-# <a name="creating-email-signatures"></a><span data-ttu-id="03048-102">Vytvoření e-mailové podpisy</span><span class="sxs-lookup"><span data-stu-id="03048-102">Creating email signatures</span></span>
+# <a name="creating-email-signatures"></a><span data-ttu-id="45af3-102">Vytvoření e-mailové podpisy</span><span class="sxs-lookup"><span data-stu-id="45af3-102">Creating email signatures</span></span>
 
-<span data-ttu-id="03048-103">Tyto články by vám pomohou vytvořit e-mailové podpisy, které hledáte.</span><span class="sxs-lookup"><span data-stu-id="03048-103">These articles should help you create the email signatures you're looking for.</span></span>
+<span data-ttu-id="45af3-103">Tyto články by vám pomohou vytvořit e-mailové podpisy, které hledáte.</span><span class="sxs-lookup"><span data-stu-id="45af3-103">These articles should help you create the email signatures you're looking for.</span></span>
   
-- <span data-ttu-id="03048-104">Vytvořit podpis e-mailu pomocí aplikace Outlook v systému Windows: [vytvořit a přidat podpis do zprávy](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)</span><span class="sxs-lookup"><span data-stu-id="03048-104">I want to create an email signature using Outlook on Windows: [Create and add a signature to messages](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)</span></span>
+- <span data-ttu-id="45af3-104">Vytvořit podpis e-mailu pomocí aplikace Outlook v systému Windows: [vytvořit a přidat podpis do zprávy](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)</span><span class="sxs-lookup"><span data-stu-id="45af3-104">I want to create an email signature using Outlook on Windows: [Create and add a signature to messages](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)</span></span>
   
-- <span data-ttu-id="03048-105">Vytvořit podpis e-mailu pomocí aplikace Outlook na webu: [vytvořit a přidat podpis e-mailu v aplikaci Outlook na webu](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)</span><span class="sxs-lookup"><span data-stu-id="03048-105">I want to create an email signature using Outlook on the web: [Create and add an email signature in Outlook on the web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)</span></span>
+- <span data-ttu-id="45af3-105">Vytvořit podpis e-mailu pomocí aplikace Outlook na webu: [vytvořit a přidat podpis e-mailu v aplikaci Outlook na webu](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)</span><span class="sxs-lookup"><span data-stu-id="45af3-105">I want to create an email signature using Outlook on the web: [Create and add an email signature in Outlook on the web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)</span></span>
 
-- <span data-ttu-id="03048-106">Vytvořit podpis e-mailu Outlook.com pomocí: [vytvořit a přidat podpis e-mailů v Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)</span><span class="sxs-lookup"><span data-stu-id="03048-106">I want to create an email signature using Outlook.com: [Create and add an email signature in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)</span></span>
+- <span data-ttu-id="45af3-106">Vytvořit podpis e-mailu Outlook.com pomocí: [vytvořit a přidat podpis e-mailů v Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)</span><span class="sxs-lookup"><span data-stu-id="45af3-106">I want to create an email signature using Outlook.com: [Create and add an email signature in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)</span></span>
 
-- <span data-ttu-id="03048-107">Vytvořit globální e-mailové podpis pro všechny e-maily odeslané z mé společnosti: [Vytvoření celoorganizačních podpisy a reklamace ve službách Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)</span><span class="sxs-lookup"><span data-stu-id="03048-107">I want to create a global email signature for all emails sent from my company: [Create organization-wide signatures and disclaimers in Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)</span></span>
+- <span data-ttu-id="45af3-107">Vytvořit globální e-mailové podpis pro všechny e-maily odeslané z mé společnosti: [Vytvoření celoorganizačních podpisy a reklamace ve službách Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)</span><span class="sxs-lookup"><span data-stu-id="45af3-107">I want to create a global email signature for all emails sent from my company: [Create organization-wide signatures and disclaimers in Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)</span></span>
 
- <span data-ttu-id="03048-108">**Tip:** Celou organizaci podpisy jsou označovány jako "reklamace."</span><span class="sxs-lookup"><span data-stu-id="03048-108">**Tip:** Organization-wide signatures are referred to as "disclaimers."</span></span>
+ <span data-ttu-id="45af3-108">**Tip:** Celou organizaci podpisy jsou označovány jako "reklamace."</span><span class="sxs-lookup"><span data-stu-id="45af3-108">**Tip:** Organization-wide signatures are referred to as "disclaimers."</span></span>
   
