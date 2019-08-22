@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: b526a87740c44d2b247c202a92d9c35f85383500
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0ab2877a6192af1bf88016ca9cff5ec0aa967e5f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407571"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516269"
 ---
 # <a name="create-a-communication-site"></a>Vytvořit web komunikace
 
-Vytvoření komunikační sítě, proveďte následující kroky: 
+Chcete-li vytvořit web komunikace v Online služby SharePoint, proveďte následující kroky: 
   
 1. V levém horním rohu stránky klepněte na spouštěč aplikace a vyberte dlaždici služby SharePoint. Pokud nevidíte dlaždice služby SharePoint, klepněte na tlačítko **servery** nebo **všechny apps** Pokud SharePoint není vidět. 
     

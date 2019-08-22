@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397927"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505824"
 ---
 # <a name="outlook-search-not-indexing"></a>Indexování není hledání aplikace Outlook
 
 Jsme si vědomi aplikace Outlook hledat problémy související s nejnovější aktualizací pro systém Windows.
   
-Při hledání v aplikaci Outlook, může se zobrazit tato chyba: ** došlo k nějaké chybě a nebylo možné dokončit hledání **, nebo **výsledky hledání mohou být neúplné, protože stále probíhá indexování položek**. Tato oprava byla vydána jako volitelná aktualizace systému Windows. Nainstalujte odpovídající verzi systému Windows, tento problém se zobrazuje na ten: 
+Při hledání v aplikaci Outlook, můžete obdržet jednu z těchto chyb: **došlo k nějaké chybě a nebylo možné dokončit hledání**nebo **výsledky hledání mohou být neúplné, protože stále probíhá indexování položek**. Tato oprava byla vydána jako volitelná aktualizace systému Windows. Nainstalujte odpovídající verzi systému Windows, tento problém se zobrazuje na ten: 
   
 > [Windows 7 - 27. června 2017 update](https://support.microsoft.com/kb/4022168.aspx)
     
