@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403668"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527464"
 ---
 # <a name="enable-multi-factor-authentication"></a>Povolit vícenásobné ověření
 
-1. Přechod k **uživatelům** \> **aktivních uživatelů**
+Chcete-li povolit vícenásobné ověření ve středisku pro správce služeb Microsoft 365:
+
+1. Přejděte na **uživatele** \> stránky **aktivních uživatelů** .
     
-2. Klepněte na tlačítko **Další** \> **Nastavení Azure vícenásobné ověření**. 
+2. V horní části stránky vyberte **vícenásobné ověření**. 
     
-3. Najděte uživatele nebo uživatelů, kteří mají povolení pro MFA. Chcete-li zobrazit všechny uživatele, je třeba změnit zobrazení vícenásobné ověření stavu nahoře.
+3. Najděte uživatele nebo uživatelů, kteří chcete povolit vícenásobné ověření. Chcete-li zobrazit všechny uživatele, je třeba změnit filtr **vícenásobné ověření stavu** nahoře.
     
 4. Zaškrtněte políčko vedle uživatele, které chcete povolit.
     
-5.  V informačním podokně vpravo uživatele v části **Rychlé kroky** budete v tématu Povolení a správě uživatelských nastavení. Zvolte **Povolit**. 
+5.  V informačním podokně vpravo uživatele v části **Rychlé kroky**zaškrtněte políčko **Povolit**. 
     
-6. V dialogovém okně, se otevře, **klepněte na tlačítko Povolit vícenásobné ověření**. 
+6. V dialogovém okně, které se otevře vyberte **Povolit vícenásobné ověření**. 
     
 
