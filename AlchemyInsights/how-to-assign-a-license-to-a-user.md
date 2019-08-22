@@ -13,29 +13,25 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 142a0ada8caa410228562aad4549a5d75b313b7e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386289"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522460"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Přiřazení licence uživateli
 
-Uživatel potřebuje licenci k přístupu ke službám. Zde jsou kroky k přidání, změna nebo odebrání licence uživateli.
+Uživatel potřebuje licenci Office 365 přístup ke službám. Zde jsou kroky k přidání, změna nebo odebrání licence uživateli.
   
-1. Ve středisku pro správce, přejděte na **uživatele** \> stránky [Aktivních uživatelů](https://go.microsoft.com/fwlink/p/?linkid=834822) .
+1. Ve středisku pro správce, přejděte na **uživatele** \> stránky [aktivních uživatelů](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-2. Zaškrtněte políčko vedle názvu uživatele, kterému chcete přiřadit, změnit nebo odebrat licenci.
+2. Vyberte jméno uživatele, kterému chcete přiřadit, změnit nebo odebrat licenci.
 
-3. Vpravo v řádku **Licence na produkty** zvolte **Upravit**.
+3. Na kartě **Apps a licence** vyberte licenci, kterou chcete přiřadit tomuto uživateli.
 
-4. V podokně **Licence na produkty** přepněte přepínač u licence, kterou chcete tomuto uživateli přiřadit, do polohy **Zapnuto**.
+    Ve výchozím nastavení se uživateli automaticky přiřadí všechny služby přidružené k této licenci. Chcete-li omezit služby, které jsou uživateli k dispozici, zrušte zaškrtnutí políčka u služby, které nechcete, aby tento uživatel mít.
 
-    Ve výchozím nastavení se uživateli automaticky přiřadí všechny služby přidružené k této licenci. Pokud chcete omezit, které služby budou uživateli k dispozici, přepněte do polohy **Vypnuto** přepínače služeb, které nemají vybraní uživatelé používat.
+4. V dolní části podokna vyberte **Uložit změny**.
 
-    Přepnete přepnout do polohy **Vypnuto** odebrání licence.
-
-5. V dolní části podokna **Licence na produkty** zvolte **Uložit** \> **Zavřít** \> **Zavřít**.
-
-Další informace naleznete v tématu [přiřazení licencí uživatelům služeb Office 365 pro firmy](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)a [odebírat licence od uživatelů ve službách Office 365 pro firmy](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Další informace naleznete v tématu [přiřazení licencí uživatelům služeb Office 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)a [odebírat licence od uživatelů ve službách Office 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).

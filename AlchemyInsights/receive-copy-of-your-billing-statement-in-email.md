@@ -13,14 +13,14 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 62d67ad0ebaee202f41b0a0fa0e0c36f681588ac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385821"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510076"
 ---
-# <a name="receive-copy-of-your-billing-statement-in-email"></a>Přijímat e-mailem kopii vašeho výpis vyúčtování
+# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>Přijímat e-mailem kopii vašeho výpis vyúčtování služeb Office 365
 
 Můžete zvolit možnost příjmu kopie vyúčtování jako přílohy v e-mailu. V případě, že to uděláte, upozorňujeme na tyto skutečnosti:
   
@@ -32,4 +32,4 @@ Příjem váš výpis vyúčtování v e-mailu:
   
 1. Ve středisku pro správce, přejděte na **fakturační** \> stránce [fakturační oznámení](https://go.microsoft.com/fwlink/p/?linkid=853212) .
 
-2. U možnosti **Chcete dostávat vyúčtování jako přílohu v e-mailu** přepněte přepínač na **Zapnuto**. Příjem e-mailů s vyúčtováním můžete kdykoli ukončit přepnutím přepínače na **Vypnuto**.
+2. Ve skupinovém rámečku **zobrazí výpis vyúčtování jako přílohu e-mailu?**, přejděte přepnout **na**. Příjem e-mailů s vyúčtováním můžete kdykoli ukončit přepnutím přepínače na **Vypnuto**.

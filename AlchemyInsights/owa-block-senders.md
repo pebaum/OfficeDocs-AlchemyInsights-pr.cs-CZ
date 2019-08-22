@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000015"
 - "2001"
-ms.openlocfilehash: 6a56bf52428adce20bc2f4ec46523cf99eb207f5
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.openlocfilehash: fcd41108cb96fffac8b20ff7160199588f0886a8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171599"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510940"
 ---
-# <a name="block-or-unblock-senders"></a>Blokování nebo zrušení blokování odesílatelů
+# <a name="block-or-unblock-senders-in-outlook-on-the-web"></a>Blokování nebo zrušení blokování odesílatelů v aplikaci Outlook na webu
 
 **Ze složky Doručená pošta:**
 

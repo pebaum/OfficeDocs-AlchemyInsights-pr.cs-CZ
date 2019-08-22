@@ -11,16 +11,16 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 111b558fc94d0305363097ba0e74078682c2802c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384890"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541205"
 ---
 # <a name="how-to-disable-external-groups"></a>Jak zakázat externí skupiny
 
-Existují 4 možnosti pro externí uživatele pro přístup k síti.
+Externí uživatelé mají přístup k síti v Yammer čtyřmi způsoby.
   
 1. **Uživatelé s účtem Host** - Yammer Admins pozvat kontakty z externích doménách jako uživatelé v domácí síti. Tito uživatelé uvidí všechny společnosti krmiva a jiné skupiny se mohou připojit v sítích také.
 
