@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385605"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495024"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="aad6b-102">Přidání sedadel na předplacené předplatné</span><span class="sxs-lookup"><span data-stu-id="aad6b-102">Add seats to a prepaid subscription</span></span>
+# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="af095-102">Přidání sedadel na předplacené předplatné</span><span class="sxs-lookup"><span data-stu-id="af095-102">Add seats to a prepaid subscription</span></span>
 
-1. <span data-ttu-id="aad6b-103">Ve středisku pro správce, přejděte na **fakturační** \> stránce [předplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="aad6b-103">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+<span data-ttu-id="af095-103">Předplacené licence služeb Office 365 jsou vystavovány jako 25místný alfanumerický kód.</span><span class="sxs-lookup"><span data-stu-id="af095-103">Prepaid Office 365 licenses are issued to you as a 25-character alphanumeric code.</span></span> <span data-ttu-id="af095-104">Po zakoupení licencí, které potřebujete, přidáte je do předplatného.</span><span class="sxs-lookup"><span data-stu-id="af095-104">After you have purchased the licenses you need, you can add them to your subscription.</span></span> 
 
-2. <span data-ttu-id="aad6b-104">Zvolte chcete přidat uživatele do předplacené předplatné.</span><span class="sxs-lookup"><span data-stu-id="aad6b-104">Choose the prepaid subscription you would like to add users to.</span></span>
+1. <span data-ttu-id="af095-105">Ve středisku pro správce, přejděte na **fakturační** > stránku[produkty a služby &](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="af095-105">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-3. <span data-ttu-id="aad6b-105">V nabídce **Další akce** zvolte **Obnovit nebo přidání licence s token**.</span><span class="sxs-lookup"><span data-stu-id="aad6b-105">In the **More actions** menu, choose **Renew or add license with token**.</span></span>
+2. <span data-ttu-id="af095-106">Najděte předplatné, ke kterému chcete přidat licence.</span><span class="sxs-lookup"><span data-stu-id="af095-106">Find the subscription to which you want to add licenses.</span></span> <span data-ttu-id="af095-107">Vyberte **Další akce** rozevíracího seznamu a pak zvolte **Obnovit nebo přidání licence s token**.</span><span class="sxs-lookup"><span data-stu-id="af095-107">Select the **More actions** drop-down list, and then choose **Renew or add license with token**.</span></span>
 
-4. <span data-ttu-id="aad6b-106">Vyberte možnost **nové a nepoužívané product key** .</span><span class="sxs-lookup"><span data-stu-id="aad6b-106">Select the **new and unused product key** option.</span></span> <span data-ttu-id="aad6b-107">(Pokud tento odběr byl vytvořen pomocí kódu product key, který je zakoupit u prodejce, pravděpodobně máte možnost přidání uživatelů s jinými způsoby platby.)</span><span class="sxs-lookup"><span data-stu-id="aad6b-107">(If this subscription was created with a product key purchased at a retail location, you might have the option to add users with other payment methods.)</span></span>
+3. <span data-ttu-id="af095-108">Na **Obnovit nebo přidání uživatelských licencí** stránky, vyberte možnost **použít nové a nepoužívané product key**a pak klepněte na tlačítko **Další**.</span><span class="sxs-lookup"><span data-stu-id="af095-108">On the **Renew or add user licenses** page, select **Use a new and unused product key**, then select **Next**.</span></span>
 
-5. <span data-ttu-id="aad6b-108">Zvolte **Další**.</span><span class="sxs-lookup"><span data-stu-id="aad6b-108">Choose **Next**.</span></span>
+4. <span data-ttu-id="af095-109">Zadejte kód product key a potom klepněte na tlačítko **Další**.</span><span class="sxs-lookup"><span data-stu-id="af095-109">Enter the product key, then select **Next**.</span></span>
 
-6. <span data-ttu-id="aad6b-109">Zadejte kód product key a pak zvolte **Další**.</span><span class="sxs-lookup"><span data-stu-id="aad6b-109">Enter the product key, then choose **Next**.</span></span>
+    > [!NOTE]
+    > <span data-ttu-id="af095-110">Pokud máte více než jeden kód product key, můžete je zadat **jiný kód product key přidat** .</span><span class="sxs-lookup"><span data-stu-id="af095-110">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
 
-7. <span data-ttu-id="aad6b-110">Zvolte možnost přidat další uživatele, vyberte **Další**a potom zvolte **Redeem**.</span><span class="sxs-lookup"><span data-stu-id="aad6b-110">Choose the option to add more users, choose **Next**, then choose **Redeem**.</span></span>
+5. <span data-ttu-id="af095-111">Zvolte Přidat uživatele do předplatného, a pak klepněte na tlačítko **Další**.</span><span class="sxs-lookup"><span data-stu-id="af095-111">Choose to add users to the subscription, then select **Next**.</span></span>
 
-<span data-ttu-id="aad6b-111">Používáte nový admin center?</span><span class="sxs-lookup"><span data-stu-id="aad6b-111">Are you using the new admin center?</span></span> <span data-ttu-id="aad6b-112">Nový postup naleznete v tématu [Přidání licencí nebo prodloužit předplatné zaplatili za pomocí kódu product key](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="aad6b-112">For new steps, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).</span></span>
+6. <span data-ttu-id="af095-112">Podrobnosti vaší objednávky a potom vyberte možnost **Redeem**.</span><span class="sxs-lookup"><span data-stu-id="af095-112">Review your order details, then select **Redeem**.</span></span>
+
+<span data-ttu-id="af095-113">Další informace naleznete v tématu [Přidání licencí nebo prodloužit předplatné zaplatili za pomocí kódu product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="af095-113">For more information, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>
