@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382946"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539022"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Určení adresy IP a klient z protokolů auditování
 
-Adresy IP, která odpovídá činnosti uživatelem nebo správcem, je uveden v protokoly auditu. Informace o klientovi je také zaznamenána. Zde jsou kroky k identifikaci těchto informací
+Adresu IP, která odpovídá aktivity služeb Office 365, uživatel nebo správce se zobrazí záznamy auditu. Informace o klientovi je také zaznamenána. Zde jsou kroky k identifikaci těchto informací
 
-1. Přihlášení do [Centra kompatibility aplikace Office 365 zabezpečení &](https://protection.office.com/)
+1. Přihlášení do [Centra kompatibility aplikace Office 365 zabezpečení &](https://protection.office.com/).
 
-2. Klepněte na tlačítko **vyhledávání a vyšetřování** a vyberte **Hledat protokolu auditu**.
+2. Přejít na **vyhledávání** > **auditování protokolu vyhledávací** stránku.
 
    Pokud vás zajímají konkrétní aktivity, vyberte ji ze seznamu **aktivit** . Pokud ne, budou vráceny všechny aktivity pro vybraného uživatele (výchozí nastavení).
 

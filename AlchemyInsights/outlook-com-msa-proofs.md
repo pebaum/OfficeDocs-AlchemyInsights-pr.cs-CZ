@@ -15,16 +15,16 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7a547841700f739f59ac17969e444f781093fb2e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373874"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535960"
 ---
 # <a name="security-info-and-security-codes"></a>Informace o zabezpečení a zabezpečení kódy
 
-Chcete-li přidat informace o zabezpečení účtu:
+Chcete-li přidat informace o zabezpečení účtu Microsoft:
 
 1. Přihlásit se k [zabezpečení základy](https://account.microsoft.com/security) s vaším účtem Microsoft.
 1. Vyberte **zabezpečení kontaktní informace**.
