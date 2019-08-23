@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1565"
 - "8000003"
-ms.openlocfilehash: 1add9eec819ddaec54e30c581898989b55be316f
-ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
+ms.openlocfilehash: 1b4cde0ccfce5c1607c57a5fab4253c7923b6b0f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "36203981"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556162"
 ---
 # <a name="search-mail-and-people-on-outlook-on-the-web"></a>Hledat poštu a osoby v aplikaci Outlook na webu
 

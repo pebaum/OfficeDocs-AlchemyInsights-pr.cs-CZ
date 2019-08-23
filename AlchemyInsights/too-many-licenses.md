@@ -13,27 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388017"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549068"
 ---
 # <a name="too-many-licenses"></a>Příliš mnoho licencí?
 
-Pokud se domníváte, že jste si příliš mnoho licencí účtována, je obvykle způsobena s zakoupili více licencí, je nutné.
+Pokud se domníváte, že jste si příliš mnoho služeb Office 365 licence účtována, je obvykle způsobena s zakoupili více licencí, je nutné.
   
 **Snížit počet zakoupených licencí**
   
-1. Ve středisku pro správce, přejděte na **fakturační** \> stránce [předplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Ve středisku pro správce, přejděte na **fakturační** \> stránku [produkty a služby &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Na levé straně vyberte předplatné, ze kterého chcete odebrat licence.
+2. Najděte předplatné, ze kterého chcete odebrat licence a poté vyberte **Přidat nebo odebrat licence**.
 
-3. Vyberte **Přidat nebo odebrat licence**.
+3. V poli **Celkový počet licencí** zadejte celkový počet licencí, které potřebujete pro tento odběr a potom vyberte **změnit odeslat**. Pokud například máte 110 licencí a chcete jich 5 odebrat, zadejte 105.
 
-4. Zadejte celkový počet uživatelů, které jsou potřebné. Například pokud máte aktuálně 25 licencí a chcete odebrat 5, zadejte v tomto poli 20.
-
-5. Zvolte **Submit** (Odeslat).
-
-Používáte nový admin center? Nové kroky v tématu [Odebrání licence z vašeho Office 365 předplatného business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Další informace najdete v tématu [Odebrání licencí z předplatného Office 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

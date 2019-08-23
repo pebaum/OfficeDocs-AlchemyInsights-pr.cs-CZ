@@ -14,18 +14,18 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 735604a097b6b86bd39207de230f8cef3163e96b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372949"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555370"
 ---
 # <a name="enable-password-sync"></a>Povolení synchronizace hesel
 
-1.  Na domovské stránce O365 Admin Center zvolte **Stav DirSync** . 
+1.  Na domovské stránce Microsoft 365 admin center zvolte **Stav DirSync** . 
     
-     * Střídavě, můžete přejít na **uživatele** \> ** aktivních uživatelů **a na stránce aktivní uživatelé zvolte **Další** \> **synchronizaci adresářů.** * 
+     *Alternativně můžete přejít na **uživatele** \> **aktivních uživatelů**a aktivních uživatelů stránky, zvolte **Další** \> **synchronizaci adresářů.*** 
     
 2. V podokně adresáře synchronizace zvolte **Přejít na řízení DirSync**. 
     
