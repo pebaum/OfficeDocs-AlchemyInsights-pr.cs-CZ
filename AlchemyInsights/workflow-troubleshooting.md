@@ -12,16 +12,16 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: cc01e0cef157ad41f5a972f434c69fa3af208c9b
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: d156c414d741003f2ebddc63b2bc95167027169d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36271615"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558070"
 ---
 # <a name="workflow-troubleshooting"></a>Poradce při potížích s pracovní postup
 
-Pracovní postup řešení potíží a ladění:
+Informace o ladění pracovních postupů služby SharePoint zvažte následující skutečnosti:
 - Ladění pracovních postupů se podobá předchozích verzí.  Další informace naleznete v tématu [pracovní postupy ladění služby SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 - Další informace o odstraňování potíží naleznete v tématu [chyby ověření pracovního postupu odstraňování problémů serveru SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
