@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: 9d0d863bdf30986e6ac86fbd786ec881a2e0e18a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fba761178e08a09f0e5f4e4ffb6212e8c9395fdc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375098"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546764"
 ---
-# <a name="not-receiving-facebook-codes"></a>Nejsou přijímány kódy Facebook
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Nejsou přijímány kódy Facebook pomocí Outlook.com
 
 Pokud z Facebook požadované nové heslo, ale neobdrželi disketu pro vytvoření nového e-mailu:
 

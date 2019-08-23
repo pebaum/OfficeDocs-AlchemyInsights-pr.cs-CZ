@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356590"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553425"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Odvolat nebo nahradit e-mailové zprávě
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Odvolat nebo nahradit e-mailové zprávy ve službách Office 365
 
 - Můžete **pouze odvolání zprávy, které jsou odesílány uživatelům ve vaší organizaci**. Pokud byla zpráva odeslána na adresu služby Gmail, například nelze odvolat ji.
 - Můžete **pouze odvolání zprávy odeslané z aplikace Outlook 2016 pro PC**. Pokud uživatel odešle zprávu pomocí aplikace Outlook for Mac nebo aplikace Outlook na webu, nelze ji odvolat.
 - Pokud jste správce, můžete **odvolat zpráv jménem uživatelů pomocí prostředí PowerShell**. Zprávy z středisku pro správce nemůže odvolat. Posuňte zobrazení dolů k "Hledání a odstranění e-mailových zpráv v organizaci" Další informace.
 
-***Odvolat nebo nahradit e-mailové zprávy, které jste odeslali***
+**Odvolat nebo nahradit e-mailové zprávy, které jste odeslali**
 
 1. V podokně složek na levé straně okna aplikace Outlook vyberte složku Odeslaná pošta.
 2. Otevřete zprávu, kterou chcete odvolat. Chcete-li zprávu otevřít, poklepejte na položku. Odeslanou zprávu, zobrazí se v podokně čtení nebude možné odvolat zprávu.

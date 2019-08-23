@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 241e2cb76dd450527460becb3a18a00cda3eae6a
-ms.sourcegitcommit: ad4257df7113531cea883b477d505918da99b325
+ms.openlocfilehash: 01ebbe085c0f8585171be8ff71fbf5c09eddc8a7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34933947"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557206"
 ---
-# <a name="change-your-profile-picture"></a>Změna profilového obrázku
+# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Změna profilového obrázku v aplikaci Outlook na webu
 
 1. V horní části stránky vyberte název nebo profil obrázku.
 1. V podokně **Můj účet** vyberte obrázek profilu.

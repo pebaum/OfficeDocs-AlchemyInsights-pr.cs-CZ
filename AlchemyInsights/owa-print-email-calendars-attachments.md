@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 3f5ce5dbd9307aae9fc497f501d1da9194c45ff9
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.openlocfilehash: bf4ae61907e2a179bba39edb4f8eb05608e00907
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171283"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556702"
 ---
 # <a name="print-email-calendars-and-attachments"></a>Tisk e-mailů, kalendáře a přílohy
 
-Při tisku e-mailové zprávy:
+Při tisku e-mailové zprávy v aplikaci Outlook na webu:
   
 1. Vyberte zprávu, kterou chcete vytisknout.
 1. V pravém horním rohu zprávy vyberte tři tečky a pak vyberte možnost **Tisk**.
