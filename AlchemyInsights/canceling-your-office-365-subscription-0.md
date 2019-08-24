@@ -13,17 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 90f7a879b823648973ef52d9d34914871c046141
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b6f0148a955fe3004471f1963e8ffa840ba7257
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518500"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575743"
 ---
-# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="fc850-102">Zrušení předplatného služeb Office 365?</span><span class="sxs-lookup"><span data-stu-id="fc850-102">Canceling your Office 365 subscription?</span></span>
+# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="d57c7-102">Zrušení předplatného služeb Office 365?</span><span class="sxs-lookup"><span data-stu-id="d57c7-102">Canceling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="fc850-103">Omlouváme se na vás přejít!</span><span class="sxs-lookup"><span data-stu-id="fc850-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="d57c7-103">Omlouváme se na vás přejít!</span><span class="sxs-lookup"><span data-stu-id="d57c7-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="fc850-104">Podle dat organizace, Věříme, že aktuální předplatné máte méně než 25 míst.</span><span class="sxs-lookup"><span data-stu-id="fc850-104">Based on your organization data, we believe all your current subscriptions have less than 25 seats.</span></span> <span data-ttu-id="fc850-105">Chcete-li zrušit předplatné online, přejděte na **fakturační** \> [přihlášení k odběru](https://go.microsoft.com/fwlink/p/?linkid=842054) stránky a pak zvolte **Další akce** \> **zrušit předplatné**.</span><span class="sxs-lookup"><span data-stu-id="fc850-105">To cancel your subscription online, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose **More actions** \> **Cancel subscription**.</span></span>
+<span data-ttu-id="d57c7-104">Podle dat organizace, Věříme, že aktuální předplatné máte méně než 25 míst.</span><span class="sxs-lookup"><span data-stu-id="d57c7-104">Based on your organization data, we believe all your current subscriptions have less than 25 seats.</span></span> <span data-ttu-id="d57c7-105">Chcete-li zrušit předplatné online, přejděte na **fakturační** \> stránku [produkty a služby &](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="d57c7-105">To cancel your subscription online, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="d57c7-106">V části **Nastavení & akce** zvolte **zrušit předplatné**.</span><span class="sxs-lookup"><span data-stu-id="d57c7-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
   
-<span data-ttu-id="fc850-106">Další informace o zrušení odběru a podrobné pokyny naleznete v tématu tohoto článku: [zrušení předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="fc850-106">To learn more about canceling a subscription or for step-by-step instructions, see this article: [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span></span>
+<span data-ttu-id="d57c7-107">Používáte starý admin center?</span><span class="sxs-lookup"><span data-stu-id="d57c7-107">Are you using the old admin center?</span></span> <span data-ttu-id="d57c7-108">Starý postup nebo Další informace naleznete v tématu [zrušení předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="d57c7-108">For old steps, or to learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>

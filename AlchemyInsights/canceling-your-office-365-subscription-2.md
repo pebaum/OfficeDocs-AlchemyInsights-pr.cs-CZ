@@ -13,19 +13,19 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 18cacee394e7f1be20002cc64a9db8dd9afc61a3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75ce59fedadc22291062affd2220b08057910966
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520948"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576085"
 ---
-# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="5b31f-102">Zrušení předplatného služeb Office 365?</span><span class="sxs-lookup"><span data-stu-id="5b31f-102">Canceling your Office 365 subscription?</span></span>
+# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="82f68-102">Zrušení předplatného služeb Office 365?</span><span class="sxs-lookup"><span data-stu-id="82f68-102">Canceling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="5b31f-103">Omlouváme se na vás přejít!</span><span class="sxs-lookup"><span data-stu-id="5b31f-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="82f68-103">Omlouváme se na vás přejít!</span><span class="sxs-lookup"><span data-stu-id="82f68-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="5b31f-104">Podle dat organizace, Věříme, že máte aktuální předplatné přiřazené licence pro více než 25.</span><span class="sxs-lookup"><span data-stu-id="5b31f-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="5b31f-105">Uživatelům můžete odebrat, dokud nebude mít méně než 25 a potom přejděte na **fakturační** \> [Odběry](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku a pak zvolte **Další akce** \> **zrušit předplatné**.</span><span class="sxs-lookup"><span data-stu-id="5b31f-105">You can remove users until you have fewer than 25, then go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, and then choose **More actions** \> **Cancel subscription**.</span></span>
+<span data-ttu-id="82f68-104">Podle dat organizace, Věříme, že máte aktuální předplatné přiřazené licence pro více než 25.</span><span class="sxs-lookup"><span data-stu-id="82f68-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="82f68-105">Uživatelům můžete odebrat, dokud nebude mít méně než 25 a potom přejděte na **fakturační** \> stránku [produkty a služby &](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="82f68-105">You can remove users until you have fewer than 25, then go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="82f68-106">V části **Nastavení & akce** zvolte **zrušit předplatné**.</span><span class="sxs-lookup"><span data-stu-id="82f68-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
   
-<span data-ttu-id="5b31f-106">Můžete také pomocí možnosti "budeme vám volat" obraťte se na pracovníka podpory.</span><span class="sxs-lookup"><span data-stu-id="5b31f-106">Alternatively, use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="82f68-107">Také zvolte, obraťte se na pracovníka podpory **potřebuje pomoc** .</span><span class="sxs-lookup"><span data-stu-id="82f68-107">Alternatively, choose **Need help** to talk to a support engineer.</span></span>
   
-<span data-ttu-id="5b31f-107">Další informace o zrušení odběru a podrobné pokyny naleznete v tématu tohoto článku: [zrušení předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="5b31f-107">To learn more about canceling a subscription or for step-by-step instructions, see this article: [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span></span>
+<span data-ttu-id="82f68-108">Používáte starý admin center?</span><span class="sxs-lookup"><span data-stu-id="82f68-108">Are you using the old admin center?</span></span> <span data-ttu-id="82f68-109">Starý postup nebo Další informace naleznete v tématu [zrušení předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="82f68-109">For old steps, or to learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
