@@ -13,12 +13,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518032"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575941"
 ---
 # <a name="buy-additional-office-365-licenses"></a>Zakupte další licence služeb Office 365
 
@@ -32,9 +32,10 @@ ms.locfileid: "36518032"
 
     > [!NOTE]
     > Pokud předplatné platíte prostřednictvím platební karty nebo bankovního účtu, budete mít nově zakoupené licence k dispozici hned po potvrzení objednávky. Pokud platíte fakturou, budete pravděpodobně muset počkat na ověření kredibility, než budete nové licence moct používat.
-  
+
+Používáte starý admin center? Starý postup nebo Další informace naleznete v tématu [zakoupit licence pro vaše Office 365 předplatného business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+
 **Další zdroje**
 
 - [Přiřazení licencí pro uživatele ve službách Office 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-Další informace naleznete v tématu [zakoupit licence pro vaše Office 365 předplatného business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).

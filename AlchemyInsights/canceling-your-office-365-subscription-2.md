@@ -13,19 +13,19 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 18cacee394e7f1be20002cc64a9db8dd9afc61a3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75ce59fedadc22291062affd2220b08057910966
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520948"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576085"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Zrušení předplatného služeb Office 365?
 
 Omlouváme se na vás přejít!
   
-Podle dat organizace, Věříme, že máte aktuální předplatné přiřazené licence pro více než 25. Uživatelům můžete odebrat, dokud nebude mít méně než 25 a potom přejděte na **fakturační** \> [Odběry](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku a pak zvolte **Další akce** \> **zrušit předplatné**.
+Podle dat organizace, Věříme, že máte aktuální předplatné přiřazené licence pro více než 25. Uživatelům můžete odebrat, dokud nebude mít méně než 25 a potom přejděte na **fakturační** \> stránku [produkty a služby &](https://go.microsoft.com/fwlink/p/?linkid=842054) . V části **Nastavení & akce** zvolte **zrušit předplatné**.
   
-Můžete také pomocí možnosti "budeme vám volat" obraťte se na pracovníka podpory.
+Také zvolte, obraťte se na pracovníka podpory **potřebuje pomoc** .
   
-Další informace o zrušení odběru a podrobné pokyny naleznete v tématu tohoto článku: [zrušení předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+Používáte starý admin center? Starý postup nebo Další informace naleznete v tématu [zrušení předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

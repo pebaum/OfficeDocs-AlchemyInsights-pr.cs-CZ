@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385858"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574463"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Předplatné služeb Microsoft Office 365 licence svazku aktivace
 
@@ -32,4 +32,4 @@ ms.locfileid: "36385858"
 
 5. Přihlášení do služeb Office 365 ([https://portal.office.com](https://portal.office.com)) pomocí existující pověření správce služeb Office 365. Po úspěšném přihlášení, obdržíte další e-mail s potvrzením nákupu.
 
-6. Poté, co jste přihlášeni, můžete přejít na **fakturaci** \> [Odběry](https://go.microsoft.com/fwlink/p/?linkid=842054) stránky Chcete-li ověřit, zda jsou v rámci vašeho klienta aktivován vaše zakoupené předplatné Office 365. (Můžete také na kartě **předplatné** v VLSC zobrazíte podrobnosti ověření uložil odběru.)
+6. Poté, co jste přihlášeni, můžete přejít na **fakturaci** \> [& produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránky, chcete-li ověřit, zda jsou v rámci vašeho klienta aktivován vaše zakoupené předplatné Office 365. (Můžete také na kartě **předplatné** v VLSC zobrazíte podrobnosti ověření uložil odběru.)

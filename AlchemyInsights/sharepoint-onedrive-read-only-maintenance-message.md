@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840508"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620716"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Jen pro čtení pro údržbu zpráva při pokusu o použití služby SharePoint nebo OneDrive
 
-Uživatelé obdržet zprávu **Pro údržbu jen pro čtení** při pokusu o použití služby SharePoint nebo OneDrive.  Pokud ano, zkontrolujte, zda je aktivní údržby, které se vyskytují u vašeho klienta tak, že přejdete do [Centra zpráv](https://portal.office.com/adminportal/home#/MessageCenter). Nezapomeňte zkontrolovat řídicího panelu [Zdravotní služby](https://portal.office.com/adminportal/home#/servicehealth) ke kontrole všech informačních zpravodajů/incidentů, ke kterým může docházet.
+Uživatelé obdržet zprávu **Pro údržbu jen pro čtení** při pokusu o použití služby SharePoint nebo OneDrive pro jeden z následujících scénářů. 
 
-Pokud řídicího panelu Centrum zpráv ani zdravotní služby mají uvedeno nic o aktuální údržby pro vašeho klienta, může to být problém ukládání do mezipaměti prohlížeče.
+-   Aktivní nebo plánované údržby aktivity.  Kontrola je tak, že přejdete do [Centra zpráv](https://portal.office.com/adminportal/home#/messagecenter).
+-   Nejdůležitější, služby active incident, který se může vyskytovat. Zkontrolujte všechny zpravodaje incidenty přechodem do [Stavu služby](https://portal.office.com/adminportal/home#/servicehealth).
+-   Vedlejší automatický retušovací obnovení scénář, který by mohl děje z důvodu nečekaných událostí na serverech, které může trvat méně než 30 min nebo tak. 
+    
+    Neexistují žádné zprávy centrum nebo zdravotní služby účtuje tyto menší výtěžnost, ale zpět na normální velikost by měla být velmi brzy.
+
+Ve velmi málo případech můžeme pozorovat jeden z výše uvedených tří scénářů byly příčinou a obnovil službu ale nebylo zrušeno mezipaměti prohlížeče uživatele.
 
 Pokuste se vymazat mezipaměť prohlížeče před navigací na webu.
 
