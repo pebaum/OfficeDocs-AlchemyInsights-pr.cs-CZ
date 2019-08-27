@@ -12,19 +12,19 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: cda46c32fcdb4e4dfbe3ab8323c2de9ab1420f32
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 488567efb7e96b6eef52e87fc96670ab3ea91c20
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520732"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631697"
 ---
 # <a name="changing-public-folder-permissions"></a>Změna oprávnění veřejné složky
 
 Uživatelé a správci aplikace Outlook lze změnit oprávnění veřejné složky. Správci mohou také řídit oprávnění z Exchange Admin Center (EAC), pomocí následujícího postupu:
   
-1. V portálu O365 pomocí levé navigační nabídce přejít do **Centra Admin** \> **Exchange**.
+1. IIn Microsoft 365 admin center, přejděte do **centra pro správu** \> **Exchange**.
 
-2. Přejděte do **složky Veřejné**.
+2. Vyberte **veřejné složky**.
 
 3. Odtud můžete změnit oprávnění pro jednotlivé veřejné složky oprávnění přiřazením skupin zabezpečení. Uživatel potřebuje pro koncového uživatele Chcete-li změnit oprávnění veřejné složky oprávnění vlastníka složky.

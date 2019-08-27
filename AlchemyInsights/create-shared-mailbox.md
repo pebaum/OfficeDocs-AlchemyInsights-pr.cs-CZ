@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2329ee5-86b7-4803-990e-f4222120faf2
-ms.openlocfilehash: c6772f06172e05e6897a5dfa5938323df5d0d8b9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 82c3d79554db65161f55486003c3299ef1e160ec
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515188"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631782"
 ---
 # <a name="create-a-shared-mailbox"></a>Vytvoření sdílené poštovní schránky
 
-Sdílené poštovní schránky umožňuje více osobám odesílat a přijímat e-maily pro alias, stejně jako sales@contoso.com, bez přiřazení jinou licenci. Chcete-li vytvořit sdílené poštovní schránky, přejděte na [Sdílené Průvodce e-mailem](https://portal.office.com/adminportal/home).
-  
+Sdílené poštovní schránky umožňuje více osobám odesílat a přijímat e-maily pro alias, stejně jako sales@contoso.com, bez přiřazení jinou licenci. 
+
 Naleznete v článku [Vytvoření sdílené poštovní schránky](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) tipy a další informace o použití sdílené poštovní schránky. 
   
 
