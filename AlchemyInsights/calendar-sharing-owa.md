@@ -3,7 +3,6 @@ title: 616 sdílení kalendáře
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,18 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: b4003679b6bbadc3e87812a77896e5ff6e7e560c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e3ebeaef819945562d1e7e4d6a41430a9525d69d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518356"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665609"
 ---
-# <a name="calendar-sharing"></a>Sdílení kalendáře
+# <a name="isues-with-calendar-sharing-in-outlook"></a>Isues se v aplikaci Outlook ke sdílení kalendáře
 
 - Pokud nevidíte v kalendářích jiných uživatelů informace o volném čase nebo pokud jiní uživatelé nevidí informace o volném čase ve vašem kalendáři, použijte [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).
+
+**Další zdroje informací:**
 
 - [Sdílení outlookového kalendáře s ostatními uživateli](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
