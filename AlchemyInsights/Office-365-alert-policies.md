@@ -3,7 +3,6 @@ title: 1385-office-365výstraha zásady
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 46a029f262fa05edffa6f681c7205e289fe448c5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496321"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661289"
 ---
 # <a name="office-365-alert-policies"></a>Oznámení zásady Office 365
 
-_AMP_ zabezpečení Office 365 nabízí centra kompatibility [oznámení výchozí zásady](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) aktivují výstrahy pro organizace s předplatným Office 365 Enterprise nebo Office 365 nám vláda E1/G1, E3/G3 nebo E5/G5. Proto admins mohou přijímat oznámení e-mailové oznámení odeslaných Office365Alerts@microsoft.com s řádkem Předmět, jako "nízkou závažností výstraha:*název výstrahy zásady*". Upozornění jsou oznámení odesílána při výstrahy se spouštějí pro běžné činnosti, například když uživatelé:
+_AMP_ zabezpečení Office 365 nabízí centra kompatibility [oznámení výchozí zásady](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) aktivují výstrahy pro organizace s předplatným Office 365 Enterprise nebo Office 365 nám vláda E1/G1, E3/G3 nebo E5/G5. Proto admins mohou přijímat oznámení e-mailové oznámení odeslaných Office365Alerts@microsoft.com s řádkem Předmět, jako "nízkou závažností výstraha: *název výstrahy zásady*". Upozornění jsou oznámení odesílána při výstrahy se spouštějí pro běžné činnosti, například když uživatelé:
 
 - Vytvořte pravidla složky Doručená pošta pro předávání e-mailu.
 - Přiřadíte oprávnění poštovní schránky.
@@ -31,8 +30,8 @@ _AMP_ zabezpečení Office 365 nabízí centra kompatibility [oznámení výchoz
 
 Prohlížení a působit na oznámení:
 
-1. Přejít na [& zabezpečení centra kompatibility](https://protection.office.com) a přihlaste se.
-2. Klepněte na tlačítko **výstrahy > zobrazení výstrah**.
+1. Přejděte do [centra kompatibility & zabezpečení](https://protection.office.com) a přihlaste se.
+2. Klepněte na tlačítko **výstrahy** > **zobrazení výstrah**.
 3. Klepněte na tlačítko výstrahy zobrazení plovoucí panel stránky s informace o výstraze.
 
 Provést akci pro výstrahu, jako je například [Odebrání pravidla podezřelé složky Doručená pošta](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Nebo můžete jednoduše zavřete upozornění klepnutím na tlačítko **Odstranit** na stránce oznámení plovoucí panel.
@@ -41,8 +40,8 @@ Další informace o konfiguraci a správě upozornění zásad naleznete [v tomt
 
 **Důležité**: oznámení e-mailové oznámení od společnosti Microsoft nikdy zeptá, postupujte takto:
 
-- Zadejte heslo.
-- Ověřte podrobnosti zabezpečení vašeho účtu.
-- Znovu sami ověřit.
+- Zadání hesla
+- Ověřte podrobnosti zabezpečení vašeho účtu
+- Znovu sami ověřit
 
 Pokud obdržíte e-mailové zprávy tímto způsobem, nebyla odeslána společnosti Microsoft a považovat za nevyžádanou podvodnou poštu. Pokud se tak stane, prosím [ohlaste společnosti Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

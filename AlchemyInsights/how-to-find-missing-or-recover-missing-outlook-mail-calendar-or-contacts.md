@@ -3,7 +3,6 @@ title: 204 jak najít chybějící nebo obnovit chybějící Outlook mail, kalen
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 9/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +12,18 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: ffedca61f5915c0a32a7e0ca903703802667b64e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b9e602538d3c3e83b681cf644fd63c223bdbac93
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540642"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664123"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Jak najít a obnovit chybějící zprávy, kontakty nebo položky kalendáře v aplikaci Outlook
 
 - [Dochází k problémům odesílání, přijímání nebo hledání e-mailových zpráv nástroje](https://aka.ms/SaRA-OutlookSendReceive) můžete použít v ohroženém počítači. Tento nástroj zkontroluje počet problémů a navrhovat možná řešení.
 
-- [Zjistit, jestli je účet zneužitý](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Je-li k ohrožení zabezpečení, postupujte podle kroků v [reagovat na ohrožení zabezpečení e-mailu účet ve službách Office 365.](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)
+- [Zjistit, jestli je účet zneužitý](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Je-li k ohrožení zabezpečení, postupujte podle kroků v [reagovat na ohrožení zabezpečení e-mailu účet ve službách Office 365.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
 
 - [Hledání zprávy nebo položky pomocí funkce Okamžité hledání](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
 

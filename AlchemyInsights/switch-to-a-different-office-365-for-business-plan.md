@@ -3,7 +3,6 @@ title: Přepnutí do různých služeb Office 365 pro obchodní plán
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 8177f08163c85856cf4446592d10177170ba1e28
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 2374f8e0c38b63bb45921ba78a2b56ad065ed49c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575977"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665969"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Přepnutí do různých služeb Office 365 pro obchodní plán
 
@@ -33,5 +32,5 @@ Pokud dojde ke změně, nebo potřebují více funkcí služeb Office 365, můž
 4. Najít plán, který chcete provést upgrade a potom klepněte na tlačítko **upgradovat** .
 
 5. Zadejte počet licencí, které potřebujete, zvolte, zda chcete-li platit každý měsíc nebo po celý rok, a pak vyberte příkaz **Rezervovat**.
-   
-Používáte starý admin center? Starý postup nebo Další informace naleznete v tématu [Upgrade na jiný plán](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+
+Další informace naleznete v tématu [Upgrade na jiný plán](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  

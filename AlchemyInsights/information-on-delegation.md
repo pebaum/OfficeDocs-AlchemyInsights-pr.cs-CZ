@@ -3,7 +3,6 @@ title: 606 informace o delegování
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +12,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 7a4d3104072919a604ce828f95d59a7d1412a7b7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a59ea7fd995fa05179f70ae3a82268363145f3af
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499092"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661721"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Odstraňování potíží s delegováním v aplikacích Outlook a Outlook na webu
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Poradce při potížích s delegováním v aplikacích Outlook a Outlook na webu
 
 **Poradce při potížích s nástrojem SaRA:**
 
-1. Stáhněte a nainstalujte nástroj SaRA zde
-1. "Mám problémy s kalendáře" a poté vyberte aplikaci Outlook
-1. Řekněte Ano pro ohrožené počítače.
-1. Přidat e-mailovou adresu příslušného uživatele
-1. Vyberte "Došlo k potížím s delegovat oprávnění"
-1. Do dalšího příkazového řádku Pokud osoby poskytující oprávnění, zadejte e-mailovou adresu svého delegáta. Pokud jste obdrželi oprávnění a jste delegát, zadejte e-mailovou adresu osoby, která byla přidělena oprávnění.
-1. Na další nabídky vyberte možnost, která nejlépe odpovídá vaší situaci.
-1. Na další nabídky vyberte úroveň oprávnění.
-1. V této fázi SaRA nástroj provede automatické kontroly a poskytne možná řešení nebo poskytne také diagnostický protokol, který lze použít pro další řešení potíží.
-1. Protokoly můžete najít ve složce SaRA výsledky na C:\Users\Username\AppData\Local\SaraResults
+1. Stáhněte a [nainstalujte nástroj SaRA](https://aka.ms/SaRA-SkypeForBusinessSignIn).
+1. Vyberte **aplikaci Outlook**a **potíže s kalendářem**.
+1. Vyslovte **Ano** pro ohrožený počítač.
+1. Přidejte e-mailovou adresu ovlivněných uživatelů.
+1. Vyberte **problémy s oprávněním delegáta**.
+1. Pokud jste osobou poskytující oprávnění, zadejte na další výzvu e-mailovou adresu delegáta. Pokud jste obdrželi oprávnění a jste delegátem, zadejte e-mailovou adresu osoby, která vám poskytla oprávnění.
+1. V další nabídce vyberte možnost odpovídající vašemu scénáři.
+1. V další nabídce vyberte úroveň oprávnění.
+1. V této fázi nástroj SaRA provede automatizované kontroly a poskytne vám možné řešení nebo případně poskytne diagnostický protokol, který lze použít k dalšímu řešení potíží.
+1. Protokoly naleznete ve složce výsledků SaRA umístěné v umístění C:\Users\Username\AppData\Local\SaraResults.

@@ -1,9 +1,8 @@
 ---
-title: Alchymie - vytvořit a přidat podpis do zprávy aplikace Outlook
+title: Alchymie – vytvoření a přidání podpisu do zpráv v aplikaci Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 8/21/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +12,24 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 3ab140f81b208053906dfe030d98f4590d6f39d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: baefa04a536e71358f1a6cd143c4c727c290e28c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494196"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664637"
 ---
-# <a name="creating-email-signatures"></a>Vytvoření e-mailové podpisy
+# <a name="creating-email-signatures"></a>Vytváření e-mailových podpisů
 
-Tyto články by vám pomohou vytvořit e-mailové podpisy, které hledáte.
+Tyto články vám pomohou vytvořit e-mailové podpisy v aplikaci Outlook.
   
-- Vytvořit podpis e-mailu pomocí aplikace Outlook v systému Windows: [vytvořit a přidat podpis do zprávy](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
+- Chci vytvořit podpis e-mailu pomocí aplikace Outlook v systému Windows: [vytvořit a přidat podpis ke zprávám](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
   
-- Vytvořit podpis e-mailu pomocí aplikace Outlook na webu: [vytvořit a přidat podpis e-mailu v aplikaci Outlook na webu](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
+- Chci vytvořit podpis e-mailu pomocí aplikace Outlook na webu: [vytvořit a přidat podpis e-mailu v aplikaci Outlook na webu](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
 
-- Vytvořit podpis e-mailu Outlook.com pomocí: [vytvořit a přidat podpis e-mailů v Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
+- Chci vytvořit podpis e-mailu pomocí Outlook.com: [vytvořit a přidat podpis e-mailu do Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Vytvořit globální e-mailové podpis pro všechny e-maily odeslané z mé společnosti: [Vytvoření celoorganizačních podpisy a reklamace ve službách Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)
+- Chci vytvořit globální podpis e-mailu pro všechny e-maily odeslané z mé společnosti: [vytvořit podpisy a zřeknutí se v celé organizaci v sadě Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)
 
- **Tip:** Celou organizaci podpisy jsou označovány jako "reklamace."
+ **Tip:** Podpisy v celé organizaci se nazývají "zřeknutí se".
   

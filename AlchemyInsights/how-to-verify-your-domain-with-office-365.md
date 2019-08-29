@@ -2,7 +2,6 @@
 title: Jak ověřit vaší domény služeb Office 365
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 1/14/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f849711544e5afdaedb16db55bb087db4175c44e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1621b58ca82f91645c7b46d962bd76290161b39f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539526"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664061"
 ---
 # <a name="how-to-verify-your-domain-with-office-365"></a>Jak ověřit vaší domény služeb Office 365
 
-Je třeba přidat záznam TXT registrátora vaší domény ověřte, že jste vlastníkem domény. Nejprve postupujte podle pokynů [Průvodce přidejte domény](https://portal.office.com/adminportal/home#/Domains) klepnutím na **Nastavení** \> **doménu**a pak **Přidejte domény**.
+Chcete-li ověřit vaší domény, musíte přidat záznam TXT registrátora vaší domény ověřte, že jste vlastníkem domény. Nejprve výběrem **Nastavení** postupujte podle pokynů [Průvodce přidejte domény](https://portal.office.com/adminportal/home#/Domains) \> **Domaisn**a potom **Přidat doménu**.
   
 Postupujte podle pokynů přidat záznam TXT ověřit vaší domény [záznamy DNS vytvořit na jakékoli DNS poskytovatele hostitelských služeb pro Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) .
   

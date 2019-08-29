@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575581"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665033"
 ---
 # <a name="expired-subscription"></a>Vypršela platnost nějakého předplatného
 
@@ -34,7 +34,7 @@ Zdá se, že máte jeden nebo více neplatných odběry. Pokud chcete pokračova
 
 3. Potvrďte platební detaily. Můžete aktualizovat existující platební informace zde. Po dokončení zadávání svůj způsob platby, zvolte **Aktivovat**.
 
-Používáte starý admin center? Staré kroky nebo Další informace naleznete v tématu [Opětovná aktivace předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Další informace naleznete v tématu [Aktivovat předplatné](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Vytvořit nový nákup**
   
@@ -46,4 +46,4 @@ Používáte starý admin center? Staré kroky nebo Další informace naleznete 
 
 4. Postupujte podle zbývajících kroků k dokončení rezervace.
 
-Používáte starý admin center? Starý postup nebo Další informace naleznete v tématu [zakoupit další předplatné](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Další informace naleznete v tématu [zakoupit další předplatné](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
