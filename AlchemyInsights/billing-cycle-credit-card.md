@@ -3,7 +3,6 @@ title: Účtovací cyklus platební karty
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 12/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +12,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: c3d553d5ba7693a1bc2e8b74b5ba850b05167c53
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fc8d7dce6fdd1afc51424ecfd6e8359d2b793b6f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517744"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664781"
 ---
-# <a name="billing-cycle-credit-card"></a>Účtovací cyklus platební karty
+# <a name="payment-methods-for-office-365-for-business"></a>Metody platby pro Office 365 pro firmy
 
 Při nákupu přímo od společnosti Microsoft Office 365 předplatného business, můžete zaplatit kreditní nebo debetní kartou. V některých zemích nebo oblastech můžete také zaplatit s bankovním účtem.
   
 Pokud zvolíte jako svůj způsob platby pomocí kreditních karet, se můžete naučit spravovat a odstraňovat z [Přidat, aktualizovat, nebo odebrat kreditní kartu nebo bankovní účet ve službách Office 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
   
-Jedná se o řešení potíží při platební karty bylo odmítnuto a změna údaje o kreditní kartě, tak, že karta je přijat.
+Tento článek obsahuje také řešení problémů návrhy, kdy bylo odmítnuto, kreditní karty a informace o změně informace o kreditní kartě, takže karta je přijat.
