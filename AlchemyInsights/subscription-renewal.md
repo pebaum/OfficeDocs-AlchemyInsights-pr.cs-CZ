@@ -1,5 +1,5 @@
 ---
-title: Obnovení odběru
+title: Obnovení předplatného
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74d558db780958ea5d5fa56382e852b8684e550a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501358"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666005"
 ---
-# <a name="subscription-recurring-billing"></a><span data-ttu-id="ac05c-102">Opakovaná fakturace předplatného</span><span class="sxs-lookup"><span data-stu-id="ac05c-102">Subscription recurring billing</span></span>
+# <a name="subscription-recurring-billing"></a><span data-ttu-id="90442-102">Předplatné opakovaných účtování</span><span class="sxs-lookup"><span data-stu-id="90442-102">Subscription recurring billing</span></span>
 
-<span data-ttu-id="ac05c-103">Pokud chcete vědět při vaší měsíční nebo roční předplatné služeb Office 365 s předčíslím (Pokud je zapnutý **Periodický fakturace** ) nebo vypršet (je-li **Periodický účtování** je vypnuta):</span><span class="sxs-lookup"><span data-stu-id="ac05c-103">If you want to know when your monthly or yearly Office 365 subscription will be billed (if **Recurring billing** is turned on) or expire (if **Recurring billing** is turned off):</span></span>
+<span data-ttu-id="90442-103">Chcete-li vědět, kdy má být předplatné sady Office 365 v měsíční nebo roční době fakturováno (Pokud je **opakovaná fakturace** zapnuta) nebo zda vyprší její platnost (Pokud je **periodická fakturace** vypnuta):</span><span class="sxs-lookup"><span data-stu-id="90442-103">If you want to know when your monthly or yearly Office 365 subscription will be billed (if **Recurring billing** is turned on) or expire (if **Recurring billing** is turned off):</span></span>
   
-1. <span data-ttu-id="ac05c-104">Ve středisku pro správce, přejděte na **fakturační** \> stránku [produkty a služby &](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="ac05c-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="90442-104">V centru pro správu přejděte na stránku s **fakturačním** \> [výrobky _amp_ Page Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="90442-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="ac05c-105">Předplatné, které chcete vědět více, podle **Fakturace**, viz **obnoví na** nebo **hodnotu před vypršením na** datum.</span><span class="sxs-lookup"><span data-stu-id="ac05c-105">For the subscription that you want to know more about, under **Billing**, see the **Renews on** or **Expiring on** date.</span></span>
+2. <span data-ttu-id="90442-105">Informace o odběru, o kterém chcete vědět více, naleznete v části **fakturace**, kde jsou k datu **obnovení** platné nebo jejichž **platnost vyprší** .</span><span class="sxs-lookup"><span data-stu-id="90442-105">For the subscription that you want to know more about, under **Billing**, see the **Renews on** or **Expiring on** date.</span></span>
 
-4. <span data-ttu-id="ac05c-106">Chcete-li provést změny, vyberte **Upravit** a v podokně nastavení **účtování periodický** vyberte **Vypnout** tuto funkci vypnout.</span><span class="sxs-lookup"><span data-stu-id="ac05c-106">To make a change, select **edit** and then, in the **Recurring billing** settings pane, select **Turn OFF** to turn it off.</span></span> <span data-ttu-id="ac05c-107">Opakovaná fakturace je již vypnutý, vyberte možnost **Měsíčně** nebo **jednou** ji zapnout.</span><span class="sxs-lookup"><span data-stu-id="ac05c-107">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
+4. <span data-ttu-id="90442-106">Chcete-li provést změnu, vyberte možnost **Úpravy** a potom v podokně **Periodický nastavení fakturace** vyberte možnost **vypnout a vypněte** ji.</span><span class="sxs-lookup"><span data-stu-id="90442-106">To make a change, select **edit** and then, in the **Recurring billing** settings pane, select **Turn OFF** to turn it off.</span></span> <span data-ttu-id="90442-107">Pokud je periodická fakturace již vypnuta, vyberte jednou **měsíčně** nebo **jednou** , chcete-li ji zapnout.</span><span class="sxs-lookup"><span data-stu-id="90442-107">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
 
-<span data-ttu-id="ac05c-108">Další informace naleznete v tématu [opakované fakturace nebo vypnout zapnout](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="ac05c-108">For more information, see [Turn recurring billing off or on](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).</span></span>
+<span data-ttu-id="90442-108">Další informace naleznete v části [Zapnutí nebo vypnutí periodické fakturace](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="90442-108">To learn more, see [Turn recurring billing off or on](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).</span></span>
