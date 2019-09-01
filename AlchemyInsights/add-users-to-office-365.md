@@ -12,22 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: fe5c4c7ca5fa5cce199c826f8488c564bf2cdef1
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: f6a0b4cd536abbcd407235ddd0eeced8721cd994
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903066"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660677"
 ---
 # <a name="add-a-user-to-office-365"></a>Přidání uživatele do Office 365
 
-Tímto postupem můžete přidat uživatele do Office 365:
-  
-1. Přejděte do části [Aktivní uživatelé](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (Nebo v levém navigačním panelu zvolte **Uživatelé** \> **Aktivní uživatelé**).
+1. V Centru pro správu Microsoft 365 přejděte na položku **Uživatelé** >  [Aktivní uživatelé](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
 
 2. Klikněte na **Přidat uživatele**.
 
-3. Vyplňte informace pro uživatele. Až budete hotovi, zvolte **Přidat**.
+3. Vyplňte informace pro uživatele. Až budete hotoví, zvolte **Dokončit přidávání**.
 
-[Další informace...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+Používáte staré Centrum pro správu? Starší pokyny a další informace najdete v článku [Individuální nebo hromadné přidávání uživatelů do Office 365](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec).
   

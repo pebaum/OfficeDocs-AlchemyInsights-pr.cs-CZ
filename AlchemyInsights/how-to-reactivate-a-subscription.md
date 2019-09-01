@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 62f7af474db4eb99563744cfe266e1eac92bf53d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574755"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663989"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Opětovná aktivace předplatného
 
@@ -32,4 +32,4 @@ Pokud vám vypršela platnost předplatného, zrušili jste ho nebo ho Microsoft
 
 3. Potvrďte svoje platební údaje. Tady můžete aktualizovat svoje stávající platební údaje. Až dokončíte zadávání způsobu platby, zvolte **Znovu aktivovat**.
 
-Používáte staré Centrum pro správu? Staré kroky nebo další informace najdete v článku [Opětovná aktivace předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Další informace najdete v článku [Opětovná aktivace předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
