@@ -1,5 +1,5 @@
 ---
-title: Problémy s falšování, phishing nebo zosobnění?
+title: Problémy s podvodnou identifikací, podvodnými zprávami nebo zosobněním?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,29 +9,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: c4d6c9c28c146a098288fdd2d978cdca098e89af
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 73a960d76802ccfee5500b1816f34a15b960c3f2
+ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661469"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36716096"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problémy s falšování, phishing nebo zosobnění?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problémy s podvodnou identifikací, podvodnými zprávami nebo zosobněním?
 
-Zjistěte, jak Office 365 chrání od:
+Informace o tom, jak vás sada Office 365 chrání před:
 
-- [Falšování identity](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
+- [Spoofing](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
 
 - [Útoky typu phishing a zosobnění](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
 
 Další doporučení:
 
-- Falešné odesílatelů, které by mohly pocházet z vlastní domény může pomoci SPF a DKIM.
+- Pro odesílatele s falešnou identitou, které se jeví jako pocházejí z vaší vlastní domény, může pomoc [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) a [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) .
 
-- Ověření uživatelů ve vaší vlastní doméně nejsou nakonfigurovány na obcházení ochrany proti nevyžádané poště filtrování pomocí pravidla toku (nazývané také pravidla přepravy) nebo povolit seznam položek.
+- Ověřte, zda odesílatelé ve vaší doméně nejsou nakonfigurováni tak, aby vynechal filtrování nevyžádané pošty pomocí pravidel toku pošty (označaných také jako pravidla přenosu) nebo povolit položky seznamu. Další informace naleznete v tématu [Upozornění na vynechání filtrů nevyžádané pošty sady Office 365](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
 
-- Ověřte, zda nebyla nakonfigurována uživatelům povolit položky seznamu, která by mohla umožnit útoky typu phishing.
+- Ověřte, zda uživatelé nekonfigurováni položky [seznamu bezpečných odesílatelů](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) , kteří by mohli povolit útoky typu phishing.
 
-- Zvažte, přináší vysoké spolehlivosti spam a podvodné zprávy do karantény namísto složky nevyžádané E-maily.
+- Místo složky Nevyžádaná pošta zvažte možnost dodání nevyžádané pošty a podvodných zpráv s vysokou spolehlivostí do karantény. Další informace naleznete v tématu [karanténní e-mailové zprávy v sadě Office 365](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).
 
-**[Hlášení zpráv společnosti Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) je nejlepší způsob, jak nám sdělit výkonu filtrů.**
+**[Zasílání zpráv společnosti Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) je nejlepším způsobem, jak nám říct, jak filtry provádějí.**
