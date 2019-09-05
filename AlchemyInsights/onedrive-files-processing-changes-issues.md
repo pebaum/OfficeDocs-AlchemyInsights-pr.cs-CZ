@@ -1,21 +1,21 @@
 ---
-title: 'OneDrive: Chybějící soubory nebo složky'
-ms.author: kirks
+title: 'OneDrive: chybějící soubory nebo složky'
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: d111986696ba0977deed4309d267e3775916162b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5c38d323bd021ded8eccb3f12a46c9d04a3bcd13
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521416"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753321"
 ---
-# <a name="onedrive-troubleshoot-processing-changes"></a><span data-ttu-id="a4e0d-102">OneDrive: Poradce při potížích s "Zpracování změny"</span><span class="sxs-lookup"><span data-stu-id="a4e0d-102">OneDrive: Troubleshoot 'Processing changes'</span></span>
+# <a name="onedrive-troubleshoot-processing-changes"></a><span data-ttu-id="30dba-102">OneDrive: Poradce při potížích ' zpracování změn '</span><span class="sxs-lookup"><span data-stu-id="30dba-102">OneDrive: Troubleshoot 'Processing changes'</span></span>
 
-<span data-ttu-id="a4e0d-103">Pokud vidíte "Zpracování změny" dlouhou dobu, může to být protože máte online otevřete soubor, velký počet souborů, které jsou umístěny ve frontě nebo velmi velkých souborů, synchronizace, naleznete v tématu [OneDrive nalepeném na zpracování](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd).</span><span class="sxs-lookup"><span data-stu-id="a4e0d-103">If you see "Processing changes" for an extended period of time, it could be because you have an online file open, lots of files stuck in a queue, or a very large file syncing, see [OneDrive stuck on processing](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd).</span></span>
+<span data-ttu-id="30dba-103">Pokud se po delší dobu zobrazí "zpracování změn", může to být způsobeno tím, že máte otevřený soubor online, mnoho souborů uvíznul ve frontě nebo velmi velké synchronizace souborů, viz [OneDrive uvízl při zpracování](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd).</span><span class="sxs-lookup"><span data-stu-id="30dba-103">If you see "Processing changes" for an extended period of time, it could be because you have an online file open, lots of files stuck in a queue, or a very large file syncing, see [OneDrive stuck on processing](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd).</span></span>
 
-<span data-ttu-id="a4e0d-104">Přečtěte si tento článek řešení "Zpracování změny." Tato zpráva se zobrazí také pokud máte soubor, který se mění neustále (například aplikace Outlook. PST souboru nebo databáze).</span><span class="sxs-lookup"><span data-stu-id="a4e0d-104">Read this article to troubleshoot "Processing changes."You will also see this message if you have a file that changes all the time (like an Outlook .PST file or a database).</span></span> <span data-ttu-id="a4e0d-105">Zjistěte, jak [přesunout datové soubory aplikace Outlook](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) , kterou používáte pravidelně z OneDrive.</span><span class="sxs-lookup"><span data-stu-id="a4e0d-105">Learn how to [move your Outlook data files](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) that you're using regularly out of OneDrive.</span></span>
+<span data-ttu-id="30dba-104">Přečtěte si tento článek a vyřešte problémy se zpracováním změn. Tato zpráva se zobrazí také v případě, že máte soubor, který se mění po celou dobu (například v aplikaci Outlook). Souboru PST nebo databáze).</span><span class="sxs-lookup"><span data-stu-id="30dba-104">Read this article to troubleshoot "Processing changes."You will also see this message if you have a file that changes all the time (like an Outlook .PST file or a database).</span></span> <span data-ttu-id="30dba-105">Naučte se [přesouvat datové soubory aplikace Outlook](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) , které pravidelně používáte, mimo aplikaci OneDrive.</span><span class="sxs-lookup"><span data-stu-id="30dba-105">Learn how to [move your Outlook data files](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) that you're using regularly out of OneDrive.</span></span>
