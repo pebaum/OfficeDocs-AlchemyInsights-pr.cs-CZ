@@ -1,6 +1,6 @@
 ---
-title: Vytvořit web komunikace
-ms.author: kirks
+title: Vytvoření komunikačního webu
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/13/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: 0ab2877a6192af1bf88016ca9cff5ec0aa967e5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ffc67fd4aae62862167784c676d6d80390f5617e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516269"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755409"
 ---
-# <a name="create-a-communication-site"></a>Vytvořit web komunikace
+# <a name="create-a-communication-site"></a>Vytvoření komunikačního webu
 
-Chcete-li vytvořit web komunikace v Online služby SharePoint, proveďte následující kroky: 
+Chcete-li vytvořit komunikační web ve službě SharePoint Online, proveďte následující kroky: 
   
-1. V levém horním rohu stránky klepněte na spouštěč aplikace a vyberte dlaždici služby SharePoint. Pokud nevidíte dlaždice služby SharePoint, klepněte na tlačítko **servery** nebo **všechny apps** Pokud SharePoint není vidět. 
+1. V levém horním rohu stránky klepněte na spouštěč aplikace a vyberte dlaždici služby SharePoint. Pokud není zobrazena dlaždice služby SharePoint, klepněte na možnost **weby** nebo **všechny** aplikace, pokud služba SharePoint není viditelná. 
     
-2. V horní části stránky služby SharePoint klepněte na tlačítko **vytvořit web** a zvolte **Komunikační web**. Postupujte podle kroků v Průvodci vytvořením webu. 
+2. V horní části stránky služby SharePoint klepněte na tlačítko **vytvořit web** a vyberte položku **komunikační web**. Postupujte podle pokynů Průvodce vytvořením webu. 
     
- **Poznámka**: Pokud nevidíte možnost **vytvořit web**, může být zakázáno samoobslužné vytváření webů ve službách Office 365. Kontaktní osoba správy služeb Office 365 ve vaší organizaci vytvořit týmový web. Pokud jste správce klienta, naleznete v [Spravovat vytváření webu v Online služby SharePoint povolit samoobslužné vytváření webů pro vaši organizaci.](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **Poznámka**: Pokud se nezobrazí možnost pro **Vytvoření webu**, může být samoobslužné vytváření webů v sadě Office 365 zakázáno. Chcete-li vytvořit týmový web, obraťte se na uživatele, který spravuje sadu Office 365 ve vaší organizaci. Pokud jste správcem klienta, naleznete informace [v tématu Správa vytváření webů ve službě SharePoint Online, které umožňují samoobslužné vytváření webů v organizaci.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **Poznámka:** Pokud se pokoušíte vytvořit komunikační server a adresy URL získání připojen k pomocí náhodných čísel, je pravděpodobné, web s touto adresou URL stejné v prostředí služby SharePoint již existuje nebo byl odstraněn a stále existuje v lokalitách odstraněny (Koš). Použití [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) k vyhodnocení do odpadkového koše a [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) Chcete-li odebrat web ze složky Koš. 
+ **Poznámka:** Pokud se pokoušíte vytvořit komunikační web a adresa URL je připojena k náhodným číslům, je pravděpodobné, že web s touto adresou URL již v prostředí služby SharePoint existuje nebo byl odstraněn a stále existuje na odstraněných webech (odpadkový koš). Slouží [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) k vyhodnocení koše a [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) odebrání webu z odpadkového koše. 
   
 

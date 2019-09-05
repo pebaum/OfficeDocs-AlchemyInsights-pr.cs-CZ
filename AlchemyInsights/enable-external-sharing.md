@@ -1,6 +1,6 @@
 ---
-title: Povolit externí sdílení.
-ms.author: kirks
+title: Povolit externí sdílení
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/4/2018
 ms.audience: ITPro
@@ -8,35 +8,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: de0a6940680bc4ec5193c8aa9345b0b214b5fd5b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53eadea43e4ac9365bd7f434b1db254ccf224e4b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527644"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756021"
 ---
-# <a name="enable-external-sharing"></a>Povolit externí sdílení.
+# <a name="enable-external-sharing"></a>Povolit externí sdílení
 
- Chcete-li zajistit, že je povoleno sdílení pro Online služby SharePoint:
+ Chcete-li zajistit, aby bylo sdílení povoleno pro službu SharePoint Online:
   
 - **Globální sdílení**
     
-  - Portál -\> externí sdílení -\> Přehled sdílení - servery, umožňují externí uživatelé získat přístup k serverům: O
+  - Portál-\> externí sdílení-\> Přehled sdílení-weby, přístup externích uživatelů k webům: zapnuto
     
-  - Portál -\> externí sdílení -\> servery - políčko "Povolit externí uživatelé získat přístup k serverům"
+  - Portál-\> externí sdílení-\> weby-"zpřístupnit externím uživatelům přístup k vašim webům"
     
-- **Administrativní sdílení - Centra správy služby SharePoint**
+- **Sdílení správy-Centrum správy služby SharePoint**
     
-    Externí sdílení - zajištění jsou vybrány buď dvě možnosti:
+    Externí sdílení – zajistěte, aby byla vybrána jedna ze dvou možností:
     
-  - "Povolit externí uživatelé přijímat sdílení pozvánky a přihlásit se jako ověřené uživatele."
+  - "Povolit externím uživatelům, kteří přijímají pozvání ke sdílení, a přihlásit se jako ověření uživatelé"
     
-  - "I externí uživatelé přijímat sdílení povolit pozvánky a anonymní Host odkazy"
+  - "Povolit externím uživatelům, kteří přijímají pozvání ke sdílení, a anonymní odkazy Guest"
     
-- **Kolekce jednotlivých webů**
+- **Jednotlivé kolekce webů**
     
-  - Kolekci - dotyčné Select site kolekce webů a klepněte na tlačítko Sdílení - z pásu karet -\> zajistit buď možnosti sdílení jsou vybrány.
+  - Kolekce webů – vyberte požadovanou kolekci webů a klepněte na tlačítko sdílení-na pásu karet –\> zajistěte, aby byly vybrány možnosti sdílení.
     
-Další informace o způsobu zapnutí sdílení externích, viz [Povolit externí sdílení pro Online služby SharePoint.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Další informace o zapnutí externího sdílení naleznete [v tématu Zapnutí nebo vypnutí externího sdílení pro službu SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 

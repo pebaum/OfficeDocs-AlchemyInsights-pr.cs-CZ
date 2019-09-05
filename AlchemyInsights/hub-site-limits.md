@@ -1,28 +1,28 @@
 ---
-title: Omezení a omezení webů rozbočovač
-ms.author: kirks
+title: Omezení a omezení lokality hub
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: c3a2bd02cd610e8fc6e5eb296817eb439a055af5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c63cbe96f95bf4d1ce279a7294069a7ab8f0f953
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539346"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754581"
 ---
-# <a name="sharepoint-hub-site-limits-and-restrictions"></a>Omezení a limity serveru SharePoint rozbočovač
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>Omezení a omezení webu služby SharePoint
 
-- Je doporučeno vybrat komunikační web nebo na týmovém webu, který používá nové moderní šablony. Pokud používáte klasické týmový web, rozbočovač navigace se zobrazí pouze na stránkách moderní a nastavení webu rozbočovač se zobrazí pouze na stránkách moderní.
+- Doporučuje se vybrat komunikační web nebo týmový web, který používá novou moderní šablonu. Pokud používáte klasický týmový web, bude navigace v rozbočovači zobrazena pouze na moderních stránkách a nastavení rozbočovače bude použito pouze na moderních stránkách.
 
-- Weby, které jsou již přidruženy **nelze** jiný rozbočovač převedeny na centrální lokalita. 
+- Weby, které již jsou přidruženy k jinému rozbočovači, **nelze** převést na centrální lokalitu. 
 
-- Můžete vytvořit až 100 webů rozbočovač pro vaši organizaci. Neexistuje žádné omezení počtu serverů, které mohou být přiřazeny k síti rozbočovače.
+- Pro organizaci můžete vytvořit až 100 rozbočovačů. Počet webů, které lze přidružit k rozbočovači sítě, není omezen.
 
-- Uživatelé přidružit své weby centrální lokalitě, nebude mít vliv oprávnění webu rozbočovač nebo přidružené weby. Je důležité Ujistěte se, že všichni uživatelé, které umožňují přiřadit k rozbočovači sítě mají oprávnění k rozbočovači.
+- Pokud uživatelé přidruží své weby k rozbočovači, nebude to mít vliv na oprávnění centrální lokality ani přidružených webů. Je důležité zajistit, aby všichni uživatelé, kterým povolíte přidružit weby k rozbočovači, měli oprávnění k rozbočovači.
 
 
 

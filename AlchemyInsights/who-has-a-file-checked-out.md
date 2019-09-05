@@ -1,6 +1,6 @@
 ---
-title: Kdo má soubor rezervován?
-ms.author: kirks
+title: Kdo má soubor rezervovaný?
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: fc718d6a5907fd97d0a7fc55c5dc8a31d4959d13
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 56aa04f7866227c4b5a1e1828d3c10ea3746d00a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530998"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748317"
 ---
-# <a name="who-has-a-file-checked-out"></a>Kdo má soubor rezervován?
+# <a name="who-has-a-file-checked-out"></a>Kdo má soubor rezervovaný?
 
-Chcete-li zjistit, který má soubor rezervován ve službě SharePoint, můžete provést některou z následujících kroků:
+Chcete-li zjistit, kdo má soubor rezervovaný ve službě SharePoint, můžete provést některý z následujících kroků:
   
-1. Podržte ukazatel nad **Rezervaci** na a zobrazí se popis toho, který má soubor rezervován. 
+1. Umístíte-li ukazatel myši na **rezervovaný** , zobrazí se tip s informacemi o tom, kdo soubor rezervuje. 
     
-2. Přidáte sloupec **Rezervoval** pro výchozí zobrazení knihovny. Tímto způsobem všichni můžete snadno zjistit, kdo má dokument rezervován. 
+2. Přidejte sloupec **rezervováno podle** do výchozího zobrazení knihovny. Tímto způsobem může každý uživatel snadno zjistit, kdo dokument rezervovala. 
     
-Postup přidání sloupce rezervoval ve službě SharePoint naleznete v tématu [Vytvoření sloupce v seznamu nebo knihovně](https://go.microsoft.com/fwlink/?linkid=2019591). 
+Informace o tom, jak přidat sloupec rezervovaný ve službě SharePoint, naleznete [v tématu Vytvoření sloupce v seznamu nebo knihovně](https://go.microsoft.com/fwlink/?linkid=2019591). 
   
-Viz další často kladené dotazy týkající se změnami nebo rezervovat naleznete v tématu [otázky o rezervaci, vrácení se změnami](https://go.microsoft.com/fwlink/?linkid=2018786).
+Další Nejčastější dotazy týkající se vrácení se změnami nebo vrácení se změnami naleznete [v tématu Nejčastější otázky týkající se rezervu, vrácení se změnami](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

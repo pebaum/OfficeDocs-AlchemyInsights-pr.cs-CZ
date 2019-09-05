@@ -1,5 +1,5 @@
 ---
-title: Externí uživatel nemůže přijmout pozvání ke sdílení
+title: Externí uživatel nemůže přijmout pozvání ke sdílení.
 ms.author: efrene
 author: efrene
 ms.date: 8/8/2019
@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 7b5253c94a177e27745a921bcc4b478229ad4c26
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525808"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735886"
 ---
-# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Externí uživatel nemůže přijmout pozvání ke sdílení
+# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Externí uživatel nemůže přijmout pozvání ke sdílení.
 
-Externí uživatel nemůže přijmout pozvání k sdílení, zkuste návštěva na níže uvedené odkazy: 
+Pokud externí uživatel nemůže přijmout pozvání ke sdílení, zkuste navštívit následující odkazy: 
 
-- ["Přístup byl odepřen", "Budete potřebovat oprávnění k přístupu k tomuto webu," nebo "Uživatel nebyl nalezen v adresáři" chyby v SharePoint Online a OneDrive pro firmy](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["Zásadami organizace neumožňuje sdílet s těmito uživateli" Chyba při sdílení položky nebo webu služby SharePoint Online nebo OneDrive pro firmy](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Možnosti sdílení se zobrazí šedě při sdílení z Online služby SharePoint nebo OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Chybová zpráva při externí uživatel přijme pozvání SharePoint Online pomocí jiného účtu](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [Rozšíření OSE sdílení chyby v SharePoint a OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- ["Přístup byl odepřen", "potřebujete oprávnění k přístupu k tomuto webu", nebo "uživatel nebyl nalezen v adresáři" chyby ve službě SharePoint Online a OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- ["Zásady vaší organizace neumožňují sdílet s těmito uživateli chybu při sdílení položky nebo webu ve službě SharePoint Online nebo OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Možnosti sdílení jsou při sdílení z webu služby SharePoint Online nebo OneDrive zobrazeny šedě.](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Chybová zpráva v případě, že externí uživatel přijme pozvání služby SharePoint Online pomocí jiného účtu](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Chyby sdílení OSE ve službě SharePoint a OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 

@@ -1,6 +1,6 @@
 ---
-title: Použití úložiště termínů pro Online služby SharePoint
-ms.author: kirks
+title: Použití úložiště termínů služby SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 8c87a4ca51dae25a0cfec86d53bc45ec59f8962f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2b785f475c7f673acff3dd419883b136d7feb92e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539634"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754833"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>Použití úložiště termínů pro Online služby SharePoint
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>Použití úložiště termínů služby SharePoint Online
 
-Úložiště termínů je k dispozici pro globální správce služeb Office 365, SharePoint Admin a Admins úložiště termínů a lze jej najít v nové služby SharePoint Online admin center.
+Úložiště termínů je k dispozici pro globální správce systému Office 365, Správce služby SharePoint a správci úložišť termínů a lze je nalézt v novém centru pro správu služby SharePoint Online.
   
-Další informace o použití úložiště termínů pro Online služby SharePoint a taxonomie v Online služby SharePoint naleznete v tématu [Úvod do spravovaných metadat](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+Další informace o použití úložiště termínů a taxonomie služby SharePoint Online v rámci služby SharePoint Online naleznete v tématu [Úvod ke spravovaným metadatům](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   
-Pokud máte problém s termíny není zobrazování nebo zobrazování nepravidelně, doporučujeme počkat 24 hodin a poté se přihlaste žádost o podporu, pokud problém přetrvává. I když 24 hodin může být dlouhou dobu, může být problém v mezipaměti nebo mohou jsme již pracovali na řešení tohoto problému.
+Máte-li potíže s termíny, které se nezobrazují nebo se nezobrazují přerušovaně, doporučujeme, abyste počkali 24 hodin a v případě přetrvávání potíží se přihlásili k žádosti o podporu. I když 24 hodin může být dlouhá doba, může dojít k potížím s mezipamětí nebo již možná pracujeme na řešení tohoto problému.
   

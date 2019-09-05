@@ -1,6 +1,6 @@
 ---
-title: Opravte chyby 0x8004de40 v OneDrive
-ms.author: kirks
+title: Fix 0x8004de40 chyba v OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: d436184bdc0e283db217ea734fb2c8e05f85b4e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: aa0e0a63ac1e365a7cdce018626740446040a664
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525052"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755841"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>Opravte chyby 0x8004de40 v OneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>Fix 0x8004de40 chyba v OneDrive
 
-Pokud se zobrazí chybová 0x8004de40 s OneDrive:
+Obdržíte-li chybu 0x8004de40 u funkce OneDrive:
 
-- Restartujte ohrožený počítač během připojení k vaší doméně adresáře aktivovat.
-- Pokud restartování počítače neodstraní problém, odebrat a znovu připojit zařízení z Azure AD. 
+- Restartujte ohrožený počítač, který je připojen k doméně adresáře Acitve.
+- Pokud počítač nebude problém napravovat, připojte se a znovu připojte k zařízení Azure AD. 
 
-**Poznámka**: při provádění těchto kroků byste měli být v podnikové síti. Není provedení těchto kroků, pokud nejste schopni se připojit k vaší podnikové infrastruktury (např. při cestování). 
+**Poznámka**: při provádění těchto kroků byste měli být v podnikové síti. Neprovádějte tyto kroky, pokud se nemůžete připojit k podnikové infrastruktuře (například při cestování). 
 
 - Otevřete příkazový řádek se zvýšenými oprávněními. 
-- Chcete-li otevřít okno příkazového řádku se zvýšenými oprávněními, klepněte na tlačítko - **Start**, klepněte pravým tlačítkem myši **Příkazový řádek**a potom klepněte na příkaz **Spustit jako správce**.
-- Zadejte *dsregcmd /leave* a stiskněte klávesu **Enter**.
-- Po dokončení zadejte *dsregcmd /join* a stiskněte klávesu **Enter**.
-- Po dokončení zavřete okno příkazového řádku.
-- Restartujte počítač a přihlásit do OneDrive.
+- Chcete-li otevřít příkazový řádek se zvýšenými oprávněními, klepněte na tlačítko **Start**, klepněte pravým tlačítkem myši na položku **příkazový řádek**a potom klepněte na příkaz **Spustit jako správce**.
+- Zadejte příkaz *dsregcmd/odejdi* a stiskněte klávesu **ENTER**.
+- Po dokončení zadejte příkaz *dsregcmd/JOIN* a stiskněte klávesu **ENTER**.
+- Po dokončení ukončete příkazový řádek.
+- Restartujte počítač a přihlaste se k OneDrive.

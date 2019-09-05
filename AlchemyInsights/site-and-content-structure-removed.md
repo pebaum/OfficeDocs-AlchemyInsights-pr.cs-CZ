@@ -1,26 +1,26 @@
 ---
-title: Web a strukturu obsahu odebrány
-ms.author: kirks
+title: Byla odebrána struktura webu a obsahu.
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
-ms.openlocfilehash: 4cb7bd92ab2833d746da308277e3b2117fa1bb57
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c4301fd892e82f2d41c69f0e65b319b92f676be2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502260"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749469"
 ---
-# <a name="site-and-content-structure-removed"></a>Web a strukturu obsahu odebrány
+# <a name="site-and-content-structure-removed"></a>Byla odebrána struktura webu a obsahu.
 
-Spuštění v říjnu 2018, stránky struktury a obsahu webu již nebude podporováno ani přijímat aktualizace funkce. Nastavení odkazu na stránku SiteManager.aspx budou odebrány ze služby SharePoint Online a přímý přístup bude omezen na Admins kolekci webů až do března 2019, kdy budou stránky struktury a obsahu webu zcela vyřadit. 
+Počínaje říjnem 2018 již nebude stránka struktury a obsahu webu podporována ani nebude přijímat aktualizace funkcí. Odkaz na nastavení stránky SiteManager. aspx bude odebrán ze služby SharePoint Online a přímý přístup bude omezen na správce kolekcí webů až do března 2019, kdy bude stránka struktury a obsahu webu zcela vyřazen. 
 
-Poznámka: Problém dokud funkci je zcela vyřadit, správci kolekce webů mohou přejít na portálu služeb Office 365-na webu služby SharePoint klepněte na > vedle sebe - > přidejte nebo upravte adresu URL nahrazením "/ Sharepoint.aspx" s "/ Sitemanager.aspx". 
+Poznámka: jako dočasné řešení mohou správci kolekce webů přejít na centrum Microsoft 365 Admin Center, vybrat dlaždici služby SharePoint a přidat nebo upravit adresu URL nahrazením souboru/SharePoint.aspx příponou/Sitemanager.aspx. 
 
 
-Přesunout soubor a kopii můžete použijte ke správě struktury a obsahu webu. Další informace naleznete v tématu [kopírování souborů a složek mezi OneDrive a webu služby SharePoint](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
+Obsah a strukturu webu můžete spravovat pomocí přesouvání a kopírování souborů. Další informace viz [kopírování souborů a složek mezi servery OneDrive a weby služby SharePoint](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
 
-Další informace naleznete v [práce s struktury a obsahu webu](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).
+Další informace naleznete v [práci s obsahem a strukturou webu](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).

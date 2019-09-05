@@ -1,6 +1,6 @@
 ---
-title: Omezení služby SharePoint Online
-ms.author: kirks
+title: Omezení online služby SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/17/2018
 ms.audience: ITPro
@@ -8,22 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: c7881c0c7331e0aa74fcc439f52157bb75a56160
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d9e1400697b1e6435fea78703d2ecadc6733a57f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559832"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751881"
 ---
-# <a name="sharepoint-online-throttling"></a>Omezení služby SharePoint Online
+# <a name="sharepoint-online-throttling"></a>Omezení online služby SharePoint
 
-Uživatelům se může zobrazit 503 server je zaneprázdněn Chyba při pokusu o přechod na weby služby SharePoint nebo OneDrive. 
+Při pokusu o přechod na weby služby SharePoint nebo OneDrive se uživatelům může zobrazit server 503 s chybou. 
 
-Tato chyba může být způsobeno omezení v rámci služby SharePoint. SharePoint Online používá omezení k udržení optimálního výkonu a spolehlivosti služby SharePoint Online. Omezení počet akcí uživatele nebo souběžných volání (pomocí skriptu nebo kód) zabránit nadměrné prostředky. Pokud můžete získat omezena, 99 % času je z důvodu vlastního kódu.
+Tato chyba může být způsobena omezením v rámci služby SharePoint. Služba SharePoint Online používá omezení k udržování optimálního výkonu a spolehlivosti služby SharePoint Online. Omezení omezuje počet uživatelských akcí nebo souběžných volání (podle skriptu nebo kódu), aby zabránil přetížení prostředků. Pokud se vám dostane omezení, 99% času z důvodu vlastního kódu.
 
-Další informace o omezení naleznete v tématu [Avoid získání omezena nebo blokovány v Online služby SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+Další informace týkající se omezení naleznete [v tématu služby SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online), které není třeba omezením nebo zablokováno.
 
-Pokud se domníváte, že tato chyba nemá vliv na omezení, můžete zkontrolovat, zda je aktivní údržby, které se vyskytují u vašeho klienta tak, že přejdete do [Centra zpráv](https://portal.office.com/adminportal/home#/MessageCenter).
+Pokud se domníváte, že tato chyba nesouvisí s omezením, můžete zkontrolovat, zda se v nájemci vyskytne aktivní údržba, a to přechodem do [centra zpráv](https://portal.office.com/adminportal/home#/MessageCenter).
 
- Nakonec se ujistěte, že navštívíte stránku [Zdravotní služby](https://portal.office.com/adminportal/home#/servicehealth) ke kontrole všech informačních zpravodajů/incidentů, ke kterým může docházet.
+ Nakonec se ujistěte, že navštívíte stránku [stav služby](https://portal.office.com/adminportal/home#/servicehealth) , abyste mohli zjistit, ke kterým událostem dochází.
 

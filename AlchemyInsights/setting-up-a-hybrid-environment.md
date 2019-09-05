@@ -1,5 +1,5 @@
 ---
-title: Nastavení hybridní prostředí
+title: Nastavení hybridního prostředí
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -12,14 +12,14 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: 041ba1c8e235bc9adf4f951b8ff7688dcf12e826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cf623c3b7e9fe2e31b285607181e3120ff590cd7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509137"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740998"
 ---
-# <a name="setting-up-a-hybrid-environment"></a>Nastavení hybridní prostředí
+# <a name="setting-up-a-hybrid-environment"></a>Nastavení hybridního prostředí
 
-Chcete-li uživatelům spolupracovat bez problémů bez ohledu jsou-li jejich data jsou uložena na serverech místně nebo ve službách Office 365, je třeba nastavit hybridní prostředí. Získat přehled o možnostech, rezervaci [Integrace služeb Office 365 s místním prostředím](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).
+Chcete-li uživatelům zajistit bezproblémovou spolupráci bez ohledu na to, zda jsou data uložena na jiných serverech nebo v sadě Office 365, bude pravděpodobně nutné nastavit hybridní prostředí. Chcete-li získat přehled možností, podívejte se do [Integrace sady Office 365 s prostředím na místě](https://docs.microsoft.com/office365/enterprise/office-365-integration).
   

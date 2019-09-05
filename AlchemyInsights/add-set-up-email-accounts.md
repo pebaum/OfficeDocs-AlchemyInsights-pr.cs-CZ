@@ -1,5 +1,5 @@
 ---
-title: 1800018 přidat/nastavení e-mailových účtů
+title: 1800018 přidat/nastavit e-mailové účty
 ms.author: pdigia
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: 26e4840f0feb38d8e12c593c00953c376d0817f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 67420eb543762a42a93c7f727ea5bb5345e00bc8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494952"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737974"
 ---
-# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>Potížím s nastavením e-mailového účtu serveru Exchange v aplikaci Outlook
+# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>Problémy s nastavením e-mailového účtu serveru Exchange v aplikaci Outlook
 
-Pokud máte problémy s nastavením účtu serveru Exchange v aplikaci Outlook, je v ohroženém počítači spustit [nástroj nastavení účtu aplikace Outlook](https://aka.ms/SaRA-OutlookSetupProfile) . Bude provádět různé kontroly a možné řešení vašeho problému nastavení účtu.
+Máte-li potíže s nastavením účtu serveru Exchange v aplikaci Outlook, můžete v ohroženém počítači spustit [Nástroj pro nastavení účtu aplikace Outlook](https://aka.ms/SaRA-OutlookSetupProfile) . Provede různé kontroly a poskytne možná řešení problému nastavení vašeho účtu.
   
-Pokud máte stále problémy, naleznete v tématu [že aplikace Outlook nemůže nastavit nový profil pomocí Exchange Autodiscover pro poštovní schránky na serveru Exchange Online v Office 365](https://support.microsoft.com/help/2404385/outlook-can-t-set-up-a-new-profile-by-using-exchange-autodiscover-for).
+Pokud potíže přetrvávají, [nelze v aplikaci Outlook nastavit nový profil pomocí funkce automatického odpojení serveru Exchange pro poštovní schránku serveru Exchange Online v sadě Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
   

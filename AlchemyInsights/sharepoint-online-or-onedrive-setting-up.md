@@ -1,6 +1,6 @@
 ---
-title: SharePoint Online nebo OneDrive "Nastavení"
-ms.author: kirks
+title: Nastavení služby SharePoint Online nebo OneDrive '
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/21/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: df0f6903a504d2fe6e988277e254b7e03910eeb4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ed1a0a6988cf044a4d1426c9a2c230de3d0636c6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559798"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750333"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online nebo OneDrive "Nastavení"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>Služba SharePoint Online nebo OneDrive "nastavení"
 
-Když je uživatel přidán do existujícího klienta služeb Office 365, může vidí SharePoint Online nebo OneDrive pro obchodní ikony zobrazí jako "Nastavení", až do dokončení procesu zřizování.
+Pokud je uživatel přidán k existujícímu nájemci sady Office 365, mohou zobrazit ikony aplikace SharePoint Online nebo OneDrive for Business zobrazené jako nastavení, dokud nebude proces zajišťování dokončen.
   
-Pokud více než 24 hodin uplynulo od poprvé viděli tento problém, zkontrolujte protokolu případ podpory. V mnoha případech již pracujeme na řešení. Uveďte, prosím, nás alespoň 24 hodin, řešení.
+Pokud uplynulo více než 24 hodin od chvíle, kdy jste tento problém poprvé viděli, přihlaste se k případu podpory. V mnoha případech už pracujeme na řešení. K dokončení řešení nám prosím dejte alespoň 24 hodin.
   
 

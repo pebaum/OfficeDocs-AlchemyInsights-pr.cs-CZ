@@ -13,19 +13,19 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: f159770bc8f68344fac1386d4a8b5bd24282373f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bf16fa05a2c878e11d28582258c3615923393cdc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499740"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737398"
 ---
 # <a name="adding-external-users"></a>Přidání externích uživatelů
 
-Postup přidání uživatele externí / hosta se může lišit podle toho, co je potřeba, aby měli přístup. Zvolte jednu z následujících akcí:
+Postup pro přidání externích nebo hostů uživatelů se může lišit v závislosti na tom, co potřebujete, aby měli přístup. Zvolte jednu z následujících možností:
   
-- [Správa externích sdílení pro prostředí SharePointu Online](https://support.office.com/article/manage-external-sharing-for-your-sharepoint-online-environment-c8a462eb-0723-4b0b-8d0a-70feafe4be85)
+- [Přehled externího sdílení](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [Přístup uživatele typu Guest skupin Office 365](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [Přístup hosta v sadě Office 365 skupiny](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [Hosty v Teams společnosti Microsoft](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [Přístup hosta v týmu Microsoft](https://docs.microsoft.com/microsoftteams/guest-access-checklist)

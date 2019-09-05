@@ -1,5 +1,5 @@
 ---
-title: Alchymie - potíží selhání aplikace Outlook
+title: Alchymie – kroky při řešení potíží s aplikací Outlook
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: bcc23c54e38c0e3f06c243c53a6cc7fd1f8e7c0e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664565"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737105"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Potíží selhání aplikace Outlook
+# <a name="outlook-crash-troubleshooting-steps"></a>Kroky při řešení potíží s aplikací Outlook
 
-Pokud máte problémy plochy dojde k chybě aplikace Outlook, spusťte podle následujících tří kroků, které jsou uvedeny v tomto článku podrobně: [řešení problémů, které způsobují selhání aplikace Outlook nebo přestane reagovat při použití služeb Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Máte-li problémy s krachem plochy aplikace Outlook, začněte podle následujících tří kroků, které jsou podrobně popsány v tomto článku: [jak řešit problémy, které způsobují, že aplikace Outlook při použití se sadou Office 365 přestává reagovat nebo přestane odpovídat.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-Krok 1: Zjistěte možné problémy s doplňky.
+Krok 1: Prozkoumejte možné problémy s doplňky.
   
-Krok 2: Opravit aplikaci Outlook a spuštění [Nástroje podpory a Pomocník pro obnovení](https://aka.ms/SaRA-OutlookWontStart) chyby při spuštění aplikace Outlook v ohroženém počítači odstranit.
+Krok 2: Opravte aplikaci Outlook a spusťte [nástroj Pomocník pro podporu a obnovení](https://aka.ms/SaRA-OutlookWontStart) , který umožňuje řešit chyby při spuštění aplikace Outlook v ohroženém počítači.
   
-Krok 3: Vytvořit nový profil aplikace Outlook nebo [profil aplikace Outlook nástroj](https://aka.ms/SaRA-OutlookSetupProfile) spustit v ohroženém počítači.
+Krok 3: vytvořte nový profil aplikace Outlook nebo spusťte [Nástroj profilu aplikace Outlook](https://aka.ms/SaRA-OutlookSetupProfile) v ohroženém počítači.
   
-Pokud po aktualizaci došlo k problému a výše uvedené kroky nefungují, můžete se vrátit k předchozí sestavení. Viz [jak se vrátit k dřívější verzi aplikace Office 2016, klepněte na spustit](https://support.microsoft.com/help/2770432).
+Pokud k problému došlo po aktualizaci a výše uvedené kroky nefungují, bude pravděpodobně nutné vrátit se k předchozímu sestavení. Přečtěte si [, jak se vrátit k předchozí verzi sady Office 2016 klikněte na tlačítko spustit](https://support.microsoft.com/help/2770432).
   

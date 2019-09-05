@@ -1,29 +1,29 @@
 ---
-title: Přehled dat ztráta prevence (DLP)
-ms.author: kirks
+title: Přehled funkce Zabránění ztrátám dat (DLP)
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: cd73bc8f4e56f6fdc6e3e09d87eb4ff55523ca92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 96d9ecb3cd927946d6a5381fd6fd3a88fe67ac91
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514396"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755121"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Přehled dat ztráta prevence (DLP)
+# <a name="data-loss-prevention-dlp-overview"></a>Přehled funkce Zabránění ztrátám dat (DLP)
 
-DLP zásady můžete:
+Pomocí zásady DLP můžete:
 
-- Identifikujte citlivé informace na mnoha místech, jako je například Exchange Online, SharePoint Online a OneDrive pro firmy.
+- Identifikujte citlivé informace na mnoha místech, jako jsou Exchange Online, SharePoint Online a OneDrive for Business.
 
 
-Například lze určit libovolný dokument obsahující uloženou v jakékoli OneDrive pro obchodní web číslo kreditní karty nebo lze sledovat pouze OneDrive weby určitých osob.
+Můžete například určit jakýkoli dokument obsahující číslo kreditní karty, které je uloženo v libovolném serveru společnosti OneDrive pro podnik, nebo můžete sledovat pouze weby na serverech OneDrive určitých uživatelů.
 
-- Zabráníte nechtěnému sdílení důvěrných informací.
+- Zabraňte náhodnému sdílení citlivých informací.
 
 
 Další informace naleznete v následujícím [článku](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).

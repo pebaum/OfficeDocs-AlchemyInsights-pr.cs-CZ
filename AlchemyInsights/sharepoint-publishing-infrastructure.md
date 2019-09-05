@@ -1,6 +1,6 @@
 ---
-title: Infrastruktura publikování serveru komunikace
-ms.author: kirks
+title: Publikování infrastruktury pomocí komunikačního webu
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -8,27 +8,27 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: 10a5f2f1d01d4b49bbcbe35b71aaeb6cc0f28c74
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d5eca87678ad0588c3dcd7edbf499e13baf09d9
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502944"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750060"
 ---
-# <a name="sharepoint-publishing-infrastructure"></a>Infrastruktura publikování serveru SharePoint
+# <a name="sharepoint-publishing-infrastructure"></a>Infrastruktura publikování služby SharePoint
 
 
-Služba SharePoint zahrnuje klasické sadu funkcí, které vám umožní vytvářet a publikovat bohaté webové stránky pro síť intranet. Aktivace služby SharePoint Publishing infrastruktury na úrovni kolekce webů je zapnout.
+Služba SharePoint obsahuje klasickou sadu funkcí, které umožňují vytvářet a publikovat bohaté webové stránky v intranetu. Aktivujte infrastrukturu publikování služby SharePoint na úrovni kolekce webů a zapněte je.
 
-Další informace naleznete na níže uvedené odkazy.
+Další informace naleznete na následujících odkazech.
 
-[Povolení funkcí publikování](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)
+[Povolit funkce publikování](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)
 
 [Funkce publikování](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
 
 Poznámky:
 
-- Klasické šablony pro publikování webu publikování funkce jsou ve výchozím nastavení.
+- Klasické šablony webu publikování obsahují ve výchozím nastavení funkce publikování.
 
-- U moderních webů nejsou k dispozici klasické funkce publikování. Ve výchozím nastavení poskytují moderní weby novější alternativu.
+- Klasické funkce publikování nejsou k dispozici na moderních webech. Moderní lokality poskytují ve výchozím nastavení novější alternativu.
 
