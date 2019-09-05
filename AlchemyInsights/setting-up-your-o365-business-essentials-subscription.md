@@ -8,30 +8,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: c6c98b6fcfef6ca6f84810eb92ec0d1b90ff3379
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e6b2d98f166e3af5eb9786106e5c117c3ffd109f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508884"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744706"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Nastavení předplatného O365 Business Essentials
 
-Vytvořit účty služeb Office 365 a přidání domény
+Vytvoření účtů sady Office 365 a přidání domény
   
-- V tomto kroku použijete Průvodce instalací vytvořit účty služeb Office 365 pro uživatele a přidat své vlastní domény. Průvodce umožňuje přizpůsobit prospívá identifikační číslo a e-mailu pro firmy, jako je [rob@contoso.com](mailto:rob@contoso.com).
+- V tomto kroku použijete Průvodce instalací k vytvoření účtů sady Office 365 pro uživatele a přidáte vlastní doménu. Průvodce umožňuje přizpůsobit ID uživatele a e-mailovou zprávu pro váš podnik, například [Rob@contoso.com](mailto:rob@contoso.com).
     
-- Přejděte na [Microsoft 365 admin center](https://login.partner.microsoftonline.cn/).
+- Přejděte do [centra pro správu společnosti Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- Průvodce spustíte tak, že zvolíte **Přejít do nastavení**. Další informace najdete v tématu [Přidání uživatelů a domény do Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- Průvodce spustíte tak, že zvolíte **Přejít do nastavení**. Další informace naleznete v tématu [Přidání domény do sady Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
     
 Import e-mailu
   
-- Přesunete existující e-maily a kontakty z jiných e-mailových systémů k poštovní schránce služeb Office 365, zobrazí se na jednom místě. Možnosti migrace, [migrace e-mailů a kontaktů do služeb Office 365](https://support.office.com/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e).
+- Přesuňte stávající e-maily a kontakty z jiných e-mailových systémů do poštovní schránky sady Office 365, abyste je mohli vidět na jednom místě. Pro možnosti migrace [přeneste e-maily a kontakty do sady Office 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
     
 - Připojení e-mailových účtů
     
-  - Kromě správy e-mailu Office 365 v Outlooku můžete k Outlooku připojit taky jiné e-mailové účty, třeba účty Gmail a Yahoo. Můžete tak spravovat všechny své e-maily na jednom místě. K Outlooku můžete připojit až 5 e-mailových účtů. Další informace naleznete v tématu [připojit e-mailových účtů v aplikaci Outlook na webu (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - Kromě správy e-mailu Office 365 v Outlooku můžete k Outlooku připojit taky jiné e-mailové účty, třeba účty Gmail a Yahoo. Můžete tak spravovat všechny své e-maily na jednom místě. K Outlooku můžete připojit až 5 e-mailových účtů. Další informace naleznete v tématu [připojení e-mailových účtů v aplikaci Outlook na webu (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
     
 Instalace Skypu pro firmy
   
@@ -41,6 +41,6 @@ Ukládání souborů online
   
 - Informace o tom, která umístění úložiště jsou pro vaši firmu nejvhodnější, najdete v článku [Kde se dají ukládat soubory v Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Každý uživatel automaticky dostane cloudové úložiště na **OneDrivu**, když pro něj vytvoříte účet Office 365. Díky OneDrivu můžete mít ke svým souborům přístup ze všech svých počítačů, telefonů a tabletů. 
     
-Podrobný postup nastavení naleznete v [tomto článku](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials).
+Podrobné kroky pro nastavení naleznete v [tomto článku](https://docs.microsoft.com/office365/admin/setup/setup).
   
 
