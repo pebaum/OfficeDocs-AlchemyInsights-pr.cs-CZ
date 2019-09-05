@@ -1,5 +1,5 @@
 ---
-title: Vytvoření pravidla složky Doručená pošta pro sdílené poštovní schránky
+title: Vytvoření pravidel pro doručenou poštu pro sdílené poštovní schránky
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
@@ -13,16 +13,16 @@ ms.custom:
 - "1800021"
 - "3500003"
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
-ms.openlocfilehash: d64e7441bb1a701144921b9b2345bfeea005d090
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9182ff22f183385cf6577f911bc37cd3d22c8f84
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514828"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740710"
 ---
-# <a name="creating-inbox-rules-for-shared-mailboxes"></a><span data-ttu-id="47610-102">Vytvoření pravidla složky Doručená pošta pro sdílené poštovní schránky</span><span class="sxs-lookup"><span data-stu-id="47610-102">Creating Inbox rules for shared mailboxes</span></span>
+# <a name="creating-inbox-rules-for-shared-mailboxes"></a><span data-ttu-id="e270c-102">Vytvoření pravidel pro doručenou poštu pro sdílené poštovní schránky</span><span class="sxs-lookup"><span data-stu-id="e270c-102">Creating Inbox rules for shared mailboxes</span></span>
 
-<span data-ttu-id="47610-103">Můžete přidat pravidla na sdílené poštovní schránky mají přístup k podobným způsobem, jak přidat pravidla pro vlastní potřebu.</span><span class="sxs-lookup"><span data-stu-id="47610-103">You can add rules on a shared mailbox you have access to in a similar way to how you add rules to their own account.</span></span>
+<span data-ttu-id="e270c-103">Do sdílené poštovní schránky, ke které máte přístup, můžete přidat pravidla podobným způsobem, jakým přidáváte pravidla k vlastnímu účtu.</span><span class="sxs-lookup"><span data-stu-id="e270c-103">You can add rules on a shared mailbox you have access to in a similar way to how you add rules to their own account.</span></span>
   
-<span data-ttu-id="47610-104">Přesvědčte se, zda jste členem sdílené poštovní schránky a potom postupujte podle kroků v tomto článku: [Přidat pravidla pro sdílené poštovní schránky](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span><span class="sxs-lookup"><span data-stu-id="47610-104">Make sure you're a member of the shared mailbox in question, and then follow the steps in this article: [Add rules to a shared mailbox](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span></span>
+<span data-ttu-id="e270c-104">Ujistěte se, že jste členem příslušné sdílené poštovní schránky, a potom postupujte podle pokynů v tomto článku: [přidání pravidel ke sdílené poštovní schránce](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span><span class="sxs-lookup"><span data-stu-id="e270c-104">Make sure you're a member of the shared mailbox in question, and then follow the steps in this article: [Add rules to a shared mailbox](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span></span>
   
