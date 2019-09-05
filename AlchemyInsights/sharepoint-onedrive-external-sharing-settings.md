@@ -1,6 +1,6 @@
 ---
-title: Povolit externí sdílení pro službu SharePoint.
-ms.author: kirks
+title: Zapnutí nebo vypnutí externího sdílení pro službu SharePoint
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2f61a34cb0b510af7c4fcc6193a977662c328063
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507876"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750909"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Upozornění: zásady organizace neumožňuje sdílet s těmito uživateli
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Varovná zpráva: zásady vaší organizace neumožňují sdílení s těmito uživateli.
 
-Uživatelé mohou zaznamenat zprávu upozornění při pokusu o sdílení s externím uživatelům v organizaci. Zpráva je **podnikové zásady neumožňují sdílet s těmito uživateli. Přejděte na externí sdílení ve středisku pro správce služeb Office 365 k tomu**. K tomu často dochází při prvním pokusu o sdílení externích uživatelů nebo sdílení s novým externím uživatelům.
+Uživatelé mohou při pokusu o sdílení s externími uživateli organizace zaznamenat varovnou zprávu. Zpráva je, **že zásady vaší organizace neumožňují sdílení s těmito uživateli. Chcete-li ji povolit, přejděte na externí sdílení v centru Office 365 Admin Center**. To se často stává při prvním pokusu o sdílení s externími uživateli nebo při sdílení s novými externími uživateli.
 
-Zkontrolujte **Nastavení služby SharePoint a externí sdílení OneDrive** pro vaši organizaci.
+Zkontrolujte **Nastavení externího sdílení služby SharePoint a OneDrive** pro organizaci.
 
-1. V aplikaci [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)vyberte **služby SharePoint**.
-3. Vyberte **sdílení** zobrazíte externí nastavení sdílení.
+1. V [centru pro správu aplikace Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)vyberte položku **SharePoint**.
+3. Výběrem možnosti **sdílení** zobrazíte nastavení externího sdílení.
 
 Zkontrolujte **Nastavení externího sdílení** pro určitý web.
 
-1. V aplikaci [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)vyberte **služby SharePoint**.
-2. Vyberte **aktivní weby** , weby, které jsou k dispozici.
-3. Vyberte web, který chcete zkontrolovat a pak klikněte na tlačítko **sdílení** , který se zobrazí v řádku nabídek a ověřte nastavení pro web.
+1. V [centru pro správu aplikace Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)vyberte položku **SharePoint**.
+2. Výběrem možnosti **aktivní weby** zobrazíte weby, které jsou k dispozici.
+3. Vyberte síť, kterou chcete zkontrolovat, a pak vyberte tlačítko pro **sdílení** , které se zobrazí v řádku nabídek, abyste ověřili nastavení webu.
 
-Další informace naleznete v tématu [Přehled externí sdílení](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+Další informace naleznete v tématu [Přehled externího sdílení](https://docs.microsoft.com/sharepoint/external-sharing-overview).

@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 52429314d1529d0d2df7886feaebbcfd27666a06
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 73583b3b27143c708a4cc993cdff94a33131ab52
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559690"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743086"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Řešení potíží s příkazem „Otevřít v Průzkumníkovi“ v SharePointu Online
 
@@ -25,7 +25,7 @@ Příkaz Otevřít v Průzkumníkovi otevře místní instanci aplikace Průzku
 
 Pokud jste se rozhodli použít zobrazení Průzkumníka místo nového synchronizačního klienta OneDrivu, držte se kroků a osvědčených postupů uvedených v následujících článcích:
 
-- [Jak použít příkaz „Otevřít v Průzkumníkovi“ k řešení potíží v SharePointu Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)
+- [Jak použít příkaz „Otevřít v Průzkumníkovi“ k řešení potíží v SharePointu Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)
 
 - [Zkopírování nebo přesunutí souborů knihovny pomocí příkazu Otevřít v Průzkumníkovi](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 

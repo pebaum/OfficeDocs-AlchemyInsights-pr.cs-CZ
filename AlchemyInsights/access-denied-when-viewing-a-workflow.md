@@ -1,6 +1,6 @@
 ---
-title: Přístup byl odepřen při zobrazení pracovního postupu
-ms.author: kirks
+title: Při zobrazení pracovního postupu byl odepřen přístup
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 53bd9285e49e220f880eea21923f261302003127
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495816"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747741"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Přístup byl odepřen při zobrazení pracovního postupu
+# <a name="access-denied-when-viewing-a-workflow"></a>Při zobrazení pracovního postupu byl odepřen přístup
 
-Pracovní postupy služby SharePoint 2013, který se pokusí odeslat e-mailu skupině SharePoint může selhat s chybovou zprávou "Přístup byl odepřen", pokud členství ve skupině služby SharePoint není nastavena na hodnotu Všichni.
+Pracovní postupy služby SharePoint 2013, které se pokoušejí odeslat e-mail skupině SharePoint, mohou selhat s chybovou zprávou "přístup byl odepřen" v případě, že členství ve skupině SharePoint není nastaveno na možnost Everyone.
   
- **Chcete-li tento problém vyřešit, proveďte tyto kroky:**
+ **Tento problém vyřešíte následujícím postupem:**
   
- 1. Každý uživatel, chcete-li zobrazit členy skupiny SharePoint povolte.
+ 1. Umožňuje všem zobrazit členy skupiny SharePoint.
   
- 2. Odebrat skupinu SharePoint ze Komu nebo kopie řádku e-mailu.
+ 2. Odeberte skupinu SharePoint z řádku Komu nebo kopie v e-mailu.
   
- 3. Explicitně přidat uživatele do Komu nebo kopie řádku, pokud nelze změnit viditelnost členství pro skupinu služby SharePoint.
+ 3. Uživatelé mohou explicitně přidat uživatele do řádku Komu nebo kopie, pokud viditelnost členství nelze změnit pro skupinu SharePoint.
   
-Chcete-li zobrazit další podrobnosti naleznete v [HTTP Neoprávněný k /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Chcete-li zobrazit další podrobnosti, použijte [protokol HTTP neoprávněný na/_vti_bin/Client.svc/SP.Utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

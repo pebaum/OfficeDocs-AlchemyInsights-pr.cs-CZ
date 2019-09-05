@@ -1,22 +1,22 @@
 ---
-title: Zajištěním webu OneDrive
-ms.author: kirks
+title: Zřizování webu OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: 47442a6e557e8a06e14898ea77b8faa9b01b0024
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5f8e57185da938d10b86f0617182c28526f47f63
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543162"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753105"
 ---
-# <a name="onedrive-site-provisioning"></a>Zajištěním webu OneDrive
+# <a name="onedrive-site-provisioning"></a>Zřizování webu OneDrive
 
-Pro nově vytvořené účty uživatelé musí přihlásit k portálu služeb Office 365 s vlastní účet a klepněte na ikonu OneDrive Chcete-li ručně zahájit poskytování webu OneDrive.
+U nově vytvořených účtů se uživatelé musí přihlásit ke středisku Microsoft 365 Admin Center s vlastním účtem a klepnutím na ikonu OneDrive ručně spustit poskytování webu OneDrive.
 
-Nicméně pokud již uživatel klepne na ikonu OneDrive a jeho osobní web není zřízena do 24 hodin, prosím přihlásit lístek podpory pro další pomoc.
+Pokud však uživatel již klepnul na ikonu OneDrive a jeho osobní web není zajištěn do 24 hodin, zadejte do protokolu lístek odborné pomoci.
 

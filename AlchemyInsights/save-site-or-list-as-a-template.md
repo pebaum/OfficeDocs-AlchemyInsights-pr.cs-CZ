@@ -1,46 +1,46 @@
 ---
-title: Uložit jako šablonu webu nebo seznamu
-ms.author: kirks
+title: Uložení webu nebo seznamu jako šablony
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: a74d14f1743b9a016346f7bf0943523b1ab21f91
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1fe0a2f5bf65ef4e8cabf3d05a701c8eff966435
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551624"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752025"
 ---
-# <a name="save-site-or-list-as-a-template"></a>Uložit jako šablonu webu nebo seznamu
+# <a name="save-site-or-list-as-a-template"></a>Uložení webu nebo seznamu jako šablony
 
-Šablony webu služby SharePoint jsou předem sestavené definice navrženo pro konkrétní obchodní potřeby. Další informace naleznete v tématu [použití šablon k vytvoření různých typů webů služby SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+Šablony webů služby SharePoint jsou předem sestavené definice navržené kolem konkrétní obchodní potřeby. Další informace naleznete v tématu [použití šablon k vytvoření různých druhů webů služby SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
 
-Zde jsou některé běžné problémy/řešení týkající se ukládání web nebo do seznamu jako šablony v Online služby SharePoint.
+Zde jsou uvedeny některé běžné problémy a řešení týkající se uložení webu nebo seznamu jako šablony na webu služby SharePoint Online.
 
-**Uložení webu nebo seznamu je tlačítko šablony není k dispozici nebo chybí**. 
+**Tlačítko Uložit šablonu webu/seznamu není k dispozici nebo nebylo nalezeno**. 
 
-- Správce bude nutné povolit vlastní skript funkcí šablony. Podrobné kroky, příklady a důležité informace naleznete v [Povolit nebo zakázat vlastní skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
-
-
-- Uložit web jako šablonu příkaz není podporováno a může způsobit problémy na serverech, které používají Infrastruktura publikování serveru SharePoint.
+- Správci budou muset povolit vlastní skripty, aby umožnily funkce šablon. Podrobné pokyny, příklady a úvahy, viz [Povolení nebo zákaz vlastního skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
 
-**Nelze vytvořit šablonu webu nebo nefunguje správně**
-
-- Šablony mohou být chybějící [funkce](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) a nebude aktivovat. Pokud funkce není k dispozici v aktuální kolekci webů aktivovat, nelze použít šablonu webu vytvořit web.
+- Příkaz Uložit web jako šablonu není podporován a může způsobit problémy na webech, které používají infrastrukturu publikování serveru SharePoint Server.
 
 
-- Zkontrolujte, pokud všechny seznamy a knihovny překročit [Mezní hodnotu Limit zobrazení seznamu](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) 5000 položek jako to může blokovat vytvoření šablony webu.
+**Šablonu webu nelze vytvořit nebo nepracuje správně.**
+
+- V šabloně pravděpodobně chybí [funkce](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) a nelze ji aktivovat. Není-li funkce k dispozici pro aktivaci v aktuální kolekci webů, nelze k vytvoření webu použít šablonu webu.
 
 
-- Web pravděpodobně používá příliš mnoho prostředků a proto šablony webu překračuje limit 50 megabajtů (MB).
+- Zkontrolujte, zda některé seznamy nebo knihovny překročí mezní [hodnotu zobrazení seznamu](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) pro 5000 položek, protože to může blokovat vytvoření šablony webu.
 
 
-- Existují problémy se zobrazením dat ze seznamu, který používá vyhledávací sloupec. Další informace naleznete v tématu [Generování šablony seznamu nezobrazuje data ze seznamu správnou vyhledávání v Online služby SharePoint](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).
+- Web pravděpodobně používá příliš mnoho prostředků, a proto šablona webu překračuje limit 50 megabajt (MB).
 
 
-Podrobnější informace týkající se běžných problémů a řešení prosím odkaz, [Vytvoření a použití šablon webů](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+- Při zobrazování dat ze seznamu, který používá vyhledávací sloupec, nastaly problémy. Další informace naleznete v tématu [seznam generovaných šablon nezobrazuje data ze správného vyhledávacího seznamu ve službě SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+
+
+Podrobnější informace o běžných problémech a řešeních naleznete v odkazech, [vytváření a používání šablon webů](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 

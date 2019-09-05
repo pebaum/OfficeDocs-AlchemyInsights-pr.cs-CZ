@@ -1,5 +1,5 @@
 ---
-title: Moderní web jako kořenový Web.
+title: Moderní web jako kořenový web
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: d5ea73c967013822854dbd408d4628d991c90378
-ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
+ms.openlocfilehash: a3cf44d52a3948634fc0eed64c852ff17515fd9b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620752"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753897"
 ---
 # <a name="modern-site-as-root-site"></a>Moderní web jako kořenový web
 
-Jsme začaly zavedení nové funkce, která vám umožní vyměnit klasické webu kořenového webu s moderním webem. Zaměnit umístění serveru s jinou lokalitou při archivaci původního webu pomocí [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) . K dispozici pro týmový web (bez připojení do skupiny) a komunikační sítě. 
+Zahájili jsme novou funkci, která vám umožní [vyměnit klasickou kořenovou lokalitu webů s moderním webem](https://docs.microsoft.com/sharepoint/modern-root-site). Pomocí metody [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) můžete při archivaci původního webu zaměnit umístění webu s jiným webem. K dispozici pro týmový web (není připojen ke skupině) a komunikační Web.
 
 >[!Important]
-> Neodstraňujte klasické kořenového webu vytvoření moderní komunikační sítě. To není podporován společností Microsoft. Odstranění kořenového webu bude všechny weby služby SharePoint v organizaci přístupný všem uživatelům, dokud obnovit web nebo vytvořit nový web na adrese URL stejné. Jsme budete komunikovat tuto funkci prostřednictvím Centra zpráv. Lze očekávat, že je funkce zapnuta v vašeho klienta krátce.
+> Neodstraňujte klasickou kořenovou lokalitu, abyste vytvořili moderní komunikační Web. Společnost Microsoft tuto podporu nepodporuje. Odstranění kořenového webu způsobí, že všechny weby služby SharePoint ve vaší organizaci nebudou přístupné všem uživatelům, dokud web neobnovíte nebo vytvoříte nový web na stejné adrese URL. Tuto funkci budeme komunikovat prostřednictvím centra zpráv. Měli byste očekávat, že bude funkce v nájemci brzy zapnuta.
 
-## <a name="known-issues-with-swapping-sites"></a>Známé problémy týkající se výměny serverů
-- Cílový web může vrátit chybu "nebyl nalezen" (HTTP 404) na krátkou dobu.
-- Obsah bude třeba položka znovu prohledána aktualizace indexu vyhledávání. Neexistuje žádná ruční krok vyžaduje zde, to bude provedeno automaticky.
-- Vše závisí na "statické" propojení (například synchronizaci souboru a aplikace OneNote soubory) nutné ručně korigovat.
-- Weby aplikace Project Server bude pravděpodobně nutné ověřit, aby zajistit, aby byly správně stále spojeny. 
+## <a name="known-issues-with-swapping-sites"></a>Známé problémy s odkládání webů
+- Cílový web může po krátkou dobu vrátit chybu "nenalezena" (HTTP 404).
+- Obsah bude nutné znovu prohledat, aby se aktualizoval vyhledávací index. Zde není nutné provádět žádný ruční krok, bude to provedeno automaticky.
+- Cokoli, co je závislé na "statických" odkazech (například soubory synchronizace souborů a OneNote), bude nutné ručně opravit.
+- Je možné, že weby projektového serveru budou muset být ověřeny, aby bylo zajištěno, že jsou stále správně spojeny. 

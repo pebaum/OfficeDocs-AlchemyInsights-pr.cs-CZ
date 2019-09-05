@@ -1,6 +1,6 @@
 ---
-title: Rozšíření OSE sdílení chyby v SharePoint a OneDrive
-ms.author: kirks
+title: Chyby sdílení OSE ve službě SharePoint a OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 18de4ff4b738f289084e7d533ddfc6339204efdb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543126"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752961"
 ---
-# <a name="ose-sharing-errors"></a>Chyby na OSE sdílení
+# <a name="ose-sharing-errors"></a>Chyby sdílení OSE
 
-Tento článek se vztahuje na různé chyby, které se mohou vyskytnout při sdílení souborů nebo složek z aplikace SharePoint Online nebo OneDrive pro podnikání ve službách Office 365. Musíte být globální nebo správce serveru SharePoint ve vaší organizaci můžete tyto chyby opravit. Pokud nejste správce, obraťte se na pracovníky odborné pomoci a dát jim váš kód chyby.
+Článek popisuje různé chyby, ke kterým může dojít při sdílení souborů nebo složek z webu služby SharePoint Online nebo OneDrive for Business v sadě Office 365. Chcete-li tyto chyby opravit, musíte být v organizaci globálním nebo správcem služby SharePoint. Pokud nejste správce, obraťte se na oddělení podpory a přidělte jim kód chyby.
 
-Další informace o kódech chyb v OSE zobrazit [chyby sdílení do služby SharePoint a OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+Další informace o kódech chyb v OSE naleznete [v tématu sdílení chyb ve službě SharePoint a OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

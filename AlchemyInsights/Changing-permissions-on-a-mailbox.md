@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661397"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734374"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Změna oprávnění poštovní schránky
 
-Pokud uživatelé potřebují přístup k poštovní schránky Office 365, než své vlastní, musí být udělena oprávnění pro práci s těchto poštovních schránek. Jak přiřadit oprávnění závisí na typu poštovní schránky. Pokud uživatelé potřebují přístup k:
+Pokud uživatelé potřebují přístup k poštovním schránkám sady Office 365 jiným než svým vlastním, musí jim být přidělena oprávnění pro práci s těmito poštovními schránkami. Způsob přiřazování těchto oprávnění závisí na typu poštovní schránky. Pokud uživatelé potřebují přístup k:
   
-- Poštovní schránky jiného uživatele - viz [udělit oprávnění k poštovní schránce jiného uživatele ve službách Office 365](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
+- Poštovní schránky jiných uživatelů-Podívejte [se, prosím, přidělte oprávnění poštovní schránky jinému uživateli sady Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- Sdílená poštovní schránka - naleznete v tématu [Přidání nebo odebrání členů ze sdílené poštovní schránky](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Sdílená poštovní schránka-viz [Přidání nebo odebrání členů ze sdílené poštovní schránky](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
-Pokud oprávnění nefungují správně po provedení výše uvedených kroků, přejděte na stránku Správce serveru Exchange a pokusíte se nastavit oprávnění z něj (viz [Spravovat oprávnění pro příjemce](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Pokud oprávnění po provedení výše uvedených kroků nefungují správně, přejděte do centra pro správu serveru Exchange a pokuste se nastavit oprávnění z tohoto adresáře (viz [Správa oprávnění pro příjemce](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   

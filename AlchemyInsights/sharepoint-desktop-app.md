@@ -1,22 +1,22 @@
 ---
-title: Desktop aplikace pro službu SharePoint.
-ms.author: kirks
+title: Desktop App pro SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 05a9c689424ccf8b4ed5dd8ee168e640d6bb48a9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 036efbec52fecefe709bf8e50372adf380933a7f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504168"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751629"
 ---
-# <a name="desktop-app-for-sharepoint"></a>Desktop aplikace pro službu SharePoint.
+# <a name="desktop-app-for-sharepoint"></a>Desktop App pro SharePoint
 
-Organizace je zadaných v programu soukromý náhled pro Desktop aplikace pro službu SharePoint.
+Vaše organizace je zadána v programu pro soukromé náhledy pro aplikaci Desktop App for SharePoint.
 
-Společnost Microsoft nepodporuje aktuálně Desktop App for SharePoint (soukromý náhled). Chcete-li získat pomoc s Desktop App for SharePoint použijte zapsaným partnerů Microsoft Private náhled.
+Společnost Microsoft v současné době nepodporuje službu Desktop App for SharePoint (vlastní náhled). Chcete-li získat pomoc s aplikací Desktop App pro SharePoint, použijte své partnerské servery Microsoft Private Preview.
 
