@@ -1,6 +1,6 @@
 ---
-title: Soubory jsou uzamčeny pro úpravy
-ms.author: kirks
+title: Soubory jsou uzamčeny pro úpravy.
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 243179d0501089ee4865aeaf6b340a68f428d6c1
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 4a1edf25cfcabb0e7f89978812624a86dab7c196
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631620"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754977"
 ---
-# <a name="cant-edit-files"></a><span data-ttu-id="be6de-102">Nelze upravovat soubory?</span><span class="sxs-lookup"><span data-stu-id="be6de-102">Can't edit files?</span></span> 
+# <a name="cant-edit-files"></a><span data-ttu-id="9e7a4-102">Nelze upravovat soubory?</span><span class="sxs-lookup"><span data-stu-id="9e7a4-102">Can't edit files?</span></span> 
 
-<span data-ttu-id="be6de-103">Pokud dokument, sešit nebo prezentace je uzamčena pro úpravy a nelze otevřít v aplikace pracovní plochy systému Windows, může být soubor je již upravuje někdo jiný, zda má soubor rezervován. Podívejme se rychle na některé z důvodů, [Proč nemusí být možné upravit soubor](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span><span class="sxs-lookup"><span data-stu-id="be6de-103">If a document, worksheet, or presentation is locked for editing and can't be opened in the Windows desktop applications, it may be that the file is already being edited by someone else, or they have the file checked out. Let's take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
+<span data-ttu-id="9e7a4-103">Pokud je dokument, list nebo prezentace uzamčen pro úpravy a nelze jej otevřít v aplikacích systému Windows, je možné, že soubor již upravuje jiný uživatel nebo je soubor rezervován. Podíváme se rychle na některé důvody [, proč není možné soubor upravovat](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span><span class="sxs-lookup"><span data-stu-id="9e7a4-103">If a document, worksheet, or presentation is locked for editing and can't be opened in the Windows desktop applications, it may be that the file is already being edited by someone else, or they have the file checked out. Let's take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
 
-<span data-ttu-id="be6de-104">Pokud máte knihovny s **rezervaci požadováno** nebo **ověření** sloupce nebo metadata nebo **Zabezpečení konceptů** je nastavena na **pouze uživatelé, kteří mohou upravovat** nebo **pouze uživatelé, kteří mohou schvalovat položky** v nastavení verze Knihovna:</span><span class="sxs-lookup"><span data-stu-id="be6de-104">If you have libraries with **Checkout, Required** or **Validation** columns or metadata, or when **Draft Item Security** is set to either **Only users who can edit** or **Only users who can approve items** in Version Settings of the library:</span></span>
+<span data-ttu-id="9e7a4-104">Pokud máte knihovny s **rezervováním, požadovanými** nebo **ověřovacími** sloupci nebo metadaty nebo pokud je **koncept zabezpečení položky** nastaven na **pouze uživatele, kteří mohou upravovat** nebo **pouze uživatelé, kteří mohou schvalovat položky** v nastavení verze Knihovny:</span><span class="sxs-lookup"><span data-stu-id="9e7a4-104">If you have libraries with **Checkout, Required** or **Validation** columns or metadata, or when **Draft Item Security** is set to either **Only users who can edit** or **Only users who can approve items** in Version Settings of the library:</span></span>
 
-- <span data-ttu-id="be6de-105">Pro knihovny dokumentů služby SharePoint budou tyto položky synchronizovány pouze pro čtení.</span><span class="sxs-lookup"><span data-stu-id="be6de-105">For SharePoint document libraries, these items will be synchronized as read-only.</span></span>
+- <span data-ttu-id="9e7a4-105">U knihoven dokumentů služby SharePoint budou tyto položky synchronizovány jen pro čtení.</span><span class="sxs-lookup"><span data-stu-id="9e7a4-105">For SharePoint document libraries, these items will be synchronized as read-only.</span></span>
 
-- <span data-ttu-id="be6de-106">Pro knihovny OneDrive, OneDrive se zobrazí ikona zámku (OneDrive soubor uzamčen ikonu) u synchronizace stavu a uživatel nebude moci synchronizovat knihovny, dokud byla odebrána uvedené nastavení.</span><span class="sxs-lookup"><span data-stu-id="be6de-106">For OneDrive libraries, OneDrive will show a lock icon ( OneDrive file locked icon ) next to the sync status and the user will not be able to synchronize the library until the mentioned settings have been removed.</span></span> 
+- <span data-ttu-id="9e7a4-106">U knihoven OneDrive se na OneDrive zobrazí ikona zámku (ikona uzamčeného souboru OneDrive) vedle stavu synchronizace a uživatel nebude moci knihovnu synchronizovat, dokud nebudou uvedená nastavení odebrána.</span><span class="sxs-lookup"><span data-stu-id="9e7a4-106">For OneDrive libraries, OneDrive will show a lock icon ( OneDrive file locked icon ) next to the sync status and the user will not be able to synchronize the library until the mentioned settings have been removed.</span></span> 
 
-<span data-ttu-id="be6de-107">Další informace o uzamčené soubory aplikace Word nebo Excel prosím odkaz níže uvedené články.</span><span class="sxs-lookup"><span data-stu-id="be6de-107">For more information regarding locked files for Word or Excel, please reference the articles below.</span></span>
+<span data-ttu-id="9e7a4-107">Další informace týkající se uzamčených souborů v aplikacích Word a Excel naleznete v následujících článcích.</span><span class="sxs-lookup"><span data-stu-id="9e7a4-107">For more information regarding locked files for Word or Excel, please reference the articles below.</span></span>
 
-- [<span data-ttu-id="be6de-108">Aplikace Excel soubor je uzamčen pro úpravy jiným uživatelem</span><span class="sxs-lookup"><span data-stu-id="be6de-108">Excel file is locked for editing by another user</span></span>](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [<span data-ttu-id="9e7a4-108">Soubor aplikace Excel je uzamčen pro úpravy jiným uživatelem.</span><span class="sxs-lookup"><span data-stu-id="9e7a4-108">Excel file is locked for editing by another user</span></span>](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-- [<span data-ttu-id="be6de-109">Word soubor je uzamčen pro úpravy jiným uživatelem</span><span class="sxs-lookup"><span data-stu-id="be6de-109">Word file is locked for editing by another user</span></span>](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [<span data-ttu-id="9e7a4-109">Soubor aplikace Word je uzamčen pro úpravy jiným uživatelem.</span><span class="sxs-lookup"><span data-stu-id="9e7a4-109">Word file is locked for editing by another user</span></span>](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)

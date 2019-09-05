@@ -1,5 +1,5 @@
 ---
-title: Vytvoření distribučního seznamu nebo skupiny 711
+title: 711 vytvoření distribučního seznamu nebo skupiny
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: d2fda9d8dd238b5c7881930b02bdd04de6bff3bf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ed2e30b37f521d3c93fcffed281dbbb0c355d305
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665249"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740746"
 ---
-# <a name="create-distribution-groups"></a><span data-ttu-id="888bd-102">Vytvořit distribuční skupiny</span><span class="sxs-lookup"><span data-stu-id="888bd-102">Create distribution groups</span></span>
+# <a name="create-distribution-groups"></a><span data-ttu-id="35d32-102">Vytvořit distribuční skupiny</span><span class="sxs-lookup"><span data-stu-id="35d32-102">Create distribution groups</span></span>
 
-<span data-ttu-id="888bd-103">Pomocí (známé také jako seznamy pro distribuci) distribuční skupiny ve službách Office 365 e-mailové zprávy doručovány do skupin uživatelů uvnitř i vně vaší organizace.</span><span class="sxs-lookup"><span data-stu-id="888bd-103">You use distribution groups (also known as distribution lists) in Office 365 to deliver email messages to groups of people inside and outside your organization.</span></span> <span data-ttu-id="888bd-104">Jejich vytvoření je snadné!</span><span class="sxs-lookup"><span data-stu-id="888bd-104">Creating them is easy!</span></span> <span data-ttu-id="888bd-105">Pokyny naleznete v tématu [vytvoření distribučních seznamů ve středisku pro správce služeb Microsoft 365](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).</span><span class="sxs-lookup"><span data-stu-id="888bd-105">For instructions, see [Create distribution lists in the Microsoft 365 admin center](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).</span></span>
+<span data-ttu-id="35d32-103">Distribuční skupiny (označované také jako distribuční seznamy) v sadě Office 365 slouží k doručování e-mailových zpráv skupinám osob uvnitř i vně vaší organizace.</span><span class="sxs-lookup"><span data-stu-id="35d32-103">You use distribution groups (also known as distribution lists) in Office 365 to deliver email messages to groups of people inside and outside your organization.</span></span> <span data-ttu-id="35d32-104">Jejich tvorba je snadná!</span><span class="sxs-lookup"><span data-stu-id="35d32-104">Creating them is easy!</span></span> <span data-ttu-id="35d32-105">Pokyny naleznete v části [Vytvoření distribučních seznamů v centru Microsoft 365 Admin Center](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="35d32-105">For instructions, see [Create distribution lists in the Microsoft 365 admin center](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).</span></span>
 
-<span data-ttu-id="888bd-106">**Poznámka**: Správce musí spravovat členství distribuční skupinu.</span><span class="sxs-lookup"><span data-stu-id="888bd-106">**Note**: An admin needs to manage the membership of a distribution group.</span></span> <span data-ttu-id="888bd-107">Pokud chcete, aby uživatelé spravovat své vlastní členství ve skupině jsou uvedeny, můžete chtít zvažte místo [Skupiny Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) .</span><span class="sxs-lookup"><span data-stu-id="888bd-107">If you want users to manage their own group membership lists, you might want to consider [Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) instead.</span></span>
+<span data-ttu-id="35d32-106">**Poznámka**: správce potřebuje spravovat členství v distribuční skupině.</span><span class="sxs-lookup"><span data-stu-id="35d32-106">**Note**: An admin needs to manage the membership of a distribution group.</span></span> <span data-ttu-id="35d32-107">Chcete-li, aby uživatelé spravili své vlastní seznamy členství ve skupinách, zvažte místo toho [skupiny Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) .</span><span class="sxs-lookup"><span data-stu-id="35d32-107">If you want users to manage their own group membership lists, you might want to consider [Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) instead.</span></span>

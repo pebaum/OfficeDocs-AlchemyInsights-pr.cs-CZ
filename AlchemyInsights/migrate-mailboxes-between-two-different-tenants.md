@@ -1,5 +1,5 @@
 ---
-title: Migrovat poštovní schránky mezi dvěma různými klienty
+title: Migrace poštovních schránek mezi dvěma různými nájemníky
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 974858539f1a28929e98c5ade1d8358ef04b2496
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544640"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734446"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="960ee-102">Migrovat poštovní schránky mezi dvěma různými klienty</span><span class="sxs-lookup"><span data-stu-id="960ee-102">Migrate mailboxes between two different tenants</span></span>
+# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="fb30a-102">Migrace poštovních schránek mezi dvěma různými nájemníky</span><span class="sxs-lookup"><span data-stu-id="fb30a-102">Migrate mailboxes between two different tenants</span></span>
 
-<span data-ttu-id="960ee-103">Potřebujete migrovat poštovní schránky mezi dvěma různými klienty ve službách Office 365, například při sloučení organizací.</span><span class="sxs-lookup"><span data-stu-id="960ee-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="960ee-104">Tyto migrace by měla být pečlivě plánována.</span><span class="sxs-lookup"><span data-stu-id="960ee-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="960ee-105">Naleznete následující pokyny:</span><span class="sxs-lookup"><span data-stu-id="960ee-105">Please see the following guidance:</span></span>
+<span data-ttu-id="fb30a-103">Je možné, že budete potřebovat migrovat poštovní schránky mezi dvěma různými nájemníky v sadě Office 365, například při slučování organizací.</span><span class="sxs-lookup"><span data-stu-id="fb30a-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="fb30a-104">Tyto migrace by měly být pečlivě plánovány.</span><span class="sxs-lookup"><span data-stu-id="fb30a-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="fb30a-105">Přečtěte si následující pokyny:</span><span class="sxs-lookup"><span data-stu-id="fb30a-105">Please see the following guidance:</span></span>
   
-[<span data-ttu-id="960ee-106">Postup při migraci poštovní schránky z jednoho klienta služeb Office 365</span><span class="sxs-lookup"><span data-stu-id="960ee-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
+[<span data-ttu-id="fb30a-106">Jak migrovat poštovní schránky z jednoho klienta sady Office 365 do jiného</span><span class="sxs-lookup"><span data-stu-id="fb30a-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   
