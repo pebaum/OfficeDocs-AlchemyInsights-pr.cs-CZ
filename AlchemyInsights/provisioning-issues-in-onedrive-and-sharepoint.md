@@ -1,24 +1,21 @@
 ---
-title: Zřizování problémy v OneDrive a služby SharePoint
-ms.author: kirks
+title: Problémy se zajištěním v OneDrive a SharePoint
+ms.author: pebaum
 author: Techwriter40
-ms.date: 9/21/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: b9b129996837f646c951f2d0b29c28dd1ecb0728
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9dd38f3db7e74a82748e6db526f48b8e1c28c63d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422352"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752457"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a><span data-ttu-id="b38fb-102">Zřizování problémy v OneDrive a služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="b38fb-102">Provisioning issues in OneDrive and SharePoint</span></span>
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a><span data-ttu-id="83d22-102">Problémy se zajištěním v OneDrive a SharePoint</span><span class="sxs-lookup"><span data-stu-id="83d22-102">Provisioning issues in OneDrive and SharePoint</span></span>
 
-<span data-ttu-id="b38fb-103">Když je uživatel přidán do existujícího klienta služeb Office 365, může vidí SharePoint Online nebo OneDrive pro obchodní ikony uveden jako "Nastavení", až do dokončení procesu zřizování.</span><span class="sxs-lookup"><span data-stu-id="b38fb-103">When a user is added to an existing Office 365 tenant, they may see the SharePoint Online or OneDrive for Business icons listed as "Setting up" until the provisioning process has been completed.</span></span> <span data-ttu-id="b38fb-104">Pro nově vytvořené účty uživatelé musí přihlásit k portálu služeb Office 365 s vlastní účet a potom klepněte na tlačítko OneDrive Chcete-li ručně zahájit poskytování webu OneDrive.</span><span class="sxs-lookup"><span data-stu-id="b38fb-104">For newly created accounts, users need to sign in to the Office 365 portal with their own account, and then click OneDrive to manually start the provision of the OneDrive site.</span></span>
+<span data-ttu-id="83d22-103">Pokud je uživatel přidán k existujícímu nájemci sady Office 365, mohou zobrazit ikony aplikace SharePoint Online nebo OneDrive pro obchodní zástupce uvedené v seznamu nastavení, dokud nebude proces zajišťování dokončen.</span><span class="sxs-lookup"><span data-stu-id="83d22-103">When a user is added to an existing Office 365 tenant, they may see the SharePoint Online or OneDrive for Business icons listed as "Setting up" until the provisioning process has been completed.</span></span> <span data-ttu-id="83d22-104">U nově vytvořených účtů se uživatelé musí přihlásit ke středisku Microsoft 365 Admin Center s vlastním účtem a klepnutím na tlačítko OneDrive ručně spustit poskytování webu OneDrive.</span><span class="sxs-lookup"><span data-stu-id="83d22-104">For newly created accounts, users need to sign in to the Microsoft 365 admin center with their own account, and then click OneDrive to manually start the provision of the OneDrive site.</span></span>
   
-<span data-ttu-id="b38fb-105">Pokud více než 24 hodin uplynulo od poprvé viděli tento problém, zkontrolujte protokolu případ podpory.</span><span class="sxs-lookup"><span data-stu-id="b38fb-105">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="b38fb-106">V mnoha případech již pracujeme na řešení.</span><span class="sxs-lookup"><span data-stu-id="b38fb-106">In many cases, we're already working on a solution.</span></span> <span data-ttu-id="b38fb-107">Uveďte, prosím, nás alespoň 24 hodin, řešení.</span><span class="sxs-lookup"><span data-stu-id="b38fb-107">Please give us at least 24 hours to complete a solution.</span></span>
+<span data-ttu-id="83d22-105">Pokud uplynulo více než 24 hodin od chvíle, kdy jste tento problém poprvé viděli, přihlaste se k případu podpory.</span><span class="sxs-lookup"><span data-stu-id="83d22-105">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="83d22-106">V mnoha případech už pracujeme na řešení.</span><span class="sxs-lookup"><span data-stu-id="83d22-106">In many cases, we're already working on a solution.</span></span> <span data-ttu-id="83d22-107">K dokončení řešení nám prosím dejte alespoň 24 hodin.</span><span class="sxs-lookup"><span data-stu-id="83d22-107">Please give us at least 24 hours to complete a solution.</span></span>
   
-
