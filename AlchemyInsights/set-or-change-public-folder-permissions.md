@@ -1,5 +1,5 @@
 ---
-title: Nastavit nebo změnit oprávnění veřejné složky
+title: Nastavení nebo změna oprávnění k veřejným složkám
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: 3f891beeba8303b05d6730f608034e22b2bcdb92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1015c2203406e15d6b418c387b6632a182d6d2ff
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550148"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734662"
 ---
 # <a name="permissions-and-public-folders"></a>Oprávnění a veřejné složky
 
-Můžete změnit oprávnění na veřejné složky pomocí aplikace Outlook, středisku pro správce serveru Exchange (EAC) nebo PowerShell:
+Oprávnění ve veřejných složkách můžete změnit pomocí aplikace Outlook, centra pro správu serveru Exchange (EAC) nebo prostředí PowerShell:
   
-- Pro pokyny k aplikaci Outlook, [klepněte sem](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
+- Pokyny pro aplikaci Outlook [získáte klepnutím sem](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
     
-- EAC naleznete v [tomto článku](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) pokyny. Klepnutím [sem](https://support.office.com/article/ https://outlook.office365.com/ecp/.aspx) přejdete do EAC. 
+- Pokyny pro EAC naleznete v [tomto článku](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) . 
     
-- Prostředí Powershell naleznete v [tomto článku](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) pokyny k použití PowerShell přidat PublicFolderClientPermission.. Pokud potřebujete pokyny k připojení k serveru Exchange Powershell, klepněte [sem](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
+- Pokyny k použití rutiny Add-PublicFolderClientPermission pro prostředí PowerShell naleznete v [tomto článku](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) . Pokud potřebujete pokyny pro připojení k prostředí Exchange PowerShell, klepněte [sem](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
     
-Pokud **externí uživatelé nemohou odesílat e-mailové zprávy do veřejné složky pošty povolena**, důvodem může být že veřejné složky chybí oprávnění požadované pro doručení externí e-mailové. Problém můžete vyřešit pomocí pokynů aplikace Outlook [zde](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)nebo PowerShell pokyny [zde](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
+Pokud **externí uživatelé nemohou odesílat e-maily do veřejné složky s povolenou poštou**, důvodem může být, že u veřejné složky chybí oprávnění požadovaná pro externí doručování e-mailů. Tento problém můžete opravit pomocí pokynů v aplikaci Outlook nebo [podle pokynů prostředí](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)PowerShell [.](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx)
   
 

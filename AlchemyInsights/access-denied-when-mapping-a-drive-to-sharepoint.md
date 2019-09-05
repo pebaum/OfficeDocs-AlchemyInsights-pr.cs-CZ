@@ -1,5 +1,5 @@
 ---
-title: Odepření přístupu při mapování jednotky na server SharePoint
+title: Při mapování jednotky na server SharePoint byl odepřen přístup
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: c73358ebfbdede5b4e43ca2c35146f6611958e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c41bfd9d25c8aa946a4ec5156be6d2424f4e2133
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495852"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737470"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Řešení potíží s knihovnami SharePoint, které jsou mapovány na síťové jednotky
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Oprava problémů s knihovnami SharePoint mapovanými na síťové jednotky
 
-Při procházení namapované síťové jednotky, může se zobrazit jedna z následujících zpráv:
+Při přechodu na namapovanou síťovou jednotku se může zobrazit jedna z následujících zpráv:
   
-- **\\Cesta není přístupný. Pravděpodobně nemáte oprávnění používat tento prostředek sítě. Obraťte se na správce tohoto serveru a zjistěte, pokud máte přístupová oprávnění.**
+- **\\Cesta není přístupná. Pravděpodobně nemáte oprávnění k použití tohoto síťového prostředku. Chcete-li zjistit, zda máte přístupová oprávnění, obraťte se na správce tohoto serveru.**
 
-- **Přístup byl odepřen. Před otevřením souborů v tomto umístění, musíte nejprve přidat webový server do seznamu důvěryhodných webů, přejděte na web a vybrat možnost automatického přihlášení.**
+- **Přístup byl odepřen. Před otevřením souborů v tomto umístění je třeba nejprve přidat web do seznamu důvěryhodných webů, vyhledat web a vybrat možnost automatického přihlášení.**
 
-[Získat pomoc s odstraňováním namapované síťové jednotky](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[Získejte pomoc při odstraňování potíží s namapovanými síťovými jednotkami](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-Knihovna jako síťovou jednotku mapování je dočasné a je podporován pouze v aplikaci Internet Explorer. Místo toho [synchronizovat soubory služby SharePoint pomocí nového klienta synchronizace OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) obsahující [Soubory na vyžádání](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Přístup k všechny soubory v OneDrive bez použití místního úložného prostoru.
+Mapování knihovny jako síťové jednotky je dočasné a je podporováno pouze v aplikaci Internet Explorer. Místo toho [synchronizujte soubory služby SharePoint s novým synchronním klientem OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , který zahrnuje [soubory na vyžádání](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Přístup ke všem souborům v aplikaci OneDrive bez použití místního úložného prostoru.
   

@@ -1,24 +1,21 @@
 ---
-title: Zřizování problémy v OneDrive a služby SharePoint
-ms.author: kirks
+title: Problémy se zajištěním v OneDrive a SharePoint
+ms.author: pebaum
 author: Techwriter40
-ms.date: 9/21/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: b9b129996837f646c951f2d0b29c28dd1ecb0728
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9dd38f3db7e74a82748e6db526f48b8e1c28c63d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422352"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752457"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Zřizování problémy v OneDrive a služby SharePoint
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Problémy se zajištěním v OneDrive a SharePoint
 
-Když je uživatel přidán do existujícího klienta služeb Office 365, může vidí SharePoint Online nebo OneDrive pro obchodní ikony uveden jako "Nastavení", až do dokončení procesu zřizování. Pro nově vytvořené účty uživatelé musí přihlásit k portálu služeb Office 365 s vlastní účet a potom klepněte na tlačítko OneDrive Chcete-li ručně zahájit poskytování webu OneDrive.
+Pokud je uživatel přidán k existujícímu nájemci sady Office 365, mohou zobrazit ikony aplikace SharePoint Online nebo OneDrive pro obchodní zástupce uvedené v seznamu nastavení, dokud nebude proces zajišťování dokončen. U nově vytvořených účtů se uživatelé musí přihlásit ke středisku Microsoft 365 Admin Center s vlastním účtem a klepnutím na tlačítko OneDrive ručně spustit poskytování webu OneDrive.
   
-Pokud více než 24 hodin uplynulo od poprvé viděli tento problém, zkontrolujte protokolu případ podpory. V mnoha případech již pracujeme na řešení. Uveďte, prosím, nás alespoň 24 hodin, řešení.
+Pokud uplynulo více než 24 hodin od chvíle, kdy jste tento problém poprvé viděli, přihlaste se k případu podpory. V mnoha případech už pracujeme na řešení. K dokončení řešení nám prosím dejte alespoň 24 hodin.
   
-
