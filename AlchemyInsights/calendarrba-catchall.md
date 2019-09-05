@@ -1,5 +1,5 @@
 ---
-title: Kalendář. 1081 - RBA CatchAll
+title: 1081 kalendář-RBA CatchAll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 9dca67b4cab81f564256d40e91750fc2ce217fd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1649ff6579895a79f6fd0f96db698d40e61ba3b8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505860"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737614"
 ---
-# <a name="create-and-manage-room-mailboxes"></a>Vytvořit a spravovat poštovní schránky místnosti
+# <a name="create-and-manage-room-mailboxes"></a>Vytvoření a Správa poštovních schránek
 
-Vytvářet a upravovat poštovní schránky místnosti, viz [vytvořit a spravovat poštovní schránky místnosti](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
+Chcete-li vytvořit a upravit poštovní schránky na místnosti, viz [vytváření a Správa poštovních schránek](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
 
-Další informace o poštovních schránek místností a vybavení (označované také jako prostředků poštovních schránek), viz [poštovní schránky místností a vybavení](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).
+Další informace o poštovních schránkách pro pokoje a vybavení (označované také jako poštovní schránky) naleznete v [poštovních schránkách pro místnosti a vybavení](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).

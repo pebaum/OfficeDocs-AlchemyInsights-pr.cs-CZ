@@ -1,5 +1,5 @@
 ---
-title: Zkontrolujte stav synchronizace zvukové poplašné zařízení Identity
+title: Zkontrolovat stav synchronizace identity AAD
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: eb69643f1760aa69ee45637b2099220ce4359692
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520552"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738514"
 ---
-# <a name="check-aad-identity-sync-status"></a>Zkontrolujte stav synchronizace zvukové poplašné zařízení Identity
+# <a name="check-aad-identity-sync-status"></a>Zkontrolovat stav synchronizace identity AAD
 
-Kontrola stavu synchronizace je snadné:
+Kontrola stavu synchronizace je snadná:
   
-- Přihlášení na stránku Správce Microsoft 365 a zvolte **Stav DirSync** na domovské stránce.
+- Přihlaste se ke středisku Microsoft 365 Admin Center a na domovské stránce Zvolte možnost **DirSync stav** .
 
-- Alternativně můžete přejít na uživatele \> aktivních uživatelů a na stránce aktivní uživatelé zvolit více \> synchronizace adresářů.
+- Můžete také přejít k uživatelům \> Active Users a na stránce aktivní uživatelé zvolit možnost Další \> synchronizace adresářů.
 
-- V podokně adresáře synchronizace zvolte Přejít na řízení DirSync.
+- V podokně synchronizace adresářů zvolte možnost přejít ke správě DirSync.
 
-Pokud dojde k problému s vaší synchronizace adresářů, chyby jsou uvedeny na této stránce. Další informace o různých chyb, ke kterým může dojít v tématu [Identifikace chyby synchronizace adresářů ve službách Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
+Pokud dojde k potížím s synchronizací adresářů, jsou na této stránce uvedeny chyby. Další informace o různých chybách, ke kterým může dojít, naleznete [v tématu zobrazení chyb synchronizace adresářů v sadě Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

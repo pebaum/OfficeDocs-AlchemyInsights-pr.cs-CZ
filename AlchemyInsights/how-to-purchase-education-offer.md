@@ -1,5 +1,5 @@
 ---
-title: Zakoupení nabídky vzdělávání
+title: Jak zakoupit nabídku vzdělávání
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,25 +14,25 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: 8a93e783c590559b850c53841a61e2afb57f9eba
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 24d8d17a761ee1c6dc7efdd12e266aaab45f1715
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663917"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739450"
 ---
-# <a name="how-to-purchase-education-offer"></a>Zakoupení nabídky vzdělávání
+# <a name="how-to-purchase-education-offer"></a>Jak zakoupit nabídku vzdělávání
 
-Jste byly schváleny pro vzdělávání Office 365. Koupit:
+Byli jste schváleni pro systém Office 365 vzdělávání. Při nákupu:
   
-1. Ve středisku pro správce, přejděte na **fakturační** \> stránku [produkty a služby &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V centru pro správu přejděte na stránku s **fakturačním** \> [výrobky _amp_ Page Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Zvolte zkušební verze pro **studenty a vyučující**.
+2. Vyberte si zkušební verzi pro **studenty nebo vyučující**.
 
-3. V sekci **licence** zvolte **Nákup předplatného**.
+3. V části **licence** zvolte **předplatné nákupu**.
 
-4. Postupujte podle pokynů k rezervaci.
+4. Postupujte podle zbývajících kroků pro rezervaci.
 
-Pokud chcete zakoupit předplatné, než co je ve zkušební verzi, přejděte na **fakturační** \> [Nákup služeb](https://go.microsoft.com/fwlink/p/?linkid=868433) stránky a vyberte ze seznamu podle **Plánů vzdělávání**.
+Chcete-li zakoupit jiné předplatné, než které je ve zkušebním procesu, přejděte na stránku **fakturace** \> [služeb](https://go.microsoft.com/fwlink/p/?linkid=868433) pro fakturaci a vyberte položku ze seznamu v rámci **plánů vzdělání**.
 
-Další informace naleznete v tématu [koupit stejný plán jako zkušební verze](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
+Další informace naleznete v tématu [zakoupení stejného plánu jako zkušební verze](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).

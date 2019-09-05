@@ -1,5 +1,5 @@
 ---
-title: Správa rolí a přiřazení
+title: Role správce a přiřazení
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,20 +13,20 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: ebab0e09aa2eb4a1605a44a670489fbe5660be32
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493909"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737074"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Co jsou role admin a jak je můžete přiřadit?
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Co jsou role Admin a jak je přiřadíte?
 
-Vypadá to máte některé otázky týkající se správy rolí. Tyto články by měly odpovědět na všechny otázky.
+Vypadá to, že máte několik otázek týkajících se rolí pro správu. Tyto články by měly odpovídat na všechny vaše otázky.
   
-- [Role správců Office 365](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
+- [Role pro správu](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [Přiřadit role správce](https://support.office.com/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
+- [Přiřazení rolí pro správu](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
-Odpovězte na otázku nebyla? Žádný problém! Volba "budeme vám volat" obraťte se na pracovníka podpory.
+Neodpověděl jste na otázku? Žádný problém! Pro rozhovor s pracovníkem podpory použijte možnost "zavoláme vám".
   

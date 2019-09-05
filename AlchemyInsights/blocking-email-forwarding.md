@@ -13,15 +13,15 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 4bb1516964fac51fac484cc5dbbacef495081e30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 70cc2529361766c92e9167162b13e06796a9c4b0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517600"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737722"
 ---
-# <a name="block-email-forwarding"></a>Blokování předávání e-mailu
+# <a name="block-email-forwarding"></a>Blokovat předávání e-mailu
 
-Zakázání předávání pro určité poštovní schránky e-mailu naleznete v tématu [nastavit předávání e-mailu](https://support.office.com/client/15abf81d-5c5d-49da-ac81-1b4daa1809f6).
+Chcete-li zakázat předávání e-mailů pro určitou poštovní schránku, viz [konfigurace předávání e-mailu](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
 
-K blokování předávání e-mailu pro celou organizaci [mnoha způsoby blokování automatického e-mailu dál na serveru Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).
+Chcete-li blokovat předávání e-mailů pro celou organizaci, [můžete mnoha způsoby blokovat automatické předávání e-mailů na serveru Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).

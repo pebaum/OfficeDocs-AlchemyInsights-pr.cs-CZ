@@ -1,5 +1,5 @@
 ---
-title: Nástroj pro export služba eDiscovery
+title: Nástroj pro export eDiscovery
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,36 +15,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528256"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736318"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nelze nainstalovat nebo spustit služba eDiscovery Export Tool?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nelze nainstalovat nebo spustit nástroj pro export systému eDiscovery?
 
-Pokud nelze nainstalovat nebo spustit služba Office 365 eDiscovery Export nástroj ke stažení výsledky hledání, zkontrolujte následující skutečnosti:
+Pokud nemůžete nainstalovat nebo spustit nástroj Office 365 eDiscovery export pro stahování výsledků hledání, zkontrolujte následující skutečnosti:
   
-- Počítač, který používáte, splňuje tyto předpoklady:
+- Počítač, který používáte, splňuje tyto požadavky:
 
-  - 32 nebo 64-bit verze Windows 7 a novější verze
+  - 32-nebo 64-bitové verze systému Windows 7 a novější verze
 
-  - Rozhraní.NET Framework Microsoft 4.7
+  - Rozhraní Microsoft .NET Framework 4,7
 
-  - Podporované prohlížeče:
+  - Podporovaný prohlížeč:
 
-  - Microsoft okraj
+  - Hrana společnosti Microsoft
 
     Nebo
 
   - Internet Explorer 10 a novější verze
 
-    Nejsou podporovány jiné prohlížeče, například Google Chrome a Mozilla Firefox.
+    Jiné prohlížeče, například Google Chrome a Mozilla Firefox, nejsou podporovány.
 
-- Organizace mohou připojit ke koncovému bodu v Azure, což je ** \*. blob.core.windows.net** (zástupný znak představuje jedinečný identifikátor úlohy exportu).
+- Vaše organizace se může připojit ke koncovému bodu v Azure, což je ** \*. blob.Core.Windows.NET** (zástupný znak představuje jedinečný identifikátor pro vaši úlohu exportu).
 
-- Budou vám přiřazena role Export v zabezpečení Office 365 &amp; centra kompatibility. Ve výchozím nastavení tato role přiřazena pouze skupiny rolí správce služba eDiscovery. V tématu [přiřazení oprávnění služba eDiscovery](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).
+- Máte přiřazenu roli exportu v centru pro dodržování zabezpečení &amp; Office 365. Ve výchozím nastavení je tato role přiřazena pouze ke skupině rolí správce eDiscovery. Viz [přiřazení oprávnění eDiscovery](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-Další informace naleznete v tématu [Export obsahu hledání výsledky](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
+Další informace viz [Export výsledků hledání obsahu](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

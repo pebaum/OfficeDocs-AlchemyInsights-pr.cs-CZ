@@ -1,6 +1,6 @@
 ---
-title: Odstranit web komunikace
-ms.author: kirks
+title: Odstranění komunikačního webu
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: 33bf81d01653f29369672819cfe8446809584ec1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 847a340d4d3a05c97fd86f48bf42f7c22859f1b4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514114"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747993"
 ---
-# <a name="delete-a-communication-site"></a>Odstranit web komunikace
+# <a name="delete-a-communication-site"></a>Odstranění komunikačního webu
 
 Chcete-li odstranit web komunikace, proveďte následující kroky: 
   
 1. Přejděte na web. 
   
-2. Klepněte na ikonu nastavení (zařízení) v pravé horní části. 
+2. Klepněte na ikonu nastavení (převodové ústrojí) vpravo nahoře. 
   
-3. Ve skupinovém rámečku **Informace o serveru**klepněte na tlačítko **Odstranit tento web**a potom klepněte na příkaz **Odstranit**. 
+3. V části **informace o webu**klepněte na položku **Odstranit tento web**a pak klepněte na tlačítko **Odstranit**. 
   
-Správci také odstranit komunikační web nový admin Center pomocí následujících kroků: 
+Správci mohou také odstranit web komunikace z nového centra pro správu pomocí následujících kroků: 
   
-1. Vlevo vyberte **aktivní weby** . 
+1. Na levé straně vyberte **aktivní weby** . 
   
-2. Volbu **Odstranit** , zobrazí se v horní nabídce klepněte u webu odstranit. 
+2. Klepněte vedle webu, který chcete odstranit, a v horní nabídce se zobrazí možnost **Odstranit** . 
   
- **Poznámka:** Pokud chcete trvale odstranit web komunikace (odstraněním z koše), můžete znovu použít adresu URL webu, použít [Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) Koš a [Odebrat SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) Chcete-li odebrat web ze složky Koš. 
+ **Poznámka:** Chcete-li trvale odstranit stránku komunikace (odebráním tohoto webu z koše), abyste mohli adresu URL webu znovu použít, vyhodnoťte koš a pomocí funkce [Odebrat](https://aka.ms/Remove-SPODeletedSite) -spodeletedsite odstraňte web z koše. [](https://aka.ms/Get-SPODeletedSite) 
   
 

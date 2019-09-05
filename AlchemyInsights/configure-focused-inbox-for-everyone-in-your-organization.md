@@ -1,5 +1,5 @@
 ---
-title: 912 Focused Doručená pošta konfigurace pro všechny uživatele v organizaci
+title: 912 nastavit zaměřenou doručenou poštu pro všechny uživatele v organizaci
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: d5b8825bede8ff17a10dba09f269320e17b13354
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504708"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738406"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Zapnout pro všechny zaměřený složky Doručená pošta nebo vypnutí
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Zapnutí nebo vypnutí cílené doručené pošty pro všechny uživatele
 
-Pokyny naleznete v tématu [Konfigurace zaměřený doručené pošty pro všechny uživatele v organizaci](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).
+Pokyny naleznete v tématu [Konfigurace cílené doručené pošty pro všechny uživatele v organizaci](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
 
-**Poznámka**: Tento postup vyžaduje Exchange Online PowerShell. Chcete to provést ve středisku pro správce služeb Microsoft 365? [Hlasujte tady!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**Poznámka**: Tento postup vyžaduje server Exchange Online PowerShell. Chcete jej místo toho provést v centru Microsoft 365 Admin Center? [Hlasujte tady!](https://go.microsoft.com/fwlink/p/?linkid=862489)

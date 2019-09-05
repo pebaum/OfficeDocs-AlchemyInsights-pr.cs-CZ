@@ -1,34 +1,34 @@
 ---
-title: Přehled serverů SharePoint rozbočovač
-ms.author: kirks
+title: Přehled serverů rozbočovače SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: ace1b7adac2f1a15b8d39411f98b23df74eb29b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 585f3d06c358adffd267d76a2a31ea9b2135cccc
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508308"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751449"
 ---
-# <a name="sharepoint-hub-sites-overview"></a>Přehled serverů SharePoint rozbočovač
+# <a name="sharepoint-hub-sites-overview"></a>Přehled serverů rozbočovače SharePoint
 
-SharePoint rozbočovač serverů Nápověda vyhovují potřebám vaší organizace připojením a uspořádání weby založené na projektu, oddělení, divize, oblast, atd, díky čemuž je snazší:
+Rozbočovače SharePoint umožňují uspokojit potřeby vaší organizace propojením a uspořádáním webů na základě projektu, oddělení, divize, oblasti atd., což usnadňuje:
 
-- Vyhledat související obsah, například zprávy nebo jiných činnostech serveru.
-
-
-- Použít běžné navigace a značky na přidružených webech.
+- Objevte související obsah, jako jsou novinky a další aktivity webu.
 
 
-- Prohledat všechny přidružené weby.
+- Použití společné navigace a propagace značky na přidružených webech.
 
 
-Další informace o vytvoření webu rozbočovač z nové Admin Center nebo Microsoft PowerShell naleznete v tématu [Vytvoření centrální lokalitě v Online služby SharePoint](https://docs.microsoft.com/sharepoint/create-hub-site) . 
+- Hledat ve všech přidružených webech
 
-Další informace o tom, jak přidružit existující weby webu rozbočovač z nový Admin Center nebo PowerShell naleznete v tématu [přidružení webu služby SharePoint s centrální lokalita](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) .  
 
-Další informace o odebrání existujícího webu rozbočovač z nový Admin Center nebo PowerShell naleznete v tématu [Odebrání serveru rozbočovač](https://docs.microsoft.com/sharepoint/remove-hub-site) . 
+Další informace o vytvoření centrální lokality z nového centra pro správu nebo prostředí Microsoft PowerShell naleznete [v tématu Vytvoření centrální lokality ve službě SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site) . 
+
+Další informace o přidružení existujících webů k centrální lokalitě z nového centra pro správu nebo prostředí PowerShell naleznete v tématu [přidružení webu služby SharePoint k centrální lokalitě](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) .  
+
+Další informace o tom, jak odebrat existující lokalitu rozbočovače z nového centra pro správu nebo PowerShell, naleznete v tématu [Odebrání centrální lokality](https://docs.microsoft.com/sharepoint/remove-hub-site) . 

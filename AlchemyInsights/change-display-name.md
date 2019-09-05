@@ -1,5 +1,5 @@
 ---
-title: 959 změnit zobrazovaný název
+title: 959 Změna zobrazovaného názvu
 ms.author: pdigia
 author: pebaum
 ms.date: 7/17/2018
@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519796"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736714"
 ---
 # <a name="change-your-display-name"></a>Změna zobrazovaného jména
   
-Chcete-li změnit zobrazované jméno v aplikaci Outlook, použijte následující kroky.
+Chcete-li změnit zobrazované jméno v aplikaci Outlook, postupujte podle následujících pokynů.
   
-1. V aplikaci Outlook, vyberte **soubor** \> **Nastavení účtu** \> **Nastavení účtu**.
+1. V aplikaci Outlook vyberte **Nastavení účtu**pro **Nastavení** \> účtu **souboru** \> .
 
-2. Vyberte e-mailový účet a potom vyberte **změnit**.
+2. Vyberte e-mailový účet a klepněte na možnost **změnit**.
 
     > [!NOTE]
-    > Pokud není možnost změnit zobrazovaný název, pravděpodobně používáte e-mailový účet Microsoft Exchange. V tomto případě je třeba kontaktovat správce, chcete-li změnit zobrazovaný název. Viz [změnit uživatelské jméno a e-mailovou adresu ve službách Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).
+    > Pokud se nezobrazí možnost změnit zobrazované jméno, pravděpodobně používáte e-mailový účet serveru Microsoft Exchange. V takovém případě je třeba požádat správce o změnu zobrazovaného jména. Viz [Změna uživatelského jména a e-mailové adresy v sadě Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. Po změně zobrazovaného názvu, klepněte na tlačítko **OK** uložte změny. Může trvat několik hodin, aby se změny projeví v celé organizaci.
+3. Po změně zobrazovaného jména uložte provedené změny klepnutím na tlačítko **OK** . Může trvat několik hodin, než se změny projeví v celé organizaci.
 
-Další informace naleznete v tématu [Změna zobrazovaného názvu, který příjemcům e-mailu](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+Další informace naleznete v tématu [Změna zobrazovaného jména, které příjemci e-mailu vidí](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
   

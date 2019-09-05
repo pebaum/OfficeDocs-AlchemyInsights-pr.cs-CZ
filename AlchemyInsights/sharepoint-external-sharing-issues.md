@@ -1,5 +1,5 @@
 ---
-title: Externí uživatel nemá přístup k obsahu v SharePoint Online
+title: Externí uživatel nemůže získat přístup k obsahu služby SharePoint Online.
 ms.author: efrene
 author: efrene
 ms.date: ''
@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: e948fc3fbba4b82904023b8da08b9ea723be694d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 06e964ec2d9f8b9cf1a8185ce78f067e7a0e42e3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503916"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744094"
 ---
-# <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>Externí uživatel nemá přístup k obsahu v SharePoint Online
+# <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>Externí uživatel nemůže získat přístup k obsahu služby SharePoint Online.
 
-Pokud externí uživatel byl pozval a nemůže získat přístup k obsahu, zkuste návštěva na níže uvedené odkazy.
+Pokud byl externí uživatel pozván a nemůže získat přístup k obsahu, zkuste navštívit následující odkazy.
 
-- [Chybová zpráva při externí uživatel přijme pozvání SharePoint Online pomocí jiného účtu](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Chybová zpráva v případě, že externí uživatel přijme pozvání služby SharePoint Online pomocí jiného účtu](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Byl odepřen přístup k sdílené složky](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de?ui=en-US&rs=en-US&ad=US)
+- [Přístup ke sdílené složce byl odepřen.](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
-- [Rozšíření OSE sdílení chyby v Sharepoint a OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [Chyby sdílení OSE ve službě SharePoint a OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

@@ -13,21 +13,21 @@ ms.custom:
 - "824"
 - "5800003"
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
-ms.openlocfilehash: 24aff29e854ba6e00a70737213dfaaafcb33eaf4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07239ddfeb313a7644226150000c09d5b861aa54
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525217"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739882"
 ---
 # <a name="fix-onedrive-sync-problems"></a>Řešení problémů se synchronizací OneDrivu
 
-- Kontrola vaší OneDrive můžete přistupovat k účtu online: klepněte na ikonu app launcher vlevo nahoře a klepněte na tlačítko OneDrive.
+- Zkontrolujte, zda máte přístup k účtu OneDrive online: klepněte na ikonu spouštěče aplikací v levém horním rohu a pak klepněte na tlačítko OneDrive.
     
-- Přesvědčte se, zda je aktuální počítač: [stahovat nejnovější aktualizace systému Windows](http://go.microsoft.com/fwlink/p/?LinkId=825773), [Stáhněte nejnovější verzi aplikace OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)
+- Zkontrolujte, zda je počítač aktuální: Stáhněte si [nejnovější aktualizace systému Windows](http://go.microsoft.com/fwlink/p/?LinkId=825773), [Stáhněte si nejnovější verzi programu OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652) .
     
-- Zrušit propojení OneDrive a spusťte znovu instalační program OneDrive: modrá OneDrive cloud ikonu oznamovací oblast zcela vpravo na hlavním panelu klepněte pravým tlačítkem myši. Klepněte na tlačítko **Nastavení**a potom klepněte na tlačítko **odpojit tento počítač**. Postupujte v okně Vítá vás Průvodce OneDrive OneDrive znovu nastavit.
+- Zrušte propojení OneDrive a spusťte instalaci OneDrive znovu: klepněte pravým tlačítkem myši na modrou ikonu shluku OneDrive v oznamovací oblasti zcela vpravo na hlavním panelu. Klepněte na tlačítko **Nastavení**a potom na položku **odpojit tento počítač**. Chcete-li znovu nastavit OneDrive, postupujte podle kroků v průvodci Vítá vás OneDrive.
     
-[Další kroky pro řešení potíží synchronizace](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US)
+[Další kroky pro řešení potíží s synchronizací](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90)
   
 
