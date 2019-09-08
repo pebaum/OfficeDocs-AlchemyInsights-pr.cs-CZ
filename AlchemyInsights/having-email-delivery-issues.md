@@ -8,23 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: e9c073f63249af80c83f2957ba7bb3931325f6b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7aefc3606bd81d5ce8b9cf9443e3c5deaade11ac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523396"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735744"
 ---
-# <a name="having-email-delivery-issues"></a><span data-ttu-id="9a834-102">Máte problémy s doručováním e-mailů?</span><span class="sxs-lookup"><span data-stu-id="9a834-102">Having email delivery issues?</span></span>
+# <a name="having-email-delivery-issues"></a><span data-ttu-id="7430a-102">Máte problémy s doručováním e-mailů?</span><span class="sxs-lookup"><span data-stu-id="7430a-102">Having email delivery issues?</span></span>
 
-<span data-ttu-id="9a834-103">Zaznamenali jsme, že vaši uživatelé nemohou přijímat e-maily odeslané do následujících domén:</span><span class="sxs-lookup"><span data-stu-id="9a834-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
+<span data-ttu-id="7430a-103">Zaznamenali jsme, že vaši uživatelé nemohou přijímat e-maily odeslané do následujících domén:</span><span class="sxs-lookup"><span data-stu-id="7430a-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
   
-<span data-ttu-id="9a834-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="9a834-104">{HealthCheckString}</span></span>
+<span data-ttu-id="7430a-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="7430a-104">{HealthCheckString}</span></span>
   
-<span data-ttu-id="9a834-105">Záznamy NS nebo MX nastavení domény nejsou správně nakonfigurované pro doručování e-mailů do vaší služby Office 365.</span><span class="sxs-lookup"><span data-stu-id="9a834-105">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service.</span></span> <span data-ttu-id="9a834-106">Podrobné pokyny najdete v tématu [Aktualizace DNS záznamů v Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx).</span><span class="sxs-lookup"><span data-stu-id="9a834-106">You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span> 
+<span data-ttu-id="7430a-105">Záznamy NS nebo MX nastavení domény nejsou správně nakonfigurované pro doručování e-mailů do vaší služby Office 365.</span><span class="sxs-lookup"><span data-stu-id="7430a-105">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service.</span></span> <span data-ttu-id="7430a-106">Podrobnější informace můžete najít v článku [Vytvoření DNS záznamů pro Office 365 u kteréhokoliv poskytovatele hostingu DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="7430a-106">You can also find the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span> 
   
-<span data-ttu-id="9a834-107">Pokud chcete problém opravit, přejděte na stránku [Domény](https://admin.microsoft.com/adminportal/home#/Domains) v Centru pro správu Microsoftu 365 a my vám s tím pomůžeme.</span><span class="sxs-lookup"><span data-stu-id="9a834-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span> 
-  
-<span data-ttu-id="9a834-108">Informace o dalších běžných řešeních najdete v [častých otázkách k doménám](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx).</span><span class="sxs-lookup"><span data-stu-id="9a834-108">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span> 
-  
+<span data-ttu-id="7430a-107">Pokud chcete problém opravit, přejděte na stránku [Domény](https://admin.microsoft.com/adminportal/home#/Domains) v Centru pro správu Microsoftu 365 a my vám s tím pomůžeme.</span><span class="sxs-lookup"><span data-stu-id="7430a-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span> 
+
 
