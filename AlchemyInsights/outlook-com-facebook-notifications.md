@@ -1,5 +1,5 @@
 ---
-title: Oznámení služby Outlook.com Facebook
+title: Oznámení Outlook.com Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 80ddadfedb5a8a0dff2a7b9cf371e03fae58bdff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e389deb7347e13c0e4ba658da4d355ffe11049c
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536968"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822064"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>Facebook oznámení pomocí Outlook.com
+# <a name="facebook-notifications-using-outlookcom"></a>Upozornění na Facebooku pomocí Outlook.com
 
-Pokud nechcete dostávat upozornění ze služby Facebook, můžete změnit [Nastavení služby Facebook](https://www.facebook.com/settings?tab=notifications) nebo nastavit pravidlo pro doručenou poštu.
+Pokud nechcete dostávat oznámení z Facebooku, můžete změnit [nastavení Facebooku](https://aka.ms/facebook-notifications-settings) nebo nastavit pravidlo pro doručenou poštu.
 
-1. Přejděte k [Nastavení pravidel](https://outlook.live.com/mail/options/mail/rules/inboxRules).
+1. Přejděte na [Nastavení pravidel](https://outlook.live.com/mail/options/mail/rules/inboxRules).
 1. Vyberte možnost **Přidat nové pravidlo**.
-1. Zadejte název pravidla "Facebook".
-1. Přidat podmínku "Od" a zadejte "notification@facebookmail.com"
-1. Přidáte akci "Odstranit". Když zvolíte odstranění zprávy zůstanou v odstraněné položky a obnovit. Pokud vyberete možnost "Označit jako nevyžádané", zprávy budou automaticky odstraněny a nelze ji obnovit.
+1. Název pravidla "Facebook".
+1. Přidejte podmínku od a zadejte "notification@facebookmail.com"
+1. Přidejte akci "Delete". Volba Odstranit znamená, že zprávy zůstanou v odstraněných položkách a lze je obnovit. Pokud vyberete možnost "označit jako nevyžádanou poštu", budou zprávy automaticky odstraněny a nebude možné je obnovit.
 1. Vyberte **Uložit**.
