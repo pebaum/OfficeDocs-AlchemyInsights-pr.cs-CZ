@@ -1,5 +1,5 @@
 ---
-title: 1800009 aplikaci outlook pro Mac app v podpoře
+title: 1800009 podpora aplikace Outlook pro Mac in-app
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -12,15 +12,15 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: 676c725f93432ef2086f378c0ddb21acd1815084
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b151c74c0b35361b6edc91e3b68874717d8a2ba2
+ms.sourcegitcommit: a1af40d92fa9c6c0dda9ec5da3b4776400fbb857
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666797"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035748"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>Podpora v aplikací v aplikaci Outlook pro Mac
+# <a name="in-app-support-in-outlook-for-mac"></a>Podpora aplikací v aplikaci Outlook pro počítače Macintosh
 
-Získat podporu v app pro aplikaci Outlook pro Mac problémy, spusťte aplikaci Outlook a klepněte na tlačítko **Nápověda** \> **Kontaktovat podporu**. Zadejte otázku a členem aplikace Outlook pro Mac tým podpory se obrátit. 
+Chcete-li získat podporu v aplikaci Outlook pro problémy se Mac, spusťte aplikaci Outlook a klepněte na tlačítko **Nápověda** \> pro **podporu**. Zadejte otázku a člen týmu podpory aplikace Outlook for Mac vás bude mít v kontaktu. 
 
-[Obraťte se na podporu aplikace Outlook pro Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
+Další informace: [kontaktování podpory v aplikaci Outlook pro počítače Macintosh](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
