@@ -15,20 +15,16 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: da35b257bb6aad9e3994dba562f9b8e86d08a693
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: f8b2bcebf875df2ff64521b0a489aa1aff50e0be
+ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36741826"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37122136"
 ---
 # <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Použití sdílené poštovní schránky v mobilním zařízení
 
-Z aplikace Outlook nainstalované v mobilním zařízení nelze získat přístup ke sdílené poštovní schránce. Chcete tuto funkci? Ať to ví tým z aplikace Outlook Engineering. [Hlasujte tady](https://go.microsoft.com/fwlink/?linked=862116)!
+Chcete-li používat sdílenou poštovní schránku mobilního zařízení, měli byste si [Stáhnout aplikaci Outlook Mobile](https://products.office.com/en-us/outlook-mobile-for-android-and-ios) a pak [Přidat sdílenou poštovní schránku do aplikace Outlook Mobile](https://support.office.com/en-us/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f).
   
-Sdílenou poštovní schránku můžete použít pouze v mobilním zařízení otevřením prohlížeče, přihlášením se k sadě Office 365 a následným použitím aplikace Outlook na webu. Pokyny naleznete v tématu [přidání sdílené poštovní schránky v aplikaci Outlook na webu](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
-  
-Pokud potřebujete získat přístup ke sdíleným poštovním schránkám pomocí aplikace Outlook v mobilním zařízení, zvažte vytvoření skupiny Office 365 namísto použití sdílené poštovní schránky. Další informace naleznete v části [porovnání skupin](https://docs.microsoft.com/office365/admin/create-groups/compare-groups).
-  
-Další informace: [Získání nápovědy k aplikaci Outlook pro třídy iOS a Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Získání nápovědy: [Získání nápovědy pro aplikaci Outlook pro třídy iOS a Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
