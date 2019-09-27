@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4bf8e02246c966f22648467386a7862f0521fecf
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744814"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207218"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Popisky citlivosti se nezobrazují.
 
-Popisky citlivosti umožňují klasifikovat a chránit citlivý obsah. Další informace o této funkci naleznete v [přehledu popisů citlivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Popisky citlivosti umožňují klasifikovat a chránit citlivý obsah. Lze je vytvořit v centru pro kompatibilita společnosti Microsoft 365, ve středisku Microsoft 365 Security Center nebo Office 365 Security Center & v sekci klasifikace citlivosti >. Další informace o této funkci naleznete v [přehledu popisů citlivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Pokud jste nakonfigurovali popisky citlivosti, ale nezobrazují se v aplikacích sady Office, zkontrolujte následující:
 
@@ -31,6 +31,11 @@ Pokud jste nakonfigurovali popisky citlivosti, ale nezobrazují se v aplikacích
 
 - Pokud [migrujete štítky na ochranu informací Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), uvědomte si [zde](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)uvedené skutečnosti.
 
-- Podpora pro zabránění ztrátě dat (DLP): v současné době lze jako podmínku v zásadách DLP použít pouze retenční štítky.  Podpora popisků citlivosti v zásadách DLP není zatím k dispozici, ale pracujeme na tom.
+- Podpora pro zabránění ztrátě dat (DLP): v současné době lze jako podmínku v zásadách DLP použít pouze retenční štítky.  Podpora popisků citlivosti v zásadách DLP ještě není k dispozici, ale pracujeme na tom.
+
+- Je-li povoleno šifrování na štítku s citlivostí, můžete zvolit jednu z těchto možnosti:
+    - Přiřadit oprávnění nyní
+    - Dovolit uživatelům přiřazovat oprávnění
+
 
 Další informace o možných problémech naleznete v tématu [známé problémy s popisky citlivosti](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

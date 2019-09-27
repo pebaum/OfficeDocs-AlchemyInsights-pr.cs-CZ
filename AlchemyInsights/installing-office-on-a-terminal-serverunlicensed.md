@@ -2,7 +2,6 @@
 title: Instalace sady Office na terminálový server-nelicencovaná
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
+ms.sourcegitcommit: 5e6a805fb0b41d714ca1cf90e23b8e2daa90f90e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735382"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37205402"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Instalace sady Office na terminálový server
 
@@ -26,7 +25,10 @@ Pro nasazení sady Office 365 ProPlus v systému Windows Server pomocí služby 
 
 - Je třeba povolit [aktivaci sdíleného počítače](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Chcete-li nainstalovat sadu Office 365 ProPlus do služby RDS z centra pro správu Microsoft 365, ***který používá výchozí nastavení instalace***, postupujte takto:
+Chcete-li nainstalovat sadu Office 365 ProPlus do služby RDS z centra pro správu Microsoft 365, ***který používá výchozí nastavení instalace***, postupujte následujícím způsobem.
+
+> [!TIP]
+> Chcete-li nainstalovat sadu Office 365 ProPlus do režimu aktivace počítače, můžete také stáhnout a spustit [Pomocníka pro podporu a obnovení společnosti Microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal) .
   
 1. Zkontrolujte, jaký plán sady Office 365 máte. [Zjistěte, jak](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
