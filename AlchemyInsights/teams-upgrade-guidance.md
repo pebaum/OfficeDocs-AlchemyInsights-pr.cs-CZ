@@ -1,8 +1,7 @@
 ---
-title: Pokyny pro upgrade týmy
+title: Pokyny pro upgrade týmů
 ms.author: heidip
 author: microsoftheidi
-ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,14 +11,24 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: fcea046a2ccd03c88fcbfe57a3980b70bd720072
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79c956bd01844d4234500d93d6e5458cc3bb84ad
+ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533872"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37305114"
 ---
-# <a name="upgrade-to-teams"></a>Upgrade na týmy
+# <a name="microsoft-teams-upgrade"></a>Inovace týmů společnosti Microsoft
 
-Najdete podrobný návod k přesunutí z Skype pro obchodní Teams Microsoft [zde](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams).
-  
+Bez ohledu na to, zda právě Začínáme s týmy, již používáte týmy spolu s Skype for Business nebo připraveni na upgrade, chceme vám zajistit vše potřebné k navigaci na úspěšné cestě do týmů. Další informace naleznete na následujících odkazech.
+
+[Začínáme s upgradem týmů společnosti Microsoft](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+
+[Plán inovace](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+
+[Principy aplikace Microsoft týmům a Skype pro obchodní soužití](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+
+[Provedení upgradu z Skype pro Business Online na týmy](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+
+[Provedení upgradu z Skype pro Business v podniku na týmy](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+ 
