@@ -21,14 +21,14 @@ ms.contentlocale: cs-CZ
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36742402"
 ---
-# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="fe148-102">Různé druhy sdílených kalendářů Outlooku a jejich nastavení</span><span class="sxs-lookup"><span data-stu-id="fe148-102">Different types of shared calendars and how to set them up</span></span>
+# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="c3bb6-102">Různé druhy sdílených kalendářů Outlooku a jejich nastavení</span><span class="sxs-lookup"><span data-stu-id="c3bb6-102">Different types of shared calendars and how to set them up</span></span>
 
-- [<span data-ttu-id="fe148-103">Vytvoření sdílené poštovní schránky</span><span class="sxs-lookup"><span data-stu-id="fe148-103">Create a shared mailbox</span></span>](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
+- [<span data-ttu-id="c3bb6-103">Vytvoření sdílené poštovní schránky</span><span class="sxs-lookup"><span data-stu-id="c3bb6-103">Create a shared mailbox</span></span>](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
 
-- [<span data-ttu-id="fe148-104">Poštovní schránky místností a vybavení</span><span class="sxs-lookup"><span data-stu-id="fe148-104">Room and equipment mailboxes</span></span>](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
+- [<span data-ttu-id="c3bb6-104">Poštovní schránky místností a vybavení</span><span class="sxs-lookup"><span data-stu-id="c3bb6-104">Room and equipment mailboxes</span></span>](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
 
-- [<span data-ttu-id="fe148-105">Vytvoření skupiny kalendářů</span><span class="sxs-lookup"><span data-stu-id="fe148-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
+- [<span data-ttu-id="c3bb6-105">Vytvoření skupiny kalendářů</span><span class="sxs-lookup"><span data-stu-id="c3bb6-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
 
-- [<span data-ttu-id="fe148-106">Sdílení outlookového kalendáře s ostatními uživateli</span><span class="sxs-lookup"><span data-stu-id="fe148-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [<span data-ttu-id="c3bb6-106">Sdílení outlookového kalendáře s ostatními uživateli</span><span class="sxs-lookup"><span data-stu-id="c3bb6-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-<span data-ttu-id="fe148-107">Pokud nevidíte v kalendářích jiných uživatelů informace o volném čase nebo pokud jiní uživatelé nevidí informace o volném čase ve vašem kalendáři, použijte [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="fe148-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="c3bb6-107">Pokud nevidíte v kalendářích jiných uživatelů informace o volném čase nebo pokud jiní uživatelé nevidí informace o volném čase ve vašem kalendáři, použijte [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="c3bb6-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
