@@ -1,5 +1,5 @@
 ---
-title: Kde získat software jako služba (SaaS) aplikace?
+title: Kde mohu získat aplikace s softwarovými službami (SaaS)?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,12 +13,12 @@ ms.custom:
 - "9000562"
 - "2421"
 ms.openlocfilehash: 6788a534d19521db98eb3ba59536cebeb02e190c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558538"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a><span data-ttu-id="d0f34-102">Kde získat software jako služba (SaaS) aplikace od partnerů společnosti Microsoft?</span><span class="sxs-lookup"><span data-stu-id="d0f34-102">Where do I get software-as-a-service (SaaS) apps from Microsoft partners?</span></span>
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a><span data-ttu-id="4a7b5-102">Kde se nacházejí aplikace společnosti Microsoft s aplikací jako je služba (SaaS)?</span><span class="sxs-lookup"><span data-stu-id="4a7b5-102">Where do I get software-as-a-service (SaaS) apps from Microsoft partners?</span></span>
 
-<span data-ttu-id="d0f34-103">Zákazníkům můžete hledat, výzkum a nákup SaaS aplikací z [AppSource](http://www.appsource.com/).</span><span class="sxs-lookup"><span data-stu-id="d0f34-103">Customers can search for, research, and purchase SaaS apps from [AppSource](http://www.appsource.com/).</span></span>
+<span data-ttu-id="4a7b5-103">Zákazníci mohou vyhledávat, prozkoumat a nakupovat aplikace SaaS z [Appsource](http://www.appsource.com/).</span><span class="sxs-lookup"><span data-stu-id="4a7b5-103">Customers can search for, research, and purchase SaaS apps from [AppSource](http://www.appsource.com/).</span></span>

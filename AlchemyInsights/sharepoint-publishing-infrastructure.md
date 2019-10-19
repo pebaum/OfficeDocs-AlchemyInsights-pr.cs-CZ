@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms.openlocfilehash: 1d5eca87678ad0588c3dcd7edbf499e13baf09d9
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36750060"
 ---
-# <a name="sharepoint-publishing-infrastructure"></a><span data-ttu-id="c43d1-102">Infrastruktura publikování služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="c43d1-102">SharePoint Publishing Infrastructure</span></span>
+# <a name="sharepoint-publishing-infrastructure"></a><span data-ttu-id="f633a-102">Infrastruktura publikování služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="f633a-102">SharePoint Publishing Infrastructure</span></span>
 
 
-<span data-ttu-id="c43d1-103">Služba SharePoint obsahuje klasickou sadu funkcí, které umožňují vytvářet a publikovat bohaté webové stránky v intranetu.</span><span class="sxs-lookup"><span data-stu-id="c43d1-103">SharePoint includes a classic set of features that enable you to author and publish rich webpages for your intranet.</span></span> <span data-ttu-id="c43d1-104">Aktivujte infrastrukturu publikování služby SharePoint na úrovni kolekce webů a zapněte je.</span><span class="sxs-lookup"><span data-stu-id="c43d1-104">Activate the SharePoint Publishing Infrastructure at the site collection level to turn them on.</span></span>
+<span data-ttu-id="f633a-103">Služba SharePoint obsahuje klasickou sadu funkcí, které umožňují vytvářet a publikovat bohaté webové stránky v intranetu.</span><span class="sxs-lookup"><span data-stu-id="f633a-103">SharePoint includes a classic set of features that enable you to author and publish rich webpages for your intranet.</span></span> <span data-ttu-id="f633a-104">Aktivujte infrastrukturu publikování služby SharePoint na úrovni kolekce webů a zapněte je.</span><span class="sxs-lookup"><span data-stu-id="f633a-104">Activate the SharePoint Publishing Infrastructure at the site collection level to turn them on.</span></span>
 
-<span data-ttu-id="c43d1-105">Další informace naleznete na následujících odkazech.</span><span class="sxs-lookup"><span data-stu-id="c43d1-105">For more information please visit the links below.</span></span>
+<span data-ttu-id="f633a-105">Další informace naleznete na následujících odkazech.</span><span class="sxs-lookup"><span data-stu-id="f633a-105">For more information please visit the links below.</span></span>
 
-[<span data-ttu-id="c43d1-106">Povolit funkce publikování</span><span class="sxs-lookup"><span data-stu-id="c43d1-106">Enable publishing features</span></span>](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)
+[<span data-ttu-id="f633a-106">Povolit funkce publikování</span><span class="sxs-lookup"><span data-stu-id="f633a-106">Enable publishing features</span></span>](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)
 
-[<span data-ttu-id="c43d1-107">Funkce publikování</span><span class="sxs-lookup"><span data-stu-id="c43d1-107">Publishing features</span></span>](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
+[<span data-ttu-id="f633a-107">Funkce publikování</span><span class="sxs-lookup"><span data-stu-id="f633a-107">Publishing features</span></span>](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
 
-<span data-ttu-id="c43d1-108">Poznámky:</span><span class="sxs-lookup"><span data-stu-id="c43d1-108">Notes:</span></span>
+<span data-ttu-id="f633a-108">Poznámky:</span><span class="sxs-lookup"><span data-stu-id="f633a-108">Notes:</span></span>
 
-- <span data-ttu-id="c43d1-109">Klasické šablony webu publikování obsahují ve výchozím nastavení funkce publikování.</span><span class="sxs-lookup"><span data-stu-id="c43d1-109">The classic publishing site templates include the publishing features by default.</span></span>
+- <span data-ttu-id="f633a-109">Klasické šablony webu publikování obsahují ve výchozím nastavení funkce publikování.</span><span class="sxs-lookup"><span data-stu-id="f633a-109">The classic publishing site templates include the publishing features by default.</span></span>
 
-- <span data-ttu-id="c43d1-110">Klasické funkce publikování nejsou k dispozici na moderních webech.</span><span class="sxs-lookup"><span data-stu-id="c43d1-110">Classic publishing features are not available on modern sites.</span></span> <span data-ttu-id="c43d1-111">Moderní lokality poskytují ve výchozím nastavení novější alternativu.</span><span class="sxs-lookup"><span data-stu-id="c43d1-111">Modern sites provide a newer alternative by default.</span></span>
+- <span data-ttu-id="f633a-110">Klasické funkce publikování nejsou k dispozici na moderních webech.</span><span class="sxs-lookup"><span data-stu-id="f633a-110">Classic publishing features are not available on modern sites.</span></span> <span data-ttu-id="f633a-111">Moderní lokality poskytují ve výchozím nastavení novější alternativu.</span><span class="sxs-lookup"><span data-stu-id="f633a-111">Modern sites provide a newer alternative by default.</span></span>
 

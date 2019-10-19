@@ -1,5 +1,5 @@
 ---
-title: Všechny společnosti skupiny spravovat Yammer
+title: Skupina Yammer spravovat veškerou společnost
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1019"
 - "6000003"
 ms.openlocfilehash: 30b258de51ff0140520cf05ca09e6b0a8b872f22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558034"
 ---
-# <a name="all-company-group"></a><span data-ttu-id="04546-102">Všechny společnosti skupiny</span><span class="sxs-lookup"><span data-stu-id="04546-102">All Company Group</span></span>
+# <a name="all-company-group"></a><span data-ttu-id="b1af0-102">Celá skupina společností</span><span class="sxs-lookup"><span data-stu-id="b1af0-102">All Company Group</span></span>
 
-<span data-ttu-id="04546-103">**Všechny společnosti** skupiny je vytvořen automaticky při vytvoření sítě Yammer.</span><span class="sxs-lookup"><span data-stu-id="04546-103">The **All Company** group is automatically created when you create a Yammer network.</span></span> <span data-ttu-id="04546-104">Je výchozí skupinu systému, která nemůže být přejmenována nebo odstraněna.</span><span class="sxs-lookup"><span data-stu-id="04546-104">It is a default system group that cannot be renamed or deleted.</span></span> <span data-ttu-id="04546-105">Všichni můžete zaúčtovat **Všechny společnosti** skupiny, ale pouze správci sítě Yammer můžete zaúčtovat oznámení do skupiny.</span><span class="sxs-lookup"><span data-stu-id="04546-105">Everyone can post to the **All Company** group, but only Yammer network administrators can post announcements to the group.</span></span> <span data-ttu-id="04546-106">**Skupina poznatky**slouží k zobrazení informací o zapojení **Všech společností** skupiny.</span><span class="sxs-lookup"><span data-stu-id="04546-106">Use **Group Insights**to view information about engagement in the **All Company** group.</span></span>
+<span data-ttu-id="b1af0-103">Skupina **celá společnost** je vytvořena automaticky při vytvoření sítě Yammer.</span><span class="sxs-lookup"><span data-stu-id="b1af0-103">The **All Company** group is automatically created when you create a Yammer network.</span></span> <span data-ttu-id="b1af0-104">Jedná se o výchozí systémovou skupinu, kterou nelze přejmenovat ani odstranit.</span><span class="sxs-lookup"><span data-stu-id="b1af0-104">It is a default system group that cannot be renamed or deleted.</span></span> <span data-ttu-id="b1af0-105">Všichni mohou účtovat do skupiny **All Company** , ale pouze správci sítě společnosti Yammer mohou odesílat oznámení skupině.</span><span class="sxs-lookup"><span data-stu-id="b1af0-105">Everyone can post to the **All Company** group, but only Yammer network administrators can post announcements to the group.</span></span> <span data-ttu-id="b1af0-106">Pomocí **náhledu skupiny**můžete zobrazit informace o zasnoubení ve skupině **All Company** .</span><span class="sxs-lookup"><span data-stu-id="b1af0-106">Use **Group Insights**to view information about engagement in the **All Company** group.</span></span>
 
-<span data-ttu-id="04546-107">Další informace naleznete v tématu [Správa skupiny v Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span><span class="sxs-lookup"><span data-stu-id="04546-107">For more information, see [Manage a Group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span></span>
+<span data-ttu-id="b1af0-107">Další informace naleznete v tématu [Správa skupiny v Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span><span class="sxs-lookup"><span data-stu-id="b1af0-107">For more information, see [Manage a Group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span></span>

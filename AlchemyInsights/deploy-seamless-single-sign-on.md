@@ -1,5 +1,5 @@
 ---
-title: Nasadit bezproblémové Single Sign-On
+title: Nasadit bezproblémové jednotné přihlašování
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
 ms.openlocfilehash: 0d91638e3b4f3ab0912730dbda47c42d9ae19c16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36512776"
 ---
-# <a name="enable-seamless-sso"></a><span data-ttu-id="d5e4f-102">Umožňují bezproblémové SSO</span><span class="sxs-lookup"><span data-stu-id="d5e4f-102">Enable Seamless SSO</span></span>
+# <a name="enable-seamless-sso"></a><span data-ttu-id="adda9-102">Povolit bezproblémový SSO</span><span class="sxs-lookup"><span data-stu-id="adda9-102">Enable Seamless SSO</span></span>
 
-<span data-ttu-id="d5e4f-103">Azure Active Directory (Azure AD) bezproblémové Single Sign-On (bezproblémové SSO) automaticky přihlásí uživatele při práci na podnikové stolní počítače, které jsou připojeny k podnikové síti.</span><span class="sxs-lookup"><span data-stu-id="d5e4f-103">Azure Active Directory (Azure AD) Seamless Single Sign-On (Seamless SSO) automatically signs in users when they are on their corporate desktops that are connected to your corporate network.</span></span>
+<span data-ttu-id="adda9-103">Azure Active Directory (Azure AD) bezproblémové jednotné přihlášení (bezproblémový zápis SSO) automaticky podepíše uživatele, pokud se nacházejí v podnikových počítačích připojených k podnikové síti.</span><span class="sxs-lookup"><span data-stu-id="adda9-103">Azure Active Directory (Azure AD) Seamless Single Sign-On (Seamless SSO) automatically signs in users when they are on their corporate desktops that are connected to your corporate network.</span></span>
   
-[<span data-ttu-id="d5e4f-104">Postupujte podle kroků v tomto článku umožňuje bezproblémové SSO</span><span class="sxs-lookup"><span data-stu-id="d5e4f-104">Follow the steps in this article to enable Seamless SSO</span></span>](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
+[<span data-ttu-id="adda9-104">Chcete-li povolit bezproblémový přihlášení SSO, postupujte podle kroků v tomto článku.</span><span class="sxs-lookup"><span data-stu-id="adda9-104">Follow the steps in this article to enable Seamless SSO</span></span>](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   
 
