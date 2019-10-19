@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
 ms.openlocfilehash: 5ac56fa78c66cf3b246bc0cc01f040e27310d629
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36526973"
 ---
 # <a name="error-attributevaluemustbeunique"></a>Chyba: AttributeValueMustBeUnique
 
-Nejčastější příčinou AttributeValueMustBeUnique chyba je, že dva objekty s různými SourceAnchor (immutableId) mají stejnou hodnotu pro atribut ProxyAddresses nebo UserPrincipalName. Oprava chyby AttributeValueMustBeUnique:
+Nejběžnější příčinou chyby AttributeValueMustBeUnique jsou dva objekty s odlišnou hodnotou Sourcekotvu (immutableId), které mají stejnou hodnotu atributů ProxyAddresses a/nebo UserPrincipalName. Při opravě chyby AttributeValueMustBeUnique postupujte takto:
   
-1. Identifikujte duplicitní proxyAddresses, userPrincipalName a další hodnotu atributu, který je příčinou chyby. Rovněž určete, které objekty dvou (nebo více) jsou zapojeny do konfliktu. Sestavy generované Azure AD připojit stavu synchronizace můžete určit dva objekty.
+1. Identifikujte duplikované proxyAddresses, userPrincipalName nebo jinou hodnotu atributu, která způsobuje chybu. Identifikujte také, které dva (nebo více) objekty jsou do konfliktu zapojeny. Sestava vytvořená pomocí Azure stavu připojení pro synchronizaci vám pomůže identifikovat tyto dva objekty.
     
-2. Určete, který objekt by měly i nadále mít duplicitní hodnoty a který objekt by neměly.
+2. Určete, který objekt by měl i nadále mít duplikátní hodnotu a který objekt by neměl být.
     
-3. Odeberte duplicitní hodnoty z objektu, který by tuto hodnotu. Všimněte si, že by měl provést změnu v adresáři, kde je objekt pocházející z. V některých případech je třeba odstranit některé objekty v konfliktu.
+3. Odeberte duplikátní hodnotu z objektu, který by neměl mít tuto hodnotu. Nezapomeňte provést změnu v adresáři, ze kterého je objekt odvozen. V některých případech může být nutné odstranit některý z objektů v konfliktu.
     
-4. Pokud jste provedli změny v prostorách na AD, Nechť Azure AD Connect synchronizovat změnu chyba vyřešen.
+4. Pokud jste provedli změnu v prostorách služby AD, nechť Azure AD Connect provede synchronizaci změny, aby se chyba vyřeší.
     
 

@@ -1,5 +1,5 @@
 ---
-title: Spravovat žádosti o přístup
+title: Správa požadavků na přístup
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
 ms.openlocfilehash: 90dfe7323b5f0ae37e963b413327bee2bc6b3d33
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542489"
 ---
-# <a name="manage-access-requests"></a>Spravovat žádosti o přístup
+# <a name="manage-access-requests"></a>Správa požadavků na přístup
 
-Když uživatel pokusí o přístup k položce v SharePoint a nemají oprávnění, zobrazí se zpráva, že potřebují oprávnění k přístupu k položce. Uživatele můžete požádat o přístup (v některých případech určité položce nebo připojit ke skupině) a vlastník webu můžete schválit nebo odmítnout. Pokud osoba, která není vlastníkem webu web sdílí s jinou osobou, vlastník webu také získat přístup žádost pro nového uživatele. Chcete-li schválit nebo odmítnout požadavky na přístup:
+Když se uživatel pokusí o přístup k položce ve službě SharePoint a nemají oprávnění, zobrazí zprávu, že potřebuje oprávnění k přístupu k položce. Uživatel může požadovat přístup (v některých případech ke konkrétní položce nebo ke skupině) a vlastník webu může žádost schválit nebo odmítnout. Pokud uživatel, který není vlastníkem webu, sdílí web s jinou osobou, bude mít vlastník webu také požadavek na přístup k novému uživateli. Schválení nebo odmítnutí žádostí o přístup:
   
-1. Přejděte na web, klepněte na ikonu nastavení v pravém horním a potom klepněte na tlačítko **Nastavení webu**. (Pokud se nezobrazí nastavení webu, klepněte na tlačítko **oprávnění webu**a potom klepněte na tlačítko **nastavení rozšířená oprávnění**. Hledejte nápis, který má odkaz nazvaný "Zobrazit žádosti o přístup a pozvánky.")
+1. Přejděte na web, klepněte na ikonu nastavení vpravo nahoře a klepněte na položku **Nastavení webu**. (Pokud se nezobrazí nastavení webu, klepněte na **oprávnění webu**a potom klepněte na tlačítko **Upřesnit nastavení oprávnění**. Vyhledejte nápis obsahující odkaz "zobrazit žádosti o přístup a pozvánky".
     
-2. V části **Uživatelé a oprávnění**klepněte na tlačítko **žádosti o přístup a pozvánky**. (Pokud se to nezobrazí žádné žádosti o přístup nebyly provedeny.)
+2. V seznamu **Uživatelé a oprávnění**klepněte na položku **žádosti o přístup a pozvánky**. (Pokud se tento požadavek nezobrazí, nebyly provedeny žádné žádosti o přístup.)
     
-3. Poskytuje uživateli oprávnění jednotlivě, klepněte na tlačítko **Schválit** nebo **Odmítnout**. Chcete-li vybrat konkrétní úroveň oprávnění, nejprve klepněte na tlačítko se třemi tečkami (...) vedle jména osoby. Případně přidejte uživatele do skupiny, která má oprávnění k webu. Komunikační weby a klasické týmové weby musíte na stránce Nastavení webu. Pro weby, které patří do skupiny Office 365 můžete přidat uživatele do skupiny.
+3. Chcete-li uživateli přidělit oprávnění jednotlivě, klepněte na tlačítko **schválit** nebo **odmítnout**. Chcete-li vybrat konkrétní úroveň oprávnění, klepněte nejprve na tři tečky (...) vedle jména osoby. Můžete také přidat uživatele do skupiny, která má oprávnění k webu. Pro komunikační weby a klasické týmové weby to můžete provést na stránce nastavení webu. U webů, které patří do skupiny Office 365, můžete uživatele přidat do skupiny.
     
-    [Spravovat žádosti o přístup](https://go.microsoft.com/fwlink/?linkid=2008747)
+    [Správa požadavků na přístup](https://go.microsoft.com/fwlink/?linkid=2008747)
     
     [Další informace o úrovních oprávnění](https://go.microsoft.com/fwlink/?linkid=867071)
     

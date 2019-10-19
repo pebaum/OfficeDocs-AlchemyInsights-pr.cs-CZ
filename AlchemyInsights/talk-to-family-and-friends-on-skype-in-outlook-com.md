@@ -1,5 +1,5 @@
 ---
-title: 8000049 komunikaci s rodinou a přáteli na Skype v Outlook.com
+title: 8000049 mluvit s rodinou a přáteli v Skype v Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom: 8000049
 ms.assetid: b6878497-5885-4241-b2d0-e951817c48d2
 ms.openlocfilehash: 2f5dc69fec4ba01502bf0ee2110d503ab3fc8d6e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36534268"
 ---
-# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Komunikaci s rodinou a přáteli na Skype v Outlook.com
+# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Promluv s rodinou a přáteli v Skype v Outlook.com
 
-Outlook.com zákazníky můžete komunikaci s přáteli a rodinou pomocí konverzace a hlasové a video funkce v Skype. Při [sloučení účty Microsoft a Skype](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), automaticky máte přístup k Skype webu v Outlook.com.
+Outlook.com zákazníci mohou hovořit s přáteli a rodinou pomocí funkcí konverzace, hlasové funkce a videa v programu Skype. Při [slučování účtů Microsoft a Skype](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409)máte automaticky přístup k programu Skype na webu v Outlook.com.
   
-Další informace o [komunikaci s rodinou a přáteli na Skype v Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
+Další informace o tom, jak [hovořit s rodinou a přáteli v Skype v Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
   
 

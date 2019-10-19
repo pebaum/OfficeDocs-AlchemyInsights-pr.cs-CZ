@@ -1,5 +1,5 @@
 ---
-title: Automatický filtr Excel problém
+title: Problém automatického filtru aplikace Excel
 ms.author: chrsm
 author: chrsm
 manager: jecon
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
 ms.openlocfilehash: 31a4294f7035f2ff69bb30b65261f5210fc1a3d0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527035"
 ---
-# <a name="excel-autofilter-issue"></a>Automatický filtr Excel problém
+# <a name="excel-autofilter-issue"></a>Problém automatického filtru aplikace Excel
 
-Pokud používáte aplikaci Excel 2016 do rozevíracího seznamu automatického filtru se nezobrazí všechna dostupná pole nebo zaškrtávací políčka nejsou clickable, může být z důvodu známého problému v dřívější sestavení aplikace Excel. 
+Pokud v rozevíracím seznamu automatického filtru nejsou zobrazena všechna dostupná zaškrtávací políčka nebo na ně nelze klepnout, může být v případě použití aplikace Excel 2016 v dřívějších verzích aplikace Excel známý problém. 
   
-Tento problém je nyní opraven **. 1707 verze (8326.2073)** nebo novější. Chcete-li získat aktualizace ihned, spusťte aplikaci Excel a zvolte **soubor** \> **účtu** \> **Možnosti aktualizace** \> **Aktualizovat**.
+Tento problém je nyní opraven ve **verzi 1707 (8326,2073)** nebo novější. Chcete-li aktualizaci okamžitě získat, spusťte aplikaci Excel **a zvolte možnost** \> \> **aktualizovat** **Možnosti aktualizace** **účtu** \> .
   
 

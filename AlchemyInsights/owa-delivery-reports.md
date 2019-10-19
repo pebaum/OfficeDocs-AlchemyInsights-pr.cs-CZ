@@ -1,5 +1,5 @@
 ---
-title: Nedoručení zprávy v aplikaci Outlook na webu
+title: Zprávy o nedoručení v aplikaci Outlook na webu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 1b39decd55f0bf63746a28866f880d42dd4d3001
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557098"
 ---
-# <a name="issues-with-email-delivery"></a>Problémy s doručení e-mailu
+# <a name="issues-with-email-delivery"></a>Problémy s doručením e-mailu
 
-Při doručování e-mailové zprávy, které jste odeslali problém Office 365 odešle e-mailovou zprávu s upozorněním. E-mailu, který obdržíte je oznámení o stavu doručování, známé také jako DSN nebo vrátit odesílateli zprávy. Nejběžnější typ se nazývá non delivery report (NDR), který říká, že zpráva nebyla doručena. Příčinou toho, že se e-mail nedoručí, může být třeba něco tak jednoduchého, jako je překlep v e-mailové adrese. Zprávy o nedoručitelnosti obsahovat kód chyby, který označuje, proč nebyla doručena e-mailu, řešení, které vám pomohou váš email doručeny, odkaz na další nápovědu na webu a technické podrobnosti pro správce.
+Pokud dojde k potížím s doručením odeslané e-mailové zprávy, odešle vám sada Office 365 zprávu s upozorněním. Přijaté e-maily jsou oznámení o stavu doručení, označované také jako DSN nebo zpráva o odrazu. Nejobvyklejší typ se nazývá zpráva o nedoručení (NDR), která oznamuje, že zpráva nebyla doručena. Příčinou toho, že se e-mail nedoručí, může být třeba něco tak jednoduchého, jako je překlep v e-mailové adrese. Oznámení o nedoručení obsahují kód chyby, který označuje, proč nebyl e-mail doručen, řešení, která vám pomohou získat doručené e-maily, odkaz na další nápovědu na webu a technické podrobnosti pro správce.
 
-Chcete-li zobrazit seznam zpráv o nedoručení a zjistit, proč zpráva nebyla doručena, viz [oznámení e-mailové zprávy na serveru Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+Chcete-li zobrazit seznam oznámení NDR a zjistit, proč zpráva nebyla doručena, podívejte se [na zprávy o nedoručení e-mailu na serveru Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).

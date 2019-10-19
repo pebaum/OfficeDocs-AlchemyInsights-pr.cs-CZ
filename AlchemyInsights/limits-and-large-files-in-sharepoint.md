@@ -1,5 +1,5 @@
 ---
-title: Limity a velkých souborů ve službě SharePoint
+title: Omezení a velké soubory ve službě SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497580"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Soubory, které nelze odeslat do aplikace SharePoint Online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Soubory, které nelze odeslat na server SharePoint Online
 
-Pokud nebude soubor odeslat do Online služby SharePoint, ujistěte se:
+Pokud se soubor neodešle na server SharePoint Online, zkontrolujte:
   
-- Je menší než 15 GB.
+- Velikost je menší než 15 GB.
     
-- Celou cestu, včetně názvu souboru je menší než 400 znaků.
+- Celá cesta včetně názvu souboru je menší než 400 znaků.
     
-- Název souboru neobsahuje znaky " \* : \< \> ? / \ | a není na seznamu [neplatných názvů](https://go.microsoft.com/fwlink/?linkid=866430).
+- Název souboru neobsahuje znaky \* :? \< \> / \ | a není uveden v seznamu [neplatných názvů](https://go.microsoft.com/fwlink/?linkid=866430).
     
-Pokud se snažíte nahrát soubor pomocí OneDrive desktop app, naleznete v tématu [omezení a omezení při synchronizaci souborů a složek](http://go.microsoft.com/fwlink/p/?LinkID=717734) nebo [opravit OneDrive synchronizace problémy](https://go.microsoft.com/fwlink/?linkid=866431).
+Pokud se pokoušíte odeslat soubor pomocí aplikace Desktop App OneDrive, přečtěte si [omezení a omezení při synchronizaci souborů a složek nebo při](http://go.microsoft.com/fwlink/p/?LinkID=717734) [opravě potíží s synchronizací OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

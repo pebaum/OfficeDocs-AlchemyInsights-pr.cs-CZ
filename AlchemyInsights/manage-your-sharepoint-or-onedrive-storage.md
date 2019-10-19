@@ -1,5 +1,5 @@
 ---
-title: Spravovat úložiště služby SharePoint nebo OneDrive
+title: Správa úložiště služby SharePoint nebo OneDrive
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
 ms.openlocfilehash: 4427626108df36a8b8b4f5535a8236bc4de59832
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497076"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Spravovat úložiště služby SharePoint nebo OneDrive
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Správa úložiště služby SharePoint nebo OneDrive
 
  **SharePoint Online**
   
-Pro většinu organizací je úložiště služby SharePoint spravovány automaticky, není nutné nastavit limity pro kolekci webů. Chcete-li zkontrolovat kolik úložiště služby SharePoint máte:
+U většiny organizací je úložiště služby SharePoint řízeno automaticky, takže není nutné nastavovat limity pro jednotlivé kolekce webů. Chcete-li zjistit, jaké množství úložiště služby SharePoint máte:
   
-- V centru nového správce služby SharePoint v pravém horním rohu na stránce weby hledejte celkový počet a dostupné úložiště.
+- V novém centru pro správu služby SharePoint v pravém horním rohu stránky webů vyhledejte dostupné a celkové úložiště.
     
-Informace o způsobu výpočtu limitu naleznete v [Omezení Online služby SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=856113). Chcete-li zakoupit další úložiště, viz [změnu úložného prostoru pro vaše předplatné](https://go.microsoft.com/fwlink/?linkid=866428).
+Informace o výpočtu limitu naleznete v části [omezení služby SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkID=856113). Informace o zakoupení nadbytečných úložišť naleznete v tématu [Změna úložného prostoru předplatného](https://go.microsoft.com/fwlink/?linkid=866428).
   
- **OneDrive**
+ **Funkce OneDrive**
   
-Chcete-li změnit výchozí úložiště pro nové a existující uživatelé OneDrive:
+Změna výchozího úložiště pro nové a existující uživatele OneDrive:
   
-- Přejděte na [stránku úložiště OneDrive admin centra](https://admin.onedrive.com/?v=StorageSettings)a zadejte novou velikost v GB.
+- Přejděte na [stránku úložiště centra pro správu OneDrive](https://admin.onedrive.com/?v=StorageSettings)a zadejte novou částku do GB.
     
-Zkontrolujte, jaký objem úložiště používáte ve své vlastní OneDrive naleznete v tématu [spravovat vaše OneDrive pro obchodní úložiště](https://go.microsoft.com/fwlink/?linkid=866429). Informace týkající se úložiště, která je součástí každého plánu naleznete v [OneDrive pro obchodní popis služby](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Chcete-li zjistit, kolik úložného místa používáte ve vlastní aplikaci OneDrive, vyhledejte informace v tématu [Správa aplikace OneDrive for Business Storage](https://go.microsoft.com/fwlink/?linkid=866429). Informace o úložišti, které je součástí jednotlivých plánů, naleznete v tématu [OneDrive for Business Service Description](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Oprava selhání toku
+title: Oprava nezdařených toků
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
 ms.openlocfilehash: d99abced5627599380ba8b1e5e8d7f8d1109a8f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525204"
 ---
 # <a name="fix-a-flow-that-failed"></a>Oprava toku, který selhal
 
-1. Přejděte na [Microsoft toku](https://flow.microsoft.com/)a klepněte na ikonu upozornění v pravém horním. (Nebo v mobilní aplikaci, vyberte kartu aktivity). Vyberte toku, které se nepodařilo, podívejte se na podrobnosti.
+1. Přejděte do [programu Microsoft Flow](https://flow.microsoft.com/)a klepněte na ikonu oznámení v pravé horní části. (Nebo v mobilní aplikaci vyberte kartu aktivita.) Vyberte tok, který se nepodařilo podívat na podrobnosti.
     
-2. Najděte krok s červený vykřičník zobrazíte chybovou zprávu pro řízení toku.
+2. Chcete-li zobrazit chybovou zprávu pro tok, najděte krok s červeným vykřičníkem.
     
-3. V závislosti na chybová zpráva by měl moci upravit tok a opravu. 
+3. V závislosti na chybové zprávě byste měli být schopni upravit tok a opravit jej. 
     
-[Běžné chyby toku](https://go.microsoft.com/fwlink/?linkid=872110)
+[Běžné selhání toku](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

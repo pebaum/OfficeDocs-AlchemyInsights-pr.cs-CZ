@@ -14,10 +14,10 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753753"
 ---
 # <a name="more-info-about-retention-policies"></a>Další informace o zásadách uchovávání informací
@@ -26,13 +26,13 @@ Ve většině organizací se objem a složitost jejich dat zvyšují denně – 
 
 ## <a name="a-from-security-and-compliance-center"></a>A) z centra zabezpečení a kompatibility
 
-- Přejít na zabezpečení a soulad > řízení dat > uchování
+- Přejít na zabezpečení a shodu > Správa dat > uchovávání informací
   - Viz [Tento](https://docs.microsoft.com/office365/securitycompliance/retention-policies) článek
 
-- Přejít na zabezpečení a soulad > eDiscovery> rozšířený eDiscovery 
+- Přejděte na stránku zabezpečení a kompatibilita > eDiscovery> pokročilé eDiscovery 
   - Viz [Tento](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) článek
 
-- Přejít na zabezpečení a shodu > klasifikace > uchování
+- Přejít na zabezpečení a shodu > klasifikací > uchování
   - Zobrazit tyto články
     - [Popisky citlivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Přehled popisků](https://docs.microsoft.com/office365/securitycompliance/labels)

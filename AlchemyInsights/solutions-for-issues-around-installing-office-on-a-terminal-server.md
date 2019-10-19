@@ -1,5 +1,5 @@
 ---
-title: Řešení problémů kolem instalace sady office na terminálovém serveru
+title: Řešení problémů týkajících se instalace sady Office na terminálový server
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,34 +10,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
 ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36501468"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Řešení problémů kolem instalace sady office na terminálovém serveru
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Řešení problémů týkajících se instalace sady Office na terminálový server
 
-Aktivací sdíleného počítače používat, musíte mít plán služeb Office 365, který zahrnuje Office 365 ProPlus.
+Chcete-li použít aktivaci sdíleného počítače, musíte mít plán sady Office 365, který obsahuje sadu Office 365 ProPlus.
   
-- Ověřte, zda je povoleno aktivací sdíleného počítače pro Office 365 ProPlus
+- Ověřte, zda je pro sadu Office 365 ProPlus povolena aktivace sdíleného počítače.
     
-- Ověřte, zda bylo úspěšné aktivace Office 365 ProPlus
+- Ověřte, zda se aktivace sady Office 365 ProPlus zdařilo
     
-- Zkontrolujte chybové zprávy pro sdílené počítače aktivace:
+- Zkontrolujte chybové zprávy pro aktivaci sdíleného počítače:
     
-  - "Produkty, které byly nalezeny ve vašem účtu nelze použít k aktivaci sady Office ve scénáři sdíleného počítače"
+  - "Produkty, které jsme našli ve vašem účtu, nelze použít k aktivaci sady Office ve sdílených scénářích počítače"
   
-Tato chyba znamená, že nemáte plán služeb Office 365, který zahrnuje Office 365 ProPlus.
+Tato chyba znamená, že nemáte plán sady Office 365, který obsahuje sadu Office 365 ProPlus.
     
-  - "Bez licence produkt"
+  - "Nelicencovaný produkt"
     
-  - Zkontrolujte, zda je uživateli přiřazena licence pro Office 365 ProPlus.
+  - Zkontrolujte, zda je uživateli přiřazena licence pro sadu Office 365 ProPlus.
     
-  - Zkontrolujte, zda uživatel zapíše pomocí svého uživatelského účtu pro Office 365
+  - Zkontrolujte, zda se uživatel přihlásí pomocí svého uživatelského účtu pro sadu Office 365.
     
-  - Zkontrolujte, zda existuje připojení mezi sdílené počítače a Internetu.
+  - Zkontrolujte, zda je mezi sdíleným počítačem a internetem připojení.
     
-Další tipy poradce při potížích naleznete v tématu: [Poradce při potížích s problémy s aktivací sdíleného počítače pro Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+Další tipy pro řešení problémů naleznete v tématu: [řešení problémů s aktivací sdíleného počítače pro sadu Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
   
 

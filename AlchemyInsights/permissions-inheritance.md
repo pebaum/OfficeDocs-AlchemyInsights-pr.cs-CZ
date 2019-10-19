@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
 ms.openlocfilehash: 6322ca12902be2612f65b6388a650300b257a95e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554938"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Jak pracuje dědičnost oprávnění ve službě SharePoint
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Princip dědičnosti oprávnění ve službě SharePoint
 
-Ve výchozím nastavení oprávnění ve službě SharePoint zděděna z výše v hierarchii. Tak soubor dědí oprávnění ze složky, které dědí oprávnění z knihovny, který dědí oprávnění z webu, které dědí oprávnění z kolekce webů.
+Ve výchozím nastavení jsou oprávnění ve službě SharePoint zděděna z výše v hierarchii. Soubor tedy dědí oprávnění ze složky, která dědí oprávnění z knihovny, která dědí oprávnění od webu, která dědí oprávnění z kolekce webů.
   
-Informace o odebrání jedinečná oprávnění a obnovení dědičnosti naleznete v tématu [Upravit a spravovat oprávnění k seznamu nebo knihovně](https://go.microsoft.com/fwlink/?linkid=869946).
+Informace o odebírání jedinečných oprávnění a obnovení dědičnosti naleznete v tématu [Úprava a Správa oprávnění pro seznam nebo knihovnu](https://go.microsoft.com/fwlink/?linkid=869946).
   
 

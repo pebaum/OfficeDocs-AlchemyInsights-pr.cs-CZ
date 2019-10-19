@@ -1,5 +1,5 @@
 ---
-title: Individuální Outlook.com e-mailová adresa není odesílání nebo přijímání
+title: Outlook.com osobní e-mailová adresa neodesílá ani nepřijímá
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
 ms.openlocfilehash: 7363af1d4fc1a0f4131bebc325485dc99a30e2eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545864"
 ---
-# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Můj osobní e-mailovou adresu Outlook.com není odesílání nebo přijímání
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Osobní e-mailová adresa Outlook.com neodesílá ani nepřijímá
 
-Vyberte kosočtvercovou ikonu na panelu nástrojů otevřete řídicí panel premium.
+Klepnutím na ikonu kosočtverce na panelu nástrojů otevřete řídicí panel Premium.
 
-Pokud kosočtvercovou ikonu nezobrazí ve složce Doručená pošta (ads), znamená to, že vypršela platnost předplatného Office 365. Přejít na [https://account.microsoft.com/services](https://account.microsoft.com/services) znovu aktivovat své předplatné, znovu připojit do domény pomocí kroků v "Začínáme".
+Pokud ve složce Doručená pošta není zobrazena ikona kosočtverce (a jsou zobrazeny reklamy), znamená to, že předplatné sady Office 365 vypršelo. Přejděte k [https://account.microsoft.com/services](https://account.microsoft.com/services) opětovnému aktivaci předplatného a potom znovu připojte doménu pomocí kroků v části Začínáme.
 
-Má-li na kartě "Vlastní e-mailovou adresu" červený stav panel, vypršela doba vaší domény.
+Pokud má karta individuální e-mailová adresa červený stavový řádek, je možné, že vypršela platnost domény.
 
-Přečtěte si další postup řešení potíží na [individuální e-mailové adresy ve službách Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).
+Další informace o řešení potíží s [vlastními e-mailovými adresami v sadě Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).

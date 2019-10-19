@@ -1,5 +1,5 @@
 ---
-title: Otevřít v aplikaci Explorer tlačítko chybí
+title: Tlačítko otevřít v aplikaci Explorer chybí
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
 ms.openlocfilehash: 35b12036dfa056b4c5928223133e58259d7edc3e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36543054"
 ---
-# <a name="the-open-with-explorer-button-is-missing"></a>Otevřít pomocí Průzkumníka tlačítka chybí.
+# <a name="the-open-with-explorer-button-is-missing"></a>Chybí tlačítko otevřít v aplikaci Explorer
 
-Tlačítko **Otevřít v aplikaci Explorer** nezobrazí v moderní prostředí SharePoint a OneDrive. Chcete-li otevřít knihovnu dokumentů v File Explorer, přejděte v aplikaci Internet Explorer a v nabídce zobrazení vyberte \> **zobrazení v Průzkumníku souborů**. Možnost **zobrazení v Průzkumníku souborů** není k dispozici v Edge společnosti Microsoft, Google Chrome nebo Firefox. 
+Tlačítko **otevřít pomocí Průzkumníka** se nezobrazuje v moderních zkušenostech se službou SharePoint a serverem OneDrive. Chcete-li otevřít knihovnu dokumentů v Průzkumníku souborů, Najděte ji v aplikaci Internet Explorer a v \> **Průzkumníku souborů vyberte zobrazení**nabídky zobrazení. **Zobrazení v Průzkumníku souborů** není k dispozici v aplikacích Microsoft Edge, Google Chrome a Firefox. 
   
 > [!NOTE]
-> Otevřít v programu Průzkumník je podporována pouze pomocí aplikace Internet Explorer. Místo toho [synchronizovat soubory služby SharePoint pomocí nového klienta synchronizace OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) poskytující [Soubory na vyžádání](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Přístup k všechny soubory v OneDrive bez použití místního úložného prostoru. 
+> Otevření v programu Průzkumník je podporováno pouze v aplikaci Internet Explorer. Místo toho [synchronizujte soubory služby SharePoint s novým synchronním klientem OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , který poskytuje [soubory na vyžádání](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Přístup ke všem souborům v aplikaci OneDrive bez použití místního úložného prostoru. 
   
 

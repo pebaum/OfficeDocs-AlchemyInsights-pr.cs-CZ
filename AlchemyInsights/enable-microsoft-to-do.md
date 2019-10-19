@@ -1,5 +1,5 @@
 ---
-title: Povolit Microsoft úkolů
+title: Povolit aplikaci Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
 ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527536"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>Jak povolit aplikaci Microsoft To-Do
+# <a name="how-to-enable-microsoft-to-do"></a>Povolení aplikace Microsoft
 
-Chcete-li používat aplikaci Microsoft To-Do, musíte povolit správce app u každého uživatelského účtu. Přejděte [služby &amp; doplňky stránky](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) stránky služeb Office 365 admin nastavení povolení úkolů pro každého uživatele. 
+Chcete-li použít službu Microsoft to-to, musí správce povolit aplikaci na účtu každého uživatele. Chcete-li povolit pro každého uživatele, přejděte na [stránku s doplňky služeb &amp; ](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) sady Office 365 admin. 
   
-To-Do Microsoft využívá funkce Exchange Online synchronizaci a ukládání položek úkolů uživatelů. Chcete-li používat aplikaci Microsoft To-Do, uživatel potřebuje platné poštovní schránky Exchange Online.
+Aplikace Microsoft to používá funkce serveru Exchange Online k synchronizaci a ukládání položek k tomuto uživateli. Aby mohl uživatel používat aplikaci Microsoft, potřebuje platnou poštovní schránku serveru Exchange Online.
   
-Další informace naleznete v tématu [Microsoft náhled úkolů správy](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
+Další informace naleznete v tématu [Správa náhledu společnosti Microsoft](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
   
- **Poznámka**: Pokud obdržíte chybu 501 při pokusu o přihlášení na [http://todo.microsoft.com](http://todo.microsoft.com), zkuste [https://to-do.microsoft.com](https://to-do.microsoft.com).
+ **Poznámka**: Pokud se při pokusu o přihlášení zobrazí chyba 501 [http://todo.microsoft.com](http://todo.microsoft.com), zkuste. [https://to-do.microsoft.com](https://to-do.microsoft.com)
   
 
