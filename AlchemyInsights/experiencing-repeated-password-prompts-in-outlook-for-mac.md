@@ -1,5 +1,5 @@
 ---
-title: Dochází k opakované zadání hesla v aplikaci Outlook pro Mac?
+title: Máte v aplikaci Outlook for Mac dotaz na opakované heslo?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
 ms.openlocfilehash: 7da849fbacbbc32272731cf5829b26437983af4e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36526600"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a><span data-ttu-id="fbfb3-102">Dochází k opakované zadání hesla v aplikaci Outlook pro Mac?</span><span class="sxs-lookup"><span data-stu-id="fbfb3-102">Experiencing repeated password prompts in Outlook for Mac?</span></span>
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a><span data-ttu-id="01c87-102">Máte v aplikaci Outlook for Mac dotaz na opakované heslo?</span><span class="sxs-lookup"><span data-stu-id="01c87-102">Experiencing repeated password prompts in Outlook for Mac?</span></span>
 
-<span data-ttu-id="fbfb3-103">Pomůžeme vám poskytnout specializovanější aplikace Outlook pro Mac Nápověda přímo z aplikace.</span><span class="sxs-lookup"><span data-stu-id="fbfb3-103">We can help provide more specialized Outlook for Mac help directly from the application.</span></span>
+<span data-ttu-id="01c87-103">Pomůžeme poskytnout specializovanější pomoc pro aplikaci Outlook pro Mac přímo z aplikace.</span><span class="sxs-lookup"><span data-stu-id="01c87-103">We can help provide more specialized Outlook for Mac help directly from the application.</span></span>
   
-<span data-ttu-id="fbfb3-104">Přejděte do příslušného uživatele Mac, spusťte aplikaci Outlook a klepněte na **Nápověda** \> **Kontaktování podpory**.</span><span class="sxs-lookup"><span data-stu-id="fbfb3-104">Please go to the affected user's Mac, open Outlook, and click on **Help** \> **Contact Support**.</span></span>
+<span data-ttu-id="01c87-104">Přejděte do počítače Mac s ohroženým uživatelem, spusťte aplikaci Outlook a klepněte na tlačítko **Nápověda** \> pro **podporu**.</span><span class="sxs-lookup"><span data-stu-id="01c87-104">Please go to the affected user's Mac, open Outlook, and click on **Help** \> **Contact Support**.</span></span>
   
-<span data-ttu-id="fbfb3-105">Další informace o použití aplikace Outlook pro Mac app v zákaznické podpory najdete v tomto článku: [Nová kontaktovat podporu funkce v aplikaci Outlook 2016 pro Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span><span class="sxs-lookup"><span data-stu-id="fbfb3-105">To learn more about using Outlook for Mac in-app customer support, see this article: [New Contact Support feature in Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span></span>
+<span data-ttu-id="01c87-105">Další informace o použití aplikace Outlook pro podporu zákazníků Mac v aplikaci naleznete v tomto článku: [Nová funkce podpory kontaktů v aplikaci Outlook 2016 pro počítače Macintosh](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span><span class="sxs-lookup"><span data-stu-id="01c87-105">To learn more about using Outlook for Mac in-app customer support, see this article: [New Contact Support feature in Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span></span>
   
 

@@ -8,19 +8,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: b0f2a7bd2d28a05ea192747c5b8c95bc16d7b8fb
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36755553"
 ---
-# <a name="conditional-access"></a><span data-ttu-id="c25aa-102">Podmíněný přístup</span><span class="sxs-lookup"><span data-stu-id="c25aa-102">Conditional Access</span></span>
+# <a name="conditional-access"></a><span data-ttu-id="ac214-102">Podmíněný přístup</span><span class="sxs-lookup"><span data-stu-id="ac214-102">Conditional Access</span></span>
 
-<span data-ttu-id="c25aa-103">Podmíněný přístup je schopností Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="c25aa-103">Conditional access is a capability of Azure Active Directory.</span></span> <span data-ttu-id="c25aa-104">S podmíněným přístupem můžete implementovat automatizované rozhodování o řízení přístupu pro přístup k aplikacím Cloud, které jsou založeny na podmínkách.</span><span class="sxs-lookup"><span data-stu-id="c25aa-104">With conditional access, you can implement automated access control decisions for accessing your cloud apps that are based on conditions.</span></span> <span data-ttu-id="c25aa-105">Další informace naleznete na stránce [Konfigurace zásad založených na umístění](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span><span class="sxs-lookup"><span data-stu-id="c25aa-105">For more information, please visit [Configuring Location-Based Policies](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span></span>
+<span data-ttu-id="ac214-103">Podmíněný přístup je schopností Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="ac214-103">Conditional access is a capability of Azure Active Directory.</span></span> <span data-ttu-id="ac214-104">S podmíněným přístupem můžete implementovat automatizované rozhodování o řízení přístupu pro přístup k aplikacím Cloud, které jsou založeny na podmínkách.</span><span class="sxs-lookup"><span data-stu-id="ac214-104">With conditional access, you can implement automated access control decisions for accessing your cloud apps that are based on conditions.</span></span> <span data-ttu-id="ac214-105">Další informace naleznete na stránce [Konfigurace zásad založených na umístění](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span><span class="sxs-lookup"><span data-stu-id="ac214-105">For more information, please visit [Configuring Location-Based Policies](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span></span>
 
-<span data-ttu-id="c25aa-106">Jako správce IT můžete také řídit přístup k prostředkům SharePoint a OneDrive na základě definovaných síťových umístění nebo zařízení, kterým důvěřujete.</span><span class="sxs-lookup"><span data-stu-id="c25aa-106">As an IT admin, you can also control access to SharePoint and OneDrive resources based on defined network locations or devices you trust.</span></span> <span data-ttu-id="c25aa-107">Další informace naleznete na následujících odkazech.</span><span class="sxs-lookup"><span data-stu-id="c25aa-107">For more information, please visit the links below.</span></span>
+<span data-ttu-id="ac214-106">Jako správce IT můžete také řídit přístup k prostředkům SharePoint a OneDrive na základě definovaných síťových umístění nebo zařízení, kterým důvěřujete.</span><span class="sxs-lookup"><span data-stu-id="ac214-106">As an IT admin, you can also control access to SharePoint and OneDrive resources based on defined network locations or devices you trust.</span></span> <span data-ttu-id="ac214-107">Další informace naleznete na následujících odkazech.</span><span class="sxs-lookup"><span data-stu-id="ac214-107">For more information, please visit the links below.</span></span>
 
-- [<span data-ttu-id="c25aa-108">Řízení přístupu k datům SharePointu Online a OneDrivu na základě síťového umístění</span><span class="sxs-lookup"><span data-stu-id="c25aa-108">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [<span data-ttu-id="ac214-108">Řízení přístupu k datům SharePointu Online a OneDrivu na základě síťového umístění</span><span class="sxs-lookup"><span data-stu-id="ac214-108">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-- [<span data-ttu-id="c25aa-109">Řízení přístupu z nespravovaných zařízení</span><span class="sxs-lookup"><span data-stu-id="c25aa-109">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [<span data-ttu-id="ac214-109">Řízení přístupu z nespravovaných zařízení</span><span class="sxs-lookup"><span data-stu-id="ac214-109">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
