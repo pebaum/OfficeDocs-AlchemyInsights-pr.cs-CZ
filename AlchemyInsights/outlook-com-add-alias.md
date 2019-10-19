@@ -12,24 +12,24 @@ ms.custom:
 - "1821"
 - "9000238"
 ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542694"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a><span data-ttu-id="e29e8-102">Přidat e-mailový alias Outlook.com</span><span class="sxs-lookup"><span data-stu-id="e29e8-102">Add an email alias in Outlook.com</span></span>
+# <a name="add-an-email-alias-in-outlookcom"></a><span data-ttu-id="aba44-102">Přidání aliasu e-mailu do Outlook.com</span><span class="sxs-lookup"><span data-stu-id="aba44-102">Add an email alias in Outlook.com</span></span>
 
-<span data-ttu-id="e29e8-103">Alias je další e-mailové adresy, která používá stejné složky Doručená pošta, seznam kontaktů a nastavení účtu jako svou primární e-mailovou adresu.</span><span class="sxs-lookup"><span data-stu-id="e29e8-103">An alias is an additional email address that uses the same inbox, contact list, and account settings as your primary email address.</span></span> <span data-ttu-id="e29e8-104">Můžete zvolit, které e-mailové adresy odesílat poštu z a můžete přihlásit ke svému účtu Outlook.com všechny své aliasy, že všichni používají stejné heslo.</span><span class="sxs-lookup"><span data-stu-id="e29e8-104">You can choose which email address to send mail from, and you can sign in to your Outlook.com account with any of your aliases — they all use the same password.</span></span>
+<span data-ttu-id="aba44-103">Alias je další e-mailová adresa, která používá stejné nastavení pro doručenou poštu, seznam kontaktů a účet jako primární e-mailovou adresu.</span><span class="sxs-lookup"><span data-stu-id="aba44-103">An alias is an additional email address that uses the same inbox, contact list, and account settings as your primary email address.</span></span> <span data-ttu-id="aba44-104">Můžete zvolit, ze které e-mailové adresy chcete odesílat poštu, a přihlásit se ke svému účtu Outlook.com pomocí libovolného aliasu – všechny používají stejné heslo.</span><span class="sxs-lookup"><span data-stu-id="aba44-104">You can choose which email address to send mail from, and you can sign in to your Outlook.com account with any of your aliases — they all use the same password.</span></span>
 
-<span data-ttu-id="e29e8-105">Chcete-li přidat e-mailovou adresu:</span><span class="sxs-lookup"><span data-stu-id="e29e8-105">To add an email address:</span></span>
+<span data-ttu-id="aba44-105">Postup při přidání e-mailové adresy:</span><span class="sxs-lookup"><span data-stu-id="aba44-105">To add an email address:</span></span>
 
-1. <span data-ttu-id="e29e8-106">Přejděte na [Přidat alias](https://go.microsoft.com/fwlink/p/?linkid=864833).</span><span class="sxs-lookup"><span data-stu-id="e29e8-106">Go to [Add an alias](https://go.microsoft.com/fwlink/p/?linkid=864833).</span></span> <span data-ttu-id="e29e8-107">Pokud budete vyzváni, přihlaste se ke svému účtu Microsoft.</span><span class="sxs-lookup"><span data-stu-id="e29e8-107">Sign in to your Microsoft account, if prompted.</span></span>
-2. <span data-ttu-id="e29e8-108">Ve skupinovém rámečku **Přidat alias**buď:</span><span class="sxs-lookup"><span data-stu-id="e29e8-108">Under **Add an alias**, either:</span></span>
-    1. <span data-ttu-id="e29e8-109">Vytvořte novou e-mailovou adresu Outlook.com a přidat ji jako alias.</span><span class="sxs-lookup"><span data-stu-id="e29e8-109">Create a new Outlook.com email address and add it as an alias.</span></span>
-    2. <span data-ttu-id="e29e8-110">Přidáte existující e-mailovou adresu jako alias.</span><span class="sxs-lookup"><span data-stu-id="e29e8-110">Add an existing email address as an alias.</span></span>
-3. <span data-ttu-id="e29e8-111">Vyberte možnost **Přidat alias**.</span><span class="sxs-lookup"><span data-stu-id="e29e8-111">Select **Add alias**.</span></span>
+1. <span data-ttu-id="aba44-106">Přejděte k [přidání aliasu](https://go.microsoft.com/fwlink/p/?linkid=864833).</span><span class="sxs-lookup"><span data-stu-id="aba44-106">Go to [Add an alias](https://go.microsoft.com/fwlink/p/?linkid=864833).</span></span> <span data-ttu-id="aba44-107">Pokud se zobrazí výzva, přihlaste se k účtu společnosti Microsoft.</span><span class="sxs-lookup"><span data-stu-id="aba44-107">Sign in to your Microsoft account, if prompted.</span></span>
+2. <span data-ttu-id="aba44-108">V části **Přidat alias**:</span><span class="sxs-lookup"><span data-stu-id="aba44-108">Under **Add an alias**, either:</span></span>
+    1. <span data-ttu-id="aba44-109">Vytvořte novou e-mailovou adresu Outlook.com a přidejte ji jako alias.</span><span class="sxs-lookup"><span data-stu-id="aba44-109">Create a new Outlook.com email address and add it as an alias.</span></span>
+    2. <span data-ttu-id="aba44-110">Přidejte existující e-mailovou adresu jako alias.</span><span class="sxs-lookup"><span data-stu-id="aba44-110">Add an existing email address as an alias.</span></span>
+3. <span data-ttu-id="aba44-111">Vyberte **Přidat alias**.</span><span class="sxs-lookup"><span data-stu-id="aba44-111">Select **Add alias**.</span></span>
 
-<span data-ttu-id="e29e8-112">Další informace o [Přidání nebo odebrání aliasu e-mailů v Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="e29e8-112">Read more about how to [add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>  
+<span data-ttu-id="aba44-112">Přečtěte si další informace o [Přidání nebo odebrání e-mailového aliasu v Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="aba44-112">Read more about how to [add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>  
 
-<span data-ttu-id="e29e8-113">Přečtěte si [jiný e-mailový účet pro připojení](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) k účtu Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="e29e8-113">Read [how to connect another email account](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) to your Outlook.com account.</span></span>
+<span data-ttu-id="aba44-113">Přečtěte si, [Jak připojit jiný e-mailový účet](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) k účtu Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="aba44-113">Read [how to connect another email account](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) to your Outlook.com account.</span></span>

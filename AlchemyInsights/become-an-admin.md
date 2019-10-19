@@ -13,14 +13,14 @@ ms.custom:
 - "71"
 - "13"
 ms.openlocfilehash: d43ada137a906f0a4dade37bf6b30b597fd64576
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36736894"
 ---
-# <a name="become-an-admin"></a><span data-ttu-id="00a98-102">Staňte se správcem</span><span class="sxs-lookup"><span data-stu-id="00a98-102">Become an Admin</span></span>
+# <a name="become-an-admin"></a><span data-ttu-id="67d30-102">Staňte se správcem</span><span class="sxs-lookup"><span data-stu-id="67d30-102">Become an Admin</span></span>
 
-<span data-ttu-id="00a98-103">Chcete-li převzít roli správce pro tuto organizaci, musíte převzít nájemce.</span><span class="sxs-lookup"><span data-stu-id="00a98-103">To assume the admin role for this organization, you need to take over the tenant.</span></span>
+<span data-ttu-id="67d30-103">Chcete-li převzít roli správce pro tuto organizaci, musíte převzít nájemce.</span><span class="sxs-lookup"><span data-stu-id="67d30-103">To assume the admin role for this organization, you need to take over the tenant.</span></span>
   
-<span data-ttu-id="00a98-104">Postupujte podle pokynů v této příručce: [převzetí administrátora v sadě Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span><span class="sxs-lookup"><span data-stu-id="00a98-104">Follow the instructions in this guide: [Do an admin takeover in Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span></span>
+<span data-ttu-id="67d30-104">Postupujte podle pokynů v této příručce: [převzetí administrátora v sadě Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span><span class="sxs-lookup"><span data-stu-id="67d30-104">Follow the instructions in this guide: [Do an admin takeover in Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span></span>
