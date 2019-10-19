@@ -9,33 +9,33 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
 ms.openlocfilehash: e3e18f7ee5315b076e9059feaeda8b445d89c476
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36531928"
 ---
-# <a name="user-permissions-in-sharepoint-and-onedrive"></a>Uživatelská oprávnění služby SharePoint a OneDrive
+# <a name="user-permissions-in-sharepoint-and-onedrive"></a>Uživatelská oprávnění ve službě SharePoint a OneDrive
 
-Pokud uživatel v organizaci není možné získat přístup k serveru SharePoint nebo OneDrive, ujistěte se, že mají licenci, která zahrnuje služby SharePoint a OneDrive. 
+Pokud uživatel ve vaší organizaci nemůže získat přístup k serveru SharePoint nebo OneDrive, ujistěte se, že mají licenci, která zahrnuje služby SharePoint a OneDrive. 
   
-1. Přejděte na [stránku aktivních uživatelů ve středisku pro správce služeb Microsoft 365](https://portal.office.com/adminportal/home#/users) a vyberte uživatele. 
+1. Přejděte na [stránku aktivní uživatelé ve středisku Microsoft 365 Admin Center](https://portal.office.com/adminportal/home#/users) a vyberte uživatele. 
     
-2. Zkontrolujte pod **licencí**je přiřazena licence a vybrané **Online služby SharePoint** . 
+2. Ujistěte se, že je v rámci **licencí k produktu**přiřazena licence a je vybrána **Služba SharePoint Online** . 
     
- Chcete-li udělit oprávnění k přístupu na web služby SharePoint: 
+ Chcete-li uživateli udělit oprávnění k přístupu k webu služby SharePoint, postupujte takto: 
   
-1. Ve webovém prohlížeči otevřete web.
+1. Otevřete web ve webovém prohlížeči.
     
-2. Pokud server náleží do skupiny Office 365, klepněte na ikonu nastavení v pravém horním a potom klepněte na tlačítko **oprávnění webu**. Klepněte na položku **Pozvat**a pak zvolte Přidat členy do skupiny Office 365 nebo sdílet pouze na webu. 
+2. Pokud web patří do skupiny Office 365, klepněte v pravém horním rohu na ikonu nastavení a potom klepněte na možnost **oprávnění k webu**. Klepněte na tlačítko **pozvat osoby**a pak vyberte Přidání členů do skupiny Office 365 nebo pouze sdílení webu. 
     
-    Pro komunikační web **sdílení webu** klepněte v pravém horním, zadejte jméno osoby a pak vyberte úroveň oprávnění (číst, upravit nebo úplné řízení). 
+    U komunikačního webu klepněte v pravém horním rohu na položku **sdílet web** , zadejte jméno osoby a pak vyberte úroveň oprávnění (číst, upravit nebo úplné řízení). 
     
-    Klasický týmový web klepněte na tlačítko **sdílení** v pravém horním. Zadejte jméno osoby, kterou chcete pozvat, nebo zadejte Everyone sdílet se všemi uživateli ve vaší organizaci. Klepněte na tlačítko **sdílet**.
+    V případě klasického týmového webu klepněte na položku **sdílet** v pravém horním rohu. Zadejte jméno osoby, kterou chcete pozvat, nebo zadejte všechny, které chcete sdílet s ostatními uživateli v organizaci. Klepněte na položku **sdílet**.
     
 > [!NOTE]
-> Pokud jste členem skupiny webu, ale není vlastník, můžete pozvat uživatele k webu, ale vaše pozvání bude generovat požadavek na přístup, která lze buď schválena nebo odmítnuta podle vlastníka webu. 
+> Pokud jste členem webu, ale nikoli vlastníkem, můžete na web pozvat osoby, ale vaše pozvání vygeneruje žádost o přístup, kterou může vlastník webu schválit nebo odmítne. 
   
-[Naučte se sdílet s uživatelem, soubor nebo složku](https://go.microsoft.com/fwlink/?linkid=533408)
+[Naučte se sdílet soubor nebo složku s uživatelem](https://go.microsoft.com/fwlink/?linkid=533408)
   
 

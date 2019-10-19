@@ -1,5 +1,5 @@
 ---
-title: 1385-office-365výstraha zásady
+title: 1385-Office-365-výstraha-zásady
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,35 +13,35 @@ ms.custom:
 - "3200002"
 ms.assetid: ''
 ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661289"
 ---
-# <a name="office-365-alert-policies"></a>Oznámení zásady Office 365
+# <a name="office-365-alert-policies"></a>Office 365 zásady výstrah
 
-_AMP_ zabezpečení Office 365 nabízí centra kompatibility [oznámení výchozí zásady](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) aktivují výstrahy pro organizace s předplatným Office 365 Enterprise nebo Office 365 nám vláda E1/G1, E3/G3 nebo E5/G5. Proto admins mohou přijímat oznámení e-mailové oznámení odeslaných Office365Alerts@microsoft.com s řádkem Předmět, jako "nízkou závažností výstraha: *název výstrahy zásady*". Upozornění jsou oznámení odesílána při výstrahy se spouštějí pro běžné činnosti, například když uživatelé:
+Centrum kompatibility se sadou Office 365 Security & poskytuje [výchozí zásady výstrah](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) , které aktivují výstrahy pro organizace s aplikací Office 365 Enterprise nebo Office 365 s odběrem americké vlády E1/G1, E3/G3 nebo E5/G5. Správci proto mohou obdržet upozornění na oznámení e-mailem odeslané uživatelem Office365Alerts@microsoft.com s předmětem, jako je výstraha s nízkou závažností: *název zásady výstrah*. Upozornění jsou odesílána v případě, že jsou aktivovány výstrahy pro běžné činnosti, například pokud uživatelé:
 
-- Vytvořte pravidla složky Doručená pošta pro předávání e-mailu.
-- Přiřadíte oprávnění poštovní schránky.
-- Sdílení nebo odstranění velkého počtu souborů v sdílení souborů služby SharePoint.
-- Vytvořit služba eDiscovery hledání a exportovat výsledky hledání.
+- Vytvořit pravidla doručené pošty, která předávají e-maily
+- Přiřaďte oprávnění jejich poštovní schránce.
+- Sdílet nebo odstranit velký počet souborů ve sdílení souborů služby SharePoint.
+- Vytvoří funkce eDiscovery a exportuje výsledky hledání.
 
-Prohlížení a působit na oznámení:
+Postup kontroly a jednání na výstraze:
 
-1. Přejděte do [centra kompatibility & zabezpečení](https://protection.office.com) a přihlaste se.
-2. Klepněte na tlačítko **výstrahy** > **zobrazení výstrah**.
-3. Klepněte na tlačítko výstrahy zobrazení plovoucí panel stránky s informace o výstraze.
+1. Přejděte na [bezpečnostní & centrum kompatibility](https://protection.office.com) a přihlaste se.
+2. Klepnutím na tlačítko **výstrahy** > **zobrazíte oznámení**.
+3. Klepnutím na oznámení zobrazíte stránku s informacemi o výstraze.
 
-Provést akci pro výstrahu, jako je například [Odebrání pravidla podezřelé složky Doručená pošta](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Nebo můžete jednoduše zavřete upozornění klepnutím na tlačítko **Odstranit** na stránce oznámení plovoucí panel.
+V případě výstrahy můžete provést akci, například [Odebrání podezřelého pravidla doručené pošty](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Oznámení můžete jednoduše zavřít klepnutím na tlačítko **vyřešit** na stránce s výstrahou.
 
-Další informace o konfiguraci a správě upozornění zásad naleznete [v tomto článku](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+Další informace o konfiguraci a správě zásad výstrah naleznete v [tomto článku](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
 
-**Důležité**: oznámení e-mailové oznámení od společnosti Microsoft nikdy zeptá, postupujte takto:
+**Upozornění: upozornění**e-mailem od společnosti Microsoft vás nikdy nebudou žádat o následující kroky:
 
 - Zadání hesla
-- Ověřte podrobnosti zabezpečení vašeho účtu
-- Znovu sami ověřit
+- Ověření podrobností o zabezpečení účtu
+- Znovu ověřit pravost
 
-Pokud obdržíte e-mailové zprávy tímto způsobem, nebyla odeslána společnosti Microsoft a považovat za nevyžádanou podvodnou poštu. Pokud se tak stane, prosím [ohlaste společnosti Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Pokud obdržíte e-mailovou zprávu jako tuto, nebyla odeslána společností Microsoft a měla by být považována za nevyžádanou podvodnou poštu. Pokud k tomu dojde, informujte [o tom společnost Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

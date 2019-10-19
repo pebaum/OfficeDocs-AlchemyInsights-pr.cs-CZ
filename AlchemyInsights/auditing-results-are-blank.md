@@ -1,5 +1,5 @@
 ---
-title: Výsledky auditu jsou prázdné
+title: Výsledky auditování jsou prázdné
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
 ms.openlocfilehash: befbb9d2de29231f5346284485aa55613d4f687b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36517420"
 ---
-# <a name="auditing-results-are-blank"></a>Výsledky auditu jsou prázdné
+# <a name="auditing-results-are-blank"></a>Výsledky auditování jsou prázdné
 
- **Sestavy auditování pro klasické weby**
+ **Sestavy auditu pro klasické weby**
   
-Chcete-li zobrazit zprávu o auditu pro kolekci webů služby SharePoint, musíte být správcem kolekce webů. Přidejte sami sebe jako správce, naleznete v tématu [admins kolekci webu přidat jako globální nebo správce serveru SharePoint](https://go.microsoft.com/fwlink/?linkid=869390). Informace o práci s protokolu auditování naleznete v tématu [zobrazení sestavy protokolu auditování](https://go.microsoft.com/fwlink/?linkid=395237). 
+Chcete-li zobrazit zprávu o auditu pro kolekci webů služby SharePoint, musíte být správcem této kolekce webů. Chcete-li přidat sebe jako správce, viz [Přidání správců kolekce webů jako globálního správce serveru SharePoint](https://go.microsoft.com/fwlink/?linkid=869390). Informace o práci s protokolem auditování naleznete v tématu [zobrazení sestav protokolu auditování](https://go.microsoft.com/fwlink/?linkid=395237). 
   
- **Hledat protokolu auditu pro Office 365**
+ **Prohledat protokol auditu sady Office 365**
   
-Musíte být globální správce ve službách Office 365 pro práci se v protokolu auditu [zabezpečení &amp; centra kompatibility](https://protection.office.com). Než začnete, zapněte protokolování auditu. Potom můžete spustit hledání protokolu auditu. 
+Chcete-li pracovat s protokolem auditování v [centru pro kontrolu zabezpečení &amp; ](https://protection.office.com), musíte být v sadě Office 365 globálním správcem. Než začnete, zapněte protokolování auditu. Potom můžete spustit hledání protokolu auditování. 
   
-[Naučte se hledat v protokolu auditu](https://go.microsoft.com/fwlink/?linkid=708432).
+[Zjistěte, jak prohledávat protokol auditování](https://go.microsoft.com/fwlink/?linkid=708432).
   
 

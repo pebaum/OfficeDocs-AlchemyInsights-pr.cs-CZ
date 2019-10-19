@@ -12,24 +12,24 @@ ms.custom:
 - "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
 ms.openlocfilehash: f920a41f3a6030263a7162d0ba060d9fe4e30f7b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36659525"
 ---
 # <a name="install-office"></a>Instalace Office
 
-Pro instalaci sady Office, musí mít uživatelé [produktu Office 365 business](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) , který zahrnuje kancelářské aplikace a [přiřazení licencí](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+Chcete-li nainstalovat sadu Office, musí mít uživatelé k aplikaci [sady office 365 obchodní produkty](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) , které obsahují stolní aplikace a [přiřazenou licenci](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
   
-Office lze potom nainstalovat následujícím postupem:
+Sadu Office lze potom nainstalovat následujícím způsobem:
   
-1. Přejít na [portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)
+1. Přejděte na [Portal.Office.com/OLS/Mysoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)
 
-2. Na domovské stránce Office vyberte požadovaný jazyk a vyberte **Upřesnit** výběr mezi 64-bit nebo 32-bit verze.
+2. Na domovské stránce sady Office vyberte požadovaný jazyk a poté vyberte možnost **Upřesnit** , kterou chcete vybrat mezi 64 nebo 32-bitovou verzí.
 
-3. Vyberte **instalaci systému Office**.
+3. Vyberte možnost **nainstalovat sadu Office**.
 
-Další podrobnosti naleznete v tématu [stažení a instalace nebo přeinstalace sady Office na PC nebo Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
+Další informace naleznete v tématu [Stažení a instalace nebo přeinstalace sady Office v počítači nebo Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
   
-Konkrétní pokyny týkající se aplikace Visio a Project naleznete v tématu [Instalace aplikace Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) nebo [Projekt instalace](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).
+Konkrétní pokyny pro aplikaci Visio nebo projekt naleznete v tématu [instalace aplikace Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) nebo [instalace aplikace Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).

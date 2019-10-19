@@ -1,5 +1,5 @@
 ---
-title: Vytvoření webu v Online služby SharePoint
+title: Vytvoření webu ve službě SharePoint Online
 ms.author: stevhord
 author: spowriter
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
 ms.openlocfilehash: 5bd43255bf3978ebb7f2405fba5c01437d32ceb7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515891"
 ---
-# <a name="create-a-site"></a>Vytvořit web
+# <a name="create-a-site"></a>Vytvoření webu
 
-V Online služby SharePoint, můžete vytvořit různé typy webů. Informace jak postupovat v nové Centrum správy služby SharePoint naleznete v tématu [vytvořit web](https://go.microsoft.com/fwlink/?linkid=866295). Informace o povolení uživatelům vytvářet vlastní weby viz [Spravovat vytváření webu v Online služby SharePoint](https://go.microsoft.com/fwlink/?linkid=866296).
+Ve službě SharePoint Online můžete vytvořit různé typy webů. Informace o postupu v novém centru pro správu služby SharePoint naleznete v tématu [Vytvoření webu](https://go.microsoft.com/fwlink/?linkid=866295). Informace o tom, jak umožnit uživatelům vytvářet vlastní weby, naleznete [v tématu Správa vytváření webů na webu služby SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
  
-Info o nové typy webů naleznete v tématu [skupiny připojen týmové weby](https://go.microsoft.com/fwlink/?linkid=866292) nebo [weby komunikace](https://go.microsoft.com/fwlink/?linkid=866294).
+Informace o nových typech webů naleznete v tématu [Group připojené týmové weby](https://go.microsoft.com/fwlink/?linkid=866292) nebo [komunikační weby](https://go.microsoft.com/fwlink/?linkid=866294).
     
 
 

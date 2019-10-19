@@ -1,5 +1,5 @@
 ---
-title: Odeslat do složky nebo soubory do knihovny dokumentů
+title: Odeslání složky nebo souborů do knihovny dokumentů
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: 8f97f905f2db71cff299ee27d78138f254ed32f6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36532612"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Odeslat do složky nebo soubory do knihovny dokumentů služby SharePoint
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Odeslání složky nebo souborů do knihovny dokumentů služby SharePoint
 
-Uložit do složky, musíte použít Edge Microsoft, Google Chrome nebo Mozilla FireFox. Nelze odesílat složky zkušenosti klasické knihovny, nebo pomocí aplikace Internet Explorer 10 nebo 11.
+Chcete-li nahrát složku, musíte použít Microsoft Edge, Google Chrome nebo Mozilla FireFox. Složky nelze odeslat v klasické možnosti knihovny nebo pomocí aplikace Internet Explorer 10 nebo 11.
   
-1. Otevřete knihovnu dokumentů, kam chcete odeslat do složky nebo soubory.
+1. Otevřete knihovnu dokumentů, do které chcete uložit složku nebo soubory.
     
-2. Otevřete Průzkumníka souborů v počítači a vyhledejte příslušnou složku nebo soubory, které chcete odeslat.
+2. Otevřete v počítači Průzkumníka souborů a přejděte na složku nebo soubory, které chcete odeslat.
     
-3. Přetáhněte složku nebo soubory do knihovny dokumentů. Pokud se nezobrazí položky, které jste odeslali v knihovně, aktualizujte stránku. 
+3. Přetáhněte složku nebo soubory do knihovny dokumentů. Pokud se položky, které jste odeslali, nezobrazí v knihovně, aktualizujte stránku. 
     
-Pokud nechcete odeslat přetažením položek mezi okny, můžete také na tlačítko **Odeslat** do knihovny dokumentů vyberte složku nebo soubory, které chcete odeslat. 
+Pokud nechcete ukládat položky přetažením mezi okny, můžete také vybrat složku nebo soubory, které chcete odeslat, pomocí tlačítka **Odeslat** v knihovně dokumentů. 
   
 

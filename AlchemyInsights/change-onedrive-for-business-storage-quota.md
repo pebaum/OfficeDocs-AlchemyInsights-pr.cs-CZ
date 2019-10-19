@@ -1,5 +1,5 @@
 ---
-title: Změna OneDrive pro Business kvóta úložiště
+title: Změna diskové kvóty pro úložiště podniku
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
 ms.openlocfilehash: 52d8fd39b21b2ac8f1a9965981e8fdc536ea18f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519256"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Změnit výchozí OneDrive úložný prostor pro uživatele
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Změna výchozího úložného prostoru OneDrive pro uživatele
 
-1. Přejděte na [stránku úložiště OneDrive admin centra](https://admin.onedrive.com/?v=StorageSettings).
+1. Přejděte na [stránku úložiště centra pro správu OneDrive](https://admin.onedrive.com/?v=StorageSettings).
     
-2. Zadejte částku výchozí úložiště (v GB) v poli **výchozí úložiště** a klepněte na tlačítko **Uložit**.
+2. Zadejte výchozí velikost úložiště (v GB) do pole **výchozí úložiště** a klepněte na tlačítko **Uložit**.
     
-Toto nastavení místa skladování platí pro všechny uživatele, kterým jste nenastavili konkrétní úložného prostoru. Změna místa pro konkrétní uživatele, musíte použít Microsoft PowerShell. Informace o tomto postupu naleznete v tématu [změnit uživatelé OneDrive úložný prostor pomocí prostředí PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Toto nastavení úložného prostoru platí pro všechny uživatele, pro které jste nenastavili specifická omezení úložiště. Chcete-li změnit úložný prostor pro konkrétní uživatele, je třeba použít prostředí Microsoft PowerShell. Informace o tom, jak to provést, naleznete v části [Změna úložných prostorů uživatelů OneDrive pomocí prostředí PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
   
 

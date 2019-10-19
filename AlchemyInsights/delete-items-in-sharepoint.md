@@ -1,5 +1,5 @@
 ---
-title: Odstranit položky ve službě SharePoint
+title: Odstranění položek ve službě SharePoint
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
 ms.openlocfilehash: 91f5d3647e6fe4be75f3ce15526d195d61f969c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36513619"
 ---
-# <a name="delete-items-in-sharepoint"></a>Odstranit položky ve službě SharePoint
+# <a name="delete-items-in-sharepoint"></a>Odstranění položek ve službě SharePoint
 
-[Odstranit seznam](https://go.microsoft.com/fwlink/?linkid=869393)
+[Odstranění seznamu](https://go.microsoft.com/fwlink/?linkid=869393)
   
-[Odstranit knihovnu dokumentů](https://go.microsoft.com/fwlink/?linkid=869392)
+[Odstranění knihovny dokumentů](https://go.microsoft.com/fwlink/?linkid=869392)
   
-[Odstranění položky ze seznamu](https://go.microsoft.com/fwlink/?linkid=869397)
+[Odstranění položek ze seznamu](https://go.microsoft.com/fwlink/?linkid=869397)
   
-[Odstranit položky z knihovny dokumentů](https://go.microsoft.com/fwlink/?linkid=869399)
+[Odstranění položek z knihovny dokumentů](https://go.microsoft.com/fwlink/?linkid=869399)
   
 [Odstranění sloupce na stránce](https://go.microsoft.com/fwlink/?linkid=869394)
   

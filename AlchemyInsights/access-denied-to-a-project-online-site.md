@@ -1,5 +1,5 @@
 ---
-title: Byl odepřen přístup k webu aplikace Project Web App
+title: Přístup k webu aplikace Project Web App byl odepřen.
 ms.author: efrene
 author: efrene
 manager: pamg
@@ -12,20 +12,20 @@ ms.custom:
 - "2700001"
 - "1381"
 ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661217"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Udělte oprávnění uživatelům v projektu Online
+# <a name="give-users-permissions-in-project-online"></a>Přidělit uživatelům oprávnění v aplikaci Project Online
 
-Udělit uživatelům přístup k webu aplikace Project Web App, pomocí oprávnění režimu serveru SharePoint:
+Poskytnout uživatelům přístup k webu aplikace Project Web App pomocí režimu oprávnění služby SharePoint:
 
-1. Přihlaste se k Online projektu jako správce.
-2. Na domovské stránce aplikace Project Web App vyberte **sdílení** v pravém horním rohu.
-3. V dialogovém okně **Sdílení aplikace Project Web App** zadejte uživatelské jméno osoby, které chcete udělit přístup k v poli **Pozvat osoby** .
-4. Vyberte **Zobrazit volby**a v nabídce **Vyberte úroveň oprávnění** vyberte **Vedoucích projektů v aplikaci Project Web App**.
-5. Vyberte možnost **sdílet**.
+1. Přihlaste se k aplikaci Project Online jako správce.
+2. Na domovské stránce aplikace Project Web App vyberte položku **sdílet** v pravém horním rohu.
+3. V dialogovém okně **sdílet webovou aplikaci Project Web App** zadejte do pole **pozvat osoby** jméno uživatele, kterému chcete udělit přístup.
+4. Vyberte možnost **Zobrazit možnosti**a v nabídce **Vybrat úroveň oprávnění** vyberte položku **vedoucí projektu pro aplikaci Project Web App**.
+5. Vyberte položku **sdílení**.
 
-Projektová oprávnění režimu nebo Další informace naleznete v tématu [Přidání osob do projektu Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Pokud používáte režim oprávnění projektu nebo další informace, přejděte [k aplikaci Project Online v části Přidat uživatele](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).

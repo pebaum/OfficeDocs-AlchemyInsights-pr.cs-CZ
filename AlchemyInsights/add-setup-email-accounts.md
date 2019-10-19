@@ -1,5 +1,5 @@
 ---
-title: 764 přidat/nastavení e-mailových účtů
+title: 764 přidat/nastavit e-mailové účty
 ms.author: pdigia
 author: pebaum
 ms.date: 6/8/2018
@@ -12,22 +12,22 @@ ms.custom:
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
 ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36660893"
 ---
-# <a name="setup-email-accounts"></a>Nastavení e-mailových účtů
+# <a name="setup-email-accounts"></a>Nastavit e-mailové účty
 
-1. V aplikaci Outlook, vyberte **soubor** > **Info** > **Přidat účet**.
+1. V aplikaci Outlook vyberte možnost**informace o** >  **souboru** > **Přidat účet**.
 
-2. Zadejte e-mailovou adresu a potom vyberte **Připojit**.
+2. Zadejte svou e-mailovou adresu a pak klepněte na možnost **připojit**.
 
-3. Zadejte heslo a potom klepněte na tlačítko **OK**.
+3. Zadejte heslo a klepněte na **tlačítko OK**.
 
-4. Tyto kroky přidat více účtů.
+4. Opakováním těchto kroků můžete přidat více účtů.
 
     > [!NOTE]
-    > Některé e-mailové účty, jako je Gmail, Yahoo a iCloud, vyžadují nastavíte dvoufaktorové ověřování pro aplikaci Outlook pro odesílání a přijímání e-mailů. Další informace naleznete v tématu [Přidání e-mailového účtu do aplikace Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
+    > Některé e-mailové účty, například Gmail, Yahoo nebo Ichlasitý, vyžadují, abyste nastavili dvoufaktorovou autentizaci, aby bylo možné používat aplikaci Outlook k odesílání a přijímání e-mailů. Další informace naleznete v tématu [Přidání e-mailového účtu do aplikace Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
   

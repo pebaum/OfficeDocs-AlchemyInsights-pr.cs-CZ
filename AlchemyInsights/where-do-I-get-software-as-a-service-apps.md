@@ -1,5 +1,5 @@
 ---
-title: Kde získat software jako služba (SaaS) aplikace?
+title: Kde mohu získat aplikace s softwarovými službami (SaaS)?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,12 +13,12 @@ ms.custom:
 - "9000562"
 - "2421"
 ms.openlocfilehash: 6788a534d19521db98eb3ba59536cebeb02e190c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558538"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Kde získat software jako služba (SaaS) aplikace od partnerů společnosti Microsoft?
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Kde se nacházejí aplikace společnosti Microsoft s aplikací jako je služba (SaaS)?
 
-Zákazníkům můžete hledat, výzkum a nákup SaaS aplikací z [AppSource](http://www.appsource.com/).
+Zákazníci mohou vyhledávat, prozkoumat a nakupovat aplikace SaaS z [Appsource](http://www.appsource.com/).
