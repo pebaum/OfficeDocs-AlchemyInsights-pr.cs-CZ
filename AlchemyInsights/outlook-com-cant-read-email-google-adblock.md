@@ -1,5 +1,5 @@
 ---
-title: Nelze číst e-mailu Outlook.com v Google Chrome s AdBlock
+title: Nelze číst e-mail Outlook.com ve službě Google Chrome s AdBlock
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ ms.custom:
 - "8000048"
 - "814"
 ms.openlocfilehash: e63e31ea008558d57b0582d306afd34df4715631
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36537652"
 ---
-# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Nelze číst e-mailu v Google Chrome s AdBlock
+# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Nelze číst e-maily ve službě Google Chrome s AdBlock
 
-Pokud nelze číst nebo vytvořit e-mail, pokud pomocí Google Chrome rozšíření AdBlock:
+Pokud při používání aplikace Google Chrome s rozšířením AdBlock nemůžete číst ani vytvářet e-maily:
 
-- Používejte [Microsoft okraj](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) nebo jiný webový prohlížeč.
-- Outlook.com vylučte z nastavení AdBlock. V pravém horním rohu Google Chrome vyberte **AdBlock** a pak vyberte **Nespouštět na stránkách na této doméně**. Aktualizujte prohlížeč znovu načíst Outlook.com.
+- Použijte [aplikaci Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) nebo jiný webový prohlížeč.
+- Z nastavení AdBlock vylučte Outlook.com. V pravém horním rohu stylu Google Chrome vyberte možnost **Adblock** a pak vyberte **nespouštět na stránkách v této doméně**. Znovu aktualizujte prohlížeč a načtěte Outlook.com.

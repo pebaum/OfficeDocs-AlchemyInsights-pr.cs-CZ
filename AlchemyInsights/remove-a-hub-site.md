@@ -1,5 +1,5 @@
 ---
-title: Odebrání serveru rozbočovač
+title: Odebrání centrální lokality
 ms.author: kaarins
 author: kaarins
 ms.date: 12/28/2018
@@ -11,22 +11,22 @@ ms.custom:
 - "866"
 - "5300012"
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: aacb11aa21adf704c89f7dd7a6a4006cfbf6e628
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ccd0bb32ea6b5a043412ba0040dfde78a672810a
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552848"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745354"
 ---
-# <a name="remove-a-hub-site"></a>Odebrání serveru rozbočovač
+# <a name="remove-a-hub-site"></a>Odebrání centrální lokality
 
-Zrušení registrace centrální lokalita v centru nového správce služby SharePoint
+Zrušení registrace centrální lokality v novém centru pro správu služby SharePoint
   
-1. V centru nového správce služby SharePoint **weby**klepněte v **aktivním serverům**.
+1. V novém centru pro správu služby SharePoint klepněte v části **lokality**na položku **Active sites**.
 
-2. Vyberte web, klepněte na tlačítko **Centrální lokalita**a potom klepněte na tlačítko **Unregister jako centrální lokalita**.
+2. Vyberte web, klepněte na položku **rozbočovač**a pak klepněte na možnost **zrušit registraci jako centrální lokalitu**.
 
 3. Klikněte na **OK**.
 
-[Další informace o sítích rozbočovačů](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f?ui=en-US&amp;rs=en-US&amp;ad=US)
+[Další informace o webech rozbočovačů](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f)
   

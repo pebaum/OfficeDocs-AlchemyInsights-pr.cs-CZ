@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
 ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/19/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "35800038"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Nejsou k dispozici požadované Alchymie hlavičku H1, H2 je.
-Doporučené postupy a pokyny pro vytváření Alchymie:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Požadovaný Alchemy záhlaví H1, H2's nefunguje.
+Doporučené postupy a pokyny pro tvorbu Alchemy:
 
-1. **Nelze vnořit Alchymie poznatky ve složkách**- tím dojde k porušení struktury adres url. Díváme se do tohoto řešení.
-1. Malá písmena názvy souborů s pomlčkami ex prostory by měly mít soubory ve složce **AlchemyInsights** . ***how-k-povolit-soudní pře podržet***.
-    1. Zahrňte ID ID pravidla nebo plechovka z [Alchymie partnerský portál](https://alchemyportal.azurewebsites.net) ms.custom pole. ex. ***MS.Custom: 100021***
-1. V horní části tohoto souboru jako šablony použijte zbývající metadata.
-1. Na [portálu pro partnery Alchymie](https://alchemyportal.azurewebsites.net), přejděte dolů k části **název odběratele přehled:** a použití, které jako počáteční bod pro váš nadpis H1 insight. 
+1. **Nevnořit do složek Alchemy náhledy**-tím dojde k přerušení struktury adres URL. Chceme to opravit.
+1. Soubory ve složce **Alchemypostřehy** by měly být vybaveny malými názvy souborů s pomlčkami pro mezery ex. ***Postup-povolení-soudní***řízení.
+    1. Do vlastního pole MS. zahrňte ID pravidla nebo ID bloku z [portálu Alchemy partner](https://alchemyportal.azurewebsites.net) . Ex. ***MS. Custom: 100021***
+1. Použijte zbývající metadata v horní části tohoto souboru jako šablonu.
+1. V [portálu Alchemy partner](https://alchemyportal.azurewebsites.net)přejděte k části Přehled modulu pro **zákazníky:** a použijte jej jako výchozí bod pro váš titul H1. 
     > [!NOTE]
-    > Alchymie poznatky musí mít pouze jeden H1 nahoře nebo bude přerušení výroby. H2s není vykreslit tak použití **tučného písma** nebo jiné konvence označuje samostatné oddíly.
-1. Dále v textu pomocí návrhu materiálu v sekci zákazník poznatky stránky Alchymie pravidlo výplně
-    1. Seznamy s odrážkami jsou jemné
-    1. Číslované seznamy příliš
-    1. **Tučné písmo** a *kurzívu* jsou a-ok
-    1. Odkazy by měly být vždy buď **"odkazy na web" / externí** nebo **hluboké odkazy na prvky uživatelského rozhraní**, nikoli vnitřní propojení.
-    1. Obrázky nejsou v tuto chvíli oficiálně podporována, ale je na cestovní mapy.
+    > Alchemy postřehy musí mít na vrcholu pouze jednu H1 nebo se rozlomí ve výrobě. H2s se nevykreslí tak, že použijete **tučné** nebo jiné konvence k označení samostatných sekcí.
+1. Dále vyplňte základní text pomocí konceptu materiálu v části pohledy zákazníka na stránce Alchemy Rule.
+    1. Seznamy s odrážkami jsou v pořádku
+    1. Číslované seznamy
+    1. **Tučné písmo** a *kurzíva* jsou-OK
+    1. Odkazy by měly být vždy buď **"odkazy na webové"/externí** nebo **hluboké-odkazy na prvky uživatelského rozhraní**, nikoli na interní vazby.
+    1. Obrázky nejsou v tuto chvíli oficiálně podporovány, ale jsou na cestovní mapě.
 
-A to je ve skutečnosti již trochu příliš dlouhý. Nejlepší je asi 400 znaků---
+A tohle už je opravdu trochu moc dlouho. Osvědčený postup je asi 400 znaků---------------------------------
 
-Jakmile váš obsah je připraven, živé větve ho vytáhněte. Potom přejděte na [portál pro partnery Alchymie](https://alchemyportal.azurewebsites.net) a zadejte název souboru do pole url. 
+Jakmile je obsah připraven, stáhněte jej do živé větve. Potom přejděte na [portál Alchemy partner](https://alchemyportal.azurewebsites.net) a zadejte název souboru do pole adresy URL. 

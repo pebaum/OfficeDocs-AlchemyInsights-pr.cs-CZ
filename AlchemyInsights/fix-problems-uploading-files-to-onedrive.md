@@ -1,5 +1,5 @@
 ---
-title: Opravit potíže s odesíláním souborů na OneDrive
+title: Opravit problémy s odesíláním souborů na OneDrive
 ms.author: matteva
 author: pebaum
 ms.date: 5/18/2018
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
 ms.openlocfilehash: d06445cf609b70e83701699082c43203270a0962
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525131"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a>Opravit potíže s odesíláním souborů na OneDrive
+# <a name="fix-problems-uploading-files-to-onedrive"></a>Opravit problémy s odesíláním souborů na OneDrive
 
-Pokud soubor nelze uložit, zkuste provést následující:
+Zkuste to, pokud soubor nebude odesíláním:
   
-- Přejmenujte soubor a akci opakujte. Některé názvy souborů a znaky v názvech souborů nejsou povoleny. 
+- Přejmenujte soubor a opakujte akci. Některé názvy souborů a znaky v názvech souborů nejsou povoleny. 
     
-- Pokud provádíte synchronizaci souboru, přesunout mimo složku OneDrive (například přesunout na plochu), a pokud vaše OneDrive stav synchronizace se zobrazí jako "Aktuální," ho přesuňte zpět. 
+- Pokud synchronizujete soubor, přesuňte jej mimo složku OneDrive (například jej přesuňte na plochu) a pokud se stav synchronizace OneDrive zobrazí jako "aktuální", přesuňte jej zpět. 
     
-[Další tipy poradce při potížích](https://go.microsoft.com/fwlink/?linkid=873155)
+[Další tipy pro řešení problémů](https://go.microsoft.com/fwlink/?linkid=873155)
   
 

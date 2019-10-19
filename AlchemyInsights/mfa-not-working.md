@@ -12,17 +12,17 @@ ms.custom:
 - "2417"
 - "9000557"
 ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545152"
 ---
 # <a name="issues-with-mfa"></a>Problémy s MFA
-Existuje několik věcí, chcete-li zkontrolovat, pokud uživatelé nelze přihlásit pomocí vícenásobné ověření (MFA)
+Existuje několik věcí ke kontrole, zda se uživatelé nemohou přihlásit pomocí vícefaktorového ověřování (MFA).
 
-1. V Azure Active Directory portálu mohou být blokovány příslušného uživatele. Pokud tomu tak je, pokusy o ověření, pro který bude uživatel automaticky zamítnut. [Postupujte podle kroků v tomto článku, chcete-li zrušit jejich blokování.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. Ohrožený uživatel může být blokován na portálu Azure Active Directory Portal. V takovém případě budou pokusy o ověření pro tohoto konkrétního uživatele automaticky odepřeny. [Chcete-li je odblokovat, postupujte podle kroků v tomto článku.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. Pokud vám nepomohlo odblokování uživatele nebo uživatel nebyl blokován můžete zkusit obnovit MFA pro uživatele a přejde prostřednictvím procesu zapsat znovu. [Postupujte podle kroků v tomto článku.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. Pokud odblokování uživateli nepomůže nebo uživatel není blokován, můžete se pokusit resetovat MFA pro uživatele a znovu projít procesem zápisu. [Postupujte prosím podle pokynů v tomto článku.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-Pokud je to poprvé MFA povoleno a uživatelé se nelze se přihlásit k jiné prohlížeče klientů aplikace Outlook, Skype atd, případně ADAL (Active Directory ověřování knihovny) není povolena na předplatné O365. V takovém případě musíte se připojit k serveru Exchange Online Powershell a spustit tuto rutinu:  *Set-OrganizationConfig-OAuth2ClientProfileEnabled: $true*
+V případě, že jste poprvé povolili službu MFA a uživatelé se nemohou přihlásit k jiným klientům než prohlížečům, jako je například aplikace Outlook, Skype atd., není v odběru O365 pravděpodobně povolena služba AD Al (Active Directory Authentication Library). V takovém případě se budete muset připojit k serveru Exchange Online PowerShell a spustit tuto rutinu:  *set-OrganizationConfig-OAuth2ClientProfileEnabled: $true*

@@ -12,24 +12,24 @@ ms.custom:
 - "1821"
 - "9000238"
 ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542694"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a>Přidat e-mailový alias Outlook.com
+# <a name="add-an-email-alias-in-outlookcom"></a>Přidání aliasu e-mailu do Outlook.com
 
-Alias je další e-mailové adresy, která používá stejné složky Doručená pošta, seznam kontaktů a nastavení účtu jako svou primární e-mailovou adresu. Můžete zvolit, které e-mailové adresy odesílat poštu z a můžete přihlásit ke svému účtu Outlook.com všechny své aliasy, že všichni používají stejné heslo.
+Alias je další e-mailová adresa, která používá stejné nastavení pro doručenou poštu, seznam kontaktů a účet jako primární e-mailovou adresu. Můžete zvolit, ze které e-mailové adresy chcete odesílat poštu, a přihlásit se ke svému účtu Outlook.com pomocí libovolného aliasu – všechny používají stejné heslo.
 
-Chcete-li přidat e-mailovou adresu:
+Postup při přidání e-mailové adresy:
 
-1. Přejděte na [Přidat alias](https://go.microsoft.com/fwlink/p/?linkid=864833). Pokud budete vyzváni, přihlaste se ke svému účtu Microsoft.
-2. Ve skupinovém rámečku **Přidat alias**buď:
-    1. Vytvořte novou e-mailovou adresu Outlook.com a přidat ji jako alias.
-    2. Přidáte existující e-mailovou adresu jako alias.
-3. Vyberte možnost **Přidat alias**.
+1. Přejděte k [přidání aliasu](https://go.microsoft.com/fwlink/p/?linkid=864833). Pokud se zobrazí výzva, přihlaste se k účtu společnosti Microsoft.
+2. V části **Přidat alias**:
+    1. Vytvořte novou e-mailovou adresu Outlook.com a přidejte ji jako alias.
+    2. Přidejte existující e-mailovou adresu jako alias.
+3. Vyberte **Přidat alias**.
 
-Další informace o [Přidání nebo odebrání aliasu e-mailů v Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
+Přečtěte si další informace o [Přidání nebo odebrání e-mailového aliasu v Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
 
-Přečtěte si [jiný e-mailový účet pro připojení](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) k účtu Outlook.com.
+Přečtěte si, [Jak připojit jiný e-mailový účet](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) k účtu Outlook.com.

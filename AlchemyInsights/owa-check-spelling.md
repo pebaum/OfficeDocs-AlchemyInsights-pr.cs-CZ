@@ -13,12 +13,12 @@ ms.custom:
 - "8000007"
 - "1992"
 ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510544"
 ---
 # <a name="use-your-browser-to-check-spelling"></a>Kontrola pravopisu pomocí prohlížeče
 
-Neexistuje možnost Kontrola pravopisu v aplikaci Outlook na webu. Pro kontrolu pravopisu, musíte použít webový prohlížeč. Kontrola pravopisu je k dispozici v Edge společnosti Microsoft, Internet Explorer 10 a novější verze a aktuální verze Firefox, Chrome a Safari. Zkontrolujte možnosti webového prohlížeče Chcete-li získat další informace o kontrole pravopisu.
+V aplikaci Outlook na webu není k dispozici žádná možnost kontroly pravopisu. Chcete-li zkontrolovat pravopis, musíte použít webový prohlížeč. Kontrola pravopisu je k dispozici v aplikacích Microsoft Edge, Internet Explorer 10 a novějších verzích a v aktuálních verzích aplikací Firefox, Chrome a Safari. Další informace o kontrole pravopisu získáte v možnostech webového prohlížeče.
