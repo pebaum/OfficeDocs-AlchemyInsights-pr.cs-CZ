@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661037"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658286"
 ---
-# <a name="manage-your-onedrive-storage"></a>Spravovat úložiště OneDrive
+# <a name="manage-your-onedrive-storage"></a>Správa úložiště OneDrive
 
-Chcete-li změnit výchozí úložiště pro nové a existující uživatelé OneDrive:
-  
-- Přejděte na [stránku úložiště OneDrive admin centra](https://admin.onedrive.com/?v=StorageSettings)a zadejte novou velikost v GB.
+Úložný prostor OneDrive není počítat směrem k celkové kvótě klienta. 
 
-Toto nastavení místa skladování platí pro všechny uživatele, kterým jste nenastavili konkrétní úložného prostoru. Změna místa pro konkrétní uživatele, musíte použít Microsoft PowerShell. Informace o jak to provést naleznete v tématu [Změna vaši uživatelé OneDrive úložný prostor pomocí prostředí PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). Zkontrolujte, jaký objem úložiště používáte ve své vlastní OneDrive naleznete v tématu [spravovat vaše OneDrive pro obchodní úložiště](https://go.microsoft.com/fwlink/?linkid=866429). Informace týkající se úložiště, která je součástí každého plánu naleznete v [OneDrive pro obchodní popis služby](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Zjistěte, [jak je úložný prostor OneDrive přidělen na uživatele nebo plán](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
+
+Zjistěte [, kolik úložného místa používáte v aplikaci OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
+
+Zjistěte, [Jak získat kvótu úložiště OneDrive pomocí prostředí PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
+
+Společnost Microsoft zpočátku poskytne 1 TB na uživatele, což Správci mohou zvýšit až na 5 TB na uživatele. Naučte se [nastavit výchozí úložný prostor pro uživatele OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).
+
+Dozvíte [se, jak změnit úložný prostor pro určitý uživatel](https://docs.microsoft.com/onedrive/change-user-storage).
+
+Zjistěte, [jak mohou globální správci nastavit kvótu úložiště OneDrive pro všechny uživatele používající prostředí PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
   
