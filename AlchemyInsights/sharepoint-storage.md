@@ -3,7 +3,6 @@ title: Úložiště služby SharePoint
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 400dba3564aa48d7141f674dddea86cc39e2ba0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502698"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658250"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="8d4cd-102">Spravovat úložiště služby SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="8d4cd-102">Manage your SharePoint Online storage</span></span>
+# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="d198f-102">Správa úložiště online služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="d198f-102">Manage your SharePoint Online storage</span></span>
 
-<span data-ttu-id="8d4cd-103">Pro většinu organizací je úložiště služby SharePoint spravovány automaticky, není nutné nastavit limity pro kolekci webů.</span><span class="sxs-lookup"><span data-stu-id="8d4cd-103">For most organizations, SharePoint storage is managed automatically so you don't need to set limits per site collection.</span></span> <span data-ttu-id="8d4cd-104">Chcete-li zkontrolovat kolik úložiště služby SharePoint máte:</span><span class="sxs-lookup"><span data-stu-id="8d4cd-104">To check how much SharePoint storage you have:</span></span>
-  
-- <span data-ttu-id="8d4cd-105">V centru nového správce služby SharePoint v pravém horním rohu na stránce weby hledejte celkový počet a dostupné úložiště.</span><span class="sxs-lookup"><span data-stu-id="8d4cd-105">In the new SharePoint admin center, in the upper right of the sites page, look for your available and total storage.</span></span>
+<span data-ttu-id="d198f-103">Zjistěte, jak je na základě plánu [vypočítáno úložiště klienta](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) .</span><span class="sxs-lookup"><span data-stu-id="d198f-103">Learn how [tenant storage is calculated](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) based on your plan.</span></span>
 
-<span data-ttu-id="8d4cd-106">Informace o způsobu výpočtu limitu naleznete v [Omezení Online služby SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span><span class="sxs-lookup"><span data-stu-id="8d4cd-106">For info about how your limit is calculated, see [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span></span> <span data-ttu-id="8d4cd-107">Chcete-li zakoupit další úložiště, viz [změnu úložného prostoru pro vaše předplatné](https://go.microsoft.com/fwlink/?linkid=866428).</span><span class="sxs-lookup"><span data-stu-id="8d4cd-107">To buy extra storage, see [Change storage space for your subscription](https://go.microsoft.com/fwlink/?linkid=866428).</span></span>
-  
-<span data-ttu-id="8d4cd-108">Informace o sledování úložiště jednotlivých serverů pomocí prostředí PowerShell a Správa úložiště kolekce webů ručně, naleznete v tématu [omezení úložiště kolekce webů Spravovat](https://go.microsoft.com/fwlink/?linkid=867833)</span><span class="sxs-lookup"><span data-stu-id="8d4cd-108">For info about monitoring the storage of individual sites using PowerShell and managing site collection storage manually, see [Manage site collection storage limits](https://go.microsoft.com/fwlink/?linkid=867833)</span></span>
+<span data-ttu-id="d198f-104">U většiny organizací je úložiště služby SharePoint spravováno automaticky, takže není nutné nastavovat limity pro jednotlivé kolekce webů.</span><span class="sxs-lookup"><span data-stu-id="d198f-104">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span>
+
+<span data-ttu-id="d198f-105">Dozvíte se [, jak zobrazit celkový a dostupný úložný prostor pro vaši organizaci](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="d198f-105">Learn how to [view the total and available storage space for your organization](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span></span>
+
+<span data-ttu-id="d198f-106">Naučte se [Spravovat jednotlivé limity úložiště kolekcí webů](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="d198f-106">Learn how to [manage individual site collection storage limits](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span></span>
+
+<span data-ttu-id="d198f-107">Pokud je na webu dostatek místa nebo chcete zjistit, která knihovna nebo seznam využívá dané místo, přejděte na **stránku nastavení** > **úložišť** (je vyžadováno oprávnění správce kolekce webů).</span><span class="sxs-lookup"><span data-stu-id="d198f-107">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
+
+<span data-ttu-id="d198f-108">Naučte se [sledovat limity úložiště webu pomocí prostředí PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span><span class="sxs-lookup"><span data-stu-id="d198f-108">Learn how to [monitor site storage limits by using PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span></span>
+
+<span data-ttu-id="d198f-109">Naučte se [zakoupit další úložiště](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space).</span><span class="sxs-lookup"><span data-stu-id="d198f-109">Learn how to [buy extra storage](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space).</span></span> 
   
