@@ -13,29 +13,29 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 25d5379245e325eadf329a658f3718a17cd5937a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5b24fbd56cb410265f19a0c06a37c40392c72731
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501188"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36576869"
 ---
 # <a name="subscription-information"></a>Informace o odběru
 
-Informace o vlastní ve středisku pro správce služeb Office 365 předplatného naleznete **fakturační** \> stránku [produkty a služby &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Informace o vlastních předplatném naleznete na stránce **fakturační** \> [produkty & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) .
   
-Základní informace o každém odběru:
+Klíčové informace o každém odběru:
   
-- Stav každého
+- Stav každé
 
-- Zakoupených licencí
+- Zakoupené licence
 
-- Přiřazené licence
+- Přidělené licence
 
-- Stav opakované fakturace
+- Stav opakovaného účtování
 
-- Zůstatek
+- Rovnováhu
 
 - Způsob platby
 
-- Datum další fakturace nebo vypršení platnosti
+- Další datum fakturace nebo vypršení platnosti
