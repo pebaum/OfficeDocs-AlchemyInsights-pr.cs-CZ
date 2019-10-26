@@ -10,34 +10,34 @@ ms.custom:
 - "1484"
 - "6200024"
 ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36528544"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a><span data-ttu-id="cfe36-102">Chybné zobrazení řídicího panelu ve sjednoceném rozhraní Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="cfe36-102">Wrong dashboard shows in Dynamics 365 unified interface</span></span>
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a><span data-ttu-id="96eb6-102">Chybné zobrazení řídicího panelu ve sjednoceném rozhraní Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="96eb6-102">Wrong dashboard shows in Dynamics 365 unified interface</span></span>
 
-<span data-ttu-id="cfe36-103">Existuje několik důvodů, proč se může zobrazit jiný řídicí panel než ten, který očekáváte:</span><span class="sxs-lookup"><span data-stu-id="cfe36-103">There are several reasons why you may see a different dashboard than the one you expect:</span></span>
+<span data-ttu-id="96eb6-103">Existuje několik důvodů, proč se může zobrazit jiný řídicí panel než ten, který očekáváte:</span><span class="sxs-lookup"><span data-stu-id="96eb6-103">There are several reasons why you may see a different dashboard than the one you expect:</span></span>
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a><span data-ttu-id="cfe36-104">Uživatel nastavil výchozí řídicí panel uživatele.</span><span class="sxs-lookup"><span data-stu-id="cfe36-104">The user has set a user default dashboard</span></span> 
+## <a name="the-user-has-set-a-user-default-dashboard"></a><span data-ttu-id="96eb6-104">Uživatel nastavil výchozí řídicí panel uživatele.</span><span class="sxs-lookup"><span data-stu-id="96eb6-104">The user has set a user default dashboard</span></span> 
 
-<span data-ttu-id="cfe36-105">Obvykle lze určit, že výchozí řídicí panel uživatele je nastaven v případě, že se v příkazovém řádku řídicího panelu nezobrazí tlačítko **nastavit jako výchozí** .</span><span class="sxs-lookup"><span data-stu-id="cfe36-105">Typically you can identify a user default dashboard is set if the **Set As Default** button does not show in the dashboard command bar.</span></span> <span data-ttu-id="cfe36-106">Výchozí řídicí panel uživatele přepíše všechny ostatní výchozí řídicí panely, a to i v případě, že výchozí řídicí panel uživatele není v aktuální aplikaci.</span><span class="sxs-lookup"><span data-stu-id="cfe36-106">The user default dashboard will override all other default dashboards, even if the user's default dashboard is not in the current app.</span></span>
+<span data-ttu-id="96eb6-105">Obvykle lze určit, že výchozí řídicí panel uživatele je nastaven v případě, že se v příkazovém řádku řídicího panelu nezobrazí tlačítko **nastavit jako výchozí** .</span><span class="sxs-lookup"><span data-stu-id="96eb6-105">Typically you can identify a user default dashboard is set if the **Set As Default** button does not show in the dashboard command bar.</span></span> <span data-ttu-id="96eb6-106">Výchozí řídicí panel uživatele přepíše všechny ostatní výchozí řídicí panely, a to i v případě, že výchozí řídicí panel uživatele není v aktuální aplikaci.</span><span class="sxs-lookup"><span data-stu-id="96eb6-106">The user default dashboard will override all other default dashboards, even if the user's default dashboard is not in the current app.</span></span>
 
-<span data-ttu-id="cfe36-107">Chcete-li zrušit nastavení výchozího řídicího panelu, použijte následující zástupné řešení.</span><span class="sxs-lookup"><span data-stu-id="cfe36-107">Use the following workaround to unset their default dashboard.</span></span>
+<span data-ttu-id="96eb6-107">Chcete-li zrušit nastavení výchozího řídicího panelu, použijte následující zástupné řešení.</span><span class="sxs-lookup"><span data-stu-id="96eb6-107">Use the following workaround to unset their default dashboard.</span></span>
 
-1. <span data-ttu-id="cfe36-108">Vytvoří nový osobní řídicí panel.</span><span class="sxs-lookup"><span data-stu-id="cfe36-108">Create a new personal dashboard.</span></span>
+1. <span data-ttu-id="96eb6-108">Vytvoří nový osobní řídicí panel.</span><span class="sxs-lookup"><span data-stu-id="96eb6-108">Create a new personal dashboard.</span></span>
 
-2. <span data-ttu-id="cfe36-109">Nastaví nový řídicí panel jako výchozí uživatel.</span><span class="sxs-lookup"><span data-stu-id="cfe36-109">Set that new dashboard as the user default.</span></span>
+2. <span data-ttu-id="96eb6-109">Nastaví nový řídicí panel jako výchozí uživatel.</span><span class="sxs-lookup"><span data-stu-id="96eb6-109">Set that new dashboard as the user default.</span></span>
 
-3. <span data-ttu-id="cfe36-110">Odstraňte tento řídicí panel.</span><span class="sxs-lookup"><span data-stu-id="cfe36-110">Delete that dashboard.</span></span>
+3. <span data-ttu-id="96eb6-110">Odstraňte tento řídicí panel.</span><span class="sxs-lookup"><span data-stu-id="96eb6-110">Delete that dashboard.</span></span>
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a><span data-ttu-id="cfe36-111">Řídicí panel je nastaven v mapě webu</span><span class="sxs-lookup"><span data-stu-id="cfe36-111">The dashboard is set in the sitemap</span></span>
+## <a name="the-dashboard-is-set-in-the-sitemap"></a><span data-ttu-id="96eb6-111">Řídicí panel je nastaven v mapě webu</span><span class="sxs-lookup"><span data-stu-id="96eb6-111">The dashboard is set in the sitemap</span></span>
 
-<span data-ttu-id="cfe36-112">Můžete nastavit výchozí řídicí panel organizace výběrem řídicího panelu a zvolením možnosti nastavit jako výchozí v části vlastní nastavení systému.</span><span class="sxs-lookup"><span data-stu-id="cfe36-112">You may have set an organization default dashboard by selecting a dashboard and choosing 'Set As Default' under 'Customize The System'.</span></span> <span data-ttu-id="cfe36-113">Avšak řídicí panel definovaný v Návrháři mapy webu bude mít přednost před tímto řídicím panelem, pokud k němu má přístup uživatel.</span><span class="sxs-lookup"><span data-stu-id="cfe36-113">But the dashboard defined in the sitemap designer will take precedence over this dashboard, if the user has access to it.</span></span>
+<span data-ttu-id="96eb6-112">Můžete nastavit výchozí řídicí panel organizace výběrem řídicího panelu a zvolením možnosti nastavit jako výchozí v části vlastní nastavení systému.</span><span class="sxs-lookup"><span data-stu-id="96eb6-112">You may have set an organization default dashboard by selecting a dashboard and choosing 'Set As Default' under 'Customize The System'.</span></span> <span data-ttu-id="96eb6-113">Avšak řídicí panel definovaný v Návrháři mapy webu bude mít přednost před tímto řídicím panelem, pokud k němu má přístup uživatel.</span><span class="sxs-lookup"><span data-stu-id="96eb6-113">But the dashboard defined in the sitemap designer will take precedence over this dashboard, if the user has access to it.</span></span>
 
-<span data-ttu-id="cfe36-114">Chcete-li, aby uživatelé viděli řídicí panel, který jste nastavili jako výchozí nastavení organizace, můžete buď:</span><span class="sxs-lookup"><span data-stu-id="cfe36-114">To have users see the dashboard you've set as the organization default, you can either:</span></span>
+<span data-ttu-id="96eb6-114">Chcete-li, aby uživatelé viděli řídicí panel, který jste nastavili jako výchozí nastavení organizace, můžete buď:</span><span class="sxs-lookup"><span data-stu-id="96eb6-114">To have users see the dashboard you've set as the organization default, you can either:</span></span>
 
-* <span data-ttu-id="cfe36-115">Nastavit tento řídicí panel v mapě webu</span><span class="sxs-lookup"><span data-stu-id="cfe36-115">Set that dashboard in the sitemap</span></span>
+* <span data-ttu-id="96eb6-115">Nastavit tento řídicí panel v mapě webu</span><span class="sxs-lookup"><span data-stu-id="96eb6-115">Set that dashboard in the sitemap</span></span>
 
-* <span data-ttu-id="cfe36-116">Odebrání přístupu k řídicím panelům definovaným v mapě webu pro tyto uživatele</span><span class="sxs-lookup"><span data-stu-id="cfe36-116">Remove access to the sitemap defined dashboard for those users</span></span>
+* <span data-ttu-id="96eb6-116">Odebrání přístupu k řídicím panelům definovaným v mapě webu pro tyto uživatele</span><span class="sxs-lookup"><span data-stu-id="96eb6-116">Remove access to the sitemap defined dashboard for those users</span></span>

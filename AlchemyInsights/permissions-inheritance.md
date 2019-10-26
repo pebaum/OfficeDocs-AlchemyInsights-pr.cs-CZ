@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
 ms.openlocfilehash: 6322ca12902be2612f65b6388a650300b257a95e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36554938"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a><span data-ttu-id="fb296-102">Princip dědičnosti oprávnění ve službě SharePoint</span><span class="sxs-lookup"><span data-stu-id="fb296-102">How permissions inheritance works in SharePoint</span></span>
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a><span data-ttu-id="8c1bb-102">Princip dědičnosti oprávnění ve službě SharePoint</span><span class="sxs-lookup"><span data-stu-id="8c1bb-102">How permissions inheritance works in SharePoint</span></span>
 
-<span data-ttu-id="fb296-103">Ve výchozím nastavení jsou oprávnění ve službě SharePoint zděděna z výše v hierarchii.</span><span class="sxs-lookup"><span data-stu-id="fb296-103">By default, permissions in SharePoint are inherited from higher up in the hierarchy.</span></span> <span data-ttu-id="fb296-104">Soubor tedy dědí oprávnění ze složky, která dědí oprávnění z knihovny, která dědí oprávnění od webu, která dědí oprávnění z kolekce webů.</span><span class="sxs-lookup"><span data-stu-id="fb296-104">So a file inherits its permissions from the folder, which inherits its permissions from the library, which inherits its permissions from the site, which inherits its permissions from the site collection.</span></span>
+<span data-ttu-id="8c1bb-103">Ve výchozím nastavení jsou oprávnění ve službě SharePoint zděděna z výše v hierarchii.</span><span class="sxs-lookup"><span data-stu-id="8c1bb-103">By default, permissions in SharePoint are inherited from higher up in the hierarchy.</span></span> <span data-ttu-id="8c1bb-104">Soubor tedy dědí oprávnění ze složky, která dědí oprávnění z knihovny, která dědí oprávnění od webu, která dědí oprávnění z kolekce webů.</span><span class="sxs-lookup"><span data-stu-id="8c1bb-104">So a file inherits its permissions from the folder, which inherits its permissions from the library, which inherits its permissions from the site, which inherits its permissions from the site collection.</span></span>
   
-<span data-ttu-id="fb296-105">Informace o odebírání jedinečných oprávnění a obnovení dědičnosti naleznete v tématu [Úprava a Správa oprávnění pro seznam nebo knihovnu](https://go.microsoft.com/fwlink/?linkid=869946).</span><span class="sxs-lookup"><span data-stu-id="fb296-105">For info about removing unique permissions and restoring inheritance, see [Edit and manage permissions for a list or library](https://go.microsoft.com/fwlink/?linkid=869946).</span></span>
+<span data-ttu-id="8c1bb-105">Informace o odebírání jedinečných oprávnění a obnovení dědičnosti naleznete v tématu [Úprava a Správa oprávnění pro seznam nebo knihovnu](https://go.microsoft.com/fwlink/?linkid=869946).</span><span class="sxs-lookup"><span data-stu-id="8c1bb-105">For info about removing unique permissions and restoring inheritance, see [Edit and manage permissions for a list or library](https://go.microsoft.com/fwlink/?linkid=869946).</span></span>
   
 

@@ -12,23 +12,23 @@ ms.custom:
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
 ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36739486"
 ---
-# <a name="how-to-disable-external-groups"></a><span data-ttu-id="07006-102">Jak zakázat externí skupiny</span><span class="sxs-lookup"><span data-stu-id="07006-102">How to disable External Groups</span></span>
+# <a name="how-to-disable-external-groups"></a><span data-ttu-id="c006b-102">Jak zakázat externí skupiny</span><span class="sxs-lookup"><span data-stu-id="c006b-102">How to disable External Groups</span></span>
 
-<span data-ttu-id="07006-103">Externí zasílání zpráv Yammer používá pravidla přenosu Exchange (ETRs), což je sada proaktivních kontrol, které zabraňují sdílení informací o společnosti.</span><span class="sxs-lookup"><span data-stu-id="07006-103">Yammer external messaging applies Exchange Transport Rules (ETRs), a set of proactive controls to prevent company information from being shared.</span></span> <span data-ttu-id="07006-104">Chcete-li uživatelům zabránit ve vytváření externích skupin, je třeba nakonfigurovat pravidlo přenosu na serveru Exchange (ETR) a poté nakonfigurovat Yammer tak, aby používal pravidlo Transport Exchange k blokování externích zpráv.</span><span class="sxs-lookup"><span data-stu-id="07006-104">In order to restrict users from creating external groups, you need to configure an Exchange transport rule (ETR), and then configure Yammer to use the Exchange Transport rule to block external messaging.</span></span>
+<span data-ttu-id="c006b-103">Externí zasílání zpráv Yammer používá pravidla přenosu Exchange (ETRs), což je sada proaktivních kontrol, které zabraňují sdílení informací o společnosti.</span><span class="sxs-lookup"><span data-stu-id="c006b-103">Yammer external messaging applies Exchange Transport Rules (ETRs), a set of proactive controls to prevent company information from being shared.</span></span> <span data-ttu-id="c006b-104">Chcete-li uživatelům zabránit ve vytváření externích skupin, je třeba nakonfigurovat pravidlo přenosu na serveru Exchange (ETR) a poté nakonfigurovat Yammer tak, aby používal pravidlo Transport Exchange k blokování externích zpráv.</span><span class="sxs-lookup"><span data-stu-id="c006b-104">In order to restrict users from creating external groups, you need to configure an Exchange transport rule (ETR), and then configure Yammer to use the Exchange Transport rule to block external messaging.</span></span>
   
-<span data-ttu-id="07006-105">Po vytvoření pravidla v centru pro správu serveru Exchange Online postupujte podle následujících kroků, abyste nastavili použití ETR v Yammer:</span><span class="sxs-lookup"><span data-stu-id="07006-105">Once you have created a rule in Exchange Online admin center, follow these steps to set ETR to apply in Yammer:</span></span>
+<span data-ttu-id="c006b-105">Po vytvoření pravidla v centru pro správu serveru Exchange Online postupujte podle následujících kroků, abyste nastavili použití ETR v Yammer:</span><span class="sxs-lookup"><span data-stu-id="c006b-105">Once you have created a rule in Exchange Online admin center, follow these steps to set ETR to apply in Yammer:</span></span>
   
-- <span data-ttu-id="07006-106">Přihlaste se k Yammer jako ověřený správce a v **centru pro správu Yammer**přejděte na **obsah C a nastavení zabezpečení zabezpečení \> .**</span><span class="sxs-lookup"><span data-stu-id="07006-106">Log on to Yammer as a verified admin, and in the **Yammer admin center**, go to C **Content and Security \> Security Settings.**</span></span>
+- <span data-ttu-id="c006b-106">Přihlaste se k Yammer jako ověřený správce a v **centru pro správu Yammer**přejděte na **obsah C a nastavení zabezpečení zabezpečení \> .**</span><span class="sxs-lookup"><span data-stu-id="c006b-106">Log on to Yammer as a verified admin, and in the **Yammer admin center**, go to C **Content and Security \> Security Settings.**</span></span>
 
-- <span data-ttu-id="07006-107">Ve skupinovém rámečku **externí zasílání zpráv**vyberte možnost **vynucovat v Yammer pravidla přenosu na serveru Exchange Online.**</span><span class="sxs-lookup"><span data-stu-id="07006-107">Under **External Messaging**, select **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer.**</span></span>
+- <span data-ttu-id="c006b-107">Ve skupinovém rámečku **externí zasílání zpráv**vyberte možnost **vynucovat v Yammer pravidla přenosu na serveru Exchange Online.**</span><span class="sxs-lookup"><span data-stu-id="c006b-107">Under **External Messaging**, select **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer.**</span></span>
 
-- <span data-ttu-id="07006-108">Zvolte **Uložit**.</span><span class="sxs-lookup"><span data-stu-id="07006-108">Choose **Save**.</span></span>
+- <span data-ttu-id="c006b-108">Zvolte **Uložit**.</span><span class="sxs-lookup"><span data-stu-id="c006b-108">Choose **Save**.</span></span>
 
-<span data-ttu-id="07006-109">Další informace naleznete v tématu [zakázání externího zasílání zpráv v síti Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span><span class="sxs-lookup"><span data-stu-id="07006-109">For more information, see [Disable external messaging in a Yammer network](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span></span>
+<span data-ttu-id="c006b-109">Další informace naleznete v tématu [zakázání externího zasílání zpráv v síti Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span><span class="sxs-lookup"><span data-stu-id="c006b-109">For more information, see [Disable external messaging in a Yammer network](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span></span>
   
