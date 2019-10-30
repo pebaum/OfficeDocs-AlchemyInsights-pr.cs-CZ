@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: fc222b2ea469f4f4d5233e87f7c9fd291bb5794c
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344196"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768866"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Instalace týmů jako samostatných nebo s novými nebo existujícími instalacemi sady Office
 
-Týmy Microsoft jsou nyní součástí *nových instalací* sady Office 365 ProPlus, Office 365 Business a Office for Mac. Další informace naleznete v tématu [kdy budou aplikace Microsoft týmy začínat v nových instalacích sady Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Týmy Microsoft jsou součástí *nových instalací* sady Office 365 ProPlus, Office 365 Business a Office for Mac. Další informace naleznete v tématu [kdy budou aplikace Microsoft týmy začínat v nových instalacích sady Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
 Kromě toho, počínaje verzí 1906 v měsíčním kanálu, budou týmy *přidány do existujících instalací* sady Office 365 ProPlus (a Office 365 Business) na zařízeních se systémem Windows při aktualizaci stávající instalace na nejnovější verzi. Další informace naleznete v tématu [co jsou stávající instalace sady Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 

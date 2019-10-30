@@ -1,28 +1,27 @@
 ---
-title: Poradce při potížích s přístup odepřen zprávy OneDrive pro obchodní sítě
+title: Odstraňování problémů s odepřeným přístupem k serverům OneDrive pro podnikové weby
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 11/14/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 39f9b9b1ca22f6e5959e2b431fb373b0002c0a92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3c40ad76a8961a3d0b4963483291c2a1364c51d3
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507804"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766704"
 ---
-# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Poradce při potížích s přístup odepřen zprávy OneDrive pro obchodní sítě
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Odstraňování problémů s odepřeným přístupem k serverům OneDrive pro podnikové weby
 
-Tento problém nastává nejčastěji v případě, že uživatel bude odstraněn a znovu vytvořen pomocí stejný hlavní název uživatele (UPN). Nový účet je vytvořen pomocí jiné hodnoty PUID (jedinečné ID služby Passport). Když uživatel pokusí o přístup ke kolekci webů nebo jejich OneDrive, má uživatel nesprávná PUID. Druhý scénář zahrnuje adresář synchronizace s Active Directory organizační jednotky (OU). Pokud uživatelé mají již přihlášeni do služby SharePoint, jsou přesunuty do jiné organizační jednotky a resynced se službou SharePoint, se mohou setkat tento problém.
+K tomuto problému nejčastěji dochází, když je uživatel odstraněn a znovu vytvořen se stejným hlavním uživatelským jménem (UPN). Nový účet je vytvořen pomocí jiné hodnoty PUID (Passport Unique ID). Když se uživatel pokusí o přístup k kolekci webů nebo k jejich objektu OneDrive, má uživatel nesprávný identifikátor PUID. Druhý scénář zahrnuje synchronizaci adresářů s organizační jednotkou služby Active Directory. Pokud se uživatelé již přihlásili ke službě SharePoint a pak jsou přesunuté do jiné organizační jednotky a znovu synchronizovány se službou SharePoint, mohou k tomuto problému dojít.
 
-1. Chcete-li vyřešit tento problém by mělo obnovit původní hlavní název uživatele pomocí kroků popsaných v následujícím článku[obnovení uživatele ve službách Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
-2. Pokud nemůžete obnovit původní uživatele byste měli odebrat staré uživatele z webu OneDrive pomocí těchto kroků [Odebrat uživatele ze seznamu informací o uživatelích](). 
-3. Po dokončení se můžete ověřit, zda že má uživatel práva správce k webu OneDrive pomocí následujícího postupu chcete-li [Přidat admin je pro uživatele OneDrive](https://docs.microsoft.com/sharepoint/manage-user-profiles?redirectSourcePath=%252fen-us%252farticle%252fmanage-user-profiles-in-the-sharepoint-admin-center-494bec9c-6654-41f0-920f-f7f937ea9723#add-and-remove-admins-for-a-users-onedrive)
+1. Chcete-li tento problém vyřešit, obnovte původní název UPN podle kroků v článku, [obnovte uživatele v sadě Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
+2. Pokud původní uživatel nelze obnovit, měli byste odebrat původního uživatele z webu OneDrive pomocí těchto kroků, a [Odebrat uživatele ze seznamu informací o uživateli](). 
+3. Po provedení této funkce můžete ověřit, zda má uživatel oprávnění správce k webu OneDrive, a to podle kroků, které slouží k [Přidání správce na server OneDrive](https://docs.microsoft.com/sharepoint/manage-user-profiles?redirectSourcePath=%252fen-us%252farticle%252fmanage-user-profiles-in-the-sharepoint-admin-center-494bec9c-6654-41f0-920f-f7f937ea9723#add-and-remove-admins-for-a-users-onedrive) .
 
-Další informace o úrovních oprávnění naleznete v článku [Principy úrovněmi oprávnění služby SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Další informace o úrovních oprávnění naleznete v článku s [Principy úrovní oprávnění ve službě SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).

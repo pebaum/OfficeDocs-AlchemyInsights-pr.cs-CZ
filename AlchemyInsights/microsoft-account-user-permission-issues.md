@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754185"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768794"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Odstraňování problémů s problémem-uživatel nenalezen v adresáři
 
-Pokud se uživatelům zobrazuje chybová zpráva "uživatel nemůže být nalezen" v adresáři. Opakujte akci, pokud je typ problému uživatel není v adresáři.
+Pokud se uživatelům zobrazuje chybová zpráva "uživatel nebyl nalezen" v adresáři, opakujte akci, pokud je typ problému uživatel není v adresáři.
 
 K vyřešení problému lze provést následující kroky.
 
@@ -29,7 +29,7 @@ Další informace naleznete v tématu [Správa aliasů pro účet</a> společnos
 
 Přidejte "/_layouts/15/People.aspx/MembershipGroupId = 0" (v rámci uvozovek) na konec adresy URL webu. 
 
-Například: https://__ "contoso">. SharePoint. com/_layouts/15/osoby. aspx/membershipGroupId = 0.
+Příklad: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Vyberte uživatele ze seznamu.
 

@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1926"
 - "6200018"
-ms.openlocfilehash: cbdedd2c5fcf5517243e60e36d86479d6c3f7814
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 3cdd2175083e864b3bffc57a70bb6c6220843fad
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36529012"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769332"
 ---
 # <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>K události při změně nedojde, pokud je pole změněno programově
 
-K události *při změně* nedojde, pokud se pole změní programově pomocí *atributu.* Metoda [SetValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) . Pokud chcete, aby byly obslužné rutiny události události při *změně* spuštěny po nastavení hodnoty, musíte použít *atribut FormContext. data. entity.* ve vašem kódu metodu [Fireonchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) .
+K události *při změně* nedojde, pokud se pole změní programově pomocí *atributu.* Metoda [SetValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) . Chcete-li, aby byly obslužné rutiny události při *změně* spuštěny po nastavení hodnoty, musíte použít *atribut FormContext. data. entity* [](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) v kódu.
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange)

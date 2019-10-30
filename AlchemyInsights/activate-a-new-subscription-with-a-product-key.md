@@ -1,9 +1,8 @@
 ---
-title: Aktivace nového předplatného pomocí kódu product key
+title: Aktivace nového předplatného pomocí klíče produktu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: e371f550f7dd8e1716f55cbabfff2ae598c9a47d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495636"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766380"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a>Aktivace nového předplatného pomocí kódu product key
+# <a name="activate-a-new-subscription-with-a-product-key"></a>Aktivace nového předplatného pomocí klíče produktu
 
-1. Nové předplatné aktivovat pomocí kódu product key, přejděte [https://office.com/setupkey](https://office.com/setupkey) stránky.
+1. Chcete-li aktivovat nové předplatné sady Office 365 pomocí vašeho klíče produktu, [https://office.com/setupkey](https://office.com/setupkey)přejděte na.
 
-2. Zadejte kód product key sady Office 365 a postupujte podle pokynů k aktivaci vašeho předplatného. Pokud máte s aktivací potíže, podívejte se na tento [seznam běžných chyb s kódem Product Key a řešení](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).
+2. Zadejte kód Product Key sady Office 365 a podle pokynů aktivujte předplatné. Pokud máte s aktivací potíže, podívejte se na tento [seznam běžných chyb s kódem Product Key a řešení](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).

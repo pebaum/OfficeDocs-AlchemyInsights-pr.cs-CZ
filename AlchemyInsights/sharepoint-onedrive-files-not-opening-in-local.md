@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 8f6179e75f076fb452baf79cac71262a87595c93
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 6ae4ce4d48f136b9c9befbabacbcb554cf436b44
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750837"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766776"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>Problémy při otevírání souborů sady Office ze služby SharePoint
 
@@ -29,5 +29,5 @@ Máte-li potíže s otevíráním souborů a dokumentů sady Office ze služby S
 
 Další informace nebo podrobnosti naleznete v článku, [řešení problémů při otevírání dokumentů v knihovnách služby SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
-**Poznámka**: Pokud máte problémy s dokumenty otevíráním v prohlížeči nebo klientovi ve výchozím nastavení, bude pravděpodobně nutné změnit nastavení knihovny. Chcete-li to provést, přejděte do knihovny s potížemi > ikonu zařízení v pravém horním rohu > nastavení knihovny > Upřesnit nastavení > otevírání dokumentů v prohlížeči.
+**Poznámka:** Pokud máte problémy s dokumenty otevíráním v prohlížeči nebo klientovi ve výchozím nastavení, bude pravděpodobně nutné změnit nastavení knihovny. Chcete-li to provést, přejděte do knihovny, která má problémy > zařízení v pravém horním rohu > **Nastavení** >  knihovny**upřesňující nastavení** > **otevírající dokumenty v prohlížeči**.
 
