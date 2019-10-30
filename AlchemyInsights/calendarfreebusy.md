@@ -1,8 +1,7 @@
 ---
-title: Kalendář 400 - FreeBusy
+title: 400 kalendář-volný čas
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,13 +9,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: 284f069416ee9fecbd623beb4f4174212179099c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c3e9f99f0132f3fffa492c995cd8c45959749ea
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396211"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768469"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a><span data-ttu-id="8a19f-102">Problémy při prohlížení kalendáře volném informace</span><span class="sxs-lookup"><span data-stu-id="8a19f-102">Issues seeing calendar free/busy information</span></span>
+# <a name="issues-seeing-calendar-freebusy-information"></a><span data-ttu-id="e20fd-102">Problémy s informacemi o volném čase v kalendáři</span><span class="sxs-lookup"><span data-stu-id="e20fd-102">Issues seeing calendar free/busy information</span></span>
 
-<span data-ttu-id="8a19f-103">Pokud nevidíte v kalendářích jiných uživatelů informace o volném čase nebo pokud jiní uživatelé nevidí informace o volném čase ve vašem kalendáři, použijte [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="8a19f-103">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="e20fd-103">Pokud nejsou v jiných kalendářích aplikace Outlook zobrazeny informace o volném čase v kalendáři nebo pokud ostatní uživatelé neuvidí informace o volném čase v kalendáři, použijte [Pomocníka pro podporu a zotavení společnosti Microsoft pro sadu Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="e20fd-103">If you can't see calendar free/busy information in other Outlook calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
