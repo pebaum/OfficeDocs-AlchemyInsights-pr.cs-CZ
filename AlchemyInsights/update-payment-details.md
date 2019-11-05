@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660929"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921807"
 ---
 # <a name="update-payment-details"></a>Aktualizace platebních údajů
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660929"
 4. Zkontrolujte aktualizace a pak zvolte **Uložit**.
 
 5. Pokud chcete tento způsob platby odebrat, zvolte **Odstranit**.
+
+**Řešení potíží**
+
+Pokud narazíte na problémy s načítáním webové stránky, zkuste ji otevřít v jiném prohlížeči nebo ji zkuste otevřít v anonymním okně prohlížeče – například v okně se službou procházení InPrivate v Microsoft Edge nebo v okně anonymního režimu v Google Chromu. 
 
 Další informace najdete v článcích [Přidání, aktualizace nebo odebrání platební karty nebo bankovního účtu v Office 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) a [Řešení potíží s platebními kartami a bankovními účty](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
