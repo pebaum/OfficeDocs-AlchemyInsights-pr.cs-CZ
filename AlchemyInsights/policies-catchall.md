@@ -1,0 +1,34 @@
+---
+title: Hlavní zásady
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9000734"
+- "3207"
+ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
+ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.translationtype: MT
+ms.contentlocale: cs-CZ
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38274847"
+---
+# <a name="teams-policies"></a><span data-ttu-id="45983-102">Zásady týmů</span><span class="sxs-lookup"><span data-stu-id="45983-102">Teams policies</span></span>
+
+<span data-ttu-id="45983-103">Nastavení týmů společnosti Microsoft je řízeno zásadami.</span><span class="sxs-lookup"><span data-stu-id="45983-103">Microsoft Teams settings are controlled by policies.</span></span> <span data-ttu-id="45983-104">Chcete-li provést změnu, je nutné nakonfigurovat příslušnou zásadu a potom ji použít pro uživatele.</span><span class="sxs-lookup"><span data-stu-id="45983-104">To make a change, you must configure the appropriate policy, and then apply it to users.</span></span> <span data-ttu-id="45983-105">Nejrychlejším způsobem, jak to provést pro všechny uživatele, je Změna výchozí zásady s názvem Global.</span><span class="sxs-lookup"><span data-stu-id="45983-105">The quickest way to do this for all your users is to modify the default policy named Global.</span></span> 
+
+<span data-ttu-id="45983-106">**Poznámka:** Změny politiky ***se projeví nejméně 4 až 48 hodin***.</span><span class="sxs-lookup"><span data-stu-id="45983-106">**NOTE** Policy changes take ***at least 4 up to 48 hours to take effect***.</span></span> <span data-ttu-id="45983-107">Pokud vytvoříte vlastní zásadu, musíte před provedením dalších změn počkat alespoň 4 hodiny.</span><span class="sxs-lookup"><span data-stu-id="45983-107">If you create a custom policy, you need to wait at least 4 hours before you can make additional changes to it.</span></span> <span data-ttu-id="45983-108">Potom můžete tuto zásadu použít pro uživatele.</span><span class="sxs-lookup"><span data-stu-id="45983-108">Then you can apply that policy to users.</span></span> <span data-ttu-id="45983-109">To znamená, že vlastní zásady mohou trvat až 48 hodin.</span><span class="sxs-lookup"><span data-stu-id="45983-109">This means that custom policies can take up to 48 hours to take effect.</span></span> <span data-ttu-id="45983-110">Globální zásady jsou nastaveny jako výchozí pro všechny uživatele a změny globální zásady mohou trvat až 24 hodin.</span><span class="sxs-lookup"><span data-stu-id="45983-110">Global policies are set as default for all users, and changes to the Global policy can take up to 24 hours to take effect.</span></span> <span data-ttu-id="45983-111">Pokud jste vytvořili vlastní zásadu, použili ji pro uživatele a stále se neuplatili po 48 hodinách, nebo jste změnili globální zásadu a čekali alespoň 24 hodin, otevřete případ podpory.</span><span class="sxs-lookup"><span data-stu-id="45983-111">If you have created a custom policy, applied it to users, and it still hasn't taken effect after 48 hours, or you've modified the Global policy and waited at least 24 hours, please open a support case.</span></span>
+
+<span data-ttu-id="45983-112">Zásady týmů jsou rozděleny do následujících oblastí:</span><span class="sxs-lookup"><span data-stu-id="45983-112">Teams policies are divided into the following areas:</span></span>
+
+- <span data-ttu-id="45983-113">[Zásady týmů](https://docs.microsoft.com/MicrosoftTeams/teams-policies) řídí zjišťování uživatelů soukromých týmů při vyhledávání a vytváření soukromých kanálů.</span><span class="sxs-lookup"><span data-stu-id="45983-113">[Teams policies](https://docs.microsoft.com/MicrosoftTeams/teams-policies) control user discovery of private teams in search and creation of private channels.</span></span>  
+- <span data-ttu-id="45983-114">[Zásady schůzky](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) řídí, co mohou uživatelé provádět s schůzkami týmů, včetně řízení haly.</span><span class="sxs-lookup"><span data-stu-id="45983-114">[Meeting policies](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) control what users can do with Teams meetings, including controlling the lobby.</span></span> <span data-ttu-id="45983-115">Pro pomoc s problémy v lobby, jako je konfigurace týmů pro přizvování každého, viz [řízení nastavení lobby a úroveň účasti](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).</span><span class="sxs-lookup"><span data-stu-id="45983-115">For help with lobby issues, like configuring Teams to admit everyone, see [Control lobby settings and levels of participation](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).</span></span>
+- <span data-ttu-id="45983-116">[Zásady zasílání zpráv](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) řídí, co mohou uživatelé provádět s konverzací a zprávami, včetně zapínání a vypínání konverzace, odstraňování diskusí, požadování potvrzení o přečtení, použití cikských a samolepků a dalších.</span><span class="sxs-lookup"><span data-stu-id="45983-116">[Messaging policies](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) control what users can do with chat and messages, including turning chat on or off, deleting chats, requesting read receipts, using giphys and stickers, and more.</span></span>
+- <span data-ttu-id="45983-117">[Zásady nastavení aplikace](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) kontrolují, které aplikace jsou k dispozici uživatelům, včetně vlastních aplikací a aplikací jiných výrobců, a pořadí, v jakém jsou zobrazeny.</span><span class="sxs-lookup"><span data-stu-id="45983-117">[App setup policies](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) control which apps are available to users, including custom and third-party apps, and the order in which they appear.</span></span>  
+- <span data-ttu-id="45983-118">[Zásady uchovávání](https://docs.microsoft.com/microsoftteams/retention-policies) dat pro týmy jsou k nalezení v centru zabezpečení a kompatibility sady Office 365.</span><span class="sxs-lookup"><span data-stu-id="45983-118">Data [retention policies](https://docs.microsoft.com/microsoftteams/retention-policies) for Teams are found in the Office 365 Security and Compliance Center.</span></span>
+- <span data-ttu-id="45983-119">Zásady adresáře týmů jsou nastaveny pomocí [vyhledávání v adresáři s rozsahem](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).</span><span class="sxs-lookup"><span data-stu-id="45983-119">Teams address book policies are set via [scoped directory search](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).</span></span>
