@@ -12,15 +12,15 @@ ms.custom:
 - "9000751"
 - "2689"
 ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768685"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Vyprázdnění složky Odstraněná pošta
 
-Chcete -li vyprázdnit všechny odstraněné zprávy aplikace Outlook, přejděte do [složky Odstraněná pošta](https://outlook.live.com/mail/deleteditems)a vyberte **prázdnou složku**, pak vyberte položku **Obnovit odstraněné položky z této složky** nad seznamem zpráv a vyberte **prázdnou složku**  znovu.
+ Chcete-li vyprázdnit všechny odstraněné zprávy aplikace Outlook, přejděte do [složky Odstraněná pošta](https://outlook.live.com/mail/deleteditems)a **Vyberte prázdnou složku**, pak vyberte položku **Obnovit odstraněné položky z této složky** nad seznamem zpráv a znovu vyberte **prázdnou složku** .
 
 Pokud jste odstranili mnoho zpráv, může chvíli trvat, než se tyto položky přesunou nebo odstraní ze složky Odstraněná pošta. Ponechte okno prohlížeče otevřené, dokud nebudou položky odstraněny.
 
