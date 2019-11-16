@@ -13,10 +13,10 @@ ms.custom:
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
 ms.openlocfilehash: cebeea438ac881d9930eecb9bcb031f9a6e92977
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36499632"
 ---
 # <a name="inbox-rules"></a>Pravidla doručené pošty
@@ -27,4 +27,4 @@ Další informace o použití pravidel pro doručenou poštu ve vlastní poštov
 
 - [Správa zpráv pomocí pravidel pro doručenou poštu v aplikaci Outlook na webu](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
 
-Pravidla doručené pošty můžete spravovat také v prostředí Exchange Online PowerShell. Další informace naleznete v tématu [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (zobrazení), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (vytvořit), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (odstranit), [set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (upravit existující), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (zakázat existující) a [Enable-InboxRule ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(povolit existující).
+Pravidla doručené pošty můžete spravovat také v prostředí Exchange Online PowerShell. Další informace naleznete v tématech [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (zobrazení), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (vytvořit), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (odstranit), [set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (upravit existující), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (zakázat existující) a [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (povolit existující).
