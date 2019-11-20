@@ -1,5 +1,5 @@
 ---
-title: Zkopírovat položky do knihovny dokumentů služby SharePoint
+title: Kopírování položek v knihovně dokumentů služby SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,29 +13,33 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 3b63262a289261bc1e040f745096645e7f2c784c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5f9e1fdc74d4d2264d6daacbb96d03cd1b98bd82
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516350"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711785"
 ---
-# <a name="copy-items-in-a-sharepoint-document-library"></a>Zkopírovat položky do knihovny dokumentů služby SharePoint
+# <a name="copy-items-in-a-sharepoint-document-library"></a>Kopírování položek v knihovně dokumentů služby SharePoint
 
-1. Ve webovém prohlížeči vyhledejte soubory, složky nebo odkazy, které chcete zkopírovat a potom klepněte na tlačítko **Kopírovat**.
-
-    > [!NOTE]
-    > **Kopírování** není k dispozici, pokud používáte klasické prostředí SharePoint online.
-  
-2. Ve skupinovém rámečku **Vybrat cílové umístění**vyberte umístění, do kterého chcete kopírovat položky. Při kopírování na jiný web nebo podřízený web a nevidíte uveden, klepněte na tlačítko **Procházet weby,** Chcete-li zobrazit úplný seznam webů, které můžete zkopírovat.
+1. Ve webovém prohlížeči vyhledejte soubory, složky nebo odkazy, které chcete kopírovat, a klepněte na tlačítko **Kopírovat**.
 
     > [!NOTE]
-    > Pokud nevidíte ostatní weby uvedené při kopírování položek, kopírování na webech nebyl nakonfigurován. Chcete-li ji povolit, přejděte na stránku nastavení Centra správy služby SharePoint a klepněte na tlačítko **OK**.
+    > Pokud používáte klasické možnosti služby SharePoint Online, není tato **kopie** k dispozici.
   
-    Chcete-li vytvořit novou složku a zkopírujte soubory, které chcete, vyberte umístění v hierarchii složek, klepněte na tlačítko **Nová složka**, zadejte název složky a klepněte na zaškrtávací políčko, chcete-li uložit název.
+2. Ve skupinovém rámečku **vybrat cíl**vyberte umístění, do kterého chcete položky kopírovat. Pokud kopírujete do jiného webu nebo podřízeného serveru a není zobrazen v seznamu, klepněte na možnost **Procházet weby** a zobrazte úplný seznam webů, do kterých lze kopírovat.
 
-3. Klepněte na tlačítko **Zkopírovat sem**.
+    > [!NOTE]
+    > Pokud se při kopírování položek nezobrazí v seznamu jiné weby, kopírování na webech nebylo nakonfigurováno. Chcete-li ji povolit, přejděte na stránku nastavení v centru pro správu služby SharePoint a klepněte na tlačítko **OK**.
+  
+    Chcete-li vytvořit novou složku pro kopírování souborů, vyberte umístění v hierarchii složek, klepněte na možnost **Nová složka**, zadejte název složky a klepnutím na zaškrtávací značku uložte název.
+
+3. Klepněte na **Kopírovat zde**.
 
 > [!NOTE]
-> Až 500 MB pro soubory a složky lze kopírovat najednou. > při použití **Kopírovat** s dokumenty, které mají historii verzí nejnovější verze se zkopíruje.
+> Současně můžete zkopírovat až 500 MB souborů a složek. > použijete-li **kopírování** v aplikaci s dokumenty, které mají historii verzí, bude zkopírována pouze poslední verze.
   
+Další informace najdete tady:
+
+ - [Přesouvání nebo kopírování souborů ve službě SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (článek podpory sady Office)
+ - [Přesunout soubory z libovolné složky v sadě Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (článek o blogu Microsoft Tech Společenství)   
