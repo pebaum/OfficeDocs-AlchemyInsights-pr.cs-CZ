@@ -1,9 +1,8 @@
 ---
-title: Data veřejných složek přenést do služeb Office 365
+title: Migrovat data veřejných složek do sady Office 365
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,24 +11,22 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 9bf21c6377d4587032cac0549d6e57ee0749c437
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 85bef3ac5f590a57ead16cb73c7961fcb0ee8eae
+ms.sourcegitcommit: 198defbbed20dd9db3f7c044c6e77a8feb05dacd
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544351"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "39202587"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a><span data-ttu-id="6a625-102">Data veřejných složek přenést do služeb Office 365</span><span class="sxs-lookup"><span data-stu-id="6a625-102">Migrate public folder data to Office 365</span></span>
+# <a name="migrate-public-folder-data-to-office-365"></a><span data-ttu-id="35058-102">Migrovat data veřejných složek do sady Office 365</span><span class="sxs-lookup"><span data-stu-id="35058-102">Migrate public folder data to Office 365</span></span>
 
-<span data-ttu-id="6a625-103">Pokud nemáte velké množství veřejných složek, které chcete přenést do služeb Office 365, nejjednodušší způsob, jak uvedly bude kopírovat data do. PST soubory a potom je importovat do služeb Office 365.</span><span class="sxs-lookup"><span data-stu-id="6a625-103">If you don't have a lot of public folders to bring into Office 365, the easiest way to bring them would be to copy the data into .PST files and then import them into Office 365.</span></span> <span data-ttu-id="6a625-104">Pro malé množství dat, jednoduché přetažení do veřejné složky. Soubor PST může být dostatečné.</span><span class="sxs-lookup"><span data-stu-id="6a625-104">For small amounts of data, a simple drag and drop of public folder into a .PST file can be sufficient.</span></span> <span data-ttu-id="6a625-105">Pokud máte více dat než tento (až 30GB), máme [zdokumentovány procesu](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) , můžete exportovat do souborů PST složek.</span><span class="sxs-lookup"><span data-stu-id="6a625-105">If you have more data than that (up to 30GB), we have [documented a process](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) that you can use to export folders to PST files.</span></span>
+<span data-ttu-id="35058-103">Pokud nemáte mnoho veřejných složek pro uvedení do sady Office 365, je nejjednodušší způsob, jak je přivést, zkopírovat data do aplikace. Soubory PST a potom je importovat do sady Office 365.</span><span class="sxs-lookup"><span data-stu-id="35058-103">If you don't have a lot of public folders to bring into Office 365, the easiest way to bring them would be to copy the data into .PST files and then import them into Office 365.</span></span> <span data-ttu-id="35058-104">U malých objemů dat se jedná o jednoduchou přetažení veřejné složky do. PST může být dostačující.</span><span class="sxs-lookup"><span data-stu-id="35058-104">For small amounts of data, a simple drag and drop of public folder into a .PST file can be sufficient.</span></span> <span data-ttu-id="35058-105">Pokud máte více dat (až 30 GB), [dokumentujeme proces](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) , který můžete použít k exportu složek do souborů PST.</span><span class="sxs-lookup"><span data-stu-id="35058-105">If you have more data than that (up to 30GB), we have [documented a process](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) that you can use to export folders to PST files.</span></span>
   
-<span data-ttu-id="6a625-106">Pro větší organizace, kteří jsou přesunutí veřejné složky do služeb Office 365 máme k dispozici několik vodítek:</span><span class="sxs-lookup"><span data-stu-id="6a625-106">For larger organizations who are moving public folders into Office 365, we have several guides available:</span></span>
+<span data-ttu-id="35058-106">U větších organizací, které přesunují veřejné složky do sady Office 365, máme k dispozici vodítka:</span><span class="sxs-lookup"><span data-stu-id="35058-106">For larger organizations who are moving public folders into Office 365, we have guides available:</span></span>
   
-- <span data-ttu-id="6a625-107">[Migrovat starší veřejné složky](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 a starší)</span><span class="sxs-lookup"><span data-stu-id="6a625-107">[Migrate legacy public folders](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 and earlier)</span></span>
+- <span data-ttu-id="35058-107">[Přenést starší veřejné složky](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)</span><span class="sxs-lookup"><span data-stu-id="35058-107">[Migrate legacy public folders](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)</span></span>
 
-- [<span data-ttu-id="6a625-108">Přenášet veřejné složky serveru Exchange 2013</span><span class="sxs-lookup"><span data-stu-id="6a625-108">Migrate Exchange 2013 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
+- [<span data-ttu-id="35058-108">Přenést veřejné složky serveru Exchange 2013, Exchange 2016 nebo Exchange 2019</span><span class="sxs-lookup"><span data-stu-id="35058-108">Migrate Exchange 2013, Exchange 2016, or Exchange 2019 public folders</span></span>](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-- [<span data-ttu-id="6a625-109">Přenášet veřejné složky serveru Exchange 2016</span><span class="sxs-lookup"><span data-stu-id="6a625-109">Migrate Exchange 2016 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
-
-<span data-ttu-id="6a625-110">Máte také možnost [přenášet veřejné složky do skupin Office 365](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="6a625-110">You also have the option to [migrate public folders to Office 365 Groups](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).</span></span>
+<span data-ttu-id="35058-109">Také máte možnost [migrovat veřejné složky do skupin Office 365](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).</span><span class="sxs-lookup"><span data-stu-id="35058-109">You also have the option to [migrate public folders to Office 365 Groups](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).</span></span>
   
