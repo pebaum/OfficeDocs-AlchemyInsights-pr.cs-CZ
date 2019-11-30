@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 09cbbc28e3ad826dc3ed69a89e5ab3983c1aea24
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 88e139e9d1179dd1afb14686a4c4e3ee5e211ebc
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37373104"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626377"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Týmové společné problémy a řešení
 
@@ -34,5 +34,5 @@ Zde jsou některé další zdroje informací:
 - **Odstraňování problémů s chybějícím programem pro vytáčení:**  
     - Ujistěte se, že uživateli byla přidělena [licence týmů](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
     - Ujistěte se, že má uživatel přiřazen [volací plán](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
-    - Povolit uživatele pro [Podnikový hlas](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+    - Povolit uživatele pro [Podnikový hlas](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
 - **Známé problémy s týmy:** Přečtěte si [známé problémy v týmu Microsoft](https://docs.microsoft.com/microsoftteams/known-issues).
