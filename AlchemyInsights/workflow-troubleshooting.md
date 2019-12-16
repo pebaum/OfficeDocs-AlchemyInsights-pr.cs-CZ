@@ -1,7 +1,7 @@
 ---
-title: Poradce při potížích s pracovní postup
-ms.author: efrene
-author: efrene
+title: Odstraňování potíží s pracovním postupem
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: d156c414d741003f2ebddc63b2bc95167027169d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bda58c3e7f186fec2057258ed17747690c7a3248
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558070"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049294"
 ---
-# <a name="workflow-troubleshooting"></a><span data-ttu-id="f1555-102">Poradce při potížích s pracovní postup</span><span class="sxs-lookup"><span data-stu-id="f1555-102">Workflow troubleshooting</span></span>
+# <a name="workflow-troubleshooting"></a><span data-ttu-id="4b749-102">Odstraňování potíží s pracovním postupem</span><span class="sxs-lookup"><span data-stu-id="4b749-102">Workflow troubleshooting</span></span>
 
-<span data-ttu-id="f1555-103">Informace o ladění pracovních postupů služby SharePoint zvažte následující skutečnosti:</span><span class="sxs-lookup"><span data-stu-id="f1555-103">For information about debugging SharePoint workflows, review the following:</span></span>
-- <span data-ttu-id="f1555-104">Ladění pracovních postupů se podobá předchozích verzí.</span><span class="sxs-lookup"><span data-stu-id="f1555-104">Debugging workflows resembles that of previous versions.</span></span>  <span data-ttu-id="f1555-105">Další informace naleznete v tématu [pracovní postupy ladění služby SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span><span class="sxs-lookup"><span data-stu-id="f1555-105">For more information, see [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span>
-- <span data-ttu-id="f1555-106">Další informace o odstraňování potíží naleznete v tématu [chyby ověření pracovního postupu odstraňování problémů serveru SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).</span><span class="sxs-lookup"><span data-stu-id="f1555-106">For more information about troubleshooting, see [Troubleshoot SharePoint Server workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).</span></span>
+<span data-ttu-id="4b749-103">Informace o ladění pracovních postupů služby SharePoint naleznete v následujících informacích:</span><span class="sxs-lookup"><span data-stu-id="4b749-103">For information about debugging SharePoint workflows, review the following:</span></span>
+- <span data-ttu-id="4b749-104">Ladění pracovních postupů se podobá předchozím verzím.</span><span class="sxs-lookup"><span data-stu-id="4b749-104">Debugging workflows resembles that of previous versions.</span></span>  <span data-ttu-id="4b749-105">Další informace najdete v části [ladění pracovních postupů služby SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span><span class="sxs-lookup"><span data-stu-id="4b749-105">For more information, see [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span>
+- <span data-ttu-id="4b749-106">Další informace o odstraňování potíží naleznete v tématu [Poradce při potížích s ověřením pracovního postupu serveru SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).</span><span class="sxs-lookup"><span data-stu-id="4b749-106">For more information about troubleshooting, see [Troubleshoot SharePoint Server workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).</span></span>
  
 
-## <a name="related-topics"></a><span data-ttu-id="f1555-107">Související témata</span><span class="sxs-lookup"><span data-stu-id="f1555-107">Related topics</span></span>
-<span data-ttu-id="f1555-108">Chcete vyzkoušet Microsoft Flow v Online služby SharePoint?</span><span class="sxs-lookup"><span data-stu-id="f1555-108">Want to try Microsoft Flow in SharePoint Online?</span></span>
-- [<span data-ttu-id="f1555-109">Vytvoření toku</span><span class="sxs-lookup"><span data-stu-id="f1555-109">Create Flow</span></span>](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [<span data-ttu-id="f1555-110">SharePoint a toku</span><span class="sxs-lookup"><span data-stu-id="f1555-110">SharePoint and Flow</span></span>](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+## <a name="related-topics"></a><span data-ttu-id="4b749-107">Související témata</span><span class="sxs-lookup"><span data-stu-id="4b749-107">Related topics</span></span>
+<span data-ttu-id="4b749-108">Chcete vyzkoušet program Microsoft Flow ve službě SharePoint Online?</span><span class="sxs-lookup"><span data-stu-id="4b749-108">Want to try Microsoft Flow in SharePoint Online?</span></span>
+- [<span data-ttu-id="4b749-109">Vytvořit tok</span><span class="sxs-lookup"><span data-stu-id="4b749-109">Create Flow</span></span>](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [<span data-ttu-id="4b749-110">Služba SharePoint a tok</span><span class="sxs-lookup"><span data-stu-id="4b749-110">SharePoint and Flow</span></span>](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
 

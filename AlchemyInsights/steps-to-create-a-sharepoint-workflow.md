@@ -1,7 +1,7 @@
 ---
 title: Postup vytvoření pracovního postupu služby SharePoint
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,29 +12,29 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "1718"
-ms.openlocfilehash: 5d346c68490fb6fde4bd86c24947e2e56d88fb15
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ee76edc1ab5d4b174d72e61f432f3ff7fe07e0c5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559622"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053542"
 ---
-# <a name="steps-to-create-a-sharepoint-workflow"></a><span data-ttu-id="b287a-102">Postup vytvoření pracovního postupu služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="b287a-102">Steps to create a SharePoint workflow</span></span>
+# <a name="steps-to-create-a-sharepoint-workflow"></a><span data-ttu-id="cd95b-102">Postup vytvoření pracovního postupu služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="cd95b-102">Steps to create a SharePoint workflow</span></span>
 
-- <span data-ttu-id="b287a-103">Pokud jste k přidání pracovního postupu schválení SharePoint 2010, viz [nelze přidat výchozí pracovní postup schválení 2010](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).</span><span class="sxs-lookup"><span data-stu-id="b287a-103">If you are unable to add a SharePoint 2010 Approval workflow, see [Can't add default 2010 Approval Workflow](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).</span></span>
-- <span data-ttu-id="b287a-104">Jak vytvořit pracovní postupy:</span><span class="sxs-lookup"><span data-stu-id="b287a-104">How to create workflows:</span></span>
-    - [<span data-ttu-id="b287a-105">2013 pracovního postupu z aplikace SharePoint Designer</span><span class="sxs-lookup"><span data-stu-id="b287a-105">2013 Workflow from SharePoint Designer</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
-    - [<span data-ttu-id="b287a-106">2010 pracovního postupu z aplikace SharePoint Designer</span><span class="sxs-lookup"><span data-stu-id="b287a-106">2010 Workflow from SharePoint Designer</span></span>](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
-    - [<span data-ttu-id="b287a-107">Úvod do pracovního postupu služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="b287a-107">Introduction to SharePoint workflow</span></span>](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
+- <span data-ttu-id="cd95b-103">Pokud nemůžete přidat pracovní postup schválení serveru SharePoint 2010, viz. [nelze přidat výchozí pracovní postup schválení 2010](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).</span><span class="sxs-lookup"><span data-stu-id="cd95b-103">If you are unable to add a SharePoint 2010 Approval workflow, see [Can't add default 2010 Approval Workflow](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).</span></span>
+- <span data-ttu-id="cd95b-104">Postup při vytváření pracovních postupů:</span><span class="sxs-lookup"><span data-stu-id="cd95b-104">How to create workflows:</span></span>
+    - [<span data-ttu-id="cd95b-105">2013 pracovní postup z aplikace SharePoint Designer</span><span class="sxs-lookup"><span data-stu-id="cd95b-105">2013 Workflow from SharePoint Designer</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
+    - [<span data-ttu-id="cd95b-106">2010 pracovní postup z aplikace SharePoint Designer</span><span class="sxs-lookup"><span data-stu-id="cd95b-106">2010 Workflow from SharePoint Designer</span></span>](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
+    - [<span data-ttu-id="cd95b-107">Úvod do pracovního postupu služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="cd95b-107">Introduction to SharePoint workflow</span></span>](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
 
-- <span data-ttu-id="b287a-108">Pracovní postup řešení potíží a ladění:</span><span class="sxs-lookup"><span data-stu-id="b287a-108">Workflow Troubleshooting and Debugging:</span></span>
-    - <span data-ttu-id="b287a-109">Ladění pracovních postupů se podobá předchozích verzí.</span><span class="sxs-lookup"><span data-stu-id="b287a-109">Debugging workflows resembles that of previous versions.</span></span>  <span data-ttu-id="b287a-110">Další informace naleznete v tématu [pracovní postupy ladění služby SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span><span class="sxs-lookup"><span data-stu-id="b287a-110">For more information, see [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span>
-    - <span data-ttu-id="b287a-111">Další informace o odstraňování potíží naleznete v tématu [chyby ověření pracovního postupu odstraňování problémů serveru SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).</span><span class="sxs-lookup"><span data-stu-id="b287a-111">For more information about troubleshooting, see [Troubleshoot SharePoint Server workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).</span></span>
+- <span data-ttu-id="cd95b-108">Odstraňování potíží a ladění pracovního postupu:</span><span class="sxs-lookup"><span data-stu-id="cd95b-108">Workflow Troubleshooting and Debugging:</span></span>
+    - <span data-ttu-id="cd95b-109">Ladění pracovních postupů se podobá předchozím verzím.</span><span class="sxs-lookup"><span data-stu-id="cd95b-109">Debugging workflows resembles that of previous versions.</span></span>  <span data-ttu-id="cd95b-110">Další informace najdete v části [ladění pracovních postupů služby SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span><span class="sxs-lookup"><span data-stu-id="cd95b-110">For more information, see [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span>
+    - <span data-ttu-id="cd95b-111">Další informace o odstraňování potíží naleznete v tématu [Poradce při potížích s ověřením pracovního postupu serveru SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).</span><span class="sxs-lookup"><span data-stu-id="cd95b-111">For more information about troubleshooting, see [Troubleshoot SharePoint Server workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).</span></span>
  
 
-## <a name="related-topics"></a><span data-ttu-id="b287a-112">Související témata</span><span class="sxs-lookup"><span data-stu-id="b287a-112">Related topics</span></span>
-<span data-ttu-id="b287a-113">Chcete vyzkoušet Microsoft Flow v Online služby SharePoint?</span><span class="sxs-lookup"><span data-stu-id="b287a-113">Want to try Microsoft Flow in SharePoint Online?</span></span>
-- [<span data-ttu-id="b287a-114">Vytvoření toku</span><span class="sxs-lookup"><span data-stu-id="b287a-114">Create Flow</span></span>](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [<span data-ttu-id="b287a-115">SharePoint a toku</span><span class="sxs-lookup"><span data-stu-id="b287a-115">SharePoint and Flow</span></span>](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+## <a name="related-topics"></a><span data-ttu-id="cd95b-112">Související témata</span><span class="sxs-lookup"><span data-stu-id="cd95b-112">Related topics</span></span>
+<span data-ttu-id="cd95b-113">Chcete vyzkoušet program Microsoft Flow ve službě SharePoint Online?</span><span class="sxs-lookup"><span data-stu-id="cd95b-113">Want to try Microsoft Flow in SharePoint Online?</span></span>
+- [<span data-ttu-id="cd95b-114">Vytvořit tok</span><span class="sxs-lookup"><span data-stu-id="cd95b-114">Create Flow</span></span>](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [<span data-ttu-id="cd95b-115">Služba SharePoint a tok</span><span class="sxs-lookup"><span data-stu-id="cd95b-115">SharePoint and Flow</span></span>](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

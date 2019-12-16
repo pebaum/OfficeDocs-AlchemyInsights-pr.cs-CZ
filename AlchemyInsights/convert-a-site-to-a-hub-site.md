@@ -1,7 +1,7 @@
 ---
-title: Převést na web centrální lokalita
-ms.author: kaarins
-author: kaarins
+title: Převedení webu na centrální lokalitu
+ms.author: pebaum
+author: pebaum
 ms.date: 12/28/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,23 +11,23 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: 5d2f0ded6e32c62f880dce6314b5869231d6955d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5b8bb4d7a492db44888bb99bb21c59985295e13
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516736"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049942"
 ---
-# <a name="create-a-sharepoint-hub-site"></a><span data-ttu-id="36956-102">Vytvoření webu služby SharePoint rozbočovač</span><span class="sxs-lookup"><span data-stu-id="36956-102">Create a SharePoint hub site</span></span>
+# <a name="create-a-sharepoint-hub-site"></a><span data-ttu-id="31d79-102">Vytvoření webu rozbočovače služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="31d79-102">Create a SharePoint hub site</span></span>
 
-1. <span data-ttu-id="36956-103">V centru nového správce služby SharePoint **weby**klepněte v **aktivním serverům**.</span><span class="sxs-lookup"><span data-stu-id="36956-103">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span>
+1. <span data-ttu-id="31d79-103">V novém centru pro správu služby SharePoint klepněte v části **lokality**na položku **Active sites**.</span><span class="sxs-lookup"><span data-stu-id="31d79-103">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span>
 
-2. <span data-ttu-id="36956-104">Vyberte web, který má být centrální lokalitě, klepněte na tlačítko **Centrální lokalita**a klepněte na možnost **registrovat jako centrální lokalita**.</span><span class="sxs-lookup"><span data-stu-id="36956-104">Select the site you want to be a hub site, click **Hub site**, and then click **Register as hub site**.</span></span>
+2. <span data-ttu-id="31d79-104">Vyberte web, který chcete použít jako centrální lokalitu, klepněte na **lokalitu hub**a pak klepněte na možnost **registrovat jako centrální lokalitu**.</span><span class="sxs-lookup"><span data-stu-id="31d79-104">Select the site you want to be a hub site, click **Hub site**, and then click **Register as hub site**.</span></span>
 
-3. <span data-ttu-id="36956-105">Zadejte zobrazovaný název pro centrální lokalita a jednotlivé uživatele nebo skupiny zabezpečení, které chcete povolit, chcete-li přidružit servery rozbočovač.</span><span class="sxs-lookup"><span data-stu-id="36956-105">Enter a display name for the hub site and specify the individual users or security groups you want to allow to associate sites with the hub.</span></span>
+3. <span data-ttu-id="31d79-105">Zadejte zobrazovaný název centrální lokality a určete jednotlivé uživatele nebo skupiny zabezpečení, kterým chcete povolit přidružit weby k rozbočovači.</span><span class="sxs-lookup"><span data-stu-id="31d79-105">Enter a display name for the hub site and specify the individual users or security groups you want to allow to associate sites with the hub.</span></span>
 
     > [!NOTE]
-    >  <span data-ttu-id="36956-106">Doporučujeme vybrat komunikační web nebo na týmovém webu, který používá novou šablonu.</span><span class="sxs-lookup"><span data-stu-id="36956-106">We recommend that you select a communication site, or a team site that uses the new template.</span></span> <span data-ttu-id="36956-107">Pokud používáte klasické týmový web, rozbočovač navigace se zobrazí pouze na stránkách moderní a nastavení webu rozbočovač se zobrazí pouze na stránkách moderní.</span><span class="sxs-lookup"><span data-stu-id="36956-107">If you use a classic team site, the hub navigation will appear only on modern pages, and hub site settings will only appear on modern pages.</span></span> <span data-ttu-id="36956-108">Servery, které jsou přidruženy k jinému rozbočovači nemůže být registrováno jako centrální lokalita.</span><span class="sxs-lookup"><span data-stu-id="36956-108">Sites that are already associated with another hub can't be registered as a hub site.</span></span>
+    >  <span data-ttu-id="31d79-106">Doporučujeme vybrat komunikační web nebo týmový web používající novou šablonu.</span><span class="sxs-lookup"><span data-stu-id="31d79-106">We recommend that you select a communication site, or a team site that uses the new template.</span></span> <span data-ttu-id="31d79-107">Pokud používáte klasický týmový web, bude navigace v rozbočovači zobrazena pouze na moderních stránkách a nastavení rozbočovače bude použito pouze na moderních stránkách.</span><span class="sxs-lookup"><span data-stu-id="31d79-107">If you use a classic team site, the hub navigation will appear only on modern pages, and hub site settings will only appear on modern pages.</span></span> <span data-ttu-id="31d79-108">Weby, které již jsou přidruženy k jinému rozbočovači, nelze zaregistrovat jako centrální lokalitu.</span><span class="sxs-lookup"><span data-stu-id="31d79-108">Sites that are already associated with another hub can't be registered as a hub site.</span></span>
   
-[<span data-ttu-id="36956-109">Další informace o sítích rozbočovačů</span><span class="sxs-lookup"><span data-stu-id="36956-109">Learn more about hub sites</span></span>](https://go.microsoft.com/fwlink/?linkid=869149)
+[<span data-ttu-id="31d79-109">Další informace o webech rozbočovačů</span><span class="sxs-lookup"><span data-stu-id="31d79-109">Learn more about hub sites</span></span>](https://go.microsoft.com/fwlink/?linkid=869149)
   
