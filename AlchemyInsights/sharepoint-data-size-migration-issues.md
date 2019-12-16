@@ -1,7 +1,7 @@
 ---
-title: Problémy při migraci dat do aplikace SharePoint Online
-ms.author: efrene
-author: efrene
+title: Problémy při migraci dat na službu SharePoint Online
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: d8bdf0ac6c3a65b72e8c92a3f5960cb72b6cfd99
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504348"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051742"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problémy při migraci dat do aplikace SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problémy při migraci dat na službu SharePoint Online
 
-Zdá se, že přenášíte 100 TB dat na serveru SharePoint Online. Tak může pomoci co nejdříve, postupujte následujícím způsobem. 
+Zdá se, že přenášíte přes 100 TB dat na službu SharePoint Online. Postupujte prosím podle níže uvedených pokynů, abychom vám mohli pomoci co nejdříve. 
 
-1. Možnost **požádat o novou službu**a potom **požádat o novou službu**. 
-2. Ponechte název a popis jako **migrace SharePoint více než 100 TB**.
-3. Po odeslání lístku aktualizujte jej s následujícími informacemi: 
+1. Vyberte položku **nový požadavek na službu**a pak **nový požadavek na službu**. 
+2. Název a popis ponechejte jako **migraci služby SharePoint nad 100 TB**.
+3. Po odeslání lístku Aktualizujte prosím následující informace: 
 
     - Odhadovaná velikost migrace.
-    - Pokud byste chtěli zahájit a dokončit migraci odhadu.
-    - Popsat, kde provádíte migraci obsahu, například serveru SharePoint Server, pole, GDrive, sdílených souborů atd...
+    - Odhad, kdy chcete zahájit a dokončit migraci.
+    - Popište, odkud chcete obsah migrovat, například SharePoint Server, box, GDrive, sdílené soubory atd.
 
 
   

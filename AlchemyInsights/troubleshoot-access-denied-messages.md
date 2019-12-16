@@ -1,34 +1,34 @@
 ---
-title: Poradce při potížích s zprávy o odepření přístupu
-ms.author: kaarins
-author: kaarins
+title: Odstraňování problémů se zprávami o odepření přístupu
+ms.author: pebaum
+author: pebaum
 ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: e4fea7188bd77ba876e2a245414372c3ff836059
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 05d12aee49b449e8a29e84021b41298fb9983859
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500391"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050698"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Poradce při potížích s zprávy o odepření přístupu
+# <a name="troubleshoot-access-denied-messages"></a>Odstraňování problémů se zprávami o odepření přístupu
 
-Pokud někdo máte zprávu "Přístup byl odepřen" ve sdílené složce ve službě SharePoint, správce kolekce webů může být povoleno "omezený přístup uživateli oprávnění režim uzamčení." Chcete-li tuto funkci vypnout: 
+Pokud někdo dostal zprávu o odepření přístupu do sdílené složky ve službě SharePoint, mohl správce kolekce webů povolit režim uzamčení oprávnění omezený přístup. Chcete-li tuto funkci vypnout: 
   
 1. Přejděte na web, klepněte na ikonu nastavení a potom klepněte na tlačítko **Nastavení webu**.
     
-2. V části **Správa kolekce webů**klepněte na možnost **Funkce kolekce webů**.
+2. V části **Správa kolekce webů**klepněte na možnost **kolekce webů**.
     
-3. **Režim uzamčení oprávnění uživatele omezený přístup**klepněte na tlačítko **deaktivovat**.
+3. Vedle **režimu uzamčení přístupových oprávnění omezený přístup**klepněte na tlačítko **deaktivovat**.
     
-Zpráva o odepření přístupu může dojít také u sdílené složky Web je web publikování. Informace viz [Při přístupu ke sdílené složce byl odepřen přístup](https://go.microsoft.com/fwlink/?linkid=2004317).
+Pokud je web webem publikování, může se u sdílených složek vyskytnout také zpráva přístup odepřen. Informace naleznete v tématu [přístup odepřen při přístupu ke sdílené složce](https://go.microsoft.com/fwlink/?linkid=2004317).
   
-Pokud někdo obdržel zprávu "Přístup byl odepřen" při pokusu o zobrazení žádosti o přístup, uživatel musí být přidán jako správce kolekce webů nebo členem skupiny Vlastníci webu. Další informace naleznete v tématu [Přístup k seznamu požadavků na přístup odepřen](https://go.microsoft.com/fwlink/?linkid=2004220).
+Pokud má někdo při pokusu o zobrazení žádostí o přístup zprávu "přístup byl odepřen", musí být uživatel přidán buď jako správce kolekce webů, nebo jako člen skupiny Vlastníci daného webu. Další informace naleznete v tématu [přístup odepřen pro přístup k seznamu požadavků](https://go.microsoft.com/fwlink/?linkid=2004220).
   
-Poté, co byly odebrány ze služby Active Directory v prostorách a přidána zpět, uživatel obdržel zprávu "Přístup byl odepřen", naleznete v tématu [Přístup odepřen při uživatelský účet je synchronizované s Office 365](https://go.microsoft.com/fwlink/?linkid=2004318).
+Pokud se uživateli po odebrání z prostředí služby Active Directory zobrazí zpráva "přístup byl odepřen" a potom je znovu přidána zpět, naleznete informace v tématu [přístup odepřen při synchronizaci uživatelského účtu se sadou Office 365](https://go.microsoft.com/fwlink/?linkid=2004318).
   
 
