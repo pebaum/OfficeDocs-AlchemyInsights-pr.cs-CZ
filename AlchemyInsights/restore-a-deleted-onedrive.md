@@ -1,7 +1,7 @@
 ---
-title: Obnovení odstraněné OneDrive
-ms.author: kaarins
-author: kaarins
+title: Obnovení odstraněného OneDrive
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 5/15/2018
 ms.audience: Admin
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: 80582bdcc38a92f85282826aa63822ddf0cb1994
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a6db2e22c001cb809465c63da494121c06178b64
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509318"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054190"
 ---
-# <a name="restore-a-deleted-onedrive"></a>Obnovení odstraněné OneDrive
+# <a name="restore-a-deleted-onedrive"></a>Obnovení odstraněného OneDrive
 
-Po odstranění uživatele dostanete pomocí středisku pro správce služeb Microsoft 365 uživatele OneDrive pro 30 dnů. Ostatní uživatelé mohou nadále přístup sdílený obsah v OneDrive pro doba nastavená v Centru pro správu OneDrive. (Postup nastavení naleznete v tématu [Nastavení zachování výchozí soubor pro odstranění uživatelé OneDrive](https://go.microsoft.com/fwlink/?linkid=874267).) Po uplynutí této doby OneDrive 93 dní přesunuta do koše a poté odstraněn.
+Po odstranění uživatele můžete získat přístup k OneDrive uživatele prostřednictvím centra pro správu Microsoft 365 Admin Center po dobu 30 dní. Ostatní uživatelé mohou nadále přistupovat ke sdílenému obsahu v OneDrive po dobu, kterou jste nastavili v centru pro správu OneDrive. (Informace o nastavení této funkce naleznete v tématu [Nastavení výchozího uchování souborů pro odstraněné uživatele OneDrive](https://go.microsoft.com/fwlink/?linkid=874267).) Po uplynutí této doby je OneDrive přesunut do odpadkového koše po dobu 93 dní a pak je odstraněn.
   
-Po prvních 30 dnů po odstraněné uživatele již nebude zobrazovat ve středisku pro správce služeb Microsoft 365, můžete uživatele OneDrive přistupovat prostřednictvím prostředí PowerShell. Info v tématu [Obnovení odstraněné OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).
+Po prvních 30 dnech, kdy se odstraněný uživatel již v centru Microsoft 365 Admin Center nezobrazí, můžete získat přístup k OneDrive uživatele prostřednictvím prostředí PowerShell. Informace naleznete v tématu [Obnovení odstraněného objektu OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).
   
 

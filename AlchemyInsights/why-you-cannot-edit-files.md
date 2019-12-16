@@ -1,7 +1,7 @@
 ---
 title: Soubory jsou uzamčeny pro úpravy.
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 4/26/2018
 ms.audience: ITPro
@@ -9,18 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: b73797749acae52aae66875691669930e1589904
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.custom:
+- "9000123"
+- "1622"
+- "1713"
+ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36748353"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049402"
 ---
 # <a name="why-cant-i-edit-files"></a>Proč nemohu upravovat soubory?
 
 Pokud je dokument, list nebo prezentace uzamčen pro úpravy a nelze jej otevřít v aplikacích systému Windows, je možné, že soubor již upravuje jiný uživatel nebo je soubor rezervován. Podíváme se rychle na některé důvody [, proč není možné soubor upravovat](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Pokud máte knihovny s **rezervováním, požadovanými** nebo **ověřovacími** sloupci nebo metadaty nebo pokud je **koncept zabezpečení položky** nastaven na **pouze uživatele, kteří mohou upravovat** nebo **pouze uživatelé, kteří mohou schvalovat položky** v nastavení verze Knihovny:
+Pokud máte knihovny s **rezervováním, požadovanými** nebo **ověřovacími** sloupci nebo metadaty nebo pokud je **koncept zabezpečení položky** nastaven na **pouze uživatele, kteří mohou upravovat** nebo **pouze uživatelé, kteří mohou schvalovat položky** v nastavení verze knihovny:
 
 - U knihoven dokumentů služby SharePoint budou tyto položky synchronizovány jen pro čtení.
 

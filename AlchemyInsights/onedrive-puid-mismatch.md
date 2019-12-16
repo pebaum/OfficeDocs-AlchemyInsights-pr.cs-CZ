@@ -1,7 +1,7 @@
 ---
-title: Neshoda OneDrive PUID
-ms.author: efrene
-author: efrene
+title: Neshoda funkce OneDrive PUID
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,21 +12,21 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cbf508a1a031b7dbe60d9b060df2f08211a3dc17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 58fe40f0fe29b75ea3e736d447d626d2fdf5391a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521337"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049078"
 ---
-# <a name="onedrive-puid-mismatch"></a>Neshoda OneDrive PUID
-Zdá se, že dochází k [PUID neshoda](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) v OneDrive pro firmy. Tak může pomoci co nejdříve, postupujte následujícím způsobem:
+# <a name="onedrive-puid-mismatch"></a>Neshoda funkce OneDrive PUID
+Zdá se, že u funkce OneDrive for Business prožíváte [nesoulad s PUID](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) . Postupujte prosím podle níže uvedených pokynů, abychom vám mohli pomoci co nejdříve:
 
-1. Klepněte, **obraťte se na podporu**a **požádat o novou službu**.
-2. Ponechte název a popis jako **PUID neshoda na webu OneDrive**.
-3. Po odeslání lístku aktualizujte jej s následujícími informacemi:
-    - URL webu OneDrive, která je ovlivněna.
-    - Hlavní uživatelské jméno (UPN) příslušného uživatele.
+1. Klepněte na položku **Podpora kontaktu**a potom na **nový požadavek na službu**.
+2. Ponechte název a popis jako **neshodu s identifikátorem PUID na webu OneDrive**.
+3. Po odeslání lístku Aktualizujte prosím následující informace:
+    - Ovlivněných adres URL webu OneDrive.
+    - Hlavní název uživatele (UPN) ovlivněných uživatelů.
 
 
 

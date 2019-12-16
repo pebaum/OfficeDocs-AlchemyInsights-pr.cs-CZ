@@ -1,7 +1,7 @@
 ---
 title: Obnovení odstraněné skupiny Office 365
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 3/23/2018
 ms.audience: Admin
@@ -13,20 +13,20 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: e1f0ecaeca3154096c952c0a5018805ac46d8d3f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2e89b479f8cfc0ee0e590b64d09abae8a678e1cc
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509246"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048825"
 ---
 # <a name="restore-a-deleted-office-365-group"></a>Obnovení odstraněné skupiny Office 365
 
-Odstraněné skupiny jsou uchovávány po 30 dnů. Chcete-li obnovit odstraněné skupiny:
+Odstraněné skupiny jsou uchovávány po dobu 30 dnů. Obnovení odstraněné skupiny:
   
-1. V [Exchange admin center](https://outlook.office365.com/ecp/)vyberte **příjemce** v levém podokně a potom vyberte **skupiny**. Pokud skupina byla odstraněna před méně než 30 dny, zobrazí se v seznamu a ve sloupci Stav zobrazí seznam data odstraněna.
+1. V [centru pro správu serveru Exchange](https://outlook.office365.com/ecp/)vyberte **příjemce** v levém podokně a pak vyberte **skupiny**. Pokud byla skupina odstraněna před méně než 30 dny, zobrazí se v seznamu a ve sloupci Stav bude zobrazeno datum odstranění.
 
-2. Vyberte skupinu a na panelu příkazů klepněte na tlačítko **Obnovit** nebo klepněte na odkaz "klepněte sem, chcete-li obnovit v podokně podrobností.
+2. Vyberte skupinu a pak klepněte na tlačítko **obnovit** na panelu příkazů nebo klepněte na odkaz "Klepnutím sem obnovíte" v podokně podrobností.
 
-Další informace nebo Další informace o obnovení skupiny pomocí prostředí PowerShell naleznete v tématu [Obnovení odstraněné skupiny Office 365](https://go.microsoft.com/fwlink/?linkid=867802).
+Další informace nebo informace o obnovení skupin pomocí prostředí PowerShell naleznete v tématu [Obnovení odstraněné skupiny Office 365](https://go.microsoft.com/fwlink/?linkid=867802).
   

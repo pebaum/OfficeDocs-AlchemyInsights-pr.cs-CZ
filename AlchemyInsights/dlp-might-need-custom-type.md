@@ -1,7 +1,7 @@
 ---
-title: DLP potřebovat vlastní typ
-ms.author: stephow
-author: stephow-MSFT
+title: DLP může potřebovat vlastní typ
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: ITPro
@@ -13,27 +13,27 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 612b6652b445914063ac825847f5698d3afc3a00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 872fca326065ada002300061c951620b3d9a8d0e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530344"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052894"
 ---
-# <a name="dlp-might-need-a-custom-type"></a>DLP potřebovat vlastní typ
+# <a name="dlp-might-need-a-custom-type"></a>DLP může potřebovat vlastní typ
 
-Zásady prevence (DLP) ztrátu dat můžete identifikovat a chránit citlivá data ve vaší organizaci. V některých případech je třeba vytvořit vlastní typ **vlastní** důvěrné informace k ochraně dat vaší organizace.
+Díky zásadám DLP (zabránění ztrátám dat) můžete identifikovat a chránit citlivá data v organizaci. V některých případech může být nutné vytvořit **vlastní citlivý typ** informací pro ochranu dat organizace.
 
-Například vaše organizace potřebovat identifikovat a chránit ID zaměstnanců nebo jiná data v některých formátu specifické pro váš org. Pokud tomu tak je, naleznete v následujících článcích pro další informace.
+Vaše organizace může například potřebovat identifikovat a chránit ID zaměstnanců nebo jiná data v určitém formátu specifickém pro vaši organizaci. Pokud ano, naleznete další informace v následujících článcích.
   
- **Upravit typ vestavěné citlivých informací**
+ **Přizpůsobení vestavěného typu citlivých informací**
   
-Pokud typ vestavěné citlivých informací by podle vašich potřeb s několika vylepšení, můžete [Upravit typ vestavěné citlivé informace](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Můžete například přidat nebo odebrat klíčová slova, nebo přidat či odebrat podklady, jako je datum nebo adresa.
+Pokud by vestavěný citlivý typ informací uspokojovali vaše potřeby pouze s několika typy úprav, můžete [upravit předdefinovaný typ informací](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Můžete například přidat nebo odebrat klíčová slova nebo přidat nebo odebrat podpůrné doklady, například datum nebo adresu.
   
- **Vytvořit typ vlastní důvěrné informace.**
+ **Vytvoření vlastního typu citlivých informací**
   
-Ale pokud potřebujete identifikovat a chránit zcela jiný druh důvěrné informace, můžete [vytvořit typ vlastní důvěrné informace](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) v uživatelském rozhraní zabezpečení & centra kompatibility.
+Pokud však potřebujete identifikovat a chránit jiný typ citlivých informací úplně, můžete [vytvořit vlastní citlivý typ informací](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) v uživatelském rozhraní centra kompatibility & zabezpečení.
   
-**Vytvoření vlastní důvěrné informace typu v & zabezpečení prostředí PowerShell Centrum kompatibility**
+**Vytvoření vlastního typu citlivých informací v zabezpečení & centrum kompatibility prostředí PowerShell**
 
-Nakonec pokud uživatelského rozhraní neobsahuje všechny možnosti, které potřebujete, můžete [vytvořit vlastní důvěrné informace typu v & zabezpečení shody Centrum PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Spuštěním se souborem XML, můžete použít všechny dostupné možnosti.
+Nakonec, pokud uživatelské rozhraní neposkytuje všechny potřebné možnosti, můžete [v okně zabezpečení & prostředí PowerShell v centru kompatibility vytvořit vlastní citlivý typ informací](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Při spuštění pomocí souboru XML můžete použít všechny dostupné možnosti.

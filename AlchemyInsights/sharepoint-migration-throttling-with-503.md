@@ -1,7 +1,7 @@
 ---
-title: Migrace SharePoint omezení s chyby 503
-ms.author: efrene
-author: efrene
+title: Omezení migrace služby SharePoint s chybami 503
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: b0545c792e81fe733107a6157f4d57aa7bbc9fba
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d9d45b31afcc5ef68f5969117d08f0c8dcfe8850
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503592"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054046"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a>Migrace SharePoint omezení s chyby 503
+# <a name="sharepoint-migration-throttling-with-503-errors"></a>Omezení migrace služby SharePoint s chybami 503
 
-Zdá se migrace SharePoint online a chyby 503. Tak může pomoci co nejdříve, postupujte následujícím způsobem. 
+Zdá se, že migrujete na službu SharePoint Online a přijímáte 503 chyb. Postupujte prosím podle níže uvedených pokynů, abychom vám mohli pomoci co nejdříve. 
 
-1. Klepněte, **obraťte se na podporu**a **požádat o novou službu**.
-2. Nadpis a Popis zadejte **SharePoint omezení migrace s 503**.
-3. Po odeslání lístku aktualizujte jej s následujícími informacemi:
-    - Kolik vlevo migrace (například kolik TBs?).
-    - Přenesení počáteční a koncové datum.
-    - Popsat, kde provádíte migraci obsahu, například serveru SharePoint Server, pole, GDrive, sdílených souborů atd...
-    - Odhadnout počet omezení chyb (například x throttle za hodinu?) a když se stane omezení.
-    - Je nástroj pro migrace, které používáte (například SPMT nebo ShareGate).
+1. Klepněte na položku **Podpora kontaktu**a potom na **nový požadavek na službu**.
+2. Pro nadpis a Popis zadejte **Omezení migrace služby SharePoint s 503**.
+3. Po odeslání lístku Aktualizujte prosím následující informace:
+    - Kolik zbylo z přenesení (například kolik TBs?).
+    - Počáteční a koncové datum migrace.
+    - Popište, odkud chcete obsah migrovat, například SharePoint Server, box, GDrive, sdílené soubory atd.
+    - Odhadnout počet chyb omezení (například x akcelerátoru za hodinu?) a kdy došlo k omezení.
+    - Nástroj pro migraci, který používáte (například SPMT nebo ShareGate).
 
 

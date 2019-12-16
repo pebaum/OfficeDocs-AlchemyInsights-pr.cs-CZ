@@ -1,7 +1,7 @@
 ---
-title: Automaticky použít popisky citlivost
-ms.author: stephow
-author: stephow-MSFT
+title: Automaticky použít popisky citlivosti
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: b095426d780033f6c1c7eeb320d923f6c484b078
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517384"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050302"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Automaticky použít popisky citlivost
+# <a name="auto-apply-sensitivity-labels"></a>Automaticky použít popisky citlivosti
 
-Citlivost štítky lze ručně použít obsah uživatelů nebo nastavovat automaticky u obsahu.
+Popisky citlivosti lze u obsahu ručně použít nebo je lze nakonfigurovat tak, aby byly automaticky aplikovány na obsah.
 
-Automatické použití popisků citlivost odstraní nutnost Školit uživatele o klasifikaci obsahu a nutnosti upozorněte na konfigurací zásad.
+Automatické použití popisků citlivosti odstraňuje nutnost vyškolit uživatele, jak klasifikovat obsah a jak je potřeba upozornit na konfigurace zásad.
 
-Chcete-li použít popisky automaticky, je nutné:
+Chcete-li popisky použít automaticky, je nutné následující:
 
-- Předplatné Azure P2 ochrany informací
-- [Stáhněte a nainstalujte unified popisovací klienta Azure ochrana údajů](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Zajištění ochrany informačních informací P2
+- [Stažení a instalace klienta pro ochranu informací Azure Unified](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Pracujeme na nativní podporu, která nebude vyžadovat jednotný popisovací klienta Azure ochrana informací v budoucnu.
+Pracujeme na nativní podpoře, která v budoucnu nebude vyžadovat, aby byl klient Azure Information Protection sjednocený.
 
-V současné době podporuje pouze systém Windows unified popisovací klienta.  Funkce není dosud podporována na Mac, iOS a Android.
+V současné době podporuje pouze systém Windows jednotný popisovaný klient.  Tato funkce není dosud podporována v počítačích Mac, iOS a Android.
 
-Další informace o citlivosti popisky a automatickému použití obsahu v tématu:
+Další informace o popiscích citlivosti a jejich automatickém aplikování na obsah naleznete v tématech:
 
-- [Přehled štítků citlivost](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [Automaticky použít popisek citlivost na obsah](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Přehled popisů citlivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Automatické použití popisku citlivosti na obsah](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

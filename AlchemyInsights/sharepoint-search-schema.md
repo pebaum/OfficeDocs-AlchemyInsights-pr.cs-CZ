@@ -1,36 +1,36 @@
 ---
-title: Správa schématu vyhledávání v Online služby SharePoint
-ms.author: efrene
-author: efrene
+title: Správa schématu vyhledávání ve službě SharePoint Online
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 704fb3b682d23220d61192e383d7d80f59f27933
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9836cf139e97fc556995a8f0ad38c51c5c2392ac
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502800"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40042956"
 ---
-# <a name="manage-search-schema-in-sharepoint-online"></a>Správa schématu vyhledávání v Online služby SharePoint
+# <a name="manage-search-schema-in-sharepoint-online"></a>Správa schématu vyhledávání ve službě SharePoint Online
 
-Co mohou uživatelé vyhledávat, jak uživatelům hledat a prezentaci výsledků na svých webech hledat ovládací prvky schématu vyhledávání. 
+Schéma vyhledávání řídí, co mohou uživatelé vyhledávat, jak je mohou uživatelé prohledávat a jak můžete výsledky prezentovat na webech vyhledávání. 
 
-[Správa schématu vyhledávání v Online služby SharePoint](https://docs.microsoft.com/sharepoint/manage-search-schema) , další informace naleznete v tématu Jak: 
-- Změna schématu vyhledávání.
-- Vytvoření spravovaných vlastností.
-- Mapování procházených mapování procházené vlastnosti na spravované vlastnosti.
+Další informace naleznete [v tématu Správa schématu vyhledávání na webu služby SharePoint Online](https://docs.microsoft.com/sharepoint/manage-search-schema) : 
+- Změňte schéma hledání.
+- Vytvořte spravované vlastnosti.
+- Mapování procházených vlastností procházené mapy na spravované vlastnosti.
 
-Pamatujte na následující skutečnosti týkající se Správa schématu vyhledávání:
+Pro správu schématu hledání je třeba si uvědomit následující skutečnosti:
 
-- Pokud se zobrazí upozornění informující **aplikace je pozastaven** po provedení změny schématu, to je pouze dočasné je servisní Údržba výskytu. 
+- Pokud se zobrazí upozornění oznamující **, že aplikace je** při změně schématu pozastavena, jedná se pouze o dočasnou údržbu služby. 
 
-    Pokud uplynulo více než 24 hodin a stále dochází k upozornění, zkontrolujte protokolu případ podpory.
-- Pokud spravované vlastnosti změnit nebo přidat nové, změny se projeví až poté, co byla znovu procházeného obsahu. V Online služby SharePoint procházení se stane automaticky podle plánu definovaných procházení.
-- Chcete-li zajistit, že změny budou procházeny, můžete konkrétně [žádost o opakování indexování seznamu nebo knihovny](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
+    Pokud uplynulo více než 24 hodin a stále se setkáte s upozorněním, zadejte do protokolu případ podpory.
+- Pokud změníte spravované vlastnosti nebo přidáte nové, projeví se změny až po opětovném procházení obsahu. Ve službě SharePoint Online se procházení automaticky odehrává na základě definovaného plánu procházení.
+- Chcete-li se ujistit, že jsou změny procházeny, můžete [požadovat opakované indexování seznamu nebo knihovny](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) . 
 
-Úplný přehled schématu vyhledávání naleznete v tématu [Úvod do schématu vyhledávání](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
+Úplný přehled schématu vyhledávání naleznete v tématu [Úvod do schématu hledání](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
 
 

@@ -1,7 +1,7 @@
 ---
-title: Převést na web centrální lokalita
-ms.author: kaarins
-author: kaarins
+title: Převedení webu na centrální lokalitu
+ms.author: pebaum
+author: pebaum
 ms.date: 12/28/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,23 +11,23 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: 5d2f0ded6e32c62f880dce6314b5869231d6955d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5b8bb4d7a492db44888bb99bb21c59985295e13
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516736"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049942"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>Vytvoření webu služby SharePoint rozbočovač
+# <a name="create-a-sharepoint-hub-site"></a>Vytvoření webu rozbočovače služby SharePoint
 
-1. V centru nového správce služby SharePoint **weby**klepněte v **aktivním serverům**.
+1. V novém centru pro správu služby SharePoint klepněte v části **lokality**na položku **Active sites**.
 
-2. Vyberte web, který má být centrální lokalitě, klepněte na tlačítko **Centrální lokalita**a klepněte na možnost **registrovat jako centrální lokalita**.
+2. Vyberte web, který chcete použít jako centrální lokalitu, klepněte na **lokalitu hub**a pak klepněte na možnost **registrovat jako centrální lokalitu**.
 
-3. Zadejte zobrazovaný název pro centrální lokalita a jednotlivé uživatele nebo skupiny zabezpečení, které chcete povolit, chcete-li přidružit servery rozbočovač.
+3. Zadejte zobrazovaný název centrální lokality a určete jednotlivé uživatele nebo skupiny zabezpečení, kterým chcete povolit přidružit weby k rozbočovači.
 
     > [!NOTE]
-    >  Doporučujeme vybrat komunikační web nebo na týmovém webu, který používá novou šablonu. Pokud používáte klasické týmový web, rozbočovač navigace se zobrazí pouze na stránkách moderní a nastavení webu rozbočovač se zobrazí pouze na stránkách moderní. Servery, které jsou přidruženy k jinému rozbočovači nemůže být registrováno jako centrální lokalita.
+    >  Doporučujeme vybrat komunikační web nebo týmový web používající novou šablonu. Pokud používáte klasický týmový web, bude navigace v rozbočovači zobrazena pouze na moderních stránkách a nastavení rozbočovače bude použito pouze na moderních stránkách. Weby, které již jsou přidruženy k jinému rozbočovači, nelze zaregistrovat jako centrální lokalitu.
   
-[Další informace o sítích rozbočovačů](https://go.microsoft.com/fwlink/?linkid=869149)
+[Další informace o webech rozbočovačů](https://go.microsoft.com/fwlink/?linkid=869149)
   

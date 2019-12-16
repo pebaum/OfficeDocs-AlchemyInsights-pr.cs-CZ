@@ -1,7 +1,7 @@
 ---
 title: Nastavení Outlook.com
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386358"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053254"
 ---
 # <a name="settings-in-outlookcom"></a>Nastavení v Outlook.com
 
-Pokud je příjemce interní nebo externí pro vaši organizaci a používají-li e-mailový účet sady Office 365 nebo Outlook.com, neměli by následující klienti pro otevření zprávy provádět žádné zvláštní akce: **Outlook 2016, Outlook na webu/Outlook Web App, Aplikace Outlook Mobile App**
+Pokud je příjemce interní nebo externí pro vaši organizaci a používají-li e-mailový účet sady Office 365 nebo Outlook.com, neměli by následující klienti pro otevření zprávy provádět žádné zvláštní akce: **outlook 2016, Outlook na webu/Outlook Web App, Outlook Mobile App**
 
 **Delegáti** uživatelů, kterým byl chráněný e-mail odeslán, nemohou otevřít chráněné zprávy. Informace v e-mailu mohou zobrazit pouze původní příjemci (osoba, na kterou byl odeslán chráněný e-mail).
 
