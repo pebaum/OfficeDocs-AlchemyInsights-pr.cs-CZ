@@ -1,9 +1,8 @@
 ---
-title: Změna oprávnění veřejné složky
+title: Změna oprávnění k veřejným složkám
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +11,26 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: 488567efb7e96b6eef52e87fc96670ab3ea91c20
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 9d043e81b66cea1fcb985b0e1e79078409ba0b93
+ms.sourcegitcommit: f23c39009d988228213fdb2bb7350bf4a0194194
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631697"
+ms.lasthandoff: 01/11/2020
+ms.locfileid: "41022190"
 ---
-# <a name="changing-public-folder-permissions"></a>Změna oprávnění veřejné složky
+# <a name="changing-public-folder-permissions"></a>Změna oprávnění k veřejným složkám
 
-Uživatelé a správci aplikace Outlook lze změnit oprávnění veřejné složky. Správci mohou také řídit oprávnění z Exchange Admin Center (EAC), pomocí následujícího postupu:
+Oprávnění k veřejným složkám mohou uživatelé a správci změnit v aplikaci Outlook. Správci mohou také řídit oprávnění z centra pro správu serveru Exchange (EAC) následujícím způsobem:
   
-1. IIn Microsoft 365 admin center, přejděte do **centra pro správu** \> **Exchange**.
+1. V centru Microsoft 365 Admin Center přejděte k \> **výměně** **středisek pro správu** .
 
 2. Vyberte **veřejné složky**.
 
-3. Odtud můžete změnit oprávnění pro jednotlivé veřejné složky oprávnění přiřazením skupin zabezpečení. Uživatel potřebuje pro koncového uživatele Chcete-li změnit oprávnění veřejné složky oprávnění vlastníka složky.
+3. Zde můžete změnit oprávnění pro jednotlivé veřejné složky přiřazením skupin zabezpečení k oprávněním. Aby mohl koncový uživatel změnit oprávnění pro veřejné složky, musí mít uživatel práva vlastníka této složky.
+
+> [!NOTE]
+> Při pokusu o změnu oprávnění u veřejných složek se může vyskytnout několik známých problémů. Další informace naleznete v následujících článcích.
+>
+> [Nelze použít oprávnění pro podsložky veřejných složek v EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+>
+> [Při přístupu k veřejným složkám se zobrazí chybová zpráva, že poštovní schránka nebyla nalezena v místní doménové struktuře](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
