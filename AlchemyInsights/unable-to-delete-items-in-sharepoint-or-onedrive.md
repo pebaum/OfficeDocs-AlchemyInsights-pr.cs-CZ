@@ -1,5 +1,5 @@
 ---
-title: Nelze odstranit položky ve službě SharePoint nebo OneDrive.
+title: Nelze odstranit položky v SharePointu nebo OneDrivu.
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,26 +11,24 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: cc19fcb6603160032dac52b1ec9e194a90b7891f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: abfcb91c6040aeed759d697ca63546ccea8ede97
+ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049510"
+ms.lasthandoff: 01/28/2020
+ms.locfileid: "41571235"
 ---
 # <a name="unable-to-delete-items"></a>Nelze odstranit položky.
 
-Máte problémy s odstraňováním položek služby SharePoint?
+Zásady uchovávání informací mohou způsobit toto, je třeba zakázat nebo vyloučit příslušné blokování, které je příčinou tohoto problému. Po odebrání zásad uchovávání informací nebo blokování může trvat až 24 hodin, než se změna projeví. Ujistěte se, že není nastavení [zásad uchovávání informací](https://docs.microsoft.com/office365/securitycompliance/retention-policies) pro položku.
 
-- Vždy se ujistěte, že máte [příslušná oprávnění](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) k odstranění položky nebo požádejte [správce kolekce webů](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) o odebrání položky.
+Web pravděpodobně překročil limit úložiště, zvýšil [kvótu webu](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) a odstranil položku.
 
-- Ujistěte se, že u položky není k dispozici nastavení [zásad uchovávání informací](https://docs.microsoft.com/office365/securitycompliance/retention-policies) .
+Ujistěte se, že položka není rezervována jinému [uživateli.](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
-- Zajistěte, aby položka nebyla [rezervována](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) jinému uživateli.
-
-- Nakonec mohou správci použít [vzory a postupy služby SharePoint](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP), které obsahují knihovnu příkazů prostředí PowerShell, která umožňuje provádět složité akce správy, jako je například vynucení odstranění tvrdošíjných položek.
-- [Odebrat soubor PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
-- [Odebrat složku PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
+Správci mohou nakonec používat [sharepointové vzory a postupy](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP), která obsahuje knihovnu příkazů prostředí PowerShell, které umožňují provádět složité akce správy, jako je vynucení odstranění tvrdohlavých položek.
+- [Odebrání souboru PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
+- [Odebrání složky PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
 - [Odebrat položku seznamu PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
 - [Odebrat seznam PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
 - [Odebrat pole PNP (sloupec)](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)
