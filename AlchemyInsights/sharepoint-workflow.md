@@ -1,5 +1,5 @@
 ---
-title: Seznámení s webem služby SharePoint Online
+title: Začínáme se SharePointem Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050914"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770452"
 ---
-# <a name="workflows-in-sharepoint"></a>Pracovní postupy ve službě SharePoint
+# <a name="workflows-in-sharepoint"></a>Pracovní postupy v SharePointu
 
-Pracovní postupy služby SharePoint jsou předprogramované miniaplikace, které zefektivňují a automatizují širokou škálu podnikových procesů. Pracovní postupy mohou být v rozsahu od shromažďování podpisů, zpětné vazby nebo schválení pro plán nebo dokument, ke sledování aktuálního stavu rutinního postupu.
+Pracovní postupy SharePointu jsou předem naprogramované aplikace, které zjednodušují širokou škálu obchodních procesů. Další informace naleznete v níže uvedených odkazech.
 
-Začínáme **:** Pokud právě Začínáme s pracovními postupy služby SharePoint, naleznete [Další informace v tématu Úvod do pracovních postupů služby SharePoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+## <a name="getting-started"></a>Začínáme
 
-**Tok společnosti Microsoft**: Zvažte použití programu Microsoft Flow namísto klasických řešení pracovních postupů služby SharePoint. Další informace naleznete v tématu [Vytvoření toku pro seznam nebo knihovnu ve službě SharePoint Online nebo OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01) .
+Pokud teprve začínáte s pracovními postupy SharePointu, přečtěte si v [tématu Intro to SharePoint workflows](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
-**Odstraňování potíží s pracovním postupem a ladění**:
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>Poradce při potížích a ladění pracovního postupu SharePointu
 
-Ladění pracovních postupů se podobá předchozím verzím. Další informace naleznete v části [ladění pracovních postupů služby SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows). Další informace o odstraňování potíží naleznete v tématu [Poradce při potížích s ověřením pracovního postupu serveru SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Viz [Poradce při potížích s chybami ověření pracovního postupu sharepointu](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) a [ladění mandatických pracovních postupů služby SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
+## <a name="power-automate"></a>Power Automate
+
+Zvažte použití [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) namísto klasických řešení pracovních postupů SharePointu.

@@ -1,5 +1,5 @@
 ---
-title: Odstranit lokalitu skupiny
+title: Odstranit web skupiny
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0ecb317a0dfb760e459b35b6bff86006c06dc0d6
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053038"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770488"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Odstranění webu služby SharePoint, který patří do skupiny Office 365
+# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Odstranění sharepointového webu, který patří do skupiny Office 365
 
-Globální správci a správci služby SharePoint nyní mohou odstranit weby patřící do skupiny Office 365. Odstraněním těchto webů dojde k odstranění skupiny a všech jejích prostředků, včetně poštovní schránky a kalendáře aplikace Outlook, a všech kanálů týmů.
+Globální správci a správci SharePointu teď můžou odstranit weby, které patří do skupiny Office 365. Odstraněním těchto webů odstraníte skupinu a všechny její prostředky, včetně poštovní schránky a kalendáře aplikace Outlook a všech kanálů Teams.
   
 Důležité:
 
-- Odstraněné weby lze obnovit po 93 dní. Další informace naleznete v tématu zobrazení a obnovení odstraněných webů. Odstraněné skupiny musí být obnoveny do 30 dnů.
-- Pokud je web součástí zásady uchovávání informací, nebude pravděpodobně možné jej odstranit, dokud nebude web odebrán z [centra pro správu kompatibility zabezpečení &amp; ](https://protection.office.com/?rfr=AdminCenter#/retention). Další informace naleznete v [přehledu zásad uchovávání informací](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) .
+- Odstraněné weby můžete obnovit po dobu 93 dnů. Odstraněné skupiny musí být obnoveny do 30 dnů. [Zobrazení a obnovení odstraněných webů](https://admin.microsoft.com/sharepoint) přímo z Centra pro správu SharePointu [Zobrazení a obnovení odstraněných skupin](https://outlook.office.com/people/group/deleted)vyberte **možnost Spravovat skupiny**a pak zvolte **Odstraněno**.
+- Pokud je web součástí zásad uchovávání informací, je možné, že jej nebudete moci odstranit, dokud nebude web odebrán z [Centra pro správu dodržování předpisů zabezpečení &amp; ](https://protection.office.com/?rfr=AdminCenter#/retention). Další informace naleznete [v tématu Přehled zásad uchovávání informací.](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites)
   
-Chcete [-li zobrazit a obnovit odstraněné weby v novém centru pro správu služby SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), vyberte **odstraněné weby**. Vyberte web, který byl odstraněn, a zvolte buď obnovit nebo odstranit (čímž bude web trvale odstraněn). Chcete-li odstranit aktivní web, vyberte možnost **aktivní** weby, vyberte web a vyberte možnost **Odstranit**. Další informace naleznete v tématu [Správa webů v novém centru pro správu služby SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+Chcete-li [zobrazit a obnovit odstraněné weby](https://admin.microsoft.com/sharepoint), vyberte web, který byl odstraněn, a zvolte **obnovit** nebo **odstranit** (který web trvale odstraní). [Odstraňte aktivní web](https://admin.microsoft.com/sharepoint) přímo z Centra pro správu SharePointu výběrem webu a výběrem **možnosti Odstranit**. Další informace najdete v [tématu Správa webů v novém Centru pro správu SharePointu](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   

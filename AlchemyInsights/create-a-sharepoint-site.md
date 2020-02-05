@@ -1,8 +1,8 @@
 ---
-title: Vytvoření webu služby SharePoint
+title: Vytvoření sharepointového webu
 ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+author: todmccoy
+ms.audience: Admin
 ms.topic: article
 ms.collection: Adm_O365
 ms.prod: office-online-server
@@ -10,30 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "5200004"
+- "3911416"
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 2611c3ed9cfe78c82c9b123ea26b6fe8f951b458
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e1e71ae9401448ed18058f6307302dcbaf773649
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049870"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770848"
 ---
-# <a name="create-a-sharepoint-site"></a>Vytvoření webu služby SharePoint
+# <a name="create-a-sharepoint-site"></a>Vytvoření sharepointového webu
 
-Informace o vytváření webů služby SharePoint lze zobrazit následujícím způsobem:
-- [Spravovat weby v novém centru pro správu služby SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation): Získejte informace o možnostech vytváření webů, včetně způsobu vytvoření klasického webu nebo webu týmů, který neobsahuje skupinu Office 365.
-- [Vytvoření týmového webu ve službě SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): Naučte se vytvořit týmový Web.
-- [Vytvoření komunikačního webu ve službě SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Naučte se, jak vytvořit web komunikace.
-- [Spravovat weby v novém centru pro správu služby SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Naučte se, jak vytvořit klasický web nebo týmový web, který neobsahuje skupinu Office 365.
+Vytvářejte nebo spravujte weby z [aktivních webů](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) v Centru pro správu SharePointu. Další informace najdete v [tématu Správa webů v novém Centru pro správu SharePointu](https://docs.microsoft.com/sharepoint/manage-site-creation). 
 
+## <a name="tips"></a>Tipy:
 
-  
-**Tipy:**
-- Nelze vytvořit web se stejnou adresou URL existujícího webu. Pokud jste odstranili web a chtěli znovu použít tuto adresu URL, je možné, že odstraněný web stále existuje pod **odstraněným**webem. Chcete-li spravovat odstraněné weby, viz [odstranění webu](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Chcete-li web zcela odebrat pomocí prostředí PowerShell, podívejte se na příklad rutiny [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-- Někteří uživatelé nemusí být schopni vytvořit web. Viz [Správa vytváření webů na webu služby SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- Je možné, že se web zdá být zablokený při **vytváření** déle, než bylo očekáváno. Pokud od prvního vydání tohoto problému uplynulo více než 24 hodin, zadejte do protokolu lístek odborné pomoci. V mnoha případech už pracujeme na řešení. K dokončení řešení nám prosím dejte alespoň 24 hodin.
-- Pokud potřebujete vytvořit nový týmový web, který neobsahuje skupinu Office 365, 
-
-
+- Web se stejnou adresou URL existujícího webu **nelze** vytvořit. Pokud jste web odstranili a chcete adresu URL znovu použít, je možné, že odstraněný web stále existuje v části [Odstraněné weby](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). Chcete-li adresu URL znovu použít, bude nutné web trvale odstranit. Úplné odebrání webu pomocí prostředí Powershell naleznete v příkladu rutiny [Remove-SPSite.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Někteří uživatelé nemusí být schopni vytvořit web. [Viz Správa vytváření webů v SharePointu Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- Je možné, že web se objeví přilepená na **Vytvoření** déle, než se očekávalo. Pokud od prvního uviděl(a) tento problém více než 24 hodin, zaznaďte lístek podpory. V mnoha případech již pracujeme na řešení. Dejte nám prosím alespoň 24 hodin na dokončení řešení.

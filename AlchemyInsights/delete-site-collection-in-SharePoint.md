@@ -1,5 +1,5 @@
 ---
-title: Odstranění kolekce webů ve službě SharePoint
+title: Odstranění webu
 ms.author: pebaum
 author: pebaum
 ms.date: 6/20/2019
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: e15682af9069f8cd9e8f2893100a0044a51b2f04
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053002"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770380"
 ---
-# <a name="delete-a-site-collection"></a>Odstranění kolekce webů
+# <a name="delete-a-site"></a>Odstranění webu
 
-Pokud jako globální nebo správce služby SharePoint v sadě Office 365 odstraníte web (dříve označovaný jako kolekce webů), bude přesunut do koše kolekce webů a zachován po dobu 93 dní. 
+Když web odstraníte, přesune se na [odstraněné weby](https://admin.microsoft.com/sharepoint) a zůstane zachován po dobu 93 dnů. Chcete-li web odstranit, přejděte na [aktivní weby](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
-Při odstranění webu je odstraněno vše v jeho rámci, včetně:
+Když odstraníte web, vše v něm se odstraní, včetně:
 
-- Knihovny dokumentů a soubory.
-- Seznamy a data seznamů.
-- Nastavení a historie webu.
+- Knihovny a soubory dokumentů.
+- Seznamy a seznam dat.
+- Nastavení webu a historie.
 - Všechny podřízené weby a jejich obsah.
 
-Před odstraněním webu byste měli upozornit administrátoři webu a všechny vlastníky podřízených webů, aby mohli přesunout data do jiného umístění, a také informovat uživatele, že weby budou odstraněny. 
+Před odstraněním webu byste měli upozornit správce webu a všechny vlastníky podřízených webů, aby mohli přesunout svá data do jiného umístění, a také informovat uživatele o tom, kdy budou weby odstraněny.
 
-Další informace naleznete v tématu [odstranění kolekce webů](https://docs.microsoft.com/sharepoint/delete-site-collection). 
+Další informace naleznete v [tématu Odstranění webu](https://docs.microsoft.com/sharepoint/delete-site-collection).

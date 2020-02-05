@@ -1,5 +1,5 @@
 ---
-title: Zařízení jsou ve stavu čeká na zápis
+title: Zařízení čekají na registraci.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: 46bb390bd89d82bab8099f15f086746800cb4261
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 52592a8f4ebac0a9b6c8105721e121a7e560853b
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800253"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770308"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Zařízení jsou ve stavu "Čeká na zápis"
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Zařízení jsou ve stavu "Čekání na zápis"
 
-Stolní Analytics nemá diagnostických dat pro toto zařízení. 
+Desktop Analytics nemá diagnostická data pro toto zařízení. 
 
-Tomuto problému může dojít, protože nedávno přidané do kolekce cílových zařízení a data nebyl ještě odeslán. Může také znamenat, zařízení není správně komunikuje se službou a nejnovějších diagnostických dat je více než 28 dnů.
+K tomuto problému může dojít, protože jste nedávno přidali zařízení do cílové kolekce a dosud neodeslala data. Může to také znamenat, že zařízení není správně komunikovat se službou a nejnovější diagnostická data jsou starší než 28 dní.
 
-Zkontrolujte, zda že zařízení může komunikovat se službou. Další informace naleznete v tématu [koncové body](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints).
+Ujistěte se, že zařízení může komunikovat se službou. Další informace naleznete v tématu [Koncové body](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
 
-Další informace o zápisu stavu awainting viz [Sledování stavu připojení](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+Další informace o stavu čekající ho zápisu naleznete v tématu [Sledování stavu připojení](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).

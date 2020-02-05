@@ -1,5 +1,5 @@
 ---
-title: Pokročilé nasazení zachytit všechna pravidla
+title: Rozšířené nasazení zachytit všechna pravidla
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 4873fcfd66f196daeff3e407ccd10fe5b142cca6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 08171914804f3e13a4a7e3ee90662af61034c141
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494088"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770776"
 ---
-# <a name="deploy-office-apps"></a>Nasazení aplikací sady Office
+# <a name="deploy-office-apps"></a>Nasazení aplikací Office
 
-Pro více koncovým uživatelům prostřednictvím nástroj nasazení sady Office System Center Správce konfigurace, nasazení aplikací Office jako součást obrazu disku operačního systému nebo ve scénáři sdíleného počítače pomocí systému Windows Server pomocí Remote Desktop Services (RDS) nebo terminál Služby, zvažte použití Průvodce krok za krokem v **Office 365 ProPlus Poradce pro nasazení**.
+Pro nasazení aplikací Office pro více koncových uživatelů prostřednictvím nástroje pro nasazení sady Office, Nástroje konfigurace koncového bodu aplikace Microsoft Endpoint v rámci bitové kopie disku operačního systému nebo ve scénáři sdíleného počítače pomocí systému Windows Server se službou RdS (Remote Desktop Services) nebo Terminálovou službou zvažte použití průvodce krok za krokem v **poradci pro nasazení Office 365 ProPlus**.
   
-Chcete-li začít, přesvědčte se, zda jste přihlášeni jako správce klienta nebo globálního správce a potom klepněte na tlačítko zde: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).
+Chcete-li začít, ujistěte se, že jste přihlášeni jako správce klienta nebo globální správce, a klikněte zde: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).
   
