@@ -1,5 +1,5 @@
 ---
-title: Seznámení s webem služby SharePoint Online
+title: Začínáme se SharePointem Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050914"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770452"
 ---
-# <a name="workflows-in-sharepoint"></a><span data-ttu-id="99273-102">Pracovní postupy ve službě SharePoint</span><span class="sxs-lookup"><span data-stu-id="99273-102">Workflows in SharePoint</span></span>
+# <a name="workflows-in-sharepoint"></a><span data-ttu-id="1561c-102">Pracovní postupy v SharePointu</span><span class="sxs-lookup"><span data-stu-id="1561c-102">Workflows in SharePoint</span></span>
 
-<span data-ttu-id="99273-103">Pracovní postupy služby SharePoint jsou předprogramované miniaplikace, které zefektivňují a automatizují širokou škálu podnikových procesů.</span><span class="sxs-lookup"><span data-stu-id="99273-103">SharePoint workflows are pre-programmed mini-applications that streamline and automate a wide variety of business processes.</span></span> <span data-ttu-id="99273-104">Pracovní postupy mohou být v rozsahu od shromažďování podpisů, zpětné vazby nebo schválení pro plán nebo dokument, ke sledování aktuálního stavu rutinního postupu.</span><span class="sxs-lookup"><span data-stu-id="99273-104">Workflows can range from collecting signatures, feedback, or approvals for a plan or document, to tracking the current status of a routine procedure.</span></span>
+<span data-ttu-id="1561c-103">Pracovní postupy SharePointu jsou předem naprogramované aplikace, které zjednodušují širokou škálu obchodních procesů.</span><span class="sxs-lookup"><span data-stu-id="1561c-103">SharePoint workflows are pre-programmed apps that streamline a wide variety of business processes.</span></span> <span data-ttu-id="1561c-104">Další informace naleznete v níže uvedených odkazech.</span><span class="sxs-lookup"><span data-stu-id="1561c-104">See the links below for more info.</span></span>
 
-<span data-ttu-id="99273-105">Začínáme **:** Pokud právě Začínáme s pracovními postupy služby SharePoint, naleznete [Další informace v tématu Úvod do pracovních postupů služby SharePoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).</span><span class="sxs-lookup"><span data-stu-id="99273-105">**Getting Started:** If you're just getting started with SharePoint workflows, see [Introduction to SharePoint workflows for more info](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).</span></span>
+## <a name="getting-started"></a><span data-ttu-id="1561c-105">Začínáme</span><span class="sxs-lookup"><span data-stu-id="1561c-105">Getting Started</span></span>
 
-<span data-ttu-id="99273-106">**Tok společnosti Microsoft**: Zvažte použití programu Microsoft Flow namísto klasických řešení pracovních postupů služby SharePoint.</span><span class="sxs-lookup"><span data-stu-id="99273-106">**Microsoft Flow**: Consider using Microsoft Flow instead of the classic SharePoint workflow solutions.</span></span> <span data-ttu-id="99273-107">Další informace naleznete v tématu [Vytvoření toku pro seznam nebo knihovnu ve službě SharePoint Online nebo OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01) .</span><span class="sxs-lookup"><span data-stu-id="99273-107">For more info, see [Create a flow for a list or library in SharePoint Online or OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)</span></span>
+<span data-ttu-id="1561c-106">Pokud teprve začínáte s pracovními postupy SharePointu, přečtěte si v [tématu Intro to SharePoint workflows](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).</span><span class="sxs-lookup"><span data-stu-id="1561c-106">If you're just getting started with SharePoint workflows, see [Intro to SharePoint workflows](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).</span></span>
 
-<span data-ttu-id="99273-108">**Odstraňování potíží s pracovním postupem a ladění**:</span><span class="sxs-lookup"><span data-stu-id="99273-108">**Workflow Troubleshooting and Debugging**:</span></span>
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a><span data-ttu-id="1561c-107">Poradce při potížích a ladění pracovního postupu SharePointu</span><span class="sxs-lookup"><span data-stu-id="1561c-107">Troubleshoot and Debug a SharePoint Workflow</span></span>
 
-<span data-ttu-id="99273-109">Ladění pracovních postupů se podobá předchozím verzím.</span><span class="sxs-lookup"><span data-stu-id="99273-109">Debugging workflows resembles that of previous versions.</span></span> <span data-ttu-id="99273-110">Další informace naleznete v části [ladění pracovních postupů služby SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span><span class="sxs-lookup"><span data-stu-id="99273-110">For more info, see [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span> <span data-ttu-id="99273-111">Další informace o odstraňování potíží naleznete v tématu [Poradce při potížích s ověřením pracovního postupu serveru SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).</span><span class="sxs-lookup"><span data-stu-id="99273-111">For more info on troubleshooting, see [Troubleshoot SharePoint Server workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).</span></span>
+<span data-ttu-id="1561c-108">Viz [Poradce při potížích s chybami ověření pracovního postupu sharepointu](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) a [ladění mandatických pracovních postupů služby SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span><span class="sxs-lookup"><span data-stu-id="1561c-108">See [Troubleshoot SharePoint workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) and [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span>
 
+## <a name="power-automate"></a><span data-ttu-id="1561c-109">Power Automate</span><span class="sxs-lookup"><span data-stu-id="1561c-109">Power Automate</span></span>
+
+<span data-ttu-id="1561c-110">Zvažte použití [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) namísto klasických řešení pracovních postupů SharePointu.</span><span class="sxs-lookup"><span data-stu-id="1561c-110">Consider using [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) instead of the classic SharePoint workflow solutions.</span></span>
