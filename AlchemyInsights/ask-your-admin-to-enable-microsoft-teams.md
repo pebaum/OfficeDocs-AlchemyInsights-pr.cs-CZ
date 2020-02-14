@@ -1,5 +1,5 @@
 ---
-title: Požádejte správce o povolení týmů Microsoft
+title: Požádejte správce o povolení Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 0e96a1296193e33240aaed5947010d91b9351a51
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
+ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328757"
+ms.lasthandoff: 02/13/2020
+ms.locfileid: "41962290"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Chybí ti to! Požádejte správce o povolení týmů Microsoft
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Přicházíš o to! Požádejte správce o povolení Microsoft Teams
 
-Jsou pracovníci a zaměstnanci schopni získat přístup k týmům, ale studenti nemohou nebo nejsou uživatelé s licencí F1 schopni získat přístup k týmům?
+Mají učitelé a zaměstnanci přístup k Teams, ale studenti nemohou nebo nemají licencovaní uživatelé F1 přístup k Teams?
 
-Týmy musí být explicitně povoleny pro studenty a licence F1. Pokyny naleznete v tématu [Office 365 účty studentů a služeb se nemohou přihlásit k týmům společnosti Microsoft](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/office-365-accounts-cannot-sign-in). 
-
-Podrobnější pokyny k povolení týmů pro vaši školu naleznete v [konfiguraci týmů pro vzdělávání](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+Týmy musí být výslovně povoleny pro studenty a licence F1. Podrobnější pokyny, jak povolit teams pro vaši školu v [konfiguraci týmů pro vzdělávání](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education), najdete podrobnější pokyny, jak povolit teams pro vaši školu . 
