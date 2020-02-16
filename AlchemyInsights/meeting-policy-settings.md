@@ -9,25 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "2657"
 - "9000734"
-ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+- "2657"
+ms.openlocfilehash: 509bd0c686830c04ed27f97372411677c0a7f4a4
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627567"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042837"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Správa zásad schůzky v týmu společnosti Microsoft
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Správa zásad schůzek v Microsoft Teams
 
-Zásady schůzky slouží k řízení funkcí, které jsou k dispozici účastníkům schůzky pro schůzky naplánované uživateli v organizaci. Některé funkce zásad schůzky nemusí být implementovány v centru pro správu týmů (v dokumentaci jsou označeny "brzy"). V tomto případě nebo pokud se zobrazí chybová zpráva "tuto zásadu nyní nelze aktualizovat, ale opakujte akci později" v centru pro správu týmů společnosti Microsoft doporučujeme použít nástroj PowerShell k vytvoření nebo úpravě zásad schůzky. 
+**Poznámka: Změny zásad mohou trvat až 24 hodin, než se změny zásad projeví pro uživatele.** Je možné, že nebude možné okamžitě provést změny nově vytvořených zásad. počkejte 4 hodiny a pokuste se znovu upravit nově vytvořenou zásadu.
 
-Další informace o zásadách schůzky naleznete v následujících zdrojích informací:
+Zásady schůzky se používají k řízení funkcí, které jsou k dispozici účastníkům schůzky pro schůzky, které jsou naplánovány uživateli ve vaší organizaci. Některé funkce zásad schůzky nemusí být ještě implementovány v Centru pro správu Týmů (ty jsou v dokumentaci označeny jako "již brzy"). V takovém případě nebo pokud se zobrazuje chyba jako "Zásady nemůžeme aktualizovat právě teď, ale zkuste to znovu" v Centru pro správu Microsoft Teams, doporučujeme použít PowerShell k vytvoření nebo úpravě zásad schůzky Teams. 
 
-- Informace o vytváření zásad, provádění změn a přiřazování uživatelů k zásadám naleznete [v tématu Správa zásad schůzek v týmech](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Další informace o zásadách schůzky naleznete v následujících zdrojích:
 
-- Chcete-li provést změny zásad pomocí rutin prostředí PowerShell, viz [Přehled modulu PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Je třeba použít [modul Skype for Business PowerShell](https://www.microsoft.com/download/details.aspx?id=39366) pro zásady schůzek. 
-    - Další informace naleznete v [dokumentaci rutiny *-cparsmeetingpolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) .
+- Informace o vytváření zásad, provádění změn a přiřazování uživatelů k zásadám najdete v [tématu Správa zásad schůzky v Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
-**Poznámka:** Změna zásad může pro uživatele platit až 24 hodin. Je možné, že nebudete moci okamžitě provést změny nově vytvořených zásad. Vyčkejte 4 hodiny a pokuste se znovu upravit nově vytvořenou zásadu. Pokud potíže přetrvávají, zkuste prostředí PowerShell.  
+- Změny zásad můžete provádět pomocí rutin prostředí PowerShell, přečtěte si v [tématu Přehled prostředí Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
+    - Pro zásady schůzek Teams musíte použít [modul PowerShell skypu pro firmy.](https://www.microsoft.com/download/details.aspx?id=39366) 
+    - Další informace naleznete [v dokumentaci k rutinám *-CsTeamsMeetingPolicy.](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps)
+

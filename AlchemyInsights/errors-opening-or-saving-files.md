@@ -11,33 +11,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: 9a205a6646d28fbb151d229719a104d6af383a92
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
+ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37026887"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42031607"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Řešení chyb při otevírání nebo ukládání souborů aplikace Word
 
-Máte-li problémy s otevíráním nebo ukládáním dokumentů aplikace Word, vyzkoušejte následující kroky:
+Pokud máte problémy s otevíráním nebo ukládáním dokumentů aplikace Word, vyzkoušejte následující:
 
-- [Nainstalovat aktualizace sady Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Seznam nejnovějších aktualizací sady Office naleznete v části [nejnovější aktualizace](https://docs.microsoft.com/officeupdates/office-updates-msi).
-- [Odstraňování problémů s poškozenými dokumenty v aplikaci Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
-- [Opravte aplikaci sady Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+- [Nainstalujte aktualizace Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Seznam nejnovějších aktualizací Office najdete v [tématu Nejnovější aktualizace](https://docs.microsoft.com/officeupdates/office-updates-msi).
+- [Poradce při potížích s poškozenými dokumenty ve Wordu](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
+- [Oprava aplikace Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+- Pokud dokument obsahuje sledované změny, použijte návrhy v [aplikaci Word zpomalí nebo přestane reagovat, pokud existují nadměrné sledované změny nebo komentáře](https://docs.microsoft.com/en-us/office/troubleshoot/word/word-stops-responding) k vyřešení problému.
 
-Pokud se zobrazila chybová zpráva podobná některé z následujících chyb, použijte [při blokování souboru v nastavení zásad registru návrhy v chybové zprávě sady Office](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
+Pokud se vám při blokování nastavení zásad registru zobrazí chyba, jako je jedna z následujících, použijte návrhy v [části Chybová zpráva v sadě Office](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 
-- Pokoušíte se otevřít soubor, který je zablokován nastavením zásad registru.
-- Pokoušíte se otevřít ** \<typ\> souboru** typu souboru, který byl zablokován nastavením bloku souborů v centru zabezpečení.
-- Pokoušíte se otevřít soubor, který byl vytvořen v dřívější verzi sady Microsoft Office. Otevření tohoto typu souboru v této verzi je zablokováno nastavením zásad registru.
-- Pokoušíte se uložit soubor, který je zablokován nastavením zásad registru.
-- Pokoušíte se uložit typ souboru, který byl zablokován nastavením bloku souborů v centru zabezpečení.
+- Pokoušíte se otevřít soubor, který je blokován nastavením zásad registru.
+- Pokoušíte se otevřít ** \<typ\> ** souboru Typ souboru, který byl zablokován nastavením bloku souborů v Centru zabezpečení.
+- Pokoušíte se otevřít soubor, který byl vytvořen v dřívější verzi sady Microsoft Office. Tento typ souboru je blokován otevření v této verzi nastavením zásad registru.
+- Pokoušíte se uložit soubor, který je blokován nastavením zásad registru.
+- Pokoušíte se uložit typ souboru, který byl zablokován nastavením blokování souborů v Centru zabezpečení.
 
-Máte-li potíže s otevíráním souborů sady Office z knihoven dokumentů služby SharePoint nebo OneDrive, vyzkoušejte následující:
+Pokud máte potíže s otevíráním souborů Office z knihoven dokumentů SharePointu nebo OneDrivu, vyzkoušejte následující:
 
-- Zkontrolujte omezení souborů v [neplatných názvech souborů a typů souborů v OneDrive, OneDrive for Business a SharePoint a](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa) Ujistěte se, že je soubor podporován. 
-- [Odstraňte mezipaměť dokumentů sady Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d
+- Zkontrolujte omezení souborů v [neplatných názvech souborů a typech souborů ve OneDrivu, OneDrivu pro firmy a SharePointu](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa) a ujistěte se, že je soubor podporován. 
+- [Odstraňte mezipaměť dokumentů Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d
 ). 
 
-Další informace naleznete v tématu [Oprava problémů při otevírání dokumentů v knihovnách služby SharePoint](https://support.office.com/article/31329fa1-4ad0-47fc-95d8-bb0c5b12a536).
+Další informace naleznete v tématu [Oprava problémů s otevíráním dokumentů v knihovnách SharePointu](https://support.office.com/article/31329fa1-4ad0-47fc-95d8-bb0c5b12a536).
