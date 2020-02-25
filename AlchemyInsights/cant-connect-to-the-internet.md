@@ -11,39 +11,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 222e4b1d282d9d75f08fa2739c13eb7a0ec072c9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: c28ab39b88b4f088fb4c6e76450f79b16e1976ad
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627947"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265045"
 ---
-# <a name="fix-network-connection-issues"></a>Oprava problémů s připojením k síti
+# <a name="fix-network-connection"></a>Oprava síťového připojení
 
-Chcete-li vyřešit potíže s připojením k síti, zkuste nejprve spustit Poradce při potížích se sítí. 
+Chcete-li vyřešit problémy se síťovým připojením, zkuste nejprve spustit Poradce při potížích se sítí. 
 
-Do vyhledávacího pole na hlavním panelu zadejte text **Poradce při potížích se sítí**a vyberte možnost **identifikovat a opravit potíže se sítí**.
+1. [Otevřete nastavení poradce při potížích](ms-settings:troubleshoot).
 
-**Poznámka:** Potřebujete-li pomoc s připojením k Internetu pomocí počítače se systémem Windows 7 nebo Windows 8,1, viz [řešení problémů s připojením k síti v systému Windows](https://support.microsoft.com/help/15287) 
+2. V části **Připojení k Internetu**vyberte Spustit poradce při **potížích**.
 
-Používáte-li bezdrátové připojení (Wi-Fi), ujistěte se, zda je pro zařízení zapnuta síť Wi-Fi (včetně jakéhokoli fyzického přepínače Wi-Fi) a zda není zapnut režim letadla.
+Pokud používáte wi-fi připojení, zkontrolujte, jestli je wi-fi zapnutá pro vaše zařízení (včetně fyzického přepínače Wi-Fi) a že režim v letadle není zapnutý.
 
-Používáte-li kabelové připojení (Ethernet), zkontrolujte, zda je kabel správně zapojen do počítače a směrovače nebo modemu.
+Pokud používáte ethernetové připojení, zkontrolujte, zda je kabel bezpečně připojen k počítači a směrovači nebo modemu.
 
-Pokud to nepomůže, zkuste restartovat počítač, modem a směrovač (máte-li nějaké):
+Pokud to nepomůže, zkuste restartovat počítač, modem a směrovač (pokud ho máte):
 
-1. Odpojte napájení modemu a směrovače. Pokud je v modemu k zálohování baterie, je nutné baterii zcela vypnout.
-2. Počkejte asi 30 sekund. Pokud jste baterii odstranili z modemu, vložte ji zpět.
-3. Připojte napájecí kabel k modemu a směrovači.
-4. Počkejte na plné zapnutí modemu a směrovače a restartujte počítač. Zvolte možnost **Spustit** > **** > **restart**. (Ujistěte se, že jste vybrali možnost **restartovat**, nikoli **vypnout**.)
+1. Odpojte napájení z modemu a směrovače. Pokud má modem zálohu baterie, budete muset vyjmout baterii, abyste zcela vypnuli napájení.
 
-**Pokročilé řešení potíží**
+2. Počkejte asi 30 sekund. Pokud jste vyjmuli baterii z modemu, vložte ji zpět.
 
-Další postupy řešení potíží naleznete v tématu [Oprava problémů s připojením k síti v systému Windows 10](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). Tento článek obsahuje další technické informace o opravě připojení k Internetu, například:
+3. Připojte napájecí kabel pro modem a směrovač.
 
-- Spuštění příkazů sítě pomocí příkazového řádku
-- Aktualizace ovladače síťového adaptéru
-- Kontrola, zda brána firewall nebo antivirový software nenarušuje připojení k Internetu
-- Použití resetování sítě k přeinstalaci síťových zařízení
+4. Zatímco budete čekat na úplné zapnutí modemu a směrovače, restartujte počítač: **Spusťte** > **restartování****napájení** > .
 
-**Poznámka:** Pokud se vám nelíbí další postupy řešení potíží, můžete si s někým promluvit, abyste si mohli vybrat další nápovědu zvolením tlačítka **kontaktujte nás** .
+**Rozšířené řešení potíží**
+
+Pokročilejší kroky řešení potíží najdete v tématu [Oprava problémů s připojením Wi-Fi ve Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
+
+Pokud vám není příjemné používat techničtější kroky řešení potíží, [kontaktujte nás](https://support.microsoft.com/contactus).
