@@ -1,5 +1,5 @@
 ---
-title: Odstraňování problémů se zvukem v systému Windows 10
+title: Poradce při potížích se zvukem ve Windows 10
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,53 +11,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 46b23f97c2e682258224dc95e7a76b1201991828
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: f51fd233db5ae068e719f1cf3bc94a0dac82444f
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796027"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265009"
 ---
-# <a name="troubleshooting-audio-problems-in-windows-10"></a><span data-ttu-id="f99e2-102">Řešení potíží se zvukem v systému Windows 10</span><span class="sxs-lookup"><span data-stu-id="f99e2-102">Troubleshooting audio problems in Windows 10</span></span>
+# <a name="troubleshooting-audio-issues-in-windows-10"></a><span data-ttu-id="374af-102">Řešení problémů se zvukem ve Windows 10</span><span class="sxs-lookup"><span data-stu-id="374af-102">Troubleshooting audio issues in Windows 10</span></span>
 
-<span data-ttu-id="f99e2-103">**Spuštění Poradce při potížích se zvukem**</span><span class="sxs-lookup"><span data-stu-id="f99e2-103">**Run the audio troubleshooter**</span></span>
+<span data-ttu-id="374af-103">**Spuštění poradce při potížích se zvukem**</span><span class="sxs-lookup"><span data-stu-id="374af-103">**Run the audio troubleshooter**</span></span>
 
-<span data-ttu-id="f99e2-104">Poradce při potížích se zvukem může být schopen automaticky opravit potíže se zvukem:</span><span class="sxs-lookup"><span data-stu-id="f99e2-104">The audio troubleshooter might be able to fix the audio problems automatically:</span></span> 
+1.  <span data-ttu-id="374af-104">Otevřete [nastavení poradce při potížích](ms-settings:troubleshoot).</span><span class="sxs-lookup"><span data-stu-id="374af-104">Open the [Troubleshoot settings](ms-settings:troubleshoot).</span></span>
 
-1. <span data-ttu-id="f99e2-105">Klepněte na položku **Start**, zadejte příkaz **Poradce při potížích**a v seznamu výsledků vyberte možnost **Poradce při potížích** .</span><span class="sxs-lookup"><span data-stu-id="f99e2-105">Select **Start**, type **troubleshoot**, and then select **Troubleshoot** from the list of results.</span></span> 
-2. <span data-ttu-id="f99e2-106">Vyberte **přehrávání zvuku** > **Spusťte Poradce při potížích**.</span><span class="sxs-lookup"><span data-stu-id="f99e2-106">Select **Playing Audio** > **Run the troubleshooter**.</span></span>
+2.  <span data-ttu-id="374af-105">Vyberte **Možnost Přehrát zvuk** > **spuštění poradce při potížích**.</span><span class="sxs-lookup"><span data-stu-id="374af-105">Select **Playing Audio** > **Run the troubleshooter**.</span></span>
 
-<span data-ttu-id="f99e2-107">**Zkontrolujte kabely, hlasitost, reproduktory a sluchátka.**</span><span class="sxs-lookup"><span data-stu-id="f99e2-107">**Check cables, volume, speakers, and headphones**</span></span>
+<span data-ttu-id="374af-106">**Nastavení výchozího zařízení**</span><span class="sxs-lookup"><span data-stu-id="374af-106">**Set the default device**</span></span>
 
-- <span data-ttu-id="f99e2-108">Zkontrolujte připojení reproduktorů a sluchátek, zda nejsou kabely uvolněné, a ujistěte se, že jsou připojeny ke správnému konektoru.</span><span class="sxs-lookup"><span data-stu-id="f99e2-108">Check your speaker and headphone connections for loose cables, and make sure they're connected to the correct jack.</span></span>
-- <span data-ttu-id="f99e2-109">Zkontrolujte úroveň napájení a hlasitosti a zkuste vypnout všechny ovládací prvky hlasitosti.</span><span class="sxs-lookup"><span data-stu-id="f99e2-109">Check your power and volume levels, and try turning all the volume controls up.</span></span>
-- <span data-ttu-id="f99e2-110">Některé reproduktory a aplikace mají vlastní ovládání hlasitosti a je možné, že je budete muset všechny zkontrolovat a ujistit se, že jsou na správné úrovni.</span><span class="sxs-lookup"><span data-stu-id="f99e2-110">Some speakers and apps have their own volume controls, and you might have to check them all to make sure they're at the right levels.</span></span>
-- <span data-ttu-id="f99e2-111">Zkuste se připojit pomocí jiného portu USB.</span><span class="sxs-lookup"><span data-stu-id="f99e2-111">Try connecting using a different USB port.</span></span>
-- <span data-ttu-id="f99e2-112">**Poznámka:** Mějte na paměti, že při zapojení sluchátek nemusí reproduktory fungovat.</span><span class="sxs-lookup"><span data-stu-id="f99e2-112">**Note:** Remember that your speakers may not work when headphones are plugged in.</span></span>
+<span data-ttu-id="374af-107">Pokud se připojujete ke zvukovému zařízení pomocí rozhraní USB nebo HDMI, bude pravděpodobně nutné toto zařízení nastavit jako výchozí:</span><span class="sxs-lookup"><span data-stu-id="374af-107">If you're connecting to an audio device using USB or HDMI, you might need to set that device as the default:</span></span>
 
-<span data-ttu-id="f99e2-113">**Kontrola Správce zařízení**</span><span class="sxs-lookup"><span data-stu-id="f99e2-113">**Check Device Manager**</span></span>
+1. <span data-ttu-id="374af-108">Otevřete **spustit** > **zvuk**a v seznamu výsledků vyberte **Zvuk** nebo Změnit **systémové zvuky.**</span><span class="sxs-lookup"><span data-stu-id="374af-108">Open **Start** > **Sound**, and then select **Sound** or **Change system sounds** from the list of results.</span></span>
 
-<span data-ttu-id="f99e2-114">Chcete-li se ujistit, že jsou ovladače aktuální:</span><span class="sxs-lookup"><span data-stu-id="f99e2-114">To make sure the drivers are up to date:</span></span>
+2.  <span data-ttu-id="374af-109">Na kartě **Přehrávání** vyberte zařízení, vyberte **Nastavit výchozí**a pak vyberte **OK**.</span><span class="sxs-lookup"><span data-stu-id="374af-109">On the **Playback** tab, select a device, select **Set Default**, and then select **OK**.</span></span>
 
-- <span data-ttu-id="f99e2-115">Klepněte na položku **Start**, zadejte příkaz **Správce zařízení**a v seznamu výsledků vyberte položku **Správce zařízení** .</span><span class="sxs-lookup"><span data-stu-id="f99e2-115">Select **Start**, type **Device Manager**, and then select **Device Manager** from the list of results.</span></span>
+<span data-ttu-id="374af-110">**Zkontrolujte kabely, hlasitost, reproduktory a sluchátka**</span><span class="sxs-lookup"><span data-stu-id="374af-110">**Check cables, volume, speakers, and headphones**</span></span>
 
-2. <span data-ttu-id="f99e2-116">V části **řadiče zvuku, videa a herních zařízení**vyberte zvukovou kartu, otevřete ji, vyberte kartu **ovladač** a vyberte možnost **Aktualizovat ovladač**.</span><span class="sxs-lookup"><span data-stu-id="f99e2-116">Under **Sound, video, and game controllers**, select your sound card, open it, select the **Driver** tab, and select **Update Driver**.</span></span> 
+1. <span data-ttu-id="374af-111">Zkontrolujte, zda reproduktor a sluchátka nevypadají na uvolněné kabely, a zkontrolujte, zda jsou připojeny ke správnému konektoru.</span><span class="sxs-lookup"><span data-stu-id="374af-111">Check your speaker and headphone connections for loose cables, and make sure they're connected to the correct jack.</span></span>
 
-<span data-ttu-id="f99e2-117">**Poznámka:** Pokud systém Windows nenajde nový ovladač, vyhledejte jej na webu výrobce zařízení a postupujte podle jejich pokynů.</span><span class="sxs-lookup"><span data-stu-id="f99e2-117">**Note:** If Windows doesn't find a new driver, look for one on the device manufacturer's website and follow their instructions.</span></span>
+2. <span data-ttu-id="374af-112">Zkontrolujte hladinu napájení a hlasitosti a zkuste zapnout všechny ovládací prvky hlasitosti.</span><span class="sxs-lookup"><span data-stu-id="374af-112">Check your power and volume levels and try turning all the volume controls up.</span></span>
 
-<span data-ttu-id="f99e2-118">**Přeinstalace ovladače**</span><span class="sxs-lookup"><span data-stu-id="f99e2-118">**Reinstall the driver**</span></span>
+3. <span data-ttu-id="374af-113">Některé reproduktory a aplikace mají vlastní ovládání hlasitosti; Možná je budete muset všechny zkontrolovat, abyste se ujistili, že jsou na správné úrovni.</span><span class="sxs-lookup"><span data-stu-id="374af-113">Some speakers and apps have their own volume controls; you might have to check them all to make sure they're at the right levels.</span></span>
 
-<span data-ttu-id="f99e2-119">Pokud nelze provést aktualizaci pomocí Správce zařízení nebo najít na webu výrobce nový ovladač, vyzkoušejte následující postup:</span><span class="sxs-lookup"><span data-stu-id="f99e2-119">If you can't update via Device Manager or find a new driver on the manufacturer's website, try these steps:</span></span> 
+4. <span data-ttu-id="374af-114">Zkuste se připojit pomocí jiného portu USB.</span><span class="sxs-lookup"><span data-stu-id="374af-114">Try connecting using a different USB port.</span></span>
 
-1. <span data-ttu-id="f99e2-120">Ve Správci zařízení klepněte pravým tlačítkem (nebo stiskněte a podržte) zvukový ovladač a vyberte možnost **odinstalovat**.</span><span class="sxs-lookup"><span data-stu-id="f99e2-120">In Device Manager, right-click (or press and hold) the audio driver, and select **Uninstall**.</span></span> <span data-ttu-id="f99e2-121">Restartujte zařízení a systém Windows se pokusí ovladač přeinstalovat.</span><span class="sxs-lookup"><span data-stu-id="f99e2-121">Restart your device and Windows will attempt to reinstall the driver.</span></span>
+<span data-ttu-id="374af-115">**Poznámka:** Nezapomeňte, že reproduktory nemusí fungovat, když jsou připojena sluchátka.</span><span class="sxs-lookup"><span data-stu-id="374af-115">**Note**: Remember that your speakers may not work when headphones are plugged in.</span></span>
 
-2. <span data-ttu-id="f99e2-122">Pokud přeinstalování ovladače nepomůže, zkuste použít obecný zvukový ovladač, který je dodáván se systémem Windows.</span><span class="sxs-lookup"><span data-stu-id="f99e2-122">If reinstalling the driver doesn't work, try using the generic audio driver that comes with Windows.</span></span> <span data-ttu-id="f99e2-123">Ve Správci zařízení klepněte pravým tlačítkem (nebo stiskněte a podržte) váš zvukový ovladač > **Aktualizovat ovladač software** > **Vyhledat v počítači ovladač** > , který**mi umožňuje vybrat ze seznamu ovladačů zařízení**, vybrat **zvukové zařízení High Definition Audio**, vybrat **Další**a podle pokynů jej nainstalovat.</span><span class="sxs-lookup"><span data-stu-id="f99e2-123">In Device Manager, right-click (or press and hold) your audio driver > **Update driver software** > **Browse my computer for driver software** > **Let me pick from a list of device drivers on my computer**, select **High Definition Audio Device**, select **Next**, and follow the instructions to install it.</span></span>
+<span data-ttu-id="374af-116">**Zkontrolovat Správce zařízení**</span><span class="sxs-lookup"><span data-stu-id="374af-116">**Check Device Manager**</span></span>
 
-<span data-ttu-id="f99e2-124">**Nastavení výchozího zařízení**</span><span class="sxs-lookup"><span data-stu-id="f99e2-124">**Set the default device**</span></span>
+<span data-ttu-id="374af-117">Chcete-li se ujistit, že jsou ovladače aktuální:</span><span class="sxs-lookup"><span data-stu-id="374af-117">To make sure the drivers are up to date:</span></span>
 
-<span data-ttu-id="f99e2-125">Pokud se připojujete k zvukovému zařízení pomocí sběrnice USB nebo HDMI, bude pravděpodobně nutné nastavit toto zařízení jako výchozí:</span><span class="sxs-lookup"><span data-stu-id="f99e2-125">If you're connecting to an audio device using USB or HDMI, you might need to set that device as the default:</span></span> 
+1. <span data-ttu-id="374af-118">Vyberte **Start**, zadejte **Správce zařízení**a v seznamu výsledků vyberte **Správce zařízení.**</span><span class="sxs-lookup"><span data-stu-id="374af-118">Select **Start**, type **Device Manager**, and then select **Device Manager** from the list of results.</span></span>
 
-1. <span data-ttu-id="f99e2-126">Vyberte **Start**, zadejte **zvuk**a pak vyberte **zvuk** nebo **změňte systémové zvuky** ze seznamu výsledků.</span><span class="sxs-lookup"><span data-stu-id="f99e2-126">Select **Start**, type **Sound**, and then select **Sound** or **Change system sounds** from the list of results.</span></span>
+2. <span data-ttu-id="374af-119">V části **Zvukové, video a herní ovladače**vyberte zvukovou kartu, otevřete ji, vyberte kartu **Ovladač** a vyberte **Aktualizovat ovladač**.</span><span class="sxs-lookup"><span data-stu-id="374af-119">Under **Sound, video, and game controllers**, select your sound card, open it, select the **Driver** tab, and select **Update Driver**.</span></span>
 
-2. <span data-ttu-id="f99e2-127">Na kartě **přehrávání** vyberte zařízení, vyberte možnost **nastavit výchozí**a pak klepněte na **tlačítko OK**.</span><span class="sxs-lookup"><span data-stu-id="f99e2-127">On the **Playback** tab, select a device, select **Set Default**, and then select **OK**.</span></span>
+<span data-ttu-id="374af-120">**Poznámka:** Pokud systém Windows nenajde nový ovladač, vyhledejte ho na webu výrobce zařízení a postupujte podle pokynů.</span><span class="sxs-lookup"><span data-stu-id="374af-120">**Note**: If Windows doesn't find a new driver, look for one on the device manufacturer's website and follow their instructions.</span></span>
 
+<span data-ttu-id="374af-121">**Přeinstalace ovladače**</span><span class="sxs-lookup"><span data-stu-id="374af-121">**Reinstall the driver**</span></span>
+
+<span data-ttu-id="374af-122">Pokud nemůžete aktualizovat přes Správce zařízení nebo najít nový ovladač na webu výrobce, vyzkoušejte následující kroky:</span><span class="sxs-lookup"><span data-stu-id="374af-122">If you can't update via Device Manager or find a new driver on the manufacturer's website, try these steps:</span></span>
+
+1. <span data-ttu-id="374af-123">Ve Správci zařízení klepněte pravým tlačítkem myši (nebo stiskněte a podržte) ovladač zvuku a vyberte **Odinstalovat**.</span><span class="sxs-lookup"><span data-stu-id="374af-123">In Device Manager, right-click (or press and hold) the audio driver, and select **Uninstall**.</span></span> <span data-ttu-id="374af-124">Restartujte zařízení a systém Windows se pokusí ovladač přeinstalovat.</span><span class="sxs-lookup"><span data-stu-id="374af-124">Restart your device and Windows will attempt to reinstall the driver.</span></span>
+
+2. <span data-ttu-id="374af-125">Pokud přeinstalace ovladače nefunguje, zkuste použít obecný zvukový ovladač doručovaný se systémem Windows.</span><span class="sxs-lookup"><span data-stu-id="374af-125">If reinstalling the driver doesn't work, try using the generic audio driver that comes with Windows.</span></span> <span data-ttu-id="374af-126">Ve Správci zařízení klikněte pravým tlačítkem myši (nebo stiskněte a podržte) ovladač zvuku > **Software** > ovladače Aktualizace**procházet software ovladače Procházet software** > ovladače**Dovolte mi vybrat ze seznamu ovladačů zařízení v počítači**, vyberte **zvukové zařízení s vysokým rozlišením**, vyberte **Další**a postupujte podle pokynů k jeho instalaci.</span><span class="sxs-lookup"><span data-stu-id="374af-126">In Device Manager, right-click (or press and hold) your audio driver > **Update driver software** > **Browse my computer for driver software** > **Let me pick from a list of device drivers on my computer**, select **High Definition Audio Device**, select **Next**, and follow the instructions to install it.</span></span>

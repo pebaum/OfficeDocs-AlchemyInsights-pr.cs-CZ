@@ -1,5 +1,5 @@
 ---
-title: Jak mohu komunikovat s externími uživateli Skype pro firemní uživatele
+title: Jak komunikuji s externími uživateli Skypu pro firmy
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,19 +12,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: e8eefb9c0f01ad42f725f178fa23b15850364a44
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305150"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265081"
 ---
-# <a name="allow-external-communications-with-skype-for-business"></a><span data-ttu-id="a3bc3-102">Povolit externí komunikaci s Skype for Business</span><span class="sxs-lookup"><span data-stu-id="a3bc3-102">Allow external communications with Skype for Business</span></span> 
+# <a name="allow-external-communications-with-skype-for-business"></a><span data-ttu-id="56a13-102">Povolit externí komunikaci se Skypem pro firmy</span><span class="sxs-lookup"><span data-stu-id="56a13-102">Allow external communications with Skype for Business</span></span> 
 
-<span data-ttu-id="a3bc3-103">Chcete umožnit vašim uživatelům Skype pro firemní uživatele kontaktovat uživatele mimo vaši organizaci?</span><span class="sxs-lookup"><span data-stu-id="a3bc3-103">Do you want to allow your Skype for Business users to contact users outside your organization?</span></span> 
+<span data-ttu-id="56a13-103">Chcete uživatelům Skypu pro firmy povolit kontakt s uživateli mimo vaši organizaci?</span><span class="sxs-lookup"><span data-stu-id="56a13-103">Do you want to allow your Skype for Business users to contact users outside your organization?</span></span> <span data-ttu-id="56a13-104">Viz [Povolit uživatelům kontaktovat externí uživatele Skypu pro firmy](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).</span><span class="sxs-lookup"><span data-stu-id="56a13-104">See [Allow users to contact external Skype for Business users](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).</span></span>
 
-[<span data-ttu-id="a3bc3-104">Povolit uživatelům kontaktovat externí uživatele Skype pro firemní</span><span class="sxs-lookup"><span data-stu-id="a3bc3-104">Allow users to contact external Skype for Business users</span></span>](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
+<span data-ttu-id="56a13-105">Aby externí komunikace fungovala správně, musí být záznamy DNS správně nastaveny.</span><span class="sxs-lookup"><span data-stu-id="56a13-105">Your DNS records MUST be set up correctly for external communications to function properly.</span></span> <span data-ttu-id="56a13-106">Zde [](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) zkontrolujte, zda máme konkrétní pokyny, jak nastavit záznamy DNS u svého poskytovatele.</span><span class="sxs-lookup"><span data-stu-id="56a13-106">Check [here](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) to see if we have specific instructions on how to set DNS records with your provider.</span></span> 
 
-<span data-ttu-id="a3bc3-105">Aby externí komunikace správně fungovala, musí být záznamy DNS nastaveny správně.</span><span class="sxs-lookup"><span data-stu-id="a3bc3-105">Your DNS records MUST be set up correctly for external communications to function properly.</span></span> <span data-ttu-id="a3bc3-106">[Zde](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) se podívejte, zda máme konkrétní pokyny pro nastavení záznamů DNS u vašeho poskytovatele.</span><span class="sxs-lookup"><span data-stu-id="a3bc3-106">Check [here](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) to see if we have specific instructions on how to set DNS records with your provider.</span></span> 
+<span data-ttu-id="56a13-107">Chcete uživatelům Skypu pro firmy povolit pouze kontaktování uživatelů zákazníků skypu?</span><span class="sxs-lookup"><span data-stu-id="56a13-107">Do you only want to enable your Skype for Business users to contact Skype consumer users?</span></span> <span data-ttu-id="56a13-108">Viz:</span><span class="sxs-lookup"><span data-stu-id="56a13-108">See:</span></span>
 
-<span data-ttu-id="a3bc3-107">Chcete-li, aby uživatelé týmů mohli kontaktovat uživatele mimo vaši organizaci (včetně programu Skype pro firemní uživatele), prostudujte si [správu externího přístupu v týmu Microsoft](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people).</span><span class="sxs-lookup"><span data-stu-id="a3bc3-107">If you want your Teams users to be able to contact users outside of your organization (including Skype for Business users), review [Manage external access in Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people).</span></span> 
+- <span data-ttu-id="56a13-109">[Upřete uživatelům Skypu pro firmy, aby přidali kontakty skypu](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts).</span><span class="sxs-lookup"><span data-stu-id="56a13-109">[Let Skype for Business users add Skype contacts](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts).</span></span> 
+
+- <span data-ttu-id="56a13-110">[Přidejte kontakt ve Skypu pro firmy](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).</span><span class="sxs-lookup"><span data-stu-id="56a13-110">[Add a contact in Skype for Business](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).</span></span>
+
+
+<span data-ttu-id="56a13-111">Pokud chcete, aby uživatelé týmů mohli kontaktovat uživatele mimo vaši organizaci (včetně uživatelů Skypu pro firmy), přečtěte si [recenzi Správa externího přístupu v Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people).</span><span class="sxs-lookup"><span data-stu-id="56a13-111">If you want your Teams users to be able to contact users outside of your organization (including Skype for Business users), review [Manage external access in Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people).</span></span> 
