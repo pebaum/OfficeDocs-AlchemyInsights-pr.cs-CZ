@@ -1,5 +1,5 @@
 ---
-title: Hledat ve službě SharePoint Online
+title: Hledání v SharePointu Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -7,31 +7,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: c4ff98f0cf928834c803542340b32da15a40d583
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 85f29fabe3189fe248696155208b56d4901ab6de
+ms.sourcegitcommit: b5370f0fc8da1e7e5ac960cb622a21612a9c86be
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044036"
+ms.lasthandoff: 02/29/2020
+ms.locfileid: "42341101"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Procházení a indexování obsahu ve službě SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Procházení a indexování obsahu v SharePointu Online
 
-Obsah musí být procházen a přidán do vyhledávacího indexu, aby uživatelé našli hledané informace ve službě SharePoint Online. Obsah je automaticky procházen na základě předem definovaného plánu procházení (plán procházení nelze změnit). Prohledávací modul zachytí obsah, který se od posledního procházení změnil, a aktualizuje rejstřík. Chcete-li zajistit procházení obsahu a aktualizaci indexu, uvědomte si následující skutečnosti:
+Obsah musí být procházen a přidán do indexu vyhledávání, aby uživatelé našli, co hledají v SharePointu Online.
 
-- Ujistěte se, že obsah webu lze [vyhledat pomocí webového obsahu](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
+- Ujistěte se, že obsah lze nalézt tak, aby [obsah webu prohledávatelný](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
-- Pokud jste změnili spravovanou vlastnost nebo jste změnili mapování procházených a spravovaných vlastností, musí být web znovu procházen dříve, než se změny projeví ve vyhledávacím indexu. 
+- Pokud jste změnili spravovanou vlastnost nebo pokud jste změnili mapování procházených a spravovaných vlastností, musí být web znovu procházen, než se změny projeví v indexu vyhledávání.
 
-    Vzhledem k tomu, že změny jsou provedeny ve schématu hledání a nikoli na skutečném webu, prohledávací modul automaticky znovu Indexujte Web. 
+- Další informace naleznete v [tématu Ruční vyžádání procházení a opětovného indexování webu, knihovny nebo seznamu](https://docs.microsoft.com/sharepoint/crawl-site-content).
 
-    Další informace naleznete v tématu [Ruční procházení a přeindexování webu, knihovny nebo seznamu](https://docs.microsoft.com/sharepoint/crawl-site-conten).
+- Počkejte alespoň 24 hodin po ručním vyžádání procházení a úplného opětovného indexování, abyste zjistili, zda stále dochází k problému.
 
-- Vyčkejte nejméně 24 hodin po ručním vyžádání procházení a úplného obnovení indexu a zjistěte, zda stále dochází k potížím. 
+- Pokud od zahájení procházení uplynulo více než 24 hodin, zaprotokolujete případ podpory. V mnoha případech již pracujeme na řešení. Dejte nám prosím alespoň 24 hodin na dokončení řešení.
 
-    Pokud uplynulo více než 24 hodin od zahájení procházení a úplného obnovení indexu, zadejte do protokolu případ podpory. V mnoha případech už pracujeme na řešení. K dokončení řešení nám prosím dejte alespoň 24 hodin.
-
-> [!IMPORTANT]
-> Pokud byl web, dokument (knihovna) nebo seznam odstraněn a ve výsledcích hledání je stále zobrazen, měli by uživatelé při pokusu o přístup obdržet **chybu 404 soubor nebyl nalezen** . Tento problém by měl být zaznamenán jako případ podpory pro další zkoumání. 
+**Důležité**: Pokud byl web, dokument (knihovna) nebo seznam odstraněn a stále se zobrazuje ve výsledcích hledání, uživatelé by měli při pokusu o přístup k souboru error **404 obdržet soubor chyby 404.** Tento problém by měl být zaznamenán jako případ podpory pro další šetření.
 
 
 
