@@ -1,5 +1,5 @@
 ---
-title: Freemium týmy
+title: Týmy Freemium
 ms.author: heidip
 author: heidip
 ms.date: 3/6/2019
@@ -11,17 +11,19 @@ ms.custom:
 - "997"
 - "6500005"
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
-ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bac77a9b65dbcd57ee14a533e63ef95719356291
+ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353998"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42556639"
 ---
-# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Chcete zaregistrovat pro týmy, které jsou zdarma, ale nelze.
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Chci se do Teams přihlásit zdarma
 
-- Pokud používáte Office 365 pracovní nebo školní účet, zdarma nabídka není k dispozici. Org, však pravděpodobně již používáte týmy. Pokud tomu tak není, přejděte na [Týmy společnosti Microsoft](https://products.office.com/microsoft-teams/group-chat-software) Chcete-li zjistit, zda je nárok na bezplatnou zkušební verzi.
+Týmy jsou k dispozici zdarma prostřednictvím několika různých programů. Vzhledem k tomu, že s touto žádostí kontaktujete podporu, už máte stávajícího klienta Microsoft 365, což znamená, že už Microsoft Teams máte.
 
-- Akademické instituce nejsou způsobilé pro tuto bezplatnou nabídku. Učitelé a studenti, však můžete získat bezplatnou verzi služeb Office 365, který zahrnuje plnou verzi aplikace Microsoft Teams. Viz [Správa licencí Office 365 pro týmy společnosti Microsoft](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+Ve většině případů je Teams ve výchozím nastavení zapnutý pro všechny uživatele. Jakmile je zapnutá, můžou uživatelé týmy spouštět, buď instalací https://teams.microsoft.com [desktopových](https://office.visualstudio.com/MAX/_workitems/edit/desktop) a [mobilních](https://office.visualstudio.com/MAX/_workitems/edit/desktop) klientů, nebo z [prohlížeče](https://docs.microsoft.com/en-us/MicrosoftTeams/get-clients#mobile-clients) na adrese .
 
-- Nejsou způsobilé pro tuto bezplatnou nabídku vládních institucí USA. Další informace o plánech služeb Office 365 pro vládní organizace (včetně bezplatné zkušební verze), přečtěte si [licencí Office 365 pro týmy společnosti Microsoft](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+Výjimkou je Microsoft Teams for Education (EDU). Pokud máte licenci EDU, musíte microsoft teams povolit ručně. Chcete-li to provést, přejděte do Centra pro správu Microsoft 365 **> služby a doplňky > Microsoft Teams**. Pokud používáte nové Centrum pro správu Teams, budete muset vypnout **Vyzkoušejte nové centrum** pro správu a vyhledejte **služby a doplňky**. DŮLEŽITÉ: Možná budete muset počkat až 24 hodin, než se změny projeví.
+
+Nenechte si ujít všechny naše pokyny pro [podporu vzdálených pracovníků s teams](https://docs.microsoft.com/en-us/MicrosoftTeams/support-remote-work-with-teams).
