@@ -1,5 +1,5 @@
 ---
-title: Změnit heslo směrovače W-Fi
+title: Změna hesla směrovače W-Fi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,32 +11,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: ef7f9a4a40dec764f22c66bd9781c9141fb30d10
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: c0413d1a262d2b7c0245f0fae16b4b60d0a35e19
+ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796026"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42584506"
 ---
-# <a name="change-your-wi-fi-router-password"></a>Změna hesla směrovače Wi-Fi
+# <a name="change-your-wi-fi-router-password"></a>Změna hesla k Wi-Fi směrovači
 
-Chcete-li změnit heslo směrovače Wi-Fi, postupujte následujícím způsobem:
+Chcete-li změnit heslo směrovače Wi-Fi, postupujte takto:
 
-1. Vyberte možnost **Start** > **Settings** > -**síť & Internet** > **Network a Sharing**.
+1. Vyberte **možnost Spustit** > **nastavení** > **sítě & Internetovou** > **síť a Centrum sdílení**.
 
-2. V části **zobrazení aktivních sítí**vyhledejte síť, ke které jste připojeni. Vyberte modrý odkaz vedle **připojení**.<br>
+2. V části **Zobrazit aktivní sítě**vyhledejte síť, ke které jste připojeni. Vyberte modrý odkaz vedle **položky Připojení**.<br>
 
-   **Poznámka:** Pokud nejste připojeni k bezdrátové sítě Wi-Fi, musíte se před změnou hesla připojit.
+   **Poznámka:** Pokud nejste připojeni k Wi-Fi, budete se muset připojit, než budete moct změnit heslo.
 
 3. Vyberte **Podrobnosti**.
 
-4. Vyhledejte výchozí bránu IPv4 a poznamenejte si tento řetězec čísel včetně teček. Například: 192.168.0.1, 192.168.1.1, 10.0.0.1 nebo 10.0.1.1
+4. Vyhledejte výchozí bránu IPv4 a poznamenejte si tento řetězec čísel včetně období. Například: 192.168.0.1, 192.168.1.1, 10.0.0.1 nebo 10.0.1.1
 
-5. Otevřete prohlížeč, zadejte tento řetězec čísel včetně teček do adresního řádku a stisknutím klávesy ENTER přejděte na stránku konfigurace směrovače.
+5. Otevřete prohlížeč, zadejte tento řetězec čísel včetně období do adresního řádku a stisknutím klávesy Enter přejděte na konfigurační stránku směrovače.
 
-6. Po otevření stránky konfigurace směrovače zadejte uživatelské jméno a heslo.<br>
-   - Pokud jste nikdy nezměnili výchozí uživatelské jméno a heslo směrovače, budete pravděpodobně schopni tyto informace najít v příručce ke směrovači.
+6. Po otevření konfigurační stránky směrovače zadejte své uživatelské jméno a heslo.<br>
+   - Pokud jste nikdy nezměnili výchozí uživatelské jméno a heslo směrovače, budete pravděpodobně moci najít tyto informace v příručce směrovače.
 
-   - Potřebujete-li další podporu protokolování na tuto webovou stránku, obraťte se na výrobce směrovače.
+   - Pokud potřebujete další podporu přihlašování k této webové stránce, obraťte se na výrobce směrovače.
 
-7. Jakmile jste přihlášeni, najděte nastavení bezdrátové sítě. Nyní byste měli mít možnost změnit heslo Wi-Fi.
+7. Po přihlášení najděte nastavení bezdrátového připojení. Nyní byste měli mít možnost změnit heslo wi-fi.

@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962290"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573125"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Přicházíš o to! Požádejte správce o povolení Microsoft Teams
 
-Mají učitelé a zaměstnanci přístup k Teams, ale studenti nemohou nebo nemají licencovaní uživatelé F1 přístup k Teams?
+Pokud máte klienta EDU, musíte povolit Microsoft Teams ručně. Chcete-li to provést, přejděte do Centra pro správu Microsoft 365 > **služby a doplňky > Microsoft Teams**. Pokud používáte nové Centrum pro správu Teams, budete muset vypnout **Vyzkoušejte nové centrum** pro správu a vyhledejte **služby a doplňky**. 
 
-Týmy musí být výslovně povoleny pro studenty a licence F1. Podrobnější pokyny, jak povolit teams pro vaši školu v [konfiguraci týmů pro vzdělávání](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education), najdete podrobnější pokyny, jak povolit teams pro vaši školu . 
+**DŮLEŽITÉ:** Možná budete muset počkat až 24 hodin, než se změny projeví.

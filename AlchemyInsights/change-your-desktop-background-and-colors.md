@@ -11,15 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: d6baf8606dfca20c0fba1817b9531db915bdf7a8
-ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
+ms.openlocfilehash: 67a2b591c8556af1d5292d6480ed1ca27e384a6a
+ms.sourcegitcommit: 85c41ce0e11956e1865f8baec231cffa79d87ef4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42063618"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42581414"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>Změna pozadí a barev plochy
 
-Chcete-li změnit nastavení barev, vyberte **Možnost Start** > **Settings** > **Přizpůsobení** > **Barvy**a pak zvolte vlastní barvu nebo nechte systém Windows vytáhnout barvu zvýraznění z pozadí.
+Chcete-li změnit nastavení barev, přejděte na**položku Barvy****přizpůsobení** > **nastavení** >  **spuštění** > a pak zvolte vlastní barvu nebo nechte systém Windows vytáhnout barvu zvýraznění z pozadí.
 
-Pokud chcete změnit pozadí plochy, vyberte **Počáteční** > **** > **nastavení** > **individuálního pozadí**a pak vyberte obrázek, plnou barvu nebo vytvořte prezentaci obrázků. Chcete více pozadí plochy a barev? Navštivte [Microsoft Store](https://www.microsoft.com/en-us/store/collections/windowsthemes) a vyberte si z desítek bezplatných motivů.
+![Přizpůsobte si barvy ve Windows.](media/windows-personalization-colors.png)
+
+Chcete-li změnit pozadí plochy, přejděte na**pozadí****přizpůsobení** > **nastavení** >  **spuštění** > a pak zvolte obrázek, plnou barvu nebo vytvořte prezentaci obrázků. 
+
+![Změňte pozadí plochy systému Windows.](media/windows-desktop-background.png)
+
+Chcete více pozadí plochy a barvy? Navštivte [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) a vyberte si z desítek bezplatných motivů.
