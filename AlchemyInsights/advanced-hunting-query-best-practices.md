@@ -1,5 +1,5 @@
 ---
-title: Pokročilé osvědčené postupy pro lovecký dotaz
+title: Doporučené postupy pokročilého lovu dotazů
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: e0e6f6409b5d9521ff50c142c3d78c81d1930215
-ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
+ms.openlocfilehash: e9752434b5f525e442ed73a30ae349edf0d12400
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42063615"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599297"
 ---
-# <a name="advanced-hunting-query-best-practices"></a>Pokročilé osvědčené postupy pro lovecký dotaz
+# <a name="advanced-hunting-query-best-practices"></a>Doporučené postupy pokročilého lovu dotazů
 
-Podrobné doporučení a [](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) pokyny k:
+Podrobné pokyny a [Advanced hunting query best practices](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) pokyny k tématu:
 - Optimalizace výkonu dotazu.
-- Tipy dotazů a úskalí.
+- Tipy pro dotazy a úskalí.
 - Dotazy s příkazovými řádky.
 
 

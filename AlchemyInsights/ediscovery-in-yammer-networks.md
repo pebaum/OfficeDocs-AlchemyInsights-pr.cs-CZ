@@ -1,5 +1,5 @@
 ---
-title: eDiscovery v yammerových sítích
+title: eDiscovery v sítích Yammeru
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: adc5dba801236bfbcff30d3fa151f8d0463be3cd
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162905"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600593"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>eDiscovery v yammerových sítích
+# <a name="ediscovery-in-yammer-networks"></a>eDiscovery v sítích Yammeru
 
-Teď můžete v Office 365 provádět vyhledávání obsahu Yammeru eDiscovery.  Provádění vyhledávání nebo exportu eDiscovery v obsahu Yammeru vyžaduje následující:
+Teď můžete v Office 365 prohledat obsah Yammeru eDiscovery.  Provádění vyhledávání eDiscovery nebo exportu v obsahu Yammeru vyžaduje následující:
 
-1. Nejprve musíte migrovat síť Yammer Enterprise do nativního režimu, aby byly vaše zprávy a soubory Yammeru zjistitelné. **Poznámka: Pokud jste novým zákazníkem Office 365 od 9.19.2020 a vaše síť Yammer je již v nativním režimu, vaše data jsou nyní zjistitelná pomocí eDiscovery**.
+1. Chcete-li, aby zprávy a soubory Yammeru byly zjistitelné, musíte nejprve migrovat síť Yammer Enterprise Network do nativního režimu. **Poznámka: Pokud jste nový zákazník Office 365 od ledna 9th 2020 a vaše síť Yammer je již v nativním režimu, vaše data jsou nyní zjistitelné s eDiscovery**.
 
-2. Pro ukončení zákazníků bude eDiscovery pro Yammer k dispozici po uvolnění nástroje Zarovnání nativního režimu a dokončení migrace nativního režimu pro Yammer v tenantovi.
+2. Pro ukončení zákazníků bude eDiscovery pro Yammer k dispozici, jakmile se uvolní nástroj zarovnání nativního režimu a migrace nativního režimu se dokončí pro Yammer v tenantovi.
 
 Další informace o:
 
 - Nativní režim v Yammeru, viz: [Přehled nativního režimu](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- eDiscovery v Yammer Networks, viz: [Přehled eDiscovery v sítích Yammer](https://docs.microsoft.com/en-us/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- EDiscovery v Office 365, podívejte se [na eDiscovery v Office 365](https://docs.microsoft.com/en-us/microsoft-365/compliance/ediscovery).
+- eDiscovery v sítích Yammeru najdete v [tématu: Přehled eDiscovery v sítích Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
+- eDiscovery v Office 365 najdete v [tématu eDiscovery v Office 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

@@ -11,30 +11,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: f220dad10c5278ff2e303dbe8e24385bfdaa9589
-ms.sourcegitcommit: 5ac1d37e2f55c5427960caa04265c244b91967ab
+ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42090022"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600342"
 ---
 # <a name="compliance-score"></a>Skóre dodržování předpisů
 
-Skóre dodržování předpisů společnosti Microsoft (Preview) je funkce v Microsoftu 365, která vám pomůže měřit držení zásad dodržování předpisů vaší organizace. Používá skóre založené na rizicích na základě vašeho pokroku při implementaci akcí souvisejících s dodržováním předpisů.   Skóre dodržování předpisů je zjednodušená verze [Správce dodržování předpisů](https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-manager-overview) a nabízí jednodušší způsob, jak prozkoumat váš postoj k dodržování předpisů a implementovat akce k jeho zlepšení. 
+Microsoft Compliance Score (Preview) je funkce v Microsoftu 365, která vám pomůže měřit stav dodržování předpisů vaší organizace. Používá skóre založené na rizicích na základě vašeho postupu při provádění akcí souvisejících s dodržováním předpisů.   Skóre dodržování předpisů je zjednodušená verze [Správce dodržování předpisů](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) a nabízí snadnější způsob, jak prozkoumat váš postoj k dodržování předpisů a implementovat opatření k jeho zlepšení. 
 
-Globální správce bude muset nastavit správná [oprávnění](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) v Centru dodržování předpisů společnosti Microsoft pro přístup ke skóre dodržování předpisů.  Všechna oprávnění dříve nakonfigurovaná pro Správce dodržování předpisů se nepřenesou do skóre dodržování předpisů.
+Globální správce bude muset nastavit správná [oprávnění](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) v Centru dodržování předpisů společnosti Microsoft pro přístup ke skóre dodržování předpisů.  Všechna oprávnění dříve nakonfigurovaná pro Správce dodržování předpisů se nepřenesou do skóre dodržování předpisů.
 
 **Přístup ke skóre dodržování předpisů**
 
-1. Přejděte do Centra dodržování předpisů Microsoft365 a **přihlaste se** pomocí globálního účtu správce Microsoft365.
+1. Přejděte do Centra dodržování předpisů Microsoft u 365 a **přihlaste se** pomocí globálního účtu správce Microsoftu 365.
 
-2. V levém navigačním podokně vyberte **skóre dodržování předpisů.** Potom byste měli vidět [řídicí panel skóre dodržování předpisů se skóre](https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
+2. V levém navigačním podokně vyberte **Skóre kompatibility.** Poté byste měli vidět [řídicí panel Skóre dodržování předpisů s vaším skóre](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
  
 
 **Další informace o**:
 
-- Nastavení přístupových oprávnění pro skóre dodržování předpisů najdete v tématu [Udělení přístupu uživatelům k Centru & dodržování předpisů Office 365 .](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)
-- Práce s akcemi zlepšování ve skóre dodržování předpisů najdete v [tématu Práce se skóre dodržování předpisů](https://docs.microsoft.com/en-us/microsoft-365/compliance/working-with-compliance-score).
-- Jak se počítá skóre dodržování předpisů, viz [Metodika skóre dodržování předpisů](https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-score-methodology).
-- Skóre dodržování předpisů vs. Správce dodržování předpisů, viz [Vztah ke Správci dodržování předpisů](https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
+- Nastavení přístupových oprávnění pro skóre dodržování předpisů najdete [v tématu Udělení přístupu uživatelům k Centru zabezpečení & dodržování předpisů Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
+- Při práci s akcemi pro zlepšení ve skóre dodržování předpisů najdete v [tématu Práce s skóre dodržování předpisů](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
+- Jak se počítá skóre dodržování předpisů, viz [Metodika skóre dodržování předpisů](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
+- Skóre dodržování předpisů vs. Správce dodržování předpisů, viz [Vztah ke Správci dodržování předpisů](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
 
