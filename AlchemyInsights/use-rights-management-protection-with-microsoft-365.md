@@ -1,30 +1,30 @@
 ---
-title: Používání ochrany rights managementu se službou Microsoft 365
+title: Používejte Rights Management Protection s Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001670"
 - "3737"
-ms.openlocfilehash: 9b0764e6315dba48ad7634a0668468fcff8408f4
-ms.sourcegitcommit: 2561248cfa1a562504183d84e2252deb60e6588a
-ms.translationtype: MT
+- "3820"
+ms.openlocfilehash: e7c28230c90f61dd61b48941786c9218e06b6495
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42632660"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707365"
 ---
-# <a name="use-rights-management-protection-with-microsoft-365"></a>Používání ochrany rights managementu se službou Microsoft 365
+# <a name="use-rights-management-protection-with-microsoft-365"></a>Používejte Rights Management Protection s Microsoft 365
 
-Před použitím funkcí irm (Information Rights Management) aplikací a služeb Office 365 je nutné aktivovat [službu Správa práv (RMS).](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms)
+Službu [Rights Management (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) musíte aktivovat, než budete moct používat funkce IRM (Správa přístupových práv k informacím) aplikací a služeb Office 365.
 
-1. Licenční požadavky a aktivaci z **Centra pro správu Microsoftu 365**najdete v tématu [Aktivace ochrany proti právům z Centra pro správu Microsoftu 365](https://docs.microsoft.com/azure/information-protection/activate-office365). **Poznámka:** Vyžaduje účet globální správy.
+1. Informace o licenčních požadavcích a aktivaci z **Centra pro správu Microsoft 365** najdete v článku [Jak aktivovat ochranu IRM z centra pro správu systému Microsoft 365](https://docs.microsoft.com/azure/information-protection/activate-office365). **Poznámka**: vyžaduje účet globální správy.
 
-2. Licenční požadavky a aktivaci z **Webu Azure Portal**najdete v [tématu Jak aktivovat službu ochrany správy práv z webu Azure Portal](https://docs.microsoft.com/azure/information-protection/activate-azure). **Poznámka:** Nevyžaduje globální účet správce.
- 
+2. Informace o licenčních požadavcích a aktivaci z **Azure Portal** najdete v článku [Jak aktivovat službu Rights Management Protection z portálu Azure Portal](https://docs.microsoft.com/azure/information-protection/activate-azure). **Poznámka**: nevyžaduje účet globální správy.
 
-Další informace najdete [v tématu Odkazy na informace o správě práv v Centru pro správu](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).
+Další informace najdete v tématu [Užitečné informace o Rights Management v Centru pro správu](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).

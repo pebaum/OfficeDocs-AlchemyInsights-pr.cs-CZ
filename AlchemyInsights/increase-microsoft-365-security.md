@@ -1,29 +1,30 @@
 ---
-title: Zvýšení zabezpečení microsoftu 365
+title: Zvýšení zabezpečení systému Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001681"
 - "3746"
-ms.openlocfilehash: 998eadb49068b0ca8001498efb97fc29c912c2a6
-ms.sourcegitcommit: 6df4460313ca033d18b59669506de1dbb7482ef9
-ms.translationtype: MT
+- "3821"
+ms.openlocfilehash: 5c1e43e6c49eda244dfdefedcd99a0cb17f74d67
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573469"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707436"
 ---
-# <a name="increase-microsoft-365-security"></a>Zvýšení zabezpečení microsoftu 365
+# <a name="increase-microsoft-365-security"></a>Zvýšení zabezpečení systému Microsoft 365
 
-Zkontrolujte [doporučenou konfiguraci zabezpečení](https://docs.microsoft.com/microsoft-365/security/office-365-security/tenant-wide-setup-for-increased-security?view=o365-worldwide) pro klienta Microsoft 365.
+Podívejte se na [doporučenou konfiguraci zabezpečení](https://docs.microsoft.com/microsoft-365/security/office-365-security/tenant-wide-setup-for-increased-security?view=o365-worldwide) u tenanta Microsoft 365.
 
-- Přečtěte si o [microsoft secure score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide) a [podnikněte kroky](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide#take-action-to-improve-your-score) ke zlepšení **skóre**.
+- Přečtěte si informace o [Microsoft Secure Score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide) a [sami zkuste ](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide#take-action-to-improve-your-score) své **zabezpečení zlepšit**.
 
-- Další informace o [řešení bezpečnostních incidentů](https://docs.microsoft.com/microsoft-365/security/office-365-security/office365-security-incident-response-overview?view=o365-worldwide), včetně **kompromitovaných účtů**.
+- Přečtěte si informace o [reagování na incidenty zabezpečení](https://docs.microsoft.com/microsoft-365/security/office-365-security/office365-security-incident-response-overview?view=o365-worldwide), včetně **ohrožení bezpečnosti účtu**.
 
-Další informace najdete [v tématu Začínáme s microsoftem 365 Security](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap?view=o365-worldwide). 
+Další informace najdete v článku [Začínáme se zabezpečením systému Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap?view=o365-worldwide). 
