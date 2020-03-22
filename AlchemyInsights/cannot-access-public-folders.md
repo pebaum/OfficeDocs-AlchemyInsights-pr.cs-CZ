@@ -1,5 +1,5 @@
 ---
-title: Nelze získat přístup k veřejným složkám
+title: Nelze získat přístup k veřejným složkám.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a9305b175e1ca0b992c014a73705447d67e037bc
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
+ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959488"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42891742"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Aplikace Outlook se nemůže připojit k veřejným složkám
 
-Pokud přístup k veřejným složkám nepracuje pro několik uživatelů, vyzkoušejte následující kroky:
+Pokud přístup k veřejným složkám některým uživatelům nefunguje, vyzkoušejte následující postup:
 
-Připojte se k EXO PowerShell a konfigurujte výchozí složku DefaultPublicFolderMailbox na problémověm uživatelském účtu tak, aby odpovídal jednomu pracovnímu účtu uživatele.
+Připojte se k prostředí EXO PowerShell a nakonfigurujte parametr DefaultPublicFolderMailbox u problémového uživatelského účtu tak, aby odpovídal parametru pracovního uživatelského účtu.
 
 Příklad:
 
-WorkingUser pro získání poštovní schránky | FT DefaultPublicFolderMailbox, Efektvepublicfoldermailbox
+Get-Mailbox WorkingUser | ft VýchozíPublicFolderMailbox,EffectivePublicFolderMailbox
 
-Set-Mailbox Problémuer-DefaultPublicFolderMailbox \<hodnota z předchozího příkazu>
+Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<hodnota z předchozího příkazu>
 
 Počkejte alespoň jednu hodinu, než se změna projeví.
+
+Pokud problém přetrvává, postupujte podle [tohoto postupu](https://aka.ms/pfcte) k řešení problémů s přístupem k veřejným složkám pomocí aplikace Outlook.
