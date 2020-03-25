@@ -1,5 +1,5 @@
 ---
-title: Poradce při potížích se problémy a chybami nástroje pro migraci služby SharePoint
+title: Poradce při potížích s nástrojem pro migraci a chybami SharePointu
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -13,16 +13,22 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 191d30a3d226387333d330472703fe9d3f2925f9
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: f9f5694b1d88bccebdc5448d5629ea5120c52511
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913445"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931111"
 ---
-# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Poradce při potížích se problémy a chybami nástroje pro migraci služby SharePoint
+# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Poradce při potížích s nástrojem pro migraci a chybami SharePointu
 
-Při použití nástroje pro migraci serveru SharePoint (SPMT) se mohou vyskytnout některé běžné problémy a chyby. Další informace získáte na níže uvedených odkazech.
+**Důležité:** Mnoho zákazníků SharePointu Online a OneDrivu spouštějí důležité podnikové aplikace proti službě, která běží na pozadí. Patří mezi ně migrace obsahu, ochrana před únikem dat (DLP) a řešení zálohování. Během těchto bezprecedentních časů podnikáme kroky k zajištění toho, aby služby SharePointu Online a OneDrivu zůstaly vysoce dostupné a spolehlivé pro vaše uživatele, kteří jsou na službě závislí více než kdy dřív ve vzdálených pracovních scénářích.
+
+Na podporu tohoto cíle jsme implementovali přísnější omezení pro aplikace na pozadí (migrace, DLP a řešení zálohování) během denních denních hodin. Měli byste očekávat, že tyto aplikace dosáhnou velmi omezené propustnost v těchto časech. Během večerních a víkendových hodin pro region však bude služba připravena zpracovat výrazně vyšší objem požadavků z aplikací na pozadí.
+
+**Běžné problémy a chyby**
+
+Při použití nástroje pro migraci služby SharePoint (SPMT) se můžete setkat s některými běžnými problémy a chybami. Další informace naleznete na níže uvedených odkazech.
 
 * [Řešení běžných problémů a chyb SPMT](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
-* [Odstraňování problémů s instalací SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
+* [Poradce při potížích s instalací SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
