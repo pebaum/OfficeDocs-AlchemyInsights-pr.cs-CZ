@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: 5aebf7903670e74f616c8f151749d760caf1d642
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: b25bf02e0ccddbb7524816cab0933f026a6a9224
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42931976"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958999"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migrace do SharePointu Online pomocí Správce migrace
 
-**Důležité:** řada zákazníků SharePointu Online a OneDrivu spouští důležité podnikové aplikace s využitím služby, která běží na pozadí. Patří mezi ně migrace obsahu, ochrana před únikem informací (DLP) a řešení zálohování. Během této mimořádné doby realizujeme opatření s cílem zajistit, aby služby SharePointu Online a OneDrivu byly vysoce dostupné a spolehlivé pro vaše uživatele, kteří na této službě v rámci scénářů vzdálené práce závisejí víc než dřív.
-
-Pro zajištění tohoto cíle jsme v pracovních dnech v pracovní době implementovali přísnější limity omezování pro aplikace na pozadí (migrace, ochrana před únikem informací a řešení zálohování). Měli byste očekávat, že tyto aplikace budou mít během této doby velmi omezenou propustnost. Ale během večerních a víkendových hodin příslušné oblasti bude služba připravená zpracovat výrazně vyšší objem žádostí od aplikací na pozadí.
+**Důležité**: V této mimořádné době přijímáme opatření, aby služby SharePointu Online a OneDrivu zůstaly vysoce dostupné. Další informace najdete v článku zaměřeném na [dočasné úpravy funkcí SharePointu Online](https://aka.ms/ODSPAdjustments).
 
 **Správce migrace**
 
