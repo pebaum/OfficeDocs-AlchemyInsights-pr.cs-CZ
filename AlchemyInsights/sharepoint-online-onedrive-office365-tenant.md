@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online nebo OneDrive 'Nastavení'
+title: Nastavení SharePointu Online nebo OneDrivu
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,18 +10,17 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 214e148420519b47253a317a8bec8239ee985e34
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 9cd49502102ee89df0e714d0bca86e87733cb6b3
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571315"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030357"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online nebo OneDrive "Nastavení"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>Nastavení SharePointu Online nebo OneDrivu
 
-Když je uživatel přidán do existujícího tenanta Office 365, mohou se mu zobrazit ikony SharePointu Online nebo OneDrivu pro firmy uvedené jako "Nastavení", dokud nebude proces zřizování dokončen.
-Nápovědu naleznete v [této příručce k řešení potíží.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
+Když je uživatel přidán do existujícího tenanta Office 365, můžou se mu zobrazit ikony SharePointu Online nebo OneDrivu pro firmy, které jsou v seznamu "Nastavení" nebo "Stále pracujeme na nastavení souborů", dokud nebude proces zřizování dokončen. Nápovědu naleznete v tomto [průvodci odstraňováním potíží.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
 
-Pokud od prvního uviděl tento problém více než 24 hodin, zaprotokolujte prosím případ podpory.
+Pokud uplynulo více než 24 hodin od prvního usty, zahlaste případ podpory.
 
 Chápeme, že 24 hodin se může zdát jako dlouhá doba. V mnoha případech již pracujeme na řešení. Dejte nám prosím alespoň 24 hodin na dokončení řešení.
