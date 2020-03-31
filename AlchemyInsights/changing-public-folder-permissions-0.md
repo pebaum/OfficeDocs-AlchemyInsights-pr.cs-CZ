@@ -1,5 +1,5 @@
 ---
-title: Změna oprávnění k veřejným složkám
+title: Změna oprávnění pro veřejnou složku
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -11,26 +11,27 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: 9d043e81b66cea1fcb985b0e1e79078409ba0b93
-ms.sourcegitcommit: f23c39009d988228213fdb2bb7350bf4a0194194
+ms.openlocfilehash: 68aefd820c681a9022828f67655e1c843692a30e
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/11/2020
-ms.locfileid: "41022190"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059765"
 ---
-# <a name="changing-public-folder-permissions"></a><span data-ttu-id="3cb38-102">Změna oprávnění k veřejným složkám</span><span class="sxs-lookup"><span data-stu-id="3cb38-102">Changing public folder permissions</span></span>
+# <a name="changing-public-folder-permissions"></a><span data-ttu-id="88648-102">Změna oprávnění pro veřejnou složku</span><span class="sxs-lookup"><span data-stu-id="88648-102">Changing public folder permissions</span></span>
 
-<span data-ttu-id="3cb38-103">Oprávnění k veřejným složkám mohou uživatelé a správci změnit v aplikaci Outlook.</span><span class="sxs-lookup"><span data-stu-id="3cb38-103">Public folder permissions can be changed by users and administrators in Outlook.</span></span> <span data-ttu-id="3cb38-104">Správci mohou také řídit oprávnění z centra pro správu serveru Exchange (EAC) následujícím způsobem:</span><span class="sxs-lookup"><span data-stu-id="3cb38-104">Administrators can also control permissions from the Exchange Admin Center (EAC), by doing the following:</span></span>
+<span data-ttu-id="88648-103">Oprávnění veřejných složek mohou uživatelé a správci v aplikaci Outlook měnit.</span><span class="sxs-lookup"><span data-stu-id="88648-103">Public folder permissions can be changed by users and administrators in Outlook.</span></span> <span data-ttu-id="88648-104">Správci můžou také řídit oprávnění z Centra pro správu Exchange (EAC) následujícím způsobem:</span><span class="sxs-lookup"><span data-stu-id="88648-104">Administrators can also control permissions from the Exchange Admin Center (EAC), by doing the following:</span></span>
   
-1. <span data-ttu-id="3cb38-105">V centru Microsoft 365 Admin Center přejděte k \> **výměně** **středisek pro správu** .</span><span class="sxs-lookup"><span data-stu-id="3cb38-105">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
+1. <span data-ttu-id="88648-105">V Centru pro správu Microsoftu 365 přejděte na \> **Exchange** **centra pro správu** .</span><span class="sxs-lookup"><span data-stu-id="88648-105">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
 
-2. <span data-ttu-id="3cb38-106">Vyberte **veřejné složky**.</span><span class="sxs-lookup"><span data-stu-id="3cb38-106">Select **Public folders**.</span></span>
+2. <span data-ttu-id="88648-106">Vyberte **veřejné složky**.</span><span class="sxs-lookup"><span data-stu-id="88648-106">Select **Public folders**.</span></span>
 
-3. <span data-ttu-id="3cb38-107">Zde můžete změnit oprávnění pro jednotlivé veřejné složky přiřazením skupin zabezpečení k oprávněním.</span><span class="sxs-lookup"><span data-stu-id="3cb38-107">From there, you can change permissions for individual public folders by assigning security groups to permissions.</span></span> <span data-ttu-id="3cb38-108">Aby mohl koncový uživatel změnit oprávnění pro veřejné složky, musí mít uživatel práva vlastníka této složky.</span><span class="sxs-lookup"><span data-stu-id="3cb38-108">For an end user to change public folder permissions, the user needs to have Owner rights on the folder.</span></span>
+3. <span data-ttu-id="88648-107">Odtud můžete změnit oprávnění pro jednotlivé veřejné složky přiřazením skupin zabezpečení oprávněním.</span><span class="sxs-lookup"><span data-stu-id="88648-107">From there, you can change permissions for individual public folders by assigning security groups to permissions.</span></span> <span data-ttu-id="88648-108">Aby mohl koncový uživatel změnit oprávnění k veřejné složce, musí mít ve složce práva vlastníka.</span><span class="sxs-lookup"><span data-stu-id="88648-108">For an end user to change public folder permissions, the user needs to have Owner rights on the folder.</span></span>
 
-> [!NOTE]
-> <span data-ttu-id="3cb38-109">Při pokusu o změnu oprávnění u veřejných složek se může vyskytnout několik známých problémů.</span><span class="sxs-lookup"><span data-stu-id="3cb38-109">There are several known issues you might encounter when you try to change permissions on public folders.</span></span> <span data-ttu-id="3cb38-110">Další informace naleznete v následujících článcích.</span><span class="sxs-lookup"><span data-stu-id="3cb38-110">See the following articles for more information.</span></span>
->
-> [<span data-ttu-id="3cb38-111">Nelze použít oprávnění pro podsložky veřejných složek v EAC</span><span class="sxs-lookup"><span data-stu-id="3cb38-111">Can’t apply permissions to public folder subfolders in EAC</span></span>](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
->
-> [<span data-ttu-id="3cb38-112">Při přístupu k veřejným složkám se zobrazí chybová zpráva, že poštovní schránka nebyla nalezena v místní doménové struktuře</span><span class="sxs-lookup"><span data-stu-id="3cb38-112">"The mailbox is not found in the local forest" error when you access public folders</span></span>](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
+<span data-ttu-id="88648-109">Postupujte podle postupu popsaného v [tématu Diagnostika a oprava problémů s oprávněním veřejné složky](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) při řešení problémů s oprávněním veřejných složek.</span><span class="sxs-lookup"><span data-stu-id="88648-109">Please follow the procedure described in [How to diagnose and fix public folder permission issues](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) to troubleshoot public folder permission issues.</span></span>
+
+<span data-ttu-id="88648-110">**Poznámka:** Při pokusu o změnu oprávnění ve veřejných složkách se můžete setkat s několika známými problémy.</span><span class="sxs-lookup"><span data-stu-id="88648-110">**Note**: There are several known issues you might encounter when you try to change permissions on public folders.</span></span> <span data-ttu-id="88648-111">Další informace naleznete v následujících článcích.</span><span class="sxs-lookup"><span data-stu-id="88648-111">See the following articles for more information.</span></span>
+
+- [<span data-ttu-id="88648-112">Nelze použít oprávnění pro podsložky veřejných složek v EAC</span><span class="sxs-lookup"><span data-stu-id="88648-112">Can't apply permissions to public folder subfolders in EAC</span></span>](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+
+- [<span data-ttu-id="88648-113">Chyba "Poštovní schránka nebyla nalezena v místní doménové struktuře" při přístupu k veřejným složkám</span><span class="sxs-lookup"><span data-stu-id="88648-113">"The mailbox is not found in the local forest" error when you access public folders</span></span>](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
