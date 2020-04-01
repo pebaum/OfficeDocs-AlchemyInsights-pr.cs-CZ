@@ -1,5 +1,5 @@
 ---
-title: Zablokování funkce BlockLegacyAuth
+title: BlockLegacyAuth
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: 73c46cc9ad17553f53f90a53fa272609a208d4a6
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: e7bff5f9fcf6f2f2c77e93c2f27f585f2cc18bea
+ms.sourcegitcommit: 98231a228ecb2bf14ec3b96d4dd4ccf2507617a3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627279"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43079253"
 ---
-# <a name="blocking-legacy-authentication"></a>Blokování staršího ověřování
+# <a name="blocking-legacy-authentication"></a>Blokování staršíverze ověřování
 
-Starší ověřování je termín, který odkazuje na požadavek na ověření, který provedl:
+Starší verze ověřování je termín, který odkazuje na požadavek na ověření ze strany:
 
-- Starší klienti sady Office, kteří nepoužívají moderní ověřování (například klient sady Office 2010)
-- Každý klient používající starší e-mailové protokoly, například IMAP/SMTP/POP3  
+- Starší klienti Office, kteří nepoužívají moderní ověřování (například klient Office 2010).
 
-Další informace o blokování staršího ověřování a povolení moderního ověřování naleznete v nastavení [blokování staršího ověřování](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
+- Každý klient, který používá starší poštovní protokoly, například IMAP/SMTP/POP3.
+
+Další informace o blokování staršíverze ověřování a povolení moderníověřování naleznete [v průvodní verze ověřování](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
+
+Výchozí nastavení zabezpečení ve službě Azure Active Directory (Azure AD) usnadňují zabezpečení a pomáhají chránit vaši organizaci. Výchozí hodnoty zabezpečení obsahují předem nakonfigurovaná nastavení zabezpečení pro běžné útoky.
+Další informace o výchozích hodnotách zabezpečení naleznete v odkazech [Co jsou výchozí hodnoty zabezpečení?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
+
+**Poznámka:** Pokud váš tenant byl vytvořen na nebo po 22.12.2019, je možné, že dochází k nové chování zabezpečené ve výchozím nastavení a již mají výchozí nastavení zabezpečení povoleno ve vašem tenantovi.  Ve snaze chránit všechny naše uživatele, výchozí zabezpečení se zavádí do všech nových klientů vytvořených.
