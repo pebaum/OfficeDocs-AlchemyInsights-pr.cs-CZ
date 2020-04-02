@@ -11,22 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 0775f12d3778f1f6f7a53ec47ddb8f0cd71dc1af
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376571"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105340"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Naplánování schůzky v týmech
+# <a name="schedule-a-meeting-in-teams"></a>Naplánování schůzky v Teams
 
-Schůzku lze naplánovat dvěma způsoby: 
+**Důležité:** Pokud máte problémy s vytvořením schůzky nebo nemůžete najít možnost schůzky v Teams, ujistěte se, že ovlivnění uživatelé [mají licenci pro poštovní schránku Exchange Online a že je povolená poštovní schránka](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
 
-- Chcete-li si schůzku s lidmi v konverzaci rezervovat, vyberte v rozhovoru **naplánovat ikonu schůzky** (Toto je pod polem pro psaní).
-- Vyberte ikonu **kalendáře** na levé straně aplikace a buď vyberte **novou schůzku** v pravé horní části, nebo vyberte v kalendáři časový rozsah pro otevření formuláře plánování.
+Schůzku můžete naplánovat dvěma způsoby: 
 
-Podobně jako při plánování schůzky v aplikaci Outlook můžete zadat název schůzky, pozvat osoby a přidat podrobnosti o schůzkách.
+- Chcete-li rezervovat schůzku s lidmi v chatu, vyberte ikonu **Naplánovat schůzku** v chatu (toto je pod polem pro vytvoření komponování).
+- Vyberte ikonu **Kalendář** na levé straně aplikace a buď vyberte **Nová schůzka** v pravém horním rohu, nebo vyberte časový rozsah v kalendáři, abyste otevřeli plánovací formulář.
 
-Na pravé straně plánovacího formuláře můžete přidat kanál nebo jednotlivé osoby, nebo nechat oba prázdné, chcete-li naplánovat soukromou schůzku.
+Podobně jako při plánování schůzky v Outlooku přiznáte schůzku, pozvete lidi a přidáte podrobnosti o schůzkách.
 
-Další informace o vytváření a plánování schůzek v týmech Microsoft naleznete v tématu [Naplánování schůzky v týmech](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+Na pravé straně plánovacího formuláře můžete přidat kanál nebo jednotlivé osoby nebo nechat obě prázdné, aby bylo možné naplánovat soukromou událost.
+
+- Další informace o vytváření a plánování schůzek v Microsoft Teams najdete v [tématu Plánování schůzky v Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+
+- Omezení a specifikace pro schůzky najdete v [tématu Limity a specifikace pro Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
