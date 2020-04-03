@@ -22,7 +22,7 @@ ms.locfileid: "43030535"
 
 **Důležité:** V této mimořádné době přijímáme opatření, aby služby OneNotu zůstaly vysoce dostupné.
 
-- Může se zobrazit zpráva typu Ve OneNotu v Microsoft Teams dochází k omezení. Pro tenanty z oblasti komerce a vzdělávání bude OneNote v Teams jenom pro čtení. Pokud chcete upravovat, použijte OneNote pro web nebo desktopovou aplikaci OneNote.
+- Může se zobrazit zpráva typu „Ve OneNotu v Microsoft Teams dochází k omezení.“ Pro tenanty z oblasti komerce a vzdělávání bude OneNote v Teams jenom pro čtení. Pokud chcete provádět úpravy, použijte OneNote pro web nebo desktopovou aplikaci OneNote.
 
 - Změnila se velikost stahování a četnost synchronizací souborových příloh.
 

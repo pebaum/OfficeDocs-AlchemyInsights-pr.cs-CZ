@@ -28,19 +28,19 @@ Můžete použít instalační médium (USB flash disk nebo DVD) k instalaci nov
 
 2. **Použijte USB flash disk nebo DVD a vytvořte si vlastní instalační média**.
 
-    - Pokud je počítač, do kterého chcete nainstalovat Windows, nefunkční, budete pro tento krok potřebovat jiný funkční počítač.
+    - Pokud je počítač, na který chcete nainstalovat Windows, nefunkční, budete pro tento krok potřebovat jiný funkční počítač.
 
     - Jako instalační médium doporučujeme použít prázdný disk USB nebo DVD, protože se jeho veškerý obsah odstraní.
 
     - Pokud potřebujete naformátovat jednotku USB, najdete další informace v tématu věnovaném [instalaci Windows z USB flash disku](https://docs.microsoft.com/windows-hardware/manufacture/desktop/install-windows-from-a-usb-flash-drive).
 
-    - Až budete připravení vytvořit instalační média, [stáhněte si nástroj pro vytvoření médií a spusťte ho](https://www.microsoft.com/software-download/windows10). V těchto pokynech najdete další informace o používání tohoto nástroje.
+    - Až budete připraveni vytvořit instalační médium, [stáhněte si nástroj pro vytvoření média a spusťte ho](https://www.microsoft.com/software-download/windows10). V těchto pokynech najdete další informace o používání tohoto nástroje.
 
 3. **Nainstalujte Windows na nefunkční počítač pomocí USB flash disku nebo DVD z kroku 2**.
 
-    - Instalační médium, které jste vytvořili, připojte k nefunkčnímu počítač a potom ho zapněte.
+    - Instalační médium, které jste vytvořili, připojte k nefunkčnímu počítači a potom ho zapněte.
 
-    - Na úvodní obrazovce zadejte jazyk a další předvolby a klikněte na **Další**. Pokud se úvodní obrazovka nezobrazí, je možné, že váš počítač není nastavený tak, aby se spouštěl z jednotky. Podívejte se na web výrobce počítače, kde najdete informace o tom, jak pro tento počítač změnit pořadí spouštění, a zkuste to znovu.
+    - Na úvodní obrazovce zadejte jazyk a další předvolby a klikněte na **Další**. Pokud se úvodní obrazovka nezobrazí, je možné, že váš počítač není nastavený tak, aby se spouštěl z jednotky. Podívejte se na web výrobce počítače, kde najdete informace o tom, jak u tohoto počítače změnit pořadí spouštění, a zkuste to znovu.
 
     - Klikněte na **Opravit tento počítač**.
 

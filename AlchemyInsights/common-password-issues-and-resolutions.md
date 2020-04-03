@@ -24,7 +24,7 @@ Tady jsou některé běžné problémy s heslem a jejich řešení:
 
 - **Resetování hesla:** Správce může na portálu pro správu resetovat hesla v části **Uživatelé > [Aktivní uživatelé](https://portal.office.com/adminportal/home#/users)**. Vyberte uživatele a pak klikněte na ikonu klíče.
 
-- **Změna vlastního hesla:**: **[Můj účet](https://portal.office.com/account/#home) > Zabezpečení a ochrana osobních údajů > Heslo**.
+- **Změna vlastního hesla:** **[Můj účet](https://portal.office.com/account/#home) > Zabezpečení a ochrana osobních údajů > Heslo**.
 
 - [Resetování zapomenutého hesla správce, když je heslo ještě uložené v mezipaměti prohlížeče](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide#reset-my-office-365-tenant-admin-password).
 

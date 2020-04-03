@@ -28,7 +28,7 @@ Nejdřív vyzkoušejte **cyklus vypnutí a zapnutí tiskárny**. Postupujte takt
 
 3. Tiskárnu opět připojte a zapněte.
 
-Pokud se tím problém nevyřeší, spusťte Poradce při potížích s tiskárnou tak, že přejdete na **Start > Nastavení > Aktualizace a zabezpečení > Odstranit potíže**. Klikněte na **Tiskárna**a potom na **Spustit poradce při potížích**.
+Pokud se tím problém nevyřeší, spusťte Poradce při potížích s tiskárnou tak, že přejdete na **Start > Nastavení > Aktualizace a zabezpečení > Odstranit potíže**. Klikněte na **Tiskárna** a potom na **Spustit poradce při potížích**.
 
 **Pokud je vaše tiskárna připojená k počítači prostřednictvím síťového připojení** (pokud spěcháte, můžete tiskárnu rychle zprovoznit pomocí kabelu USB, kterým ji připojíte přímo k počítači):
 
@@ -52,7 +52,7 @@ Můžete se také pokusit **odebrat síťovou tiskárnu a přeinstalovat ji**:
 
     - Klikněte na **Start > Nastavení > Zařízení > Tiskárny a skenery**.
 
-    - Pod nadpisem Tiskárny a skenery klikněte na tiskárnu, jejíž problémy řešíte. Klikněte na **Odebrat zařízení**. Postupujte podle pokynů pro úplnou odebrání tiskárny.
+    - Pod nadpisem Tiskárny a skenery klikněte na tiskárnu, jejíž problémy řešíte. Klikněte na **Odebrat zařízení**. Postupujte podle pokynů pro úplné odebrání tiskárny.
 
 2. **Odeberte veškerý software výrobce tiskáren třetí strany**.
 
