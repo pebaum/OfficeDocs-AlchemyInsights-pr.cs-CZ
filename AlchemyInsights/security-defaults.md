@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: f4bdee85b9afb9f89d2382441106ddd82394c16e
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 47bba526630d1d8c27ef264e7ceefa3e17b274dc
+ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682071"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43118368"
 ---
 # <a name="security-defaults"></a>Výchozí nastavení zabezpečení
 
-Správa zabezpečení může být obtížná, pokud se běžné útoky související s identitou stávají stále oblíbenějšími. Mezi tyto útoky patří sprej hesla, přehrání a útoky typu phishing.
+Informace o výchozích hodnotách zabezpečení naleznete v informacích [O tom, co jsou výchozí hodnoty zabezpečení?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-Výchozí nastavení zabezpečení v Azure Active Directory (Azure AD) usnadňují zabezpečení a ochranu organizace. Výchozí hodnoty zabezpečení obsahují předem nakonfigurované nastavení zabezpečení pro běžné útoky.
+Výchozí nastavení zabezpečení ve službě Azure Active Directory (Azure AD) usnadňují zabezpečení a pomáhají chránit vaši organizaci. Výchozí hodnoty zabezpečení obsahují předem nakonfigurovaná nastavení zabezpečení pro běžné útoky.
 
-Společnost Microsoft zpřístupní výchozí nastavení zabezpečení všem uživatelům. Cílem je zajistit, aby všechny organizace měly základní úroveň zabezpečení povolenou bez dodatečných nákladů. Výchozí nastavení zabezpečení zapnete v Azure portálu. Další informace o výchozích hodnotách zabezpečení naleznete v informacích o [výchozím nastavení zabezpečení?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+Společnost Microsoft zpřístupňuje výchozí nastavení zabezpečení všem uživatelům. Cílem je zajistit, aby všechny organizace měly základní úroveň zabezpečení povolenou bez dodatečných nákladů. Výchozí nastavení zabezpečení zapnete na webu Azure Portal.
