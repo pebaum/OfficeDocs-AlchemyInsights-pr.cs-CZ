@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 66c9cb9f95ff83df9e50189971411d82484b7707
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034196"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43142982"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Začínáme s živými událostmi v Teams
 
@@ -24,7 +24,7 @@ ms.locfileid: "43034196"
 
 K vytvoření živé události budete potřebovat následující:
 
-- [Licence Office 365 Enterprise E1, E3 nebo E5 nebo licence Office 365 A3 nebo A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses).
+- [Licence Office 365 Enterprise E1, E3 nebo E5 nebo licence Office 365 A3 nebo A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Poznámka:** Vzhledem k nedávnému zvýšení využití Teams může po přiřazení licence Teams uživatelům trvat až 24 hodin, než se plně zprovozní. Do té doby jim nebude možné přiřadit zásady Teams a pravděpodobně nebudou mít přístup k některým funkcím Teams, jako jsou volání a audiokonference.
 
 - Oprávnění [vytvářet živé události v centru pro správu Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 
