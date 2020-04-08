@@ -11,19 +11,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002304"
 - "4473"
-ms.openlocfilehash: 3f45d9dca00804cacb4063a41a2bba5a375df643
-ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
+- "9001497"
+- "4736"
+- "3551"
+ms.openlocfilehash: 83f4c28ae26267e71af5488484330df53e08d1bd
+ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43116397"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43160845"
 ---
-# <a name="reactivate-your-subscription"></a><span data-ttu-id="80437-102">Opětovná aktivace předplatného</span><span class="sxs-lookup"><span data-stu-id="80437-102">Reactivate your subscription</span></span>
+# <a name="reactivate-your-subscription"></a><span data-ttu-id="79c23-102">Opětovná aktivace předplatného</span><span class="sxs-lookup"><span data-stu-id="79c23-102">Reactivate your subscription</span></span>
 
-1. <span data-ttu-id="80437-103">V Centru pro správu přejděte na stránku **Fakturace > [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="80437-103">In the admin center, go to the **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+<span data-ttu-id="79c23-103">Pokud vám vypršela platnost předplatného nebo ho zakázal Microsoft nebo pokud jste předplatné zrušili v průběhu doby jeho platnosti, můžete si ho znovu aktivovat v Centru pro správu.</span><span class="sxs-lookup"><span data-stu-id="79c23-103">If your subscription expires, or was disabled by Microsoft, or if you cancelled it in the middle of the subscription term, you can reactivate it in the admin center.</span></span> 
 
-2. <span data-ttu-id="80437-104">Na stránce **Produkty a služby** najděte předplatné, které chcete znovu aktivovat.</span><span class="sxs-lookup"><span data-stu-id="80437-104">On the **Products & services** page, find the subscription that you want to reactivate.</span></span>  <span data-ttu-id="80437-105">V části **Fakturace** klikněte na **Znovu aktivovat**.</span><span class="sxs-lookup"><span data-stu-id="80437-105">In the **Billing** section, click **Reactivate now**.</span></span>  <span data-ttu-id="80437-106">Pokud se nacházíte v zobrazení **Karty**, klikněte na tři tečky mezi možnostmi **Název** a **Dostupné množství** a v nabídce klikněte na **Znovu aktivovat**.</span><span class="sxs-lookup"><span data-stu-id="80437-106">If you are in the **Cards** view, click the ellipsis between the **Name** and **Available quantity** and click **Reactivate** on the menu.</span></span> <span data-ttu-id="80437-107">**Poznámka**: Pokud nevidíte předplatné, které hledáte, budete možná muset v horní části obrazovky upravit filtr **Stav předplatného** na možnost **Vše**.</span><span class="sxs-lookup"><span data-stu-id="80437-107">**Note**: If you don't see the subscription you are looking for, you may need to adjust the **Subscription status** filter near the top of the page to **All**.</span></span>
+1. <span data-ttu-id="79c23-104">V Centru pro správu přejděte na stránku **Fakturace > [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="79c23-104">In the admin center, go to the **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-3. <span data-ttu-id="80437-108">Potvrďte svoje platební údaje.</span><span class="sxs-lookup"><span data-stu-id="80437-108">Confirm your payment details.</span></span>  <span data-ttu-id="80437-109">Tady taky můžete aktualizovat svoje stávající platební údaje.</span><span class="sxs-lookup"><span data-stu-id="80437-109">You can also update your existing payment information here.</span></span>  <span data-ttu-id="80437-110">Až dokončíte zadávání způsobu platby, klikněte na **Znovu aktivovat**.</span><span class="sxs-lookup"><span data-stu-id="80437-110">When you're finished entering your payment method, click **Reactivate**.</span></span>
+2. <span data-ttu-id="79c23-105">Na stránce **Produkty a služby** najděte předplatné, které chcete znovu aktivovat.</span><span class="sxs-lookup"><span data-stu-id="79c23-105">On the **Products & services** page, find the subscription that you want to reactivate.</span></span>  <span data-ttu-id="79c23-106">V části **Fakturace** klikněte na **Znovu aktivovat**.</span><span class="sxs-lookup"><span data-stu-id="79c23-106">In the **Billing** section, click **Reactivate now**.</span></span>  <span data-ttu-id="79c23-107">Pokud se nacházíte v zobrazení **Karty**, klikněte na tři tečky mezi možnostmi **Název** a **Dostupné množství** a v nabídce klikněte na **Znovu aktivovat**.</span><span class="sxs-lookup"><span data-stu-id="79c23-107">If you are in the **Cards** view, click the ellipsis between the **Name** and **Available quantity** and click **Reactivate** on the menu.</span></span> <span data-ttu-id="79c23-108">**Poznámka**: Pokud nevidíte předplatné, které hledáte, budete možná muset v horní části obrazovky upravit filtr **Stav předplatného** na možnost **Vše**.</span><span class="sxs-lookup"><span data-stu-id="79c23-108">**Note**: If you don't see the subscription you are looking for, you may need to adjust the **Subscription status** filter near the top of the page to **All**.</span></span>
 
-<span data-ttu-id="80437-111">Další informace najdete v článku [Opětovná aktivace předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="80437-111">To learn more, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
+3. <span data-ttu-id="79c23-109">Potvrďte svoje platební údaje.</span><span class="sxs-lookup"><span data-stu-id="79c23-109">Confirm your payment details.</span></span>  <span data-ttu-id="79c23-110">Tady taky můžete aktualizovat svoje stávající platební údaje.</span><span class="sxs-lookup"><span data-stu-id="79c23-110">You can also update your existing payment information here.</span></span>  <span data-ttu-id="79c23-111">Až dokončíte zadávání způsobu platby, klikněte na **Znovu aktivovat**.</span><span class="sxs-lookup"><span data-stu-id="79c23-111">When you're finished entering your payment method, click **Reactivate**.</span></span>
+
+<span data-ttu-id="79c23-112">Další informace najdete v článku [Opětovná aktivace předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="79c23-112">To learn more, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
+
+<span data-ttu-id="79c23-113">**Správa prodlužování platnosti předplatného**</span><span class="sxs-lookup"><span data-stu-id="79c23-113">**Manage subscription renewal**</span></span>
+
+<span data-ttu-id="79c23-114">Pokud chcete spravovat měsíční nebo roční fakturaci, můžete zapnout nebo vypnout opakovanou fakturaci.</span><span class="sxs-lookup"><span data-stu-id="79c23-114">To manage monthly or yearly billing you can toggle Recurring billing on or off.</span></span>
+
+1. <span data-ttu-id="79c23-115">V Centru pro správu přejděte na stránku **Fakturace > [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="79c23-115">In the admin center, go to the **Billing > [Products & Services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+
+2. <span data-ttu-id="79c23-116">Zvolte předplatné, pro které chcete spravovat opakovanou fakturaci.</span><span class="sxs-lookup"><span data-stu-id="79c23-116">Choose the subscription for which you want to manage recurring billing.</span></span> 
+
+3. <span data-ttu-id="79c23-117">V části Fakturace vedle položky Prodloužení ke dni nebo Konec platnosti klikněte na **Upravit**.</span><span class="sxs-lookup"><span data-stu-id="79c23-117">Under Billing, next to Renews on or Expiring on, click **edit**.</span></span>
+
+4. <span data-ttu-id="79c23-118">V podokně nastavení opakované fakturace vyberte **Vypnout** a opakovanou fakturaci vypněte.</span><span class="sxs-lookup"><span data-stu-id="79c23-118">In the Recurring billing settings pane, select **Turn OFF** to turn it off.</span></span> <span data-ttu-id="79c23-119">Pokud je již možnost opakované fakturace vypnutá, můžete ji zapnout kliknutím na **Měsíčně** nebo **Jen jednou**.</span><span class="sxs-lookup"><span data-stu-id="79c23-119">If recurring billing is already turned off, click **Monthly** or **Once** to turn it on.</span></span> 
+
+5. <span data-ttu-id="79c23-120">Vyberte **Odeslat změnu**.</span><span class="sxs-lookup"><span data-stu-id="79c23-120">Click **Submit change**.</span></span>
+
+<span data-ttu-id="79c23-121">Další informace najdete v článku [Vypnutí nebo zapnutí opakované fakturace](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="79c23-121">For more info, see [Turn recurring billing off or on](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
