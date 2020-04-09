@@ -1,5 +1,5 @@
 ---
-title: Změnit, jak často budete platit.
+title: Změna toho, jak často platíte
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
 - "1500025"
-ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
+ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386894"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43195011"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="c9cf6-102">Změnit, jak často budete platit.</span><span class="sxs-lookup"><span data-stu-id="c9cf6-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="b8360-102">Změna toho, jak často platíte</span><span class="sxs-lookup"><span data-stu-id="b8360-102">Change how often you pay</span></span>
 
- <span data-ttu-id="c9cf6-103">**Chcete změnit četnost plateb?**</span><span class="sxs-lookup"><span data-stu-id="c9cf6-103">**Want to change your payment frequency?**</span></span> <span data-ttu-id="c9cf6-104">Pokud chcete změnit, jak často budete platit pro vaše Office 365 předplatného business, buď z roční, měsíční nebo na roční, měsíční pomůžeme vám s informacemi.</span><span class="sxs-lookup"><span data-stu-id="c9cf6-104">If you want to change how frequently you pay for your Office 365 for business subscription, either from annual to monthly or monthly to annual, we can help you with that.</span></span> <span data-ttu-id="c9cf6-105">Bude nutné zakoupit stejný odběr s novou frekvenci platby a staré předplatné zrušit.</span><span class="sxs-lookup"><span data-stu-id="c9cf6-105">You'll need to purchase the same subscription with the new payment frequency and cancel the old subscription.</span></span> <span data-ttu-id="c9cf6-106">Použijte možnost "budeme vám volat" obraťte se na pracovníka podpory.</span><span class="sxs-lookup"><span data-stu-id="c9cf6-106">Please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="b8360-103">Když si koupíte předplatné, zvolíte měsíční nebo roční fakturaci.</span><span class="sxs-lookup"><span data-stu-id="b8360-103">When you buy a subscription, you choose monthly or annual billing.</span></span> <span data-ttu-id="b8360-104">Chcete-li změnit, jak často se vám bude účtovat předplatné, použijte následující kroky.</span><span class="sxs-lookup"><span data-stu-id="b8360-104">To change how often you are billed for a subscription, use the following steps.</span></span>
+
+1. <span data-ttu-id="b8360-105">V Centru pro správu přejděte na stránku \*\*Fakturace [> produkty & služby.](https://go.microsoft.com/fwlink/p/?linkid=842054) \*\*</span><span class="sxs-lookup"><span data-stu-id="b8360-105">In the admin center, go to the **Billing> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+
+2. <span data-ttu-id="b8360-106">Najděte předplatné, které chcete změnit.</span><span class="sxs-lookup"><span data-stu-id="b8360-106">Find the subscription you want to change.</span></span> <span data-ttu-id="b8360-107">V části **Fakturace** klikněte vedle **položky Fakturované měsíčně** nebo **Fakturované ročně**na **tlačítko Upravit**.</span><span class="sxs-lookup"><span data-stu-id="b8360-107">In the **Billing** section, next to either **Billed monthly** or **Billed annually**, click **Edit**.</span></span>
+
+3. <span data-ttu-id="b8360-108">Vyberte možnost, jak často se vám mají účtovat, a pak vyberte **Změnit**.</span><span class="sxs-lookup"><span data-stu-id="b8360-108">Choose the option for how often you want to be billed, then select **Change**.</span></span>
