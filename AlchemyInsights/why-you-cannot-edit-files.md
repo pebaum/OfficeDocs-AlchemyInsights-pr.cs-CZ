@@ -13,26 +13,27 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 766df76bc1e19218b6de131115af414a8007a7a7
+ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771136"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43209413"
 ---
-# <a name="why-cant-i-edit-files"></a><span data-ttu-id="dcf75-102">Proč nemohu upravovat soubory?</span><span class="sxs-lookup"><span data-stu-id="dcf75-102">Why can't I edit files?</span></span>
+# <a name="why-cant-i-edit-files"></a><span data-ttu-id="56d7b-102">Proč nelze upravovat soubory?</span><span class="sxs-lookup"><span data-stu-id="56d7b-102">Why can't I edit files?</span></span>
 
-<span data-ttu-id="dcf75-103">Podívejte se na některé z důvodů, [proč možná nebudete moci soubor upravit](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span><span class="sxs-lookup"><span data-stu-id="dcf75-103">Take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
+<span data-ttu-id="56d7b-103">Podívejte se rychle na některé z [důvodů, proč pravděpodobně nebudete moci soubor upravovat](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span><span class="sxs-lookup"><span data-stu-id="56d7b-103">Take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
 
-<span data-ttu-id="dcf75-104">Pokud máte knihovny se sloupci **pokladna, povinné** nebo **ověřovací** sloupce nebo metadaty nebo pokud je **zabezpečení konceptu položky** nastaveno na **pouze uživatele, kteří mohou upravovat,** nebo **pouze uživatelé, kteří mohou schvalovat položky** v nastavení verze knihovny:</span><span class="sxs-lookup"><span data-stu-id="dcf75-104">If you have libraries with **Checkout, Required** or **Validation** columns or metadata, or when **Draft Item Security** is set to either **Only users who can edit** or **Only users who can approve items** in Version Settings of the library:</span></span>
+<span data-ttu-id="56d7b-104">Pokud máte knihovny se sloupci nebo metadaty **Pokladna, Povinné** nebo **Ověření** nebo pokud je **zabezpečení konceptu** nastaveno na **pouze uživatele, kteří mohou upravovat,** nebo **pouze na uživatele, kteří mohou schvalovat položky** v nastavení verze knihovny:</span><span class="sxs-lookup"><span data-stu-id="56d7b-104">If you have libraries with **Checkout, Required** or **Validation** columns or metadata, or when **Draft Item Security** is set to either **Only users who can edit** or **Only users who can approve items** in Version Settings of the library:</span></span>
 
-- <span data-ttu-id="dcf75-105">U knihoven dokumentů služby SharePoint budou tyto položky synchronizovány jako jen pro čtení.</span><span class="sxs-lookup"><span data-stu-id="dcf75-105">For SharePoint document libraries, these items will be synchronized as read-only.</span></span>
+- <span data-ttu-id="56d7b-105">U sharepointových knihoven budou tyto položky synchronizovány jen pro čtení.</span><span class="sxs-lookup"><span data-stu-id="56d7b-105">For SharePoint document libraries, these items will be synchronized as read-only.</span></span>
 
-- <span data-ttu-id="dcf75-106">U knihoven OneDrivu zobrazí OneDrive vedle stavu synchronizace ikonu zámku (ikona uzamčeného souboru OneDrive) a uživatel nebude moci knihovnu synchronizovat, dokud nebude zmíněná nastavení odebrána.</span><span class="sxs-lookup"><span data-stu-id="dcf75-106">For OneDrive libraries, OneDrive will show a lock icon ( OneDrive file locked icon ) next to the sync status and the user will not be able to synchronize the library until the mentioned settings have been removed.</span></span> 
+- <span data-ttu-id="56d7b-106">U knihoven OneDrivu se na OneDrivu vedle stavu synchronizace zobrazí ikona zámku (ikona uzamčená souborem OneDrivu) a uživatel nebude moct knihovnu synchronizovat, dokud nebudou uvedená nastavení odebrána.</span><span class="sxs-lookup"><span data-stu-id="56d7b-106">For OneDrive libraries, OneDrive will show a lock icon ( OneDrive file locked icon ) next to the sync status and the user will not be able to synchronize the library until the mentioned settings have been removed.</span></span> 
 
-<span data-ttu-id="dcf75-107">Další informace týkající se uzamčených souborů pro Word nebo Excel naleznete v následujících článcích.</span><span class="sxs-lookup"><span data-stu-id="dcf75-107">For more information regarding locked files for Word or Excel, please reference the articles below.</span></span>
+<span data-ttu-id="56d7b-107">Další informace týkající se uzamčených souborů pro word nebo excel naleznete v následujících článcích.</span><span class="sxs-lookup"><span data-stu-id="56d7b-107">For more information regarding locked files for Word or Excel, please reference the articles below.</span></span>
 
-- [<span data-ttu-id="dcf75-108">Soubor aplikace Excel je uzamčen pro úpravy jiným uživatelem.</span><span class="sxs-lookup"><span data-stu-id="dcf75-108">Excel file is locked for editing by another user</span></span>](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [<span data-ttu-id="56d7b-108">Při úpravách souboru Office se mi povedlo nahrát chybu " Nahrát se nezdařilo" nebo "Nelze je automaticky uložit"</span><span class="sxs-lookup"><span data-stu-id="56d7b-108">I got an "Upload failed" or "Couldn't save automatically" error while editing an Office file</span></span>](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 
-- [<span data-ttu-id="dcf75-109">Soubor aplikace Word je uzamčen pro úpravy jiným uživatelem.</span><span class="sxs-lookup"><span data-stu-id="dcf75-109">Word file is locked for editing by another user</span></span>](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [<span data-ttu-id="56d7b-109">Soubor aplikace Excel je uzamčen pro úpravy jiným uživatelem</span><span class="sxs-lookup"><span data-stu-id="56d7b-109">Excel file is locked for editing by another user</span></span>](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
+- [<span data-ttu-id="56d7b-110">Soubor aplikace Word je uzamčen pro úpravy jiným uživatelem</span><span class="sxs-lookup"><span data-stu-id="56d7b-110">Word file is locked for editing by another user</span></span>](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
