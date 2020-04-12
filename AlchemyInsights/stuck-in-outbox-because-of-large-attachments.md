@@ -1,5 +1,5 @@
 ---
-title: Uvíznout ve složce Pošta k odeslání z důvodu rozsáhlých příloh
+title: Přilepená ve složce Pošta k poště kvůli velkým přílohám
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,38 +11,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "2713"
 - "9000768"
-ms.openlocfilehash: d5fb20fcc146be67c5a04de0640ed4efd625311a
-ms.sourcegitcommit: 8004ee243b5c68ff9532224a2e6c69dda0abbd0b
+- "9002385"
+- "4645"
+ms.openlocfilehash: 35fe9ae76ca77faa43796b288af09be8525cb6df
+ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37441299"
+ms.lasthandoff: 04/12/2020
+ms.locfileid: "43232623"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Oprava zpráv, které uvízly ve složce Pošta k odeslání
+# <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Oprava zpráv, které uvízly ve složce Pošta k poště pošta
 
-Doporučujeme začít spuštěním scénáře ["Mám problémy s odesíláním, přijímáním a hledáním e-mailových zpráv"](https://aka.ms/SaRA-OutlookSendReceive) z nástroje [společnosti Microsoft pro podporu a obnovení](https://diagnostics.office.com/#/) .
+Doporučujeme začít spuštěním scénáře ["Mám potíže s odesíláním, přijímáním nebo hledáním e-mailových zpráv"](https://aka.ms/SaRA-OutlookSendReceive) z nástroje [Microsoft Support and Recovery Assistant](https://diagnostics.office.com/#/) v ohroženém počítači.
 
-Pokud zpráva uvízne ve složce Pošta k odeslání, nejpravděpodobnější příčiny jsou následující:
-- Velké přílohy.
-- Možnost **Odeslat okamžitě po připojení** není povolena.
+Když se zpráva zasekne ve složce Pošta k odeslání, nejpravděpodobnější příčinou je velká příloha nebo není povolena možnost "Odeslat okamžitě po připojení".
 
-Odebrání velkých příloh: 
+**Odebrání velké přílohy**
 
-1. V aplikaci Outlook vyberte možnost **Odeslat a přijmout** > **offline**. 
-2. V navigačním podokně vyberte položku **Pošta k odeslání**. Odtud můžete: 
-    - Odstraňte zprávu (vyberte ji a pak vyberte možnost **Odstranit**).
-    - Přetáhněte zprávu do složky Koncepty, poklepáním ji otevřete a odeberte přílohu a vyberte možnost **Odstranit**.
-3. Pokud se zobrazí chybová zpráva oznamující, že se aplikace Outlook pokouší odeslat zprávu, ukončete aplikaci Outlook. Ukončení může chvíli trvat. Pokud se aplikace Outlook nezavře, stiskněte klávesy CTRL + ALT + DELETE a vyberte možnost **Spustit Správce úloh**. Ve Správci úloh vyberte kartu **procesy** , přejděte na položku Outlook. exe a vyberte možnost **Ukončit proces**.
-4. Po ukončení aplikace Outlook ji restartujte a opakujte kroky 2 a 3. 
-5. Po odebrání přílohy můžete klepnutím na tlačítko **Odeslat a přijmout** > **pracovat offline** a pokračovat v práci online. 
+1. Klepněte na tlačítko **Odeslat a přijmout** > **práci offline**. 
+2. V navigačním podokně klikněte na **Pošta k poště předem**. Odtud můžete: 
+    - Odstraňte zprávu. Stačí ji vybrat a klepnout na **tlačítko Odstranit**.
+    - Přetáhněte zprávu do **složky konceptů**, poklepáním zprávu otevřete a přílohu odstraňte (klikněte na ni a klikněte na **Odstranit**).
+3. Pokud se zobrazí chyba, že se aplikace Outlook pokouší zprávu přenést, zavřete aplikaci Outlook. Odchod může chvíli trvat. Pokud se Outlook nezavře, stiskněte **Ctrl+Alt+Delete** a klikněte na **Spustit Správce úloh**. Ve Správci úloh vyberte kartu **Procesy,** přejděte dolů na soubor outlook.exe a klepněte na tlačítko **Ukončit proces**.
+4. Po zavření aplikace Outlook restartujte aplikaci Outlook a opakujte kroky 2-3. 
+5. Po odebrání přílohy klikněte na **Odeslat a přijmout** > **práci offline,** abyste odznačili tlačítko a pokračovali v práci online. 
 
-Po klepnutí na tlačítko **Odeslat**se zprávy také zablokují ve složce Faxy k odeslání, ale nejste připojeni. Klepněte na tlačítko **Odeslat a přijmout** a podívejte se na tlačítko **pracovat offline** . Je-li modrá, jste odpojeni. Vyberte, chcete-li se připojit (tlačítko změní bílou) a klepněte na **poslat vše**.
+Zprávy se také zaseknou ve složce Pošta k odeslání, když kliknete na **Odeslat**, ale nejste připojeni. Klikněte na **Odeslat a přijmout** a podívejte se na tlačítko **Pracovat offline.** Pokud je modrá, jste odpojeni. Kliknutím se připojíte (tlačítko zbělá) a klepněte na **tlačítko Odeslat vše**.
  
-Povolení **okamžitého odeslání při připojení**:
+**Povolit okamžité odeslání po připojení**
  
-- Vyberte možnost**Rozšířené****Možnosti** >   **souboru** > .
-V části **Odeslat a přijmout** vyberte možnost **odeslat ihned po připojení**a pak klepněte na **tlačítko OK**.
+1. Na kartě Soubor klikněte na **Možnosti**.
+
+2. V dialogovém okně Možnosti aplikace Outlook klepněte na tlačítko **Upřesnit**.
+
+3. V části Odeslat a přijmout klepnutím povolte **možnost Odeslat okamžitě po připojení**. Klikněte na **OK**.
  
-Úplné podrobnosti naleznete v tématech:
-- [Video: odeslání nebo odstranění zablokované e-mailové zprávy](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [E-mail zůstane ve složce Faxy k odeslání, dokud ručně nespustíte operaci odesílání a přijímání v aplikaci Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+Podrobné informace naleznete v:
+- [Video: Odeslání nebo odstranění zablokované e-mailu](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [E-mail zůstane ve složce Pošta k odeslání, dokud ručně nezahájíte operaci odesílání a přijímání v Outlooku](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
