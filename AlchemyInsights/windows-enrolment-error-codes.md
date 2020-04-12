@@ -18,18 +18,18 @@ ms.contentlocale: cs-CZ
 ms.lasthandoff: 04/09/2020
 ms.locfileid: "43211223"
 ---
-# <a name="windows-enrolment-error-codes"></a>Chybové kódy zapisování Windows
+# <a name="windows-enrolment-error-codes"></a>Chybové kódy registrace Windows
 
-Vypadá to, že se zajímáte o zapisování zařízení s Windows do Intune po zobrazení chybového kódu nebo chybové hlášky. K dispozici máte spoustu materiálů, které vám pomůžou pochopit, proč k chybě došlo.
+Vypadá to, že se zajímáte o registraci zařízení s Windows do Intune po zobrazení chybového kódu nebo chybové hlášky. K dispozici máte spoustu materiálů, které vám pomůžou pochopit, proč k chybě došlo.
  
 Podívejte se na tyto články:
 
-- [Generický zápis Windows MDM](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
+- [Generická registrace Windows MDM](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
 
-- [Obecné chybové kódy při zápisu](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune#general-enrollment-error-codes)
+- [Obecné chybové kódy při registraci](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune#general-enrollment-error-codes)
 
-- [Řešení potíží Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting)
+- [Řešení potíží s technologiemi Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting)
 
 - [Řešení potíží při selhání připojení Hybrid AAD](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-current)
 
-- [Chybové kódy zápisu MDM](https://docs.microsoft.com/windows/win32/mdmreg/mdm-registration-constants)
+- [Chybové kódy registrace MDM](https://docs.microsoft.com/windows/win32/mdmreg/mdm-registration-constants)

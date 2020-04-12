@@ -24,6 +24,6 @@ U Skupin Office 365 můžete narazit na následující potíže:
 
 - Skupinu Office 365 není možné vytvořit z webové aplikace Outlook, s chybou „Pole klasifikace nemůže být prázdné“.
 
-- Zobrazený popisek citlivosti u Skupin Office 365, i když jste funkci nepovolili.
+- U Skupin Office 365 se zobrazuje popisek citlivosti, i když jste tuto funkci nepovolili.
 
 Tento problém jsme opravili. Na vydání opravy se pracuje a mělo by být dokončené během několika hodin. Mezitím prosím k vytváření Skupin Office 365 používejte portál pro správu Office nebo portál pro správu Azure.  

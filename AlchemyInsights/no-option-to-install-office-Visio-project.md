@@ -22,7 +22,7 @@ ms.locfileid: "43218141"
 
 Když si chcete nainstalovat klientské aplikace Office, ujistěte se, že máte předplatné Office 365 nebo Microsoft 365, které [zahrnuje klientské aplikace Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), jako je Office 365 Business Premium, Office 365 Business nebo Office 365 ProPlus.
 
-**Poznámka**: [Office Home and Business](https://products.office.com/home-and-business) je součástí produktu [Office pro domácnosti](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) a nikoli součástí přeplatného pro firmy. Project Online Essentials nezahrnuje desktopovou verzi Projectu, takže není nutná žádná instalace. Visio Online (Plán 1) neobsahuje desktopovou verzi aplikace, takže uživatelé mají přístup k Visiu na webu. Desktopové aplikace Project a Visio nejsou dostupné pro počítače Mac
+**Poznámka:** [Office Home and Business](https://products.office.com/home-and-business) je součástí produktu [Office pro domácnosti](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) a nikoli součástí přeplatného pro firmy. Project Online Essentials nezahrnuje desktopovou verzi Projectu, takže není nutná žádná instalace. Visio Online (Plán 1) neobsahuje desktopovou verzi aplikace, uživatelé mají přístup k Visiu na webu. Desktopové aplikace Project a Visio nejsou dostupné pro počítače Mac
 
 Pokud máte předplatné, které zahrnuje aplikace Office, možnost instalace neuvidíte, dokud nebudete mít [přiřazenou licenci](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Pokud jste správcem Office 365 odpovědným za přiřazování licencí, přečtěte si článek, který se zabývá [přiřazováním licencí uživatelům](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
@@ -33,7 +33,7 @@ Požádejte každého uživatele, aby udělal toto:
 
 2. Přihlaste se svým školním nebo pracovním účtem, který má přiřazenou licenci Office.
 
-3. V části Office vyberte jazyk. Vyberte 64bitovou nebo 32bitovou verz.
+3. V části Office vyberte jazyk. Vyberte 64bitovou nebo 32bitovou verzi.
 
 4. Klikněte na **Nainstalovat**.
 
