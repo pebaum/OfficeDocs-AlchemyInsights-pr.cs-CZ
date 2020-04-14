@@ -1,5 +1,5 @@
 ---
-title: Požadavek na silné heslo změnit
+title: Změnit požadavek na silné heslo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: f8790a26ec7c5de57f5dbfc9e1c162767c599f03
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 21f80a7cc8b00ac56acdb05add1e1bfdfac9d827
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518752"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286245"
 ---
-# <a name="change-strong-password-requirement"></a>Požadavek na silné heslo změnit
+# <a name="change-strong-password-requirement"></a>Změna požadavku na silné heslo
 
-Společnost Microsoft vyžaduje silná hesla ve výchozím nastavení. 
+Společnost Microsoft ve výchozím nastavení vyžaduje silná hesla. 
 
-Použití prostředí PowerShell, můžete zakázat silných hesel pro konkrétní uživatele pomocí tohoto příkazu:<br>
-*Sada MsolUser – UserPrincipalName <UserPrincipalName> -StrongPasswordRequired $false*
+Pomocí prostředí PowerShell můžete pomocí tohoto příkazu zakázat silná hesla pro konkrétní uživatele:<br>
+*Set-MsolUser –UserPrincipalName <UserPrincipalName> –StrongPasswordVyžaduje $false*
 
-- [Další informace o zásady hesla](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
-- [Jak se připojit k Office 365 pomocí prostředí PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
-- [Další informace týkající se příkazů prostředí PowerShell MsolUser](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+- [Další informace o zásadách hesel](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
+- [Jak se připojit k Office 365 pomocí PowerShellu](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
+- [Další informace o příkazech PowerShell MsolUser](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+- [Nastavení neomezené platnosti uživatelských hesel](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)

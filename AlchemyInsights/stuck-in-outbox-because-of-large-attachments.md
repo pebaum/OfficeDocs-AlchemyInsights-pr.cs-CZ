@@ -13,28 +13,28 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 35fe9ae76ca77faa43796b288af09be8525cb6df
-ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
+ms.openlocfilehash: 4f69de167dc51961fa7cf71b4d73ca7ee3ed4d55
+ms.sourcegitcommit: 57fb994ddd3854d06faa67680c971b003b06bf83
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/12/2020
-ms.locfileid: "43232623"
+ms.lasthandoff: 04/13/2020
+ms.locfileid: "43241245"
 ---
 # <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Oprava zpráv, které uvízly ve složce Pošta k poště pošta
 
-Doporučujeme začít spuštěním scénáře ["Mám potíže s odesíláním, přijímáním nebo hledáním e-mailových zpráv"](https://aka.ms/SaRA-OutlookSendReceive) z nástroje [Microsoft Support and Recovery Assistant](https://diagnostics.office.com/#/) v ohroženém počítači.
+Doporučujeme začít spuštěním scénáře ["Mám potíže s odesíláním, přijímáním nebo hledáním e-mailových zpráv"](https://aka.ms/SaRA-OutlookSendReceive) z nástroje [Microsoft Support and Recovery Assistant.](https://diagnostics.office.com/#/)
 
 Když se zpráva zasekne ve složce Pošta k odeslání, nejpravděpodobnější příčinou je velká příloha nebo není povolena možnost "Odeslat okamžitě po připojení".
 
 **Odebrání velké přílohy**
 
-1. Klepněte na tlačítko **Odeslat a přijmout** > **práci offline**. 
-2. V navigačním podokně klikněte na **Pošta k poště předem**. Odtud můžete: 
-    - Odstraňte zprávu. Stačí ji vybrat a klepnout na **tlačítko Odstranit**.
-    - Přetáhněte zprávu do **složky konceptů**, poklepáním zprávu otevřete a přílohu odstraňte (klikněte na ni a klikněte na **Odstranit**).
-3. Pokud se zobrazí chyba, že se aplikace Outlook pokouší zprávu přenést, zavřete aplikaci Outlook. Odchod může chvíli trvat. Pokud se Outlook nezavře, stiskněte **Ctrl+Alt+Delete** a klikněte na **Spustit Správce úloh**. Ve Správci úloh vyberte kartu **Procesy,** přejděte dolů na soubor outlook.exe a klepněte na tlačítko **Ukončit proces**.
-4. Po zavření aplikace Outlook restartujte aplikaci Outlook a opakujte kroky 2-3. 
-5. Po odebrání přílohy klikněte na **Odeslat a přijmout** > **práci offline,** abyste odznačili tlačítko a pokračovali v práci online. 
+1. V Outlooku vyberte **Odeslat a přijmout** > **práci offline**. 
+2. V navigačním podokně vyberte **Položku Pošta k poště .** Odtud můžete: 
+    - Odstraňte zprávu (vyberte ji a pak vyberte **Odstranit**).
+    - Přetáhněte zprávu do složky Koncepty, poklepáním ji otevřete a přílohu odeberte, vyberte ji a pak vyberte **Odstranit**).
+3. Pokud se zobrazí chyba, která říká, že se aplikace Outlook pokouší zprávu přenést, zavřete aplikaci Outlook. Odchod může chvíli trvat. Pokud se Outlook nezavře, stiskněte Ctrl+Alt+Delete a vyberte **Spustit Správce úloh**. Ve Správci úloh vyberte kartu **Procesy,** posuňte se dolů na soubor outlook.exe a vyberte **Ukončit proces**.
+4. Po zavření aplikace Outlook restartujte a opakujte kroky 2 a 3. 
+5. Po odebrání přílohy klikněte na **Odeslat a přijmout** > **práci offline** a pokračovat v práci online. 
 
 Zprávy se také zaseknou ve složce Pošta k odeslání, když kliknete na **Odeslat**, ale nejste připojeni. Klikněte na **Odeslat a přijmout** a podívejte se na tlačítko **Pracovat offline.** Pokud je modrá, jste odpojeni. Kliknutím se připojíte (tlačítko zbělá) a klepněte na **tlačítko Odeslat vše**.
  
