@@ -13,15 +13,15 @@ ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: abf276d17a5cf3a2a05fc7051eeee9149e371dba
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f5cd90394b4f10b9f2b4731d429c6df1c8ab699a
+ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548636"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43529633"
 ---
 # <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a>Otevření a používání sdílené poštovní schránky v Outlooku na webu
 
 Sdílené poštovní schránky, ke kterým máte přístup, se v Outlooku na webu (dříve Outlook Web App) nezobrazí automaticky.
 
-Sdílenou poštovní schránku a svou primární poštovní schránku si můžete zobrazit dohromady anebo můžete sdílenou poštovní schránku otevřít v samostatném okně prohlížeče. Aby se vám zobrazovala oznámení o nových zprávách ve sdílené poštovní schránce, je potřeba otevřít sdílenou poštovní schránku v samostatném okně prohlížeče. Další informace najdete v tématu [Otevření a používání sdílené poštovní schránky v Outlook Web Appu](https://support.office.com/article/BC127866-42BE-4DE7-92AE-1EF2F787FD5C).
+Sdílenou poštovní schránku a svou primární poštovní schránku si můžete zobrazit dohromady anebo můžete sdílenou poštovní schránku otevřít v samostatném okně prohlížeče. Aby se vám zobrazovala oznámení o nových zprávách ve sdílené poštovní schránce, je potřeba otevřít sdílenou poštovní schránku v samostatném okně prohlížeče. Další informace najdete v tématu [Otevření a používání sdílené poštovní schránky v Outlook Web Appu](https://support.office.com/cs-CZ/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
