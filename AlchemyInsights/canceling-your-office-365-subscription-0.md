@@ -1,5 +1,5 @@
 ---
-title: Zrušení předplatného služeb Office 365?
+title: Zrušení předplatného Office 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,17 +13,21 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 83a0cdcfbdad6a3cb6b6b647613534845c55e75b
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665523"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552662"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Zrušení předplatného služeb Office 365?
+# <a name="canceling-your-office-365-subscription"></a>Zrušení předplatného Office 365?
 
-Omlouváme se na vás přejít!
+Je nám líto, že jste odcházet!
   
-Podle dat organizace, Věříme, že aktuální předplatné máte méně než 25 míst. Chcete-li zrušit předplatné online, přejděte na **fakturační** \> stránku [produkty a služby &](https://go.microsoft.com/fwlink/p/?linkid=842054) . V části **Nastavení & akce** zvolte **zrušit předplatné**.
+Na základě dat vaší organizace věříme, že všechna vaše aktuální předplatná mají méně než 25 licencí. Pokud chcete předplatné zrušit online, přejděte na stránku **Fakturační** \> [produkty & služby.](https://go.microsoft.com/fwlink/p/?linkid=842054) V části **Nastavení & akce** zvolte Zrušit **předplatné**.
   
-Další informace naleznete v tématu [zrušení předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Refundace: Každý poměrný kredit vám bude vrácen během dalšího fakturačního cyklu.** 
+
+**Poznámka:** Pokud možnost zrušení nevidíte, kliknutím na předplatné zobrazíte podrobnosti a v **nastavení & akcích**se zobrazí možnost **Zrušit předplatné** . 
+
+Další informace najdete v [tématu Zrušení předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 

@@ -11,16 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: e3543815937c45323051171ea8be3c43e4ec7c89
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 7a801bb6ff5b5c1d48cbc99f27e5f398dd76db5f
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958639"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552914"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problémy při migraci dat do SharePointu Online
-
-**Důležité:** V těchto nebývalých časech podnikáme kroky k zajištění toho, aby služby SharePointu Online a OneDrive zůstaly vysoce dostupné – další informace najdete na stránce [Dočasné úpravy funkcí SharePointu Online.](https://aka.ms/ODSPAdjustments)
 
 **Migrace více než 100 TB dat**
 
@@ -33,7 +31,3 @@ Zdá se, že migrujete přes 100 TB dat do SharePointu Online. Postupujte podle 
     - Odhadovaná velikost migrace.
     - Odhad, kdy chcete zahájit a dokončit migraci.
     - Popište, odkud migrujete obsah, například SharePoint Server, Box, GDrive, Sdílené složky atd.
-
-
-  
-

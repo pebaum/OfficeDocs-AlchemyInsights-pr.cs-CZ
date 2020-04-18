@@ -12,12 +12,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 5ceae46c424222636367a4183740fdae353e92d1
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: 82719a4764e081733ad3edf7336584b979c5fb86
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198761"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552804"
 ---
 # <a name="cancel-project-subscription"></a>Zrušit předplatné projektu
 
@@ -30,3 +30,9 @@ Správci můžou zrušit předplatné Projectu pro svou organizaci z **Centra pr
 3. Vyhledejte plán projektu, který chcete zrušit.
 
 4. Klepněte na tlačítko **Zrušit předplatné**.
+
+**Refundace: Každý poměrný kredit vám bude vrácen během dalšího fakturačního cyklu.** 
+
+**Poznámka:** Pokud možnost zrušení nevidíte, kliknutím na předplatné zobrazíte podrobnosti a v **nastavení & akcích**se zobrazí možnost **Zrušit předplatné** . 
+
+Další informace najdete v [tématu Zrušení předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 

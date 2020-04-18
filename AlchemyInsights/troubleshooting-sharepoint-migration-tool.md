@@ -13,16 +13,14 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 6432d32a4424c13f38077b37aa5f689a573a876e
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: c634596b42e672f635bb50d080429c94fe2da258
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541698"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552878"
 ---
 # <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Poradce při potížích s nástrojem pro migraci a chybami SharePointu
-
-**Důležité**: V této mimořádné době přijímáme opatření, aby služby SharePointu Online a OneDrivu zůstaly vysoce dostupné. Další informace najdete v článku zaměřeném na [dočasné úpravy funkcí SharePointu Online](https://aka.ms/ODSPAdjustments).
 
 Při použití nástroje pro migraci služby SharePoint (SPMT) se můžete setkat s některými běžnými problémy a chybami. Další informace naleznete na níže uvedených odkazech.
 

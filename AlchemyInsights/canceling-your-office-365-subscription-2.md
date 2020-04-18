@@ -1,5 +1,5 @@
 ---
-title: Zrušení předplatného služeb Office 365?
+title: Zrušení předplatného Office 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,19 +13,23 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a3416ec86908d529fd5f2750344763de36363a08
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665465"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552590"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Zrušení předplatného služeb Office 365?
+# <a name="canceling-your-office-365-subscription"></a>Zrušení předplatného Office 365?
 
-Omlouváme se na vás přejít!
+Je nám líto, že jste odcházet!
   
-Podle dat organizace, Věříme, že máte aktuální předplatné přiřazené licence pro více než 25. Uživatelům můžete odebrat, dokud nebude mít méně než 25 a potom přejděte na **fakturační** \> stránku [produkty a služby &](https://go.microsoft.com/fwlink/p/?linkid=842054) . V části **Nastavení & akce** zvolte **zrušit předplatné**.
+Na základě dat vaší organizace věříme, že všechna vaše aktuální předplatná mají více než 25 přiřazených licencí. Uživatele můžete odebrat, dokud nebudete mít méně než 25, a pak přejděte na stránku **Fakturační** \> [produkty & služby.](https://go.microsoft.com/fwlink/p/?linkid=842054) V části **Nastavení & akce** zvolte Zrušit **předplatné**.
   
-Také zvolte, obraťte se na pracovníka podpory **potřebuje pomoc** .
+Případně zvolte **Potřebujete pomoc** mluvit s pracovníkem podpory.
   
-Další informace naleznete v tématu [zrušení předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Refundace: Každý poměrný kredit vám bude vrácen během dalšího fakturačního cyklu.** 
+
+**Poznámka:** Pokud možnost zrušení nevidíte, kliknutím na předplatné zobrazíte podrobnosti a v **nastavení & akcích**se zobrazí možnost **Zrušit předplatné** . 
+
+Další informace najdete v [tématu Zrušení předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
