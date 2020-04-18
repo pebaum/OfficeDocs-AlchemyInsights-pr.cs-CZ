@@ -11,29 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: e3543815937c45323051171ea8be3c43e4ec7c89
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 7a801bb6ff5b5c1d48cbc99f27e5f398dd76db5f
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958639"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552914"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="90727-102">Problémy při migraci dat do SharePointu Online</span><span class="sxs-lookup"><span data-stu-id="90727-102">Issues while migrating data to SharePoint Online</span></span>
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="82950-102">Problémy při migraci dat do SharePointu Online</span><span class="sxs-lookup"><span data-stu-id="82950-102">Issues while migrating data to SharePoint Online</span></span>
 
-<span data-ttu-id="90727-103">**Důležité:** V těchto nebývalých časech podnikáme kroky k zajištění toho, aby služby SharePointu Online a OneDrive zůstaly vysoce dostupné – další informace najdete na stránce [Dočasné úpravy funkcí SharePointu Online.](https://aka.ms/ODSPAdjustments)</span><span class="sxs-lookup"><span data-stu-id="90727-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
+<span data-ttu-id="82950-103">**Migrace více než 100 TB dat**</span><span class="sxs-lookup"><span data-stu-id="82950-103">**Migrating over 100TB of data**</span></span>
 
-<span data-ttu-id="90727-104">**Migrace více než 100 TB dat**</span><span class="sxs-lookup"><span data-stu-id="90727-104">**Migrating over 100TB of data**</span></span>
+<span data-ttu-id="82950-104">Zdá se, že migrujete přes 100 TB dat do SharePointu Online.</span><span class="sxs-lookup"><span data-stu-id="82950-104">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="82950-105">Postupujte podle následujících kroků, abychom vám mohli pomoci co nejdříve.</span><span class="sxs-lookup"><span data-stu-id="82950-105">Please follow the steps below so we may assist you as soon as possible.</span></span> 
 
-<span data-ttu-id="90727-105">Zdá se, že migrujete přes 100 TB dat do SharePointu Online.</span><span class="sxs-lookup"><span data-stu-id="90727-105">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="90727-106">Postupujte podle následujících kroků, abychom vám mohli pomoci co nejdříve.</span><span class="sxs-lookup"><span data-stu-id="90727-106">Please follow the steps below so we may assist you as soon as possible.</span></span> 
+1. <span data-ttu-id="82950-106">Vyberte **nový požadavek na službu**a potom **nový požadavek na službu**.</span><span class="sxs-lookup"><span data-stu-id="82950-106">Select **New Service Request**, and then **New Service Request**.</span></span> 
+2. <span data-ttu-id="82950-107">Ponechte název a popis jako **migrace sharepointového zařízení přes 100 TB**.</span><span class="sxs-lookup"><span data-stu-id="82950-107">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
+3. <span data-ttu-id="82950-108">Po odeslání letenky jej aktualizujte následujícími informacemi:</span><span class="sxs-lookup"><span data-stu-id="82950-108">Once the ticket has been submitted, please update it with the following information:</span></span> 
 
-1. <span data-ttu-id="90727-107">Vyberte **nový požadavek na službu**a potom **nový požadavek na službu**.</span><span class="sxs-lookup"><span data-stu-id="90727-107">Select **New Service Request**, and then **New Service Request**.</span></span> 
-2. <span data-ttu-id="90727-108">Ponechte název a popis jako **migrace sharepointového zařízení přes 100 TB**.</span><span class="sxs-lookup"><span data-stu-id="90727-108">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
-3. <span data-ttu-id="90727-109">Po odeslání letenky jej aktualizujte následujícími informacemi:</span><span class="sxs-lookup"><span data-stu-id="90727-109">Once the ticket has been submitted, please update it with the following information:</span></span> 
-
-    - <span data-ttu-id="90727-110">Odhadovaná velikost migrace.</span><span class="sxs-lookup"><span data-stu-id="90727-110">Estimated size of your migration.</span></span>
-    - <span data-ttu-id="90727-111">Odhad, kdy chcete zahájit a dokončit migraci.</span><span class="sxs-lookup"><span data-stu-id="90727-111">An estimate of when you would like to start and complete your migration.</span></span>
-    - <span data-ttu-id="90727-112">Popište, odkud migrujete obsah, například SharePoint Server, Box, GDrive, Sdílené složky atd.</span><span class="sxs-lookup"><span data-stu-id="90727-112">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
-
-
-  
-
+    - <span data-ttu-id="82950-109">Odhadovaná velikost migrace.</span><span class="sxs-lookup"><span data-stu-id="82950-109">Estimated size of your migration.</span></span>
+    - <span data-ttu-id="82950-110">Odhad, kdy chcete zahájit a dokončit migraci.</span><span class="sxs-lookup"><span data-stu-id="82950-110">An estimate of when you would like to start and complete your migration.</span></span>
+    - <span data-ttu-id="82950-111">Popište, odkud migrujete obsah, například SharePoint Server, Box, GDrive, Sdílené složky atd.</span><span class="sxs-lookup"><span data-stu-id="82950-111">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
