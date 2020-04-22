@@ -1,9 +1,9 @@
 ---
-title: Upgrade na aplikaci Visio 2019
+title: Upgrade na Visio 2019
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 7870b63660a1f08b844c48d5f20ff96a336e63de
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 8baf4d27ed1c6c7f6b15c1221ddb9dbb8aea9c3b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903683"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720022"
 ---
-# <a name="upgrade-to-visio-2019"></a>Upgrade na aplikaci Visio 2019
+# <a name="upgrade-to-visio-2019"></a>Upgrade na Visio 2019
 
-Uživatelé, kteří nainstalovali desktop aplikace Visio jako součást předplatného Online aplikace Visio již nainstalována nejnovější verze. 
+Uživatelé, kteří nainstalovali desktopovou aplikaci Visio jako součást předplatného Aplikace Visio Online, již mají nejnovější verzi. 
 
-Pokud chcete upgradovat verzi bez odběru, jako jsou například aplikace Visio 2016, je nutné zakoupit předplatné Online aplikace Visio nebo jednorázový nákup aplikace Visio Standard nebo Professional 2019 výhledu. Viz [Možnosti porovnání aplikace Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
+Pokud chcete upgradovat verzi bez předplatného, jako je Visio 2016, musíte si zakoupit předplatné Visia Online nebo jednorázový nákup Visia Standard nebo Vision Professional 2019. Viz [Porovnání možností aplikace Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
 
-Pokud jste již koupili novější verze a jste připraveni ji nainstalovat, naleznete v tématu [Instalace aplikace Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) a postupujte podle pokynů pro vaši verzi. 
+Pokud jste si již koupili novější verzi a jste připraveni ji nainstalovat, přečtěte si informace [o instalaci Visia](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) a postupujte podle pokynů pro vaši verzi. 
 
-Při instalaci side-by-side aplikace Visio se sadou Office, naleznete v tématu [Podporované scénáře instalace různých verzí sady Office, aplikaci Project a aplikace Visio ve stejném počítači](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
+Informace o instalaci aplikace Visio vedle Office naleznete v tématu [Podporované scénáře instalace různých verzí office, projectu a visia do stejného počítače](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
 
 Další informace najdete tady:<br>
-[Průvodce nasazením aplikace Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[Hlavní číslo verze aplikace Visio 2019 pobývá v 16.0](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
-[Označení roku v klientských aplikací sady Office 2016 a Office 365 bude odebrán z položek nabídky Start](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
-[Office 2019 obchodní pro Windows a Mac, nejčastější dotazy](https://support.microsoft.com/help/4133312) 
+[Průvodce nasazením pro Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Hlavní číslo verze Visia 2019 zůstává na 16,0](https://docs.microsoft.com/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
+[Označení roku v Office 2016 a klientské aplikace budou odebrány z položek nabídky Start](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
+[Nejčastější dotazy k Office 2019 Commercial pro Windows a Mac](https://support.microsoft.com/help/4133312) 

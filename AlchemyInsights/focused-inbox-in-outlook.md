@@ -1,9 +1,9 @@
 ---
-title: 1800019 zaměřený složky Doručená pošta v aplikaci Outlook
+title: 1800019 Prioritní doručená pošta v Outlooku
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/11/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: 9f647338efd63d78bafca3424fcf735cf4c4dbd1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8eb4f8c9eca75b68fdc5c32235f31b5c2c8bf2ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524548"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719914"
 ---
-# <a name="focused-inbox-in-outlook"></a>Cílené složky Doručená pošta v aplikaci Outlook
+# <a name="focused-inbox-in-outlook"></a>Zaměřená doručená pošta v Outlooku
 
-Focused Doručená pošta Doručená pošta rozděluje do dvou karet-Focused a další. Nejdůležitější zprávy jsou na kartě Focused, zatímco ostatní zůstávají snadno přístupné, ale stranou – na kartě jiné.
+Zaostřená doručená pošta odděluje doručenou poštu na dvě karty – zaměřená a jiná. Nejdůležitější zprávy jsou na kartě Focused, zatímco ostatní jsou na kartě Ostatní snadno přístupné– ale z cesty.
   
-[2016 aplikace Outlook](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | [aplikaci Outlook na webu](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [2016 aplikace Outlook pro Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [Mail pro Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
+[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | [Outlook na webu](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [Outlooku 2016 pro Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [Mail pro Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
   
 Víc se uč:
   
-- [Viz zaměřený složky Doručená pošta v akci](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
+- [Viz Zaměřená složky Doručená pošta v akci](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
 
-- [Konfigurace zaměřený doručené pošty pro všechny uživatele v organizaci pomocí prostředí PowerShell](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
+- [Konfigurace prioritní složky Doručená pošta pro všechny uživatele ve vaší organizaci pomocí PowerShellu](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)

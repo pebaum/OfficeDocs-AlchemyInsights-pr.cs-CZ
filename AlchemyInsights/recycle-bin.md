@@ -3,7 +3,7 @@ title: Koš
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 3ba566f02cad31b6c3c8cb8ba281f66fa3c78e14
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36552968"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720202"
 ---
-# <a name="restore-items-in-sharepoint-online"></a>Obnovení položek ve službě SharePoint Online
+# <a name="restore-items-in-sharepoint-online"></a>Obnovení položek v SharePointu Online
 
-Při odstraňování položek ve službě SharePoint Online jsou tyto položky uchovány po dobu 93 dní. Zůstanou v koši webu po celou dobu, pokud je nevyprázdníte nebo z něj neodstraníte položky. V takovém případě budou položky přesunuty do odpadkového koše kolekce webů, kde zůstanou po zbytek 93 dní. Na konci této doby jsou položky trvale odstraněny. Obnovení odstraněných položek z odpadkového koše webu:
+Když v SharePointu Online odstraníte, zachovají se celkem 93 dní. Zůstávají v koši webu po celou dobu, pokud ho nevyprázdníte nebo neodstraníte položky z něj. V takovém případě položky přejdou do koše kolekce webů, kde zůstanou po zbytek 93 dnů. Na konci času jsou položky trvale odstraněny. Obnovení odstraněných položek z koše webu:
   
-1. Přejděte na web a v levém podokně klepněte na položku **Koš** . 
+1. Přejděte na web a v levém podokně klikněte na **Koš.** 
     
-    Není-li v levém podokně zobrazena složka **Koš** , klepněte v pravém horním rohu na ikonu nastavení a pak klepněte na položku **obsah webu**. Koš je zcela vpravo na panelu příkazů nahoře.
+    Pokud koš **v** levém podokně nevidíte, klikněte v pravém horním rohu na ikonu Nastavení a potom klikněte na **Obsah webu**. Koš je zcela vpravo na panelu příkazů v horní části.
     
-2. Na stránce **Koš** vyberte položky, které chcete obnovit tak, že na ně přejdete a klepnete na zobrazenou ikonu se značkou zaškrtnutí. 
+2. Na stránce **Koš** vyberte položky, které chcete obnovit, tak, že na ně ukážete a kliknete na ikonu zaškrtnutí, která se zobrazí. 
     
 3. Klikněte na **Obnovit**.
     
-[Obnovení odstraněných položek z odpadkového koše kolekce webů](https://go.microsoft.com/fwlink/?linkid=866439)
+[Obnovení odstraněných položek z koše kolekce webů](https://go.microsoft.com/fwlink/?linkid=866439)
   
 

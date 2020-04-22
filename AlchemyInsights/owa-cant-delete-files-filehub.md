@@ -1,9 +1,9 @@
 ---
-title: Nelze odstranit soubory nebo fotografie ze souborů v aplikaci Outlook na webu
+title: Nelze odstranit soubory nebo fotky ze souborů v Outlooku na webu
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000031"
-ms.openlocfilehash: 7e6a6d0fd6493a27908d3885eb90570dce54f3bf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4d0930992f107121b79453bfc359e2cde5a87fa8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557458"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720317"
 ---
-# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>Nelze odstranit soubory nebo fotografie ze souborů v aplikaci Outlook na webu
+# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>V Outlooku na webu se nepodaří odstranit soubory nebo fotky
 
-**Soubory** se zobrazí souborů a fotografií připojených k zprávy v poštovní schránce. Odebrání souborů a fotografií ze souborů, je třeba odstranit e-mailové zprávy, které jsou připojeny. Po odstranění zprávy, musíte také odstranit ze složky Odstraněná pošta.
+**Soubory** zobrazují soubory a fotografie připojené ke zprávám ve vaší poštovní schránce. Pokud chcete ze souborů odebrat soubory a fotky, musíte odstranit e-mailové zprávy, ke kterým jsou připojené. Po odstranění zpráv je také nutné je odstranit ze složky Odstraněná pošta.
