@@ -1,9 +1,9 @@
 ---
-title: Řešení pro "nelze nainstalovat Office (64-bit nebo 32-bit)
+title: Řešení pro 'Office (64-bit nebo 32-bit) nelze nainstalovat
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,30 +14,30 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: e32916d40a2cfebf71440573e5d35439ded26b5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cff7315b2a8967d99941c56ce0c62d025172895a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501187"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764182"
 ---
-# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Řešení pro "Office (64-bit nebo 32-bit) nelze nainstalovat
+# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Řešení pro "Office (64bitový nebo 32bitový) nelze nainstalovat
 
-Vzhledem k tomu, že nelze kombinovat 64bitové a 32bitové verze systému Office dojde k chybě "Nelze nainstalovat Office (64-bit nebo 32-bit)".
+K chybě Office (64bitnebo 32bit) se nestalo, protože nelze kombinovat 64bitové a 32bitové verze Office.
   
-K odstranění této chyby a přechod z 32 bitového na 64-bit, musíte provádět následující akce v tomto pořadí.
+Chcete-li tuto chybu opravit a přepnout z 32bitového na 64bitové, musíte v tomto pořadí provést následující kroky.
   
-1. Stáhněte a nainstalujte [podporu a Pomocník pro obnovení](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+1. Stáhněte si nástroj [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) a nainstalujte ho.
 
-1. Po otevření, z **produktů sady Office odinstalovat** vyberte verzi, kterou chcete odinstalovat a klepněte na tlačítko **Další**.
+1. Po otevření vyberte v části **Odinstalovat produkty Office** verzi, kterou chcete odinstalovat, a vyberte **Další**.
 
-2. Pokračovat v procházení obrazovek a po zobrazení výzvy restartujte počítač.
+2. Pokračujte v procházení jednotlivých obrazovek a po zobrazení výzvy restartujte počítač.
 
-    Po restartování počítače, podpora a Pomocník pro obnovení automaticky znovu otevře dokončete proces odinstalace.
+    Po restartování se Pomocník pro podporu a obnovení automaticky znovu otevře a dokončí proces odinstalace.
 
-3. Postupujte podle zbývajících pokynů a [znovu nainstalujte sadu Office](https://portal.office.com/OLS/MySoftware.aspx) s správnou verzi 32-bit nebo 64-bit.
+3. Postupujte podle zbývajících výzev a [znovu nainstalujte Office](https://portal.office.com/OLS/MySoftware.aspx) se správnou 32bitovou nebo 64bitovou verzí.
 
-    Postupujte podle kroků v [Instalace sady Office v počítači](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
+    Postupujte podle pokynů v [části Instalace Office na počítač](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
 
-Další informace naleznete v tématu ["Nelze nainstalovat Office (64-bit nebo 32-bit)" Chyba při pokusu o instalaci](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)
+Další informace naleznete v [tématu Chyba Office (64bitový nebo 32bitový) nelze nainstalovat při pokusu o instalaci](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)
   

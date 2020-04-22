@@ -3,7 +3,7 @@ title: Řešení chyby 30068-39
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 12/19/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: cec6d874d4d06ba5a3b693447dca329c2d55d997
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36743338"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43756948"
 ---
 # <a name="solutions-for-error-30068-39"></a>Řešení chyby 30068-39
 
-Vyzkoušejte následující řešení pro opravu chyby [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
+Zkuste tato řešení opravit chybu [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
   
-- Restartujte počítač a pokuste se [nainstalovat sadu Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Restartujte počítač a zkuste [nainstalovat Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Zkontrolujte, zda [je zakázána služba](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) **Microsoft Click-** Service, a pokud je zakázána, změňte stav na **Ruční** nebo **Automatický**.
+- Zkontrolujte, zda je služba **Microsoft Click-to-Run** [zakázána](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) a zda je zakázána, změňte stav na **Ruční** nebo **Automatický**.
 
-- Stáhněte a nainstalujte [Pomocníka pro podporu a obnovení](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Stáhněte si nástroj [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) a nainstalujte ho.
 
-1. Po otevření v **produktu odinstalujte produkty sady Office** vyberte verzi, kterou chcete odinstalovat, a klepněte na možnost **Další**.
+1. Po otevření vyberte v části **Odinstalovat produkty Office** verzi, kterou chcete odinstalovat, a vyberte **Další**.
 
-2. Pokračujte v procházení obrazovek a po výzvě restartujte počítač.
+2. Pokračujte v procházení jednotlivých obrazovek a po zobrazení výzvy restartujte počítač.
 
-    Po restartování se Pomocník pro podporu a obnovení automaticky znovu spustí a dokončí proces odinstalace.
+    Po restartování se Pomocník pro podporu a obnovení automaticky znovu otevře a dokončí proces odinstalace.
 
-3. Sledujte zbývající výzvy a [přeinstalujte sadu Office](https://portal.office.com/OLS/MySoftware.aspx) nebo ukončete pomocníka.
+3. Postupujte podle zbývajících výzev a [znovu nainstalujte Office](https://portal.office.com/OLS/MySoftware.aspx) nebo zavřete asistenta.

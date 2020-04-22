@@ -1,9 +1,9 @@
 ---
-title: Aplikace Outlook není synchronizace složek
+title: Aplikace Outlook nesynchronizuje složky
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: a3cf9193e9c9494ed6f00e3001dd57af591a9ff0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5868a5a614ce44d3007c7c5894e2dc9940153533
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557314"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768682"
 ---
-# <a name="outlook-not-synching-folders"></a>Aplikace Outlook není synchronizace složek
+# <a name="outlook-not-synching-folders"></a>Aplikace Outlook nesynchronizuje složky
 
-Pokud aplikace Outlook není synchronizace složek podle očekávání, existují některé věci, můžete se pokusit ji opravit.
+Pokud aplikace Outlook nesynchronizuje složky podle očekávání, můžete se pokusit opravit některé věci.
 
-1. Snížíte počet složek v poštovní schránce primární nebo sdílené. [Problémy s výkonem naleznete v tématu aplikace Outlook při existuje příliš mnoho položek nebo složek mezipamětí režim OST nebo PST složky souborů](https://support.microsoft.com/help/2768656).
-2. Zakažte ukládání do mezipaměti všechny sdílené složky.
+1. Snižte počet složek v primární nebo sdílené poštovní schránce. [Podívejte se na problémy s výkonem aplikace Outlook, pokud je v režimu ost nebo souboru PST příliš mnoho položek nebo složek](https://support.microsoft.com/help/2768656).
+2. Zakažte ukládání všech sdílených složek do mezipaměti.
 3. Změňte konfiguraci sekundární poštovní schránky serveru Exchange na druhý účet serveru Exchange ve vašem profilu.
 
-Další informace naleznete v tématu [synchronizace a výkonu problémy při práci s složky v sekundární poštovní schránku v aplikaci Outlook](https://support.microsoft.com/help/3115602).
+Další informace naleznete v [tématu Problémy s výkonem a synchronizací při práci se složkami v sekundární poštovní schránce v aplikaci Outlook](https://support.microsoft.com/help/3115602).

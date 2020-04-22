@@ -1,28 +1,28 @@
 ---
-title: Odstraňování problémů se zprávami o odepření přístupu
+title: Poradce při potížích se zprávami o odepření přístupu
 ms.author: pebaum
 author: pebaum
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 57919e6dbd81a5bf3b17fb067485e8eec23b7d4c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 82e11458529b8a49e583b1a6963a51e2a466bfd6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051418"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758382"
 ---
-# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Odstraňování problémů se zprávami o odepření přístupu v centru pro správu SharePoint/OneDrive
+# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Poradce při potížích se zprávami o odepření přístupu v Centru pro správu Sharepointu/OneDrivu
 
-Pokud se při pokusu o přechod do centra pro správu služby SharePoint/OneDrive zobrazuje zpráva o odepření přístupu, ujistěte se, že jste [uživateli přiřadili licenci](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One). Pokud má uživatel licenci, měli byste také zajistit, aby jim byla [přidělena role správce](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide) , která má přístup k centrům správy.
+Pokud se při pokusu o procházení Centra pro správu služby Sharepoint/OneDrive zobrazuje zpráva o odepření přístupu, ujistěte se, že jste [uživateli přiřadili licenci](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One). Pokud má uživatel licenci, měli byste se také ujistit, že je [mu přiřazena role správce,](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide) která má přístup ke centrům pro správu.
 
-K tomuto problému může dojít také v případě, že je uživatel odstraněn a znovu vytvořen se stejným hlavním uživatelským jménem (UPN). Nový účet je vytvořen pomocí jiné hodnoty PUID (Passport Unique ID). Když se uživatel pokusí o přístup k kolekci webů nebo k jejich objektu OneDrive, má uživatel nesprávný identifikátor PUID. Druhý scénář zahrnuje synchronizaci adresářů s organizační jednotkou služby Active Directory. Pokud se uživatelé již přihlásili ke službě SharePoint a pak jsou přesunuté do jiné organizační jednotky a znovu synchronizovány se službou SharePoint, mohou k tomuto problému dojít.
+K tomuto problému může dojít také při odstranění uživatele a znovu vytvořit se stejným hlavním jménem uživatele (UPN). Nový účet je vytvořen pomocí jiné hodnoty PUID (Passport Unique ID). Když se uživatel pokusí o přístup k kolekci webů nebo k jejich OneDrivu, má nesprávný PUID. Druhý scénář zahrnuje synchronizaci adresářů s organizační jednotkou služby Active Directory (OU). Pokud se uživatelé už přihlásili ke SharePointu a potom jsou přesunuti do jiné oua nové ou a znovu synchronizováni se službou SharePoint, může se u nich vyskytnout tento problém.
 
-Chcete-li tento problém vyřešit, obnovte původní název UPN podle kroků v článku, [obnovte uživatele v sadě Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
+Chcete-li tento problém vyřešit, měli byste obnovit původní hlavní název uživatele s kroky v článku [Obnovení uživatele v Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
 
-Poznámka: Pokud není centrum OneDrive nebo SharePoint Admin Center k dispozici pro více uživatelů, kteří měli přístup dříve, může se jednat o dočasný problém se službou.  [Zkontrolujte řídicí panel stavu služby](https://portal.office.com/adminportal/home#/servicehealth).
+Poznámka: Pokud centrum pro správu OneDrivu nebo SharePointu není dostupné pro více uživatelů, kteří měli dříve přístup, může se napodobuje problém s dočasnou službou.  [Zkontrolujte řídicí panel stavu služby](https://portal.office.com/adminportal/home#/servicehealth).
 
 

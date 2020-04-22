@@ -1,8 +1,8 @@
 ---
-title: Migrace do sítě
+title: Migrace sítě
 ms.author: pebaum
 author: pebaum
-ms.date: 7/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: aada8e90d168a4c621dd81ee8d306b934c20d119
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734698"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761807"
 ---
-# <a name="network-migration"></a>Migrace do sítě
+# <a name="network-migration"></a>Migrace sítě
 
-Váš nájemce O365 je pravděpodobně spojen s více sítěmi Yammer v 1 nájemci: mnoho konfigurace sítí. Od 16. října 2018 už Yammer nebude podporovat více sítí Yammer přidružených k jednomu nájemci Office 365. Chcete-li získat upřednostňovanou konfiguraci 1:1, můžete provést migraci sítě.
+Váš tenant O365 je pravděpodobně přidružený k více sítím Yammer v 1 tenantovi : Konfigurace mnoha sítí. října 2018 už Yammer nebude podporovat několik sítí Yammeru přidružených k jednomu tenantovi. Chcete-li získat upřednostňovanou konfiguraci 1:1, můžete provést migraci sítě.
   
-- Chcete-li zobrazit seznam sítí přidružených k vašemu nájemci, přihlaste se ke společnosti Yammer jako globální správce sady Office 365 a vyhledejte **správce sítě**a poté **migraci sítě**. Zvolte **Další**.
+- Chcete-li zobrazit seznam sítí přidružených k vašemu tenantovi, přihlaste se k Yammeru jako globální správce a přejděte na **správce sítě**a potom **na migraci do sítě**. Zvolte **Další**.
 
-- Pokud se v kroku 2 v části 3 zobrazí více sítí, máte k nájemci O365 více sítí Yammer.
+- Pokud se v kroku 2 od 3 zobrazí více sítí, máte k tenantovi O365 přidruženo několik sítí Yammeru.
 
-- Chcete-li opravit konfiguraci na 1:1, pokračujte pomocí nástroje migrace sítě.
+- Chcete-li konfiguraci opravit na konfiguraci 1:1, pokračujte v používání nástroje Migrace sítě.
 
-- Další informace o migraci sítě naleznete v tématu [přenos sítě: konsolidace více sítí Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+- Další informace o migraci do sítě najdete v [tématu Migrace do sítě: Konsolidace více sítí Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
 Upozorňujeme:
   
-- **Migrace ze sítě migruje pouze aktivní a čekající uživatele.** Spolu s aktivními uživateli jsou také migrovány informace o uživatelích, například jméno a obrázek profilu. Není migrován žádný síťový obsah včetně skupin.
+- **Migrace sítě migruje pouze aktivní a čekající uživatele.** Spolu s aktivními uživateli jsou migrovány také informace o uživatelích, jako je jméno a profilový obrázek. Žádný síťový obsah, včetně skupin, není migrován.
 
-- **Přenos v síti nelze vrátit zpět.** Po migraci nebude možné získat přístup k místní síti a jejímu obsahu. Takže než zvážujete migraci, budete chtít plánovat pečlivě.
+- **Migraci sítě nelze vrátit zpět.** Po migraci nebudete mít přístup k vaší pomocné síti a jejímu obsahu. Takže předtím, než zvážíte migraci, chcete pečlivě plánovat.

@@ -1,5 +1,5 @@
 ---
-title: Přechod na jiný Plán Office 365 pro firmy
+title: Přechod na jiný plán Microsoft 365 pro firmy
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43547991"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763786"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Přechod na jiný Plán Office 365 pro firmy
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Přechod na jiné předplatné Microsoftu 365 pro firmy
 
-Když se vaše firma změní nebo budete potřebovat další funkce Office 365, můžete upgradovat na nový plán.
+Když se vaše firma změní nebo budete potřebovat další funkce, můžete upgradovat na nový plán.
   
 1. V Centru pro správu přejděte na **fakturační \> [produkty & služby](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 

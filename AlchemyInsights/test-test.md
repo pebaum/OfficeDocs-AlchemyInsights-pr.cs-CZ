@@ -1,8 +1,8 @@
 ---
-title: Chybějící termíny v úložišti termínů služby SharePoint Online
+title: V Obchodě s termíny SharePointu Online chybí podmínky
 ms.author: pebaum
 author: pebaum
-ms.date: 10/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,43 +10,43 @@ localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 28913b8e57e39d51e8957b7408c19337a119c589
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 54ac2dbc1f45f88541c2338f3b55a777b4b57123
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053506"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766846"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>Povolení šifrování nástrojem BitLocker pomocí nástroje Intune
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Povolení šifrování nástroje Bitlocker pomocí Intune
 
-Zásady ochrany koncových bodů Intune lze použít ke konfiguraci nastavení šifrování nástroje Boitlocker pro zařízení systému Windows, jak je popsáno v následujícím nastavení: Windows10 (a novější) k ochraně zařízení pomocí nástroje Intune.
+Zásady ochrany koncového bodu Intune lze použít ke konfiguraci nastavení šifrování Boitlocker u zařízení s Windows, jak je popsáno v : Nastavení Windows10 (a novější) k ochraně zařízení pomocí Intune
 
-Je třeba si uvědomit, že mnoho novějších zařízení používajících systém Windows 10 podporuje automatické šifrování nástrojem BitLocker, které je spuštěno bez použití zásad MDM. To může mít vliv na použití zásad, pokud není nakonfigurováno výchozí nastavení. Podrobnější informace naleznete v nejčastějších dotazech.
-
-
-FAQ  Q: které edice systému Windows podporují šifrování pomocí zásad ochrany koncových bodů?
- A: nastavení v zásadách ochrany koncového bodu nástroje Intune je implementováno pomocí zprostředkovatele kryptografických služeb pro nástroj BitLocker.Některé edice a verze systému Windows nepodporují nástroj BitLocker CSP. 
-      V tomto okamžiku edice Windows: Enterprise; Podporovány jsou vzdělávání, Mobile, Mobile Enterprise a Professional (od sestavení 1809 dále).
+Měli byste si být vědomi toho, že mnoho novějších zařízení se systémem Windows 10 podporuje automatické šifrování nástroje BitLocker, které se aktivuje bez použití zásad MDM. To může mít vliv na použití zásady, pokud jsou nakonfigurována nevýchozí nastavení. Další podrobnosti najdete v častých dotazech.
 
 
-
-
-Q: Pokud je zařízení již zašifrováno pomocí nástroje BitLocker s použitím výchozího nastavení operačního systému pro šifrovací metodu a sílu šifrování (XTS-AES-128), použije zásada s odlišným nastavením automaticky opětovné spuštění šifrování jednotky s novým nastavením?
-
-A: ne. Chcete-li použít nové nastavení šifrování, musí být jednotka nejprve dešifrována.
-
-Poznámka: u zařízení, která jsou zapsáni pomocí funkce autopilot, nebude aktivováno automatické šifrování, které by se spustilo během počátečního nastavení počítače (OOBE), dokud nebude vyhodnocena zásada Intune, která umožňuje použití parametrů založených na zásadách místo výchozích
+Častý  dotaz Q: Které edice systému Windows podporují šifrování zařízení pomocí zásad ochrany koncových bodů?
+ A: Nastavení v Zásadách ochrany koncového bodu Intune jsou implementovány pomocí nástroje CSP nástroje Bitlocker.Ne všechny edice ani sestavení systému Windows podporují csp nástroje Bitlocker. 
+      V tomto okamžiku Windows Editions: Enterprise; Vzdělávání, Mobilní, Mobilní podnik a Professional (od sestavení 1809 dále) jsou podporovány.
 
 
 
 
-Q Pokud je zařízení zašifrováno v důsledku použití zásady Intune, bude při odebrání této zásady dešifrován?
+Otázka: Pokud je zařízení již šifrováno pomocí nástroje Bitlocker pomocí výchozího nastavení operačního systému pro metodu šifrování a síla šifrování (XTS-AES-128), bude použití zásady s různými nastaveními automaticky aktivovat opětovné šifrování jednotky s novým nastavením?
 
-A: odebrání zásady související s šifrováním nevede k dešifrování nakonfigurovaných jednotek.
+A: Ne. Chcete-li použít nové nastavení šifry, musí být jednotka nejprve dešifrována.
+
+Poznámka: U zařízení zaregistrovaných pomocí funkce Autopilot se automatické šifrování, ke kterému by došlo během OOBE, neaktivuje, dokud se nevyhodnotí zásady Intune, které umožňují použití nastavení na základě zásad namísto výchozích nastavení operačního systému
 
 
 
 
-Q: Proč se v zásadách kompatibility intun ukazuje, že zařízení nemá "nástroj BitLocker Enabled", ale je?
+Q Pokud je zařízení zašifrováno v důsledku použití zásad Intune, bude dešifrováno, když je tato zásada odebrána?
 
-A: nastavení "BitLocker Enabled" v zásadách Compliance (Intune) používá klienta ověřování stavu zařízení systému Windows (DHA). Tento klient měří stav zařízení pouze při spuštění. Pokud tedy nebylo zařízení znovu dokončeno od dokončení šifrování nástrojem BitLocker, nebude klientská služba DHA hlásit nástroj BitLocker jako aktivní.
+A: Odstranění zásad souvisejících s šifrováním nemá za následek dešifrování jednotek, které byly nakonfigurovány.
+
+
+
+
+Otázka: Proč zásady dodržování předpisů intune ukazují, že moje zařízení nemá povoleno nástroj Bitlocker, ale je?
+
+A: Nastavení "Bitlocker povoleno" v zásadách dodržování předpisů intune využívá windows zařízení potvrzení stavu (DHA) klienta. Tento klient měří pouze stav zařízení při spuštění. Pokud tedy zařízení nebylo restartováno od dokončení šifrování nástrojem BitLocker, klientská služba DHA nenahlásí nástroj BitLocker jako aktivní.

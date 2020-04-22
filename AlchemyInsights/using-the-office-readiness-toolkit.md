@@ -1,24 +1,24 @@
 ---
-title: Pomocí sady Office Readiness Toolkit
+title: Použití sady Office Pro připravenost
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
-ms.date: 2/11/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: 71d3627c9ec67b4a32bbc2b77f98f6d02cc1a818
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 869e00dd187e8bd2bf9c37c8e4574902db3cd6e8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531496"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766378"
 ---
-# <a name="using-the-office-readiness-toolkit"></a>Pomocí sady Office Readiness Toolkit
+# <a name="using-the-office-readiness-toolkit"></a>Použití sady Office Pro připravenost
 
-Informace o použití sady Office Readiness Toolkit naleznete v tématu [použití Readiness Toolkit pro posouzení kompatibility aplikací pro Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro).
+Informace o použití sady Office Readiness Toolkit najdete [v tématu Nástroj pro připravenost k posouzení kompatibility aplikací pro aplikace Microsoft 365 Pro podniky](https://docs.microsoft.com/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro).
 
-Pokud máte zpětnou vazbu nebo dotazy týkající se sady Readiness Toolkit, odešlete e-mail na nás na ReadyForOffice@microsoft.com.
+Máte-li zpětnou vazbu nebo dotazy týkající se sady nástrojů připravenosti, napište nám na ReadyForOffice@microsoft.com.

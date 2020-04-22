@@ -1,9 +1,9 @@
 ---
-title: Opětovná aktivace a Správa obnovení
+title: Jak znovu aktivovat a spravovat obnovení
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,37 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 5b9674920eb28cd48805ecab72cdf6f4149d62e3
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739306"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763426"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Opětovná aktivace a Správa opakovaných účtování
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Jak znovu aktivovat a spravovat opakované fakturace
 
-Vypadá to, že vypršela platnost předplatného. Chcete-li ji znovu aktivovat, tak jak.
+Vypadá to, že máte předplatné, jehož platnost vypršela. Pokud byste chtěli znovu aktivovat, zde je návod.
   
-1. V centru pro správu přejděte na stránku s **fakturačním** \> [výrobky _amp_ Page Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V Centru pro správu přejděte na stránku **Fakturace** \> [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Najděte předplatné, které chcete znovu aktivovat. V části **fakturace** vyberte možnost **znovu aktivovat**.
+2. Najděte předplatné, které chcete znovu aktivovat. V části **Fakturace** vyberte **Znovu aktivovat**.
 
-    Pokud se **Opětovná aktivace** nezobrazí jako možnost, můžete pomocí tlačítka "potřebujete pomoc" hovořit s pracovníkem podpory o opětovnou aktivaci předplatného.
+    Pokud se vám nezobrazí možnost **Znovu aktivovat,** použijte tlačítko "Potřebujete pomoc" a promluvte si s pracovníkem podpory a znovu aktivujte předplatné.
 
-3. Potvrďte podrobnosti platby. Existující informace o platbě můžete aktualizovat zde. Jakmile dokončíte zadávání způsobu platby, vyberte možnost **znovu aktivovat**.
+3. Potvrďte svoje platební údaje. Tady můžete aktualizovat svoje stávající platební údaje. Po zadání způsobu platby vyberte **Znovu aktivovat**.
 
-Další informace naleznete v tématu [Opětovná aktivace předplatného](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Další informace najdete v článku [Opětovná aktivace předplatného](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
-Chcete-li spravovat měsíční nebo roční fakturaci, můžete zapnout nebo vypnout **opakovanou fakturaci** .
+Chcete-li spravovat měsíční nebo roční fakturaci, můžete zapnout nebo vypnout **opakované účtování.**
   
-1. V centru pro správu přejděte na stránku s **fakturačním** \> [výrobky _amp_ Page Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V Centru pro správu přejděte na stránku **Fakturace** \> [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Zvolte předplatné, pro které chcete provádět opakovanou fakturaci.
+2. Zvolte předplatné, pro které chcete spravovat opakovanou fakturaci.
 
-3. V části **fakturace**, vedle položky **obnovení** nebo **vypršení platnosti**, vyberte možnost **Upravit**.
+3. V části Fakturace vyberte v části **Fakturace**vedle **možnosti Obnovit** dne nebo Končící na **položku** **vyberte upravit**.
 
-4. V podokně **nastavení opakovaného účtování** **Vyberte možnost vypnout a** vypněte ji. Pokud je periodická fakturace již vypnuta, vyberte jednou **měsíčně** nebo **jednou** , chcete-li ji zapnout.
+4. V podokně **Nastavení opakované fakturace** vyberte **Vypnout,** abyste ho vypnuli. Pokud je opakované účtování už vypnuté, vyberte **Měsíční** nebo **Jednou,** chcete-li ji zapnout.
 
-5. Vyberte **změnu odeslání**.
+5. Vyberte **odeslat změnu**.
 
-Další informace naleznete v části [Zapnutí nebo vypnutí periodické fakturace](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Víc se dozvíte v článku [Vypnutí nebo zapnutí opakované fakturace](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

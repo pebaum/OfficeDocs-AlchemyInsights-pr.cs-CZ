@@ -2,31 +2,31 @@
 title: Sdílení komunikačního webu s externími uživateli
 ms.author: pebaum
 author: pebaum
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 393ee0bb9c5ac01f2d948b1a772c7b9915caed87
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 38eaa55db49f3c6f38da42605f4180e60ebb6349
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054154"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767494"
 ---
 # <a name="share-a-communication-site-with-external-users"></a>Sdílení komunikačního webu s externími uživateli
 
-Chcete-li zapnout sdílení externích uživatelů pro komunikační weby, postupujte následujícím způsobem: 
+Chcete-li zapnout externí sdílení uživatelů pro komunikační weby, postupujte takto: 
   
-1. Otevření **centra pro moderní správu** – Pokud jste v klasickém centru pro správu, zobrazí **se tlačítko vyzkoušet nyní** nebo * * zkuste zobrazit náhled * * od pravého horního okraje. Toto vás vezme do centra pro moderní správu. 
+1. Otevřete **Centrum pro správu moderního administrátora** – pokud jste v klasickém Centru pro správu, uvidíte tlačítko **Vyzkoušejte to teď** nebo ** Vyzkoušejte tlačítko náhled ** vpravo nahoře. Tím se dostanete do Centra pro správu moderního. 
   
-2. Vyberte položku **aktivní weby.**
+2. Vyberte **Aktivní weby.**
   
-3. Vyberte síť, která obsahuje **šablonu webového serveru pro komunikaci**. 
+3. Vyberte web se **šablonou Komunikační web**. 
   
-4. V horní nabídce vyberte tlačítko **sdílení** . 
+4. V horní nabídce vyberte tlačítko **Sdílení.** 
   
- **Poznámka:** Pokud jste vybrali více než jednu síť, tlačítko pro **sdílení** se zobrazí zakázané. Vyberte pouze jeden web. 
+ **Poznámka:** Pokud máte vybranou více než jeden web, tlačítko **Sdílení** se zobrazí jako zakázané. Vyberte pouze jeden web. 
   
 

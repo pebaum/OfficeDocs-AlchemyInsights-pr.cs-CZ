@@ -1,9 +1,9 @@
 ---
-title: Project Web App v kolekci webů SharePointu chybí.
+title: V kolekci webů SharePointu chybí Project Web App
 ms.author: pebaum
 author: pebaum
 manager: pamg
-ms.date: 4/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: 8800d7d6b3b24e2434bb63408224089c52c9e7de
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 38f8a5590f215494e805cde04326944ef15d0127
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "41969315"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767962"
 ---
-# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App v kolekci webů SharePointu chybí.
+# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>V kolekci webů SharePointu chybí Project Web App
 
-Project Web App může v kolekci webů SharePointu chybět z následujících důvodů:
+Project Web App u sharepointové kolekce webů může chybět z následujících důvodů:
 
-1. Organizace mají pouze licenci (licence) Project Online Essentials. Správci budou muset přidat licenci Project Online Professional a/nebo Premium. Místo vyjde z jen pro čtení v tomto bodě. Další informace naleznete v tématu [Porovnání řešení řízení projektů](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. Klient se setkal s problémem zřizování, ve kterém bylo zpožděno zřizování webu projectweb. Pokud uplynulo více než 24 hodin a stále dochází k problému, zahlaste si lístek podpory. Chápeme, že 24 hodin se může zdát jako dlouhá doba. V mnoha případech již pracujeme na řešení. Dejte nám prosím alespoň 24 hodin na dokončení řešení.
+1. Organizace mají jenom licenci projectu Online Essentials. Správci budou muset přidat licenci Projectu Online Professional nebo Premium. Místo bude pocházet z jen pro čtení v tomto bodě. Další informace naleznete [v tématu Porovnání řešení pro řízení projektů](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
+2. Klient zjistil problém s zřizováním, ve kterém došlo ke zpoždění zřizování webu Project Web Appu. Pokud uplynulo více než 24 hodin a problém stále dochází, přihlaste se k lístku podpory. Chápeme, že 24 hodin se může zdát jako dlouhá doba. V mnoha případech již pracujeme na řešení. Dejte nám prosím alespoň 24 hodin na dokončení řešení.

@@ -1,28 +1,28 @@
 ---
-title: Se zabývá Nevyžádaná pošta a Nevyžádaná pošta v aplikaci Outlook na webu
+title: Nakládání se spamem a nevyžádanou poštou v Outlooku na webu
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 151356f9bafa1fea6eb2c33d157e3fb7038ceef7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c972537cb4f00c9310edeaa589391d5bbd8ebc62
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555586"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768250"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>E-mailové zprávy označit jako nevyžádaná pošta v aplikaci Outlook na webu
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Označení e-mailových zpráv jako nevyžádaných v Outlooku na webu
 
-Označení zprávy jako nevyžádané nebo nevyžádané pošty, vyberte zprávu v seznamu zpráv a vyberte **nevyžádané** > **nevyžádané**.
+Chcete-li zprávu označit jako nevyžádanou poštu nebo nevyžádanou poštu, vyberte ji v seznamu zpráv a vyberte **Nevyžádaná** > **pošta**.
 
-Chcete-li blokovat všechny zprávy z konkrétní e-mailovou adresu, vyberte zprávu nebo zprávy v seznamu zpráv a potom vyberte **nevyžádané** > **blok**.
+Pokud chcete blokovat všechny zprávy z určité e-mailové adresy, vyberte zprávu nebo zprávy v seznamu zpráv a pak vyberte **Nevyžádaná** > **blok**.
 
-Pokud omylem označíte zprávu jako nevyžádanou poštu, vyberte zprávu ve složce Nevyžádaná pošta a vyberte **nevyžádané** > **není nevyžádaná**. (*Poznámka:* položky do složky nevyžádané E-maily jsou odstraněny po uplynutí 30 dnů.)
+Pokud omylem označíte zprávu jako nevyžádanou, vyberte ji ve složce Nevyžádaná pošta a vyberte **Nenevyžádaná** > **pošta**. *(Poznámka:* Položky ve složce Nevyžádaná pošta se po 30 dnech smažou.)
 
-Další informace o tom, jak [zabránit spamu a nevyžádané pošty z aplikace Outlook na webu složky Doručená pošta.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
+Přečtěte si další informace o tom, jak [zabránit nevyžádané poště a nevyžádané poště mimo outlook ve webové schránce.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
