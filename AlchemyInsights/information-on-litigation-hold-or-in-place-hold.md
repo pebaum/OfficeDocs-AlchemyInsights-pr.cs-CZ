@@ -1,32 +1,32 @@
 ---
-title: Informace o blokování sporu nebo stiskněte v místě
+title: Informace o blokování soudních sporů nebo o držení na místě
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ed8158c226d10926551514fa162f31ed7943464
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498948"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711012"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a><span data-ttu-id="0c033-102">O sporu drží a místo blokování</span><span class="sxs-lookup"><span data-stu-id="0c033-102">About litigation holds and in-place holds</span></span>
+# <a name="about-litigation-holds-and-in-place-holds"></a><span data-ttu-id="14fc5-102">O blokování soudních sporů a blokování na místě</span><span class="sxs-lookup"><span data-stu-id="14fc5-102">About litigation holds and in-place holds</span></span>
 
-- <span data-ttu-id="0c033-103">Použít soudní spory blokování nebo v místě držení poštovní schránky [Exchange Online plán 2 licence](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) .</span><span class="sxs-lookup"><span data-stu-id="0c033-103">To apply a litigation hold or an in-place hold to a mailbox, an [Exchange Online Plan 2 license](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) is required.</span></span> <span data-ttu-id="0c033-104">Pokud máte jiný plán, přiřadíte účtu samostatnou licenci [Exchange Online archivaci](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) .</span><span class="sxs-lookup"><span data-stu-id="0c033-104">If you have any other Plan, assign a separate [Exchange Online Archiving](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) license to the account.</span></span> 
+- <span data-ttu-id="14fc5-103">Chcete-li u poštovní schránky použít blokování z důvodu soudních sporů nebo blokování na místě, je [vyžadována licence Exchange Online Plan 2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options)</span><span class="sxs-lookup"><span data-stu-id="14fc5-103">To apply a litigation hold or an in-place hold to a mailbox, an [Exchange Online Plan 2 license](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) is required.</span></span> <span data-ttu-id="14fc5-104">Pokud máte jiný plán, přiřaďte účtu samostatnou licenci [exchange online archivace.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)</span><span class="sxs-lookup"><span data-stu-id="14fc5-104">If you have any other Plan, assign a separate [Exchange Online Archiving](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) license to the account.</span></span> 
     
-- <span data-ttu-id="0c033-105">**Povolení blokování sporu** pro jednoho uživatele, postupujte podle pokynů uvedených [zde](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold).</span><span class="sxs-lookup"><span data-stu-id="0c033-105">**To enable a litigation hold** for a single User, follow the steps outlined [here](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold).</span></span> <span data-ttu-id="0c033-106">Při zapnuté funkci blokování sporu, veškerý obsah poštovní schránky je umístěn na blokování.</span><span class="sxs-lookup"><span data-stu-id="0c033-106">When litigation hold is enabled, all content in the mailbox is placed on hold.</span></span>
+- <span data-ttu-id="14fc5-105">**Chcete-li povolit blokování z důvodu soudního sporu** pro jednoho uživatele, postupujte [podle pokynů uvedených zde](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold).</span><span class="sxs-lookup"><span data-stu-id="14fc5-105">**To enable a litigation hold** for a single User, follow the steps outlined [here](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold).</span></span> <span data-ttu-id="14fc5-106">Je-li blokování z důvodu soudních sporů povoleno, je veškerý obsah v poštovní schránce pozastaven.</span><span class="sxs-lookup"><span data-stu-id="14fc5-106">When litigation hold is enabled, all content in the mailbox is placed on hold.</span></span>
     
-- <span data-ttu-id="0c033-107">Použít **v místě uložení na jednoho uživatele** nebo blokování **všech poštovních schránek v celé organizaci**, můžete použít zásady uchovávání informací v Centru zabezpečení Office 365 a shodu pomocí následujících takto uvedeno [zde](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).</span><span class="sxs-lookup"><span data-stu-id="0c033-107">To apply an **in-place hold on single users** or a hold to **all mailboxes in the entire Organization**, you can use Retention Policies in the Office 365 Security and Compliance center by following the steps outlined [here](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).</span></span>
+- <span data-ttu-id="14fc5-107">Chcete-li použít **místní blokování pro jednotlivé uživatele** nebo blokování všech **poštovních schránek v celé organizaci**, můžete použít zásady uchovávání informací v Centru zabezpečení a dodržování předpisů microsoftu 365 podle pokynů uvedených [zde](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).</span><span class="sxs-lookup"><span data-stu-id="14fc5-107">To apply an **in-place hold on single users** or a hold to **all mailboxes in the entire Organization**, you can use Retention Policies in the Microsoft 365 Security and Compliance center by following the steps outlined [here](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="0c033-108">Celý organizační zásady uchovávání informací noví uživatelé budou automaticky přidána do blokování.</span><span class="sxs-lookup"><span data-stu-id="0c033-108">For Org-wide retention policies, new users will be automatically added to the hold.</span></span> 
+    > <span data-ttu-id="14fc5-108">Pro zásady uchovávání informací pro celou organizaci budou do blokování automaticky přidáni noví uživatelé.</span><span class="sxs-lookup"><span data-stu-id="14fc5-108">For Org-wide retention policies, new users will be automatically added to the hold.</span></span> 
   
-- <span data-ttu-id="0c033-109">Chcete-li zobrazit nebo zjistit obsah poštovní schránky, který je blokována, použijte **služba eDiscovery vyhledávání a Export**.</span><span class="sxs-lookup"><span data-stu-id="0c033-109">To view or discover the mailbox content that is placed on hold, use **eDiscovery Search and Export**.</span></span> <span data-ttu-id="0c033-110">Informace o použití **služba eDiscovery vyhledávání a exportu**postupujte takto uvedeno [zde](https://docs.microsoft.com/office365/securitycompliance/export-search-results).</span><span class="sxs-lookup"><span data-stu-id="0c033-110">For information on using **eDiscovery Search and Export**, follow the steps outlined [here](https://docs.microsoft.com/office365/securitycompliance/export-search-results).</span></span>
+- <span data-ttu-id="14fc5-109">Chcete-li zobrazit nebo zjistit obsah poštovní schránky, který je umístěn jako blokování, použijte **eDiscovery Search and Export**.</span><span class="sxs-lookup"><span data-stu-id="14fc5-109">To view or discover the mailbox content that is placed on hold, use **eDiscovery Search and Export**.</span></span> <span data-ttu-id="14fc5-110">Informace o používání **vyhledávání a exportu eDiscovery**naleznete [v](https://docs.microsoft.com/office365/securitycompliance/export-search-results)následujících krocích .</span><span class="sxs-lookup"><span data-stu-id="14fc5-110">For information on using **eDiscovery Search and Export**, follow the steps outlined [here](https://docs.microsoft.com/office365/securitycompliance/export-search-results).</span></span>
     
 

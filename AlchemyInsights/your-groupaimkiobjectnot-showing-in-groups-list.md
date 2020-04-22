@@ -1,24 +1,24 @@
 ---
-title: Skupina není zobrazen v seznamu skupin
+title: Vaše skupina se nezobrazuje v seznamu Skupiny.
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/8/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 1708cc461888d903531422f9d272db12e8dd142f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75d411dd42d1abd8784695c0d1a9a16718fe6838
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530789"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715805"
 ---
-# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a><span data-ttu-id="24ae5-102">Skupina "{AimKIObject}" není zobrazena v seznamu skupin</span><span class="sxs-lookup"><span data-stu-id="24ae5-102">Your group "{AimKIObject}" not showing in Groups list</span></span>
+# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a><span data-ttu-id="fa57f-102">Vaše skupina {AimKIObject}, která se nezobrazuje v seznamu Skupin</span><span class="sxs-lookup"><span data-stu-id="fa57f-102">Your group "{AimKIObject}" not showing in Groups list</span></span>
 
-<span data-ttu-id="24ae5-103">Vaše distribuční skupiny s názvem "{AimKIObject}" byl vytvořen minutami {AimKITimeElapsed}.</span><span class="sxs-lookup"><span data-stu-id="24ae5-103">Your distribution group named "{AimKIObject}" was created {AimKITimeElapsed} minutes ago.</span></span> <span data-ttu-id="24ae5-104">Může trvat až 60 minut před v Admin center se zobrazí nová skupina.</span><span class="sxs-lookup"><span data-stu-id="24ae5-104">It can take up to 60 minutes before your new group appears in the Admin center.</span></span>
+<span data-ttu-id="fa57f-103">Vaše distribuční skupina s názvem {AimKIObject}" byla vytvořena před několika minutami {AimKITimeElapsed}.</span><span class="sxs-lookup"><span data-stu-id="fa57f-103">Your distribution group named "{AimKIObject}" was created {AimKITimeElapsed} minutes ago.</span></span> <span data-ttu-id="fa57f-104">Může trvat až 60 minut, než se nová skupina zobrazí v Centru pro správu.</span><span class="sxs-lookup"><span data-stu-id="fa57f-104">It can take up to 60 minutes before your new group appears in the Admin center.</span></span>
   
-<span data-ttu-id="24ae5-105">Pokud chcete přidat členy, nebo provádět jiné úpravy nyní, použijte funkci skupiny v [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span><span class="sxs-lookup"><span data-stu-id="24ae5-105">If you want to add members or make other edits right now, please use the Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span></span>
+<span data-ttu-id="fa57f-105">Pokud chcete přidat členy nebo provést další úpravy právě teď, použijte funkci Skupiny v [Centru pro správu Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span><span class="sxs-lookup"><span data-stu-id="fa57f-105">If you want to add members or make other edits right now, please use the Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span></span>
   
 

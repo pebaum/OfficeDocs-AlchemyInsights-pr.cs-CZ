@@ -1,9 +1,9 @@
 ---
-title: 8000050 nelze se přihlásit na Outlook.com
+title: 8000050 Nelze se přihlásit k Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/31/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,20 +14,20 @@ ms.custom:
 - "842"
 - "8000050"
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
-ms.openlocfilehash: 71a8f729e0192673489d3d6eab4284890e7d7665
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b6fbc3e7667b8827c444b0b824ecb7f92bd75a8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505428"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711588"
 ---
-# <a name="i-cant-sign-in-or-forgot-my-password"></a><span data-ttu-id="7066d-102">I nelze se přihlásit, nebo si vzpomenout na heslo</span><span class="sxs-lookup"><span data-stu-id="7066d-102">I can't sign in or forgot my password</span></span>
+# <a name="i-cant-sign-in-or-forgot-my-password"></a><span data-ttu-id="fecf9-102">Nemohu se přihlásit nebo zapomněl(a) heslo</span><span class="sxs-lookup"><span data-stu-id="fecf9-102">I can't sign in or forgot my password</span></span>
 
-<span data-ttu-id="7066d-103">Pokud máte potíže s přihlášením na jiný účet, účet pravděpodobně dočasně blokovat, protože jsme zaznamenali některé neobvyklé aktivity, přihlásit.</span><span class="sxs-lookup"><span data-stu-id="7066d-103">If you're having problems signing in to another account, the account might be temporarily blocked because we noticed some unusual sign-in activity.</span></span> <span data-ttu-id="7066d-104">Pokud je váš účet zablokován, viz [Odblokovat účet Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="7066d-104">If your account is blocked, see [Unblock my Outlook.com account](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="fecf9-103">Pokud máte problémy s přihlášením k jinému účtu, může být účet dočasně zablokován, protože jsme zaznamenali neobvyklou aktivitu přihlášení.</span><span class="sxs-lookup"><span data-stu-id="fecf9-103">If you're having problems signing in to another account, the account might be temporarily blocked because we noticed some unusual sign-in activity.</span></span> <span data-ttu-id="fecf9-104">Pokud je váš účet zablokovaný, přečtěte si část [Odblokovat můj účet Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="fecf9-104">If your account is blocked, see [Unblock my Outlook.com account](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   
-<span data-ttu-id="7066d-105">Pokud jste zapomněli heslo, můžete [heslo můžete znovu nastavit](https://go.microsoft.com/fwlink/p/?linkid=841909).</span><span class="sxs-lookup"><span data-stu-id="7066d-105">If you've forgotten your password, you can [reset you password](https://go.microsoft.com/fwlink/p/?linkid=841909).</span></span>
+<span data-ttu-id="fecf9-105">Pokud jste heslo zapomněli, můžete [heslo resetovat](https://go.microsoft.com/fwlink/p/?linkid=841909).</span><span class="sxs-lookup"><span data-stu-id="fecf9-105">If you've forgotten your password, you can [reset you password](https://go.microsoft.com/fwlink/p/?linkid=841909).</span></span>
   
-<span data-ttu-id="7066d-106">Pokud se domníváte, že váš účet Outlook.com zaútočil hacker, viz [Moje Outlook.com účet byl napaden hackerem.](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="7066d-106">If you suspect your Outlook.com account has been hacked, see [My Outlook.com account has been hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="fecf9-106">Pokud máte podezření, že váš účet Outlook.com byl napaden, [přečtěte](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy)si informace o tom, že byl napaden můj účet Outlook.com .</span><span class="sxs-lookup"><span data-stu-id="fecf9-106">If you suspect your Outlook.com account has been hacked, see [My Outlook.com account has been hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   
-<span data-ttu-id="7066d-107">Další informace o [v případě, že se nelze přihlásit k účtu Microsoft](https://go.microsoft.com/fwlink/p/?linkid=842227).</span><span class="sxs-lookup"><span data-stu-id="7066d-107">Read more about [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=842227).</span></span>
+<span data-ttu-id="fecf9-107">Přečtěte si další [informace O tom, že se nemůžete přihlásit ke svému účtu Microsoft](https://go.microsoft.com/fwlink/p/?linkid=842227).</span><span class="sxs-lookup"><span data-stu-id="fecf9-107">Read more about [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=842227).</span></span>
   

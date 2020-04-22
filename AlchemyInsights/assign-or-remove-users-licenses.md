@@ -1,9 +1,9 @@
 ---
-title: Přiřazení nebo odebrání licencí uživatelů
+title: Přiřazení nebo odebrání uživatelských licencí
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: ad4e2d1cb5d92d5d7f4dec21c7de7348db6f97ad
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 9878d51cadd211668a150f2ba43c4aabe4a75620
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736966"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712559"
 ---
-# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="6761f-102">Přiřazení nebo odebrání licencí uživatelů</span><span class="sxs-lookup"><span data-stu-id="6761f-102">Assign or remove users' licenses</span></span>
+# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="8d647-102">Přiřazení nebo odebrání uživatelských licencí</span><span class="sxs-lookup"><span data-stu-id="8d647-102">Assign or remove users' licenses</span></span>
 
-<span data-ttu-id="6761f-103">Jako správce můžete podle potřeby upravit licence uživatelů.</span><span class="sxs-lookup"><span data-stu-id="6761f-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="6761f-104">Níže uvedené články vám ukáží, jak spravovat licence uživatelů, včetně následujících:</span><span class="sxs-lookup"><span data-stu-id="6761f-104">The articles below will show you how to manage your users' licenses, including:</span></span>
+<span data-ttu-id="8d647-103">Jako správce můžete podle potřeby upravit uživatelské licence.</span><span class="sxs-lookup"><span data-stu-id="8d647-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="8d647-104">Níže uvedené články vám ukážou, jak spravovat uživatelské licence, včetně:</span><span class="sxs-lookup"><span data-stu-id="8d647-104">The articles below will show you how to manage your users' licenses, including:</span></span>
   
-- [<span data-ttu-id="6761f-105">Přiřazení licencí uživatelům v Office 365 pro firmy</span><span class="sxs-lookup"><span data-stu-id="6761f-105">Assign licenses to users in Office 365 for business</span></span>](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [<span data-ttu-id="8d647-105">Přiřazení licencí uživatelům v Microsoftu 365 pro firmy</span><span class="sxs-lookup"><span data-stu-id="8d647-105">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [<span data-ttu-id="6761f-106">Zrušení přiřazení licencí od uživatelů sady Office 365 pro podniky</span><span class="sxs-lookup"><span data-stu-id="6761f-106">Unassign licenses from users in Office 365 for business</span></span>](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [<span data-ttu-id="8d647-106">Zrušení přiřazení licencí uživatelům v Microsoftu 365 pro firmy</span><span class="sxs-lookup"><span data-stu-id="8d647-106">Unassign licenses from users in Microsoft 365 for business</span></span>](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/remove-licenses-from-users)
 
-<span data-ttu-id="6761f-107">Neodpověděl jste na otázku?</span><span class="sxs-lookup"><span data-stu-id="6761f-107">Didn't answer your question?</span></span> <span data-ttu-id="6761f-108">Žádný problém!</span><span class="sxs-lookup"><span data-stu-id="6761f-108">No problem!</span></span> <span data-ttu-id="6761f-109">Pomocí tlačítka "potřebovat pomoc" můžete hovořit s pracovníkem odborné pomoci.</span><span class="sxs-lookup"><span data-stu-id="6761f-109">Use the "Need help" button to talk to a support engineer.</span></span>
+<span data-ttu-id="8d647-107">Neodpověděl jsi na tvou otázku?</span><span class="sxs-lookup"><span data-stu-id="8d647-107">Didn't answer your question?</span></span> <span data-ttu-id="8d647-108">Žádný problém!</span><span class="sxs-lookup"><span data-stu-id="8d647-108">No problem!</span></span> <span data-ttu-id="8d647-109">Pomocí tlačítka "Potřebujete pomoc" promluvte si s pracovníkem podpory.</span><span class="sxs-lookup"><span data-stu-id="8d647-109">Use the "Need help" button to talk to a support engineer.</span></span>
