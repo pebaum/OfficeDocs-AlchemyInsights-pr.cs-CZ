@@ -1,9 +1,9 @@
 ---
-title: Identifikaci blokování umístěn na poštovní schránky
+title: Identifikace blokování umístěných na poštovních schránkách
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538754"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724769"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a><span data-ttu-id="4549e-102">Identifikaci blokování umístěn na poštovní schránky</span><span class="sxs-lookup"><span data-stu-id="4549e-102">Identify holds placed on mailboxes</span></span>
+# <a name="identify-holds-placed-on-mailboxes"></a><span data-ttu-id="04b9b-102">Identifikace blokování umístěných v poštovních schránkách</span><span class="sxs-lookup"><span data-stu-id="04b9b-102">Identify holds placed on mailboxes</span></span>
 
-<span data-ttu-id="4549e-103">Máte obsah služeb Office 365, která má být **zachována** tak, že **podržíte** , nelze identifikovat?</span><span class="sxs-lookup"><span data-stu-id="4549e-103">Do you have Office 365 content that is being **retained** by a **hold** that you cannot identify?</span></span> <span data-ttu-id="4549e-104">Potřebujete **zjistit,** kde je umístěna blokování **poštovní schránky** ?</span><span class="sxs-lookup"><span data-stu-id="4549e-104">Need to **find out** where the hold is located on the **mailbox** ?</span></span> <span data-ttu-id="4549e-105">Blokování (*retenční funkce*) lze použít jednu z následujících metod ve službách Office 365:</span><span class="sxs-lookup"><span data-stu-id="4549e-105">Holds (*retention features*) can be applied by one of the following methods in Office 365:</span></span>
+<span data-ttu-id="04b9b-103">Máte obsah microsoft365, který je **zachován** **blokování,** které nelze identifikovat?</span><span class="sxs-lookup"><span data-stu-id="04b9b-103">Do you have Microsoft 365 content that is being **retained** by a **hold** that you cannot identify?</span></span> <span data-ttu-id="04b9b-104">Potřebujete **zjistit,** kde se přidržovací místo nachází na **poštovní schránce** ?</span><span class="sxs-lookup"><span data-stu-id="04b9b-104">Need to **find out** where the hold is located on the **mailbox** ?</span></span> <span data-ttu-id="04b9b-105">Blokování (*retenční prvky*) lze použít jednou z následujících metod:</span><span class="sxs-lookup"><span data-stu-id="04b9b-105">Holds (*retention features*) can be applied by one of the following methods:</span></span>
   
-- <span data-ttu-id="4549e-106">Soudní spory podržte</span><span class="sxs-lookup"><span data-stu-id="4549e-106">Litigation Hold</span></span>
+- <span data-ttu-id="04b9b-106">Blokování soudních sporů</span><span class="sxs-lookup"><span data-stu-id="04b9b-106">Litigation Hold</span></span>
 
-- <span data-ttu-id="4549e-107">služba eDiscovery blokování</span><span class="sxs-lookup"><span data-stu-id="4549e-107">eDiscovery hold</span></span>
+- <span data-ttu-id="04b9b-107">podržení služby eDiscovery</span><span class="sxs-lookup"><span data-stu-id="04b9b-107">eDiscovery hold</span></span>
 
-- <span data-ttu-id="4549e-108">V místě držení</span><span class="sxs-lookup"><span data-stu-id="4549e-108">In-Place Hold</span></span>
+- <span data-ttu-id="04b9b-108">Podržení na místě</span><span class="sxs-lookup"><span data-stu-id="04b9b-108">In-Place Hold</span></span>
 
-- <span data-ttu-id="4549e-109">Zásady uchovávání informací v Office 365</span><span class="sxs-lookup"><span data-stu-id="4549e-109">Office 365 retention policy</span></span> 
+- <span data-ttu-id="04b9b-109">Zásady uchovávání informací v Microsoftu 365</span><span class="sxs-lookup"><span data-stu-id="04b9b-109">Microsoft 365 retention policy</span></span> 
 
-  - <span data-ttu-id="4549e-110">Konkrétní umístění zásady uchovávání informací</span><span class="sxs-lookup"><span data-stu-id="4549e-110">Specific location retention policies</span></span>
+  - <span data-ttu-id="04b9b-110">Specifické zásady uchovávání informací o poloze</span><span class="sxs-lookup"><span data-stu-id="04b9b-110">Specific location retention policies</span></span>
 
-  - <span data-ttu-id="4549e-111">Zásady uchovávání informací pro celou organizaci</span><span class="sxs-lookup"><span data-stu-id="4549e-111">Organization-wide retention policies</span></span>
+  - <span data-ttu-id="04b9b-111">Zásady uchovávání informací pro celou organizaci</span><span class="sxs-lookup"><span data-stu-id="04b9b-111">Organization-wide retention policies</span></span>
 
-- <span data-ttu-id="4549e-112">Štítky pro Office 365</span><span class="sxs-lookup"><span data-stu-id="4549e-112">Office 365 labels</span></span>
+- <span data-ttu-id="04b9b-112">Popisky Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="04b9b-112">Microsoft 365 labels</span></span>
 
-<span data-ttu-id="4549e-113">Určit, jaký typ blokování je použita k poštovní schránce uživatele, naleznete v tématu [určení typu podržte umístěných na serveru Exchange Online poštovní schránky](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).</span><span class="sxs-lookup"><span data-stu-id="4549e-113">To identify which type of hold is applied to a user's mailbox, see [How to identify the type of hold placed on an Exchange Online mailbox](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).</span></span>
+<span data-ttu-id="04b9b-113">Chcete-li zjistit, který typ blokování je použit pro poštovní schránku uživatele, přečtěte si informace [o tom, jak identifikovat typ blokování umístěného v poštovní schránce Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).</span><span class="sxs-lookup"><span data-stu-id="04b9b-113">To identify which type of hold is applied to a user's mailbox, see [How to identify the type of hold placed on an Exchange Online mailbox](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).</span></span>

@@ -1,25 +1,25 @@
 ---
-title: Poštovní schránka zřizování zpoždění
+title: Zpoždění zřizování poštovní schránky
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 2/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: ef9b7663b8230366764e5ff7bfa176d5cea3f4a9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 03d5f0e5cf8bf0d74dcef488de2c1fbc12d82cf0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542400"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762670"
 ---
-# <a name="your-users-mailbox-is-being-created"></a><span data-ttu-id="a85c7-102">Vytvoření poštovní schránky daného uživatele.</span><span class="sxs-lookup"><span data-stu-id="a85c7-102">Your user's mailbox is being created</span></span>
+# <a name="your-users-mailbox-is-being-created"></a><span data-ttu-id="1317a-102">Vytvářena poštovní schránka uživatele</span><span class="sxs-lookup"><span data-stu-id="1317a-102">Your user's mailbox is being created</span></span>
 
-<span data-ttu-id="a85c7-103">To může trvat až jednu hodinu před novou poštovní schránku je připraven k použití.</span><span class="sxs-lookup"><span data-stu-id="a85c7-103">It can take up to an hour before a new mailbox is ready to use.</span></span>
+<span data-ttu-id="1317a-103">Může trvat až hodinu, než bude nová poštovní schránka připravena k použití.</span><span class="sxs-lookup"><span data-stu-id="1317a-103">It can take up to an hour before a new mailbox is ready to use.</span></span>
   
-<span data-ttu-id="a85c7-104">Pokud poštovní schránka uživatele má byla "Příprava" pro více než jednu hodinu, můžete pokusit odstranit a znovu vytvořit uživatele nebo pomocí možnosti "budeme vám volat" obraťte se na pracovníka podpory.</span><span class="sxs-lookup"><span data-stu-id="a85c7-104">If a user's mailbox has been "preparing" for more than an hour, you can try deleting and then re-creating the user, or use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="1317a-104">Pokud se poštovní schránka uživatele "připravuje" více než hodinu, můžete zkusit uživatele smažit a znovu vytvořit nebo použít možnost "Dovolte nám zavolat" a promluvit si s pracovníkem podpory.</span><span class="sxs-lookup"><span data-stu-id="1317a-104">If a user's mailbox has been "preparing" for more than an hour, you can try deleting and then re-creating the user, or use the "Let us call you" option to talk to a support engineer.</span></span>
   
 

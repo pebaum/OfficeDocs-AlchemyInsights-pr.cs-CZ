@@ -1,9 +1,9 @@
 ---
-title: Odhlášení z Outlook.com
+title: Odhlásit se z Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 02e4c5478f5ca880ece6cd70b3385ca78c724f28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 82e1926e267bd821b3374765878e6c7ce1e36d69
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557764"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743518"
 ---
-# <a name="how-to-sign-out-of-outlookcom"></a><span data-ttu-id="2e55c-102">Jak se odhlásit z Outlook.com</span><span class="sxs-lookup"><span data-stu-id="2e55c-102">How to sign out of Outlook.com</span></span>
+# <a name="how-to-sign-out-of-outlookcom"></a><span data-ttu-id="405dc-102">Jak se odhlásit z Outlook.com</span><span class="sxs-lookup"><span data-stu-id="405dc-102">How to sign out of Outlook.com</span></span>
 
-1. <span data-ttu-id="2e55c-103">Vyberte jméno nebo obrázek v pravém horním rohu.</span><span class="sxs-lookup"><span data-stu-id="2e55c-103">Select your name or picture at the top right corner.</span></span>
+1. <span data-ttu-id="405dc-103">V pravém horním rohu vyberte své jméno nebo obrázek.</span><span class="sxs-lookup"><span data-stu-id="405dc-103">Select your name or picture at the top right corner.</span></span>
 
-    <span data-ttu-id="2e55c-104">Pokud není zobrazen obrázek v horní části obrazovky, zkontrolujte, zda je zapnuta blokování reklam.</span><span class="sxs-lookup"><span data-stu-id="2e55c-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="2e55c-105">V některých případech nebude obrázek zobrazující.</span><span class="sxs-lookup"><span data-stu-id="2e55c-105">Sometimes this prevents the picture from showing.</span></span>
+    <span data-ttu-id="405dc-104">Pokud obrázek v horní části obrazovky nevidíte, zkontrolujte, jestli je blokování reklam zapnuté.</span><span class="sxs-lookup"><span data-stu-id="405dc-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="405dc-105">To někdy brání zobrazení obrázku.</span><span class="sxs-lookup"><span data-stu-id="405dc-105">Sometimes this prevents the picture from showing.</span></span>
 
-2. <span data-ttu-id="2e55c-106">Vyberte **Odhlásit**.</span><span class="sxs-lookup"><span data-stu-id="2e55c-106">Select **Sign out**.</span></span>
+2. <span data-ttu-id="405dc-106">Vyberte **Odhlásit .**</span><span class="sxs-lookup"><span data-stu-id="405dc-106">Select **Sign out**.</span></span>
 
-    <span data-ttu-id="2e55c-107">Chcete-li ukončit automatické přihlášení, zrušte zaškrtnutí políčka pro **zůstat přihlášeni** na stránce, kde zadáte své heslo.</span><span class="sxs-lookup"><span data-stu-id="2e55c-107">To stop signing in automatically, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span>
+    <span data-ttu-id="405dc-107">Chcete-li automatické přihlašování zastavit, zaškrtněte políčko **Ponechat přihlášenna** stránce, na které zadáváte heslo.</span><span class="sxs-lookup"><span data-stu-id="405dc-107">To stop signing in automatically, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span>
 
-<span data-ttu-id="2e55c-108">Další informace naleznete v tématu [přihlásit do nebo z Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="2e55c-108">To learn more, see [How to sign in to or out of Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="405dc-108">Další informace najdete [v tématu Jak se přihlásit k Outlook.com nebo z něj.](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="405dc-108">To learn more, see [How to sign in to or out of Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   

@@ -1,9 +1,9 @@
 ---
-title: Odběr oznámení o Office client
+title: Oznámení o předplatném pro klienta Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,17 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 03bd18b0ca7af8f3102041c4f6fd604bb29737f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 661ac7b7c7a6556ab22d08e9fc0e8d6e25d7133c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559762"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741856"
 ---
-# <a name="subscription-notice-in-your-office-client"></a><span data-ttu-id="c83e3-102">Odběr oznámení v klientovi aplikace Office?</span><span class="sxs-lookup"><span data-stu-id="c83e3-102">Subscription notice in your Office client?</span></span>
+# <a name="subscription-notice-in-your-office-client"></a><span data-ttu-id="029e7-102">Oznámení o předplatném ve vašem klientovi Office?</span><span class="sxs-lookup"><span data-stu-id="029e7-102">Subscription notice in your Office client?</span></span>
 
-<span data-ttu-id="c83e3-103">Zdá se, se zobrazuje oznámení v klientovi aplikace Office týkající se stavu vašeho předplatného služeb Office 365.</span><span class="sxs-lookup"><span data-stu-id="c83e3-103">It looks like you are seeing a notice in your Office client related to the status of your Office 365 subscription.</span></span> <span data-ttu-id="c83e3-104">Informace o řešení potíží v tomto článku můžete najít: [odběr oznámení se zobrazí při otevření aplikace Office 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)</span><span class="sxs-lookup"><span data-stu-id="c83e3-104">You can find information on how to fix the issue in this article: [A subscription notice appears when I open an Office 365 application](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)</span></span>
+<span data-ttu-id="029e7-103">Vypadá to, že se vám v klientovi Office zobrazuje oznámení o stavu vašeho předplatného.</span><span class="sxs-lookup"><span data-stu-id="029e7-103">It looks like you are seeing a notice in your Office client related to the status of your subscription.</span></span> <span data-ttu-id="029e7-104">Informace o řešení problému najdete v tomto článku: [Při otevření aplikace Microsoft 365 se zobrazí oznámení o předplatném](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)</span><span class="sxs-lookup"><span data-stu-id="029e7-104">You can find information on how to fix the issue in this article: [A subscription notice appears when I open a Microsoft 365 application](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)</span></span>
   
-<span data-ttu-id="c83e3-105">Pokud je aktuální předplatné služeb Office 365, může mít přístupů dočasný problém, který způsobil selhání aktivací sady Office.</span><span class="sxs-lookup"><span data-stu-id="c83e3-105">If your Office 365 subscription is up-to-date, you might have hit a temporary issue that caused your Office activation to fail.</span></span> <span data-ttu-id="c83e3-106">Existují jednoduché kroky, které můžete provést, chcete-li zabránit tyto zprávy, jako je kontrola času vašeho počítače, spuštění sady Office jako správce a přihlášení k aktivaci.</span><span class="sxs-lookup"><span data-stu-id="c83e3-106">There are simple steps you can take to avoid these messages, like checking your computer time, running Office as Administrator, and signing in to activate.</span></span> <span data-ttu-id="c83e3-107">Podrobné kroky, chcete-li vyřešit tyto problémy v tomto článku můžete najít: [nelicencovaný produkt a chyby aktivace sady Office](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).</span><span class="sxs-lookup"><span data-stu-id="c83e3-107">You can find detailed steps to fix those issues in this article: [Unlicensed Product and activation errors in Office](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).</span></span>
+<span data-ttu-id="029e7-105">Pokud je vaše předplatné aktuální, možná jste narazili na dočasný problém, který způsobil selhání aktivace Office.</span><span class="sxs-lookup"><span data-stu-id="029e7-105">If your subscription is up-to-date, you might have hit a temporary issue that caused your Office activation to fail.</span></span> <span data-ttu-id="029e7-106">Tyto zprávy můžete provést jednoduchými kroky, jako je kontrola času počítače, spuštění sady Office jako správce a přihlášení k aktivaci.</span><span class="sxs-lookup"><span data-stu-id="029e7-106">There are simple steps you can take to avoid these messages, like checking your computer time, running Office as Administrator, and signing in to activate.</span></span> <span data-ttu-id="029e7-107">Podrobné kroky k vyřešení těchto problémů naleznete v tomto článku: [Nelicencovaný produkt a chyby aktivace](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).</span><span class="sxs-lookup"><span data-stu-id="029e7-107">You can find detailed steps to fix those issues in this article: [Unlicensed Product and activation errors](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).</span></span>
   
-<span data-ttu-id="c83e3-108">Pokud tyto nejsou k dispozici pro vás, kontaktujte nás na následujících odkazech a můžeme vám ráda pomůže.</span><span class="sxs-lookup"><span data-stu-id="c83e3-108">If these don't work for you, please contact us with the links below and we will be glad to help.</span></span>
-  
+<span data-ttu-id="029e7-108">Pokud tyto nefungují pro vás, kontaktujte nás prosím s níže uvedené odkazy a my vám rádi pomůžeme.</span><span class="sxs-lookup"><span data-stu-id="029e7-108">If these don't work for you, please contact us with the links below and we will be glad to help.</span></span>

@@ -3,7 +3,7 @@ title: Spravujte, kdo může vytvářet skupiny Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f68aada0-7700-4e61-b822-6ce203afd145
-ms.openlocfilehash: 0856b811f2366b4161387fc5b5c929a382ba9948
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: f476f4afa11d8f87988da5cb84fd2ff5941c67d0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36738910"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720496"
 ---
-# <a name="manage-who-can-create-office-365-groups"></a><span data-ttu-id="55fcf-102">Spravujte, kdo může vytvářet skupiny Office 365</span><span class="sxs-lookup"><span data-stu-id="55fcf-102">Manage who can create Office 365 Groups</span></span>
+# <a name="manage-who-can-create-office-365-groups"></a><span data-ttu-id="70bad-102">Spravujte, kdo může vytvářet skupiny Office 365</span><span class="sxs-lookup"><span data-stu-id="70bad-102">Manage who can create Office 365 Groups</span></span>
 
-<span data-ttu-id="55fcf-103">Ve výchozím nastavení může každý uživatel v organizaci vytvářet skupiny O365.</span><span class="sxs-lookup"><span data-stu-id="55fcf-103">By default, anyone in your organization can create O365 groups.</span></span>
+<span data-ttu-id="70bad-103">Ve výchozím nastavení může skupiny O365 vytvořit kdokoli ve vaší organizaci.</span><span class="sxs-lookup"><span data-stu-id="70bad-103">By default, anyone in your organization can create O365 groups.</span></span>
   
-<span data-ttu-id="55fcf-104">Chcete-li toto změnit, můžete vytvořit skupinu zabezpečení s PowerShell, která omezí tvorbu skupiny na podmnožinu uživatelů.</span><span class="sxs-lookup"><span data-stu-id="55fcf-104">If you want to change that, you can create a security group with PowerShell that limits group creation to a subset of users.</span></span>
+<span data-ttu-id="70bad-104">Pokud to chcete změnit, můžete vytvořit skupinu zabezpečení s prostředím PowerShell, která omezuje vytváření skupin na podmnožinu uživatelů.</span><span class="sxs-lookup"><span data-stu-id="70bad-104">If you want to change that, you can create a security group with PowerShell that limits group creation to a subset of users.</span></span>
   
-<span data-ttu-id="55fcf-105">Postupujte podle podrobných pokynů: [Spravovat, kdo může vytvářet skupiny Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span><span class="sxs-lookup"><span data-stu-id="55fcf-105">Follow the step-by-step instructions here: [Manage who can create Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span></span>
+<span data-ttu-id="70bad-105">Postupujte podle podrobných pokynů tady: [Správa toho, kdo umí vytvářet skupiny Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span><span class="sxs-lookup"><span data-stu-id="70bad-105">Follow the step-by-step instructions here: [Manage who can create Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span></span>
   
 
