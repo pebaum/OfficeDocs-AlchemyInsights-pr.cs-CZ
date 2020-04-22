@@ -1,9 +1,9 @@
 ---
-title: Obnovení záloh
+title: Předplacené obnovení
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,26 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666689"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666770"
 ---
-# <a name="prepaid-office-365-renewal"></a><span data-ttu-id="8da88-102">Obnovení záloh služeb Office 365</span><span class="sxs-lookup"><span data-stu-id="8da88-102">Prepaid Office 365 renewal</span></span>
+# <a name="prepaid-microsoft-365-renewal"></a><span data-ttu-id="d7fbc-102">Předplacené obnovení Microsoftu 365</span><span class="sxs-lookup"><span data-stu-id="d7fbc-102">Prepaid Microsoft 365 renewal</span></span>
 
-1. <span data-ttu-id="8da88-103">Ve středisku pro správce, přejděte na **fakturační** \> stránku [produkty a služby &](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="8da88-103">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="d7fbc-103">V Centru pro správu přejděte na stránku **Fakturace** \> [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="d7fbc-103">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="8da88-104">Vyhledejte předplatné, které chcete rozšířit.</span><span class="sxs-lookup"><span data-stu-id="8da88-104">Find the subscription you want to extend.</span></span> <span data-ttu-id="8da88-105">V části **Fakturace** vyberte **rozšířit koncové datum**.</span><span class="sxs-lookup"><span data-stu-id="8da88-105">In the **Billing** section, select **Extend end date**.</span></span>
+2. <span data-ttu-id="d7fbc-104">Najděte předplatné, které chcete rozšířit.</span><span class="sxs-lookup"><span data-stu-id="d7fbc-104">Find the subscription you want to extend.</span></span> <span data-ttu-id="d7fbc-105">V části **Fakturace** vyberte **Prodloužit koncové datum**.</span><span class="sxs-lookup"><span data-stu-id="d7fbc-105">In the **Billing** section, select **Extend end date**.</span></span>
 
-3. <span data-ttu-id="8da88-106">V podokně **rozšíření odběru** vyberte položku **použít nové a nepoužívané product key**a potom klepněte na tlačítko **Další**.</span><span class="sxs-lookup"><span data-stu-id="8da88-106">In the **Extend subscription** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
+3. <span data-ttu-id="d7fbc-106">V podokně **Rozšířit odběr** vyberte Použít nový **a nepoužitý kód Product Key**a pak vyberte **Další**.</span><span class="sxs-lookup"><span data-stu-id="d7fbc-106">In the **Extend subscription** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
 
-4. <span data-ttu-id="8da88-107">Zadejte kód product key a potom klepněte na tlačítko **Další**.</span><span class="sxs-lookup"><span data-stu-id="8da88-107">Enter the product key, then select **Next**.</span></span>
+4. <span data-ttu-id="d7fbc-107">Zadejte kód Product Key a vyberte **Další**.</span><span class="sxs-lookup"><span data-stu-id="d7fbc-107">Enter the product key, then select **Next**.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="8da88-108">Pokud máte více než jeden kód product key, můžete je zadat **jiný kód product key přidat** .</span><span class="sxs-lookup"><span data-stu-id="8da88-108">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
+> <span data-ttu-id="d7fbc-108">Pokud máte více než jeden kód Product Key, můžete pro něj zadat **další kód Product Key.**</span><span class="sxs-lookup"><span data-stu-id="d7fbc-108">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
 
-5. <span data-ttu-id="8da88-109">Podrobnosti vaší objednávky a potom vyberte možnost **Redeem**.</span><span class="sxs-lookup"><span data-stu-id="8da88-109">Review your order details, then select **Redeem**.</span></span>
+5. <span data-ttu-id="d7fbc-109">Zkontrolujte podrobnosti objednávky a pak vyberte **Uplatnit**.</span><span class="sxs-lookup"><span data-stu-id="d7fbc-109">Review your order details, then select **Redeem**.</span></span>
 
-<span data-ttu-id="8da88-110">Další informace naleznete v tématu [Přidat licence nebo prodloužit předplatné zaplatili za pomocí kódu product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="8da88-110">To learn more, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>
+<span data-ttu-id="d7fbc-110">Další informace najdete v [tématu Přidání licencí k předplatnému placenému pomocí kódu Product Key nebo jeho rozšíření](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="d7fbc-110">To learn more, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>

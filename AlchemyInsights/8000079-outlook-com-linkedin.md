@@ -3,22 +3,22 @@ title: Outlook.com LinkedIn
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/20/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
-ms.openlocfilehash: 136b349c374518e2b130184f2dc64d1bf9a7f7b0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 860d7e4063d0de172b79f0a0294f899ac22d92cc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36494340"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676598"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="c14ac-102">Problémy s nevyžádanou poštou, které tvrdí, že jsou z LinkedIn</span><span class="sxs-lookup"><span data-stu-id="c14ac-102">Issues with Junk email claiming to be from LinkedIn</span></span>
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="0edd1-102">Problémy s nevyžádanou poštou, která tvrdí, že pochází z LinkedInu</span><span class="sxs-lookup"><span data-stu-id="0edd1-102">Issues with Junk email claiming to be from LinkedIn</span></span>
 
-<span data-ttu-id="c14ac-103">Pokud přijímáš nevyžádanou poštu, která tvrdí, že je z LinkedIn, můžete vytvořit pravidlo pro filtrování těchto e-mailů.</span><span class="sxs-lookup"><span data-stu-id="c14ac-103">If you're receiving junk email which claims to be from LinkedIn, you can create a rule to filter those emails.</span></span>
-<span data-ttu-id="c14ac-104">Další informace naleznete [v tématu použití pravidel pro doručenou poštu v Outlook.com](https://aka.ms/OutlookComInboxRules) .</span><span class="sxs-lookup"><span data-stu-id="c14ac-104">See [Use inbox rules in Outlook.com](https://aka.ms/OutlookComInboxRules) for more information.</span></span>
+<span data-ttu-id="0edd1-103">Pokud dostáváte nevyžádanou poštu, která tvrdí, že pochází z LinkedIn, můžete vytvořit pravidlo pro filtrování těchto e-mailů.</span><span class="sxs-lookup"><span data-stu-id="0edd1-103">If you're receiving junk email which claims to be from LinkedIn, you can create a rule to filter those emails.</span></span>
+<span data-ttu-id="0edd1-104">Další informace najdete [v tématu Použití pravidel doručené pošty v Outlook.com.](https://aka.ms/OutlookComInboxRules)</span><span class="sxs-lookup"><span data-stu-id="0edd1-104">See [Use inbox rules in Outlook.com](https://aka.ms/OutlookComInboxRules) for more information.</span></span>
 
 

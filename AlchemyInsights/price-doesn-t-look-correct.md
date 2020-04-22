@@ -3,7 +3,7 @@ title: Cena nevypadá správně?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: d48e28a3166b3b7f55abdd1e25b830c6dbe0ee56
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 7bba6524807f17ddc786319f469bf22b50f4a845
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388485"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666698"
 ---
-# <a name="price-doesnt-look-correct"></a><span data-ttu-id="a0d91-102">Cena nevypadá správně?</span><span class="sxs-lookup"><span data-stu-id="a0d91-102">Price doesn't look correct?</span></span>
+# <a name="price-doesnt-look-correct"></a><span data-ttu-id="fa137-102">Cena nevypadá správně?</span><span class="sxs-lookup"><span data-stu-id="fa137-102">Price doesn't look correct?</span></span>
 
-<span data-ttu-id="a0d91-103">Pokud cena na faktuře nevypadá správně, to může být způsobeno změnu ceny na obnovení.</span><span class="sxs-lookup"><span data-stu-id="a0d91-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="a0d91-104">Pokud nechcete věřit, že to vysvětluje problém, použijte možnost "budeme vám volat" a obraťte se na pracovníka podpory.</span><span class="sxs-lookup"><span data-stu-id="a0d91-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="fa137-103">Pokud cena na faktuře nevypadá správně, může to být způsobeno změnou ceny při obnovení.</span><span class="sxs-lookup"><span data-stu-id="fa137-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="fa137-104">Pokud si nemyslíte, že to vysvětluje problém, použijte možnost "Zavolejte vám" a promluvte si s pracovníkem podpory.</span><span class="sxs-lookup"><span data-stu-id="fa137-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>

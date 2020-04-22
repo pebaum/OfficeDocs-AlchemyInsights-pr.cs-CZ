@@ -1,9 +1,9 @@
 ---
-title: Přidání křesel do předplacené zálohy
+title: Přidání licencí k předplacenému předplatnému
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,28 +13,28 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e2d9c25b12a11e933cf0ff40436c717172621af7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36660965"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671450"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="25ace-102">Přidání křesel do předplacené zálohy</span><span class="sxs-lookup"><span data-stu-id="25ace-102">Add seats to a prepaid subscription</span></span>
+# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="41754-102">Přidání licencí k předplacenému předplatnému</span><span class="sxs-lookup"><span data-stu-id="41754-102">Add seats to a prepaid subscription</span></span>
 
-<span data-ttu-id="25ace-103">Předplacené licence sady Office 365 vám jsou vydávány jako 25místný alfanumerický kód.</span><span class="sxs-lookup"><span data-stu-id="25ace-103">Prepaid Office 365 licenses are issued to you as a 25-character alphanumeric code.</span></span> <span data-ttu-id="25ace-104">Po zakoupení licencí, které potřebujete, je můžete přidat k předplatnému.</span><span class="sxs-lookup"><span data-stu-id="25ace-104">After you have purchased the licenses you need, you can add them to your subscription.</span></span> 
+<span data-ttu-id="41754-103">Předplacené licence se vystavují ve formě 25místného alfanumerického kódu.</span><span class="sxs-lookup"><span data-stu-id="41754-103">Prepaid licenses are issued to you as a 25-character alphanumeric code.</span></span> <span data-ttu-id="41754-104">Po zakoupení potřebných licencí je můžete přidat do předplatného.</span><span class="sxs-lookup"><span data-stu-id="41754-104">After you have purchased the licenses you need, you can add them to your subscription.</span></span> 
 
-1. <span data-ttu-id="25ace-105">V centru pro správu přejděte na stránku **fakturační** > [produkty & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="25ace-105">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="41754-105">V Centru pro správu přejděte na stránku **Fakturační** > [produkty & služby.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="41754-105">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="25ace-106">Najděte předplatné, ke kterému chcete přidat licence.</span><span class="sxs-lookup"><span data-stu-id="25ace-106">Find the subscription you want to add licenses to.</span></span> <span data-ttu-id="25ace-107">V části **licence** vyberte možnost **Přidat další licence**.</span><span class="sxs-lookup"><span data-stu-id="25ace-107">In the **Licenses** section, select **Add more licenses**.</span></span>
+2. <span data-ttu-id="41754-106">Najděte předplatné, ke kterým chcete přidat licence.</span><span class="sxs-lookup"><span data-stu-id="41754-106">Find the subscription you want to add licenses to.</span></span> <span data-ttu-id="41754-107">V části **Licence** vyberte **Přidat další licence**.</span><span class="sxs-lookup"><span data-stu-id="41754-107">In the **Licenses** section, select **Add more licenses**.</span></span>
 
-3. <span data-ttu-id="25ace-108">V podokně **Přidat další licence** vyberte možnost **použít nový a nepoužitý kód Product Key**a potom klepněte na tlačítko **Další**.</span><span class="sxs-lookup"><span data-stu-id="25ace-108">In the **Add more licenses** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
+3. <span data-ttu-id="41754-108">V podokně **Přidat další licence** vyberte Použít nový a **nepoužitý kód Product Key**a pak vyberte **Další**.</span><span class="sxs-lookup"><span data-stu-id="41754-108">In the **Add more licenses** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
 
-4. <span data-ttu-id="25ace-109">Zadejte kód Product Key a pak klepněte na tlačítko **Další**.</span><span class="sxs-lookup"><span data-stu-id="25ace-109">Enter the product key, then select **Next**.</span></span>
+4. <span data-ttu-id="41754-109">Zadejte kód Product Key a vyberte **Další**.</span><span class="sxs-lookup"><span data-stu-id="41754-109">Enter the product key, then select **Next**.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="25ace-110">Máte-li více než jeden kód Product Key, můžete k jejich zadávání vybrat možnost **Přidat další kód Product Key** .</span><span class="sxs-lookup"><span data-stu-id="25ace-110">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
+    > <span data-ttu-id="41754-110">Pokud máte více než jeden kód Product Key, můžete pro něj zadat **další kód Product Key.**</span><span class="sxs-lookup"><span data-stu-id="41754-110">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
 
-5. <span data-ttu-id="25ace-111">Zkontrolujte podrobnosti objednávky a poté vyberte možnost **uplatnit**.</span><span class="sxs-lookup"><span data-stu-id="25ace-111">Review your order details, then select **Redeem**.</span></span>
+5. <span data-ttu-id="41754-111">Zkontrolujte podrobnosti objednávky a pak vyberte **Uplatnit**.</span><span class="sxs-lookup"><span data-stu-id="41754-111">Review your order details, then select **Redeem**.</span></span>
 
-<span data-ttu-id="25ace-112">Další informace naleznete v tématu [Přidání licencí k odběru nebo rozšíření předplatného placené za použití klíče produktu](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="25ace-112">To learn more, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>
+<span data-ttu-id="41754-112">Další informace najdete v [tématu Přidání licencí k předplatnému placenému pomocí kódu Product Key nebo jeho rozšíření](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="41754-112">To learn more, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>

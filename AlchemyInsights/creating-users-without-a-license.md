@@ -1,9 +1,9 @@
 ---
-title: 743 vytvoření uživatelů bez licence
+title: 743 Vytváření uživatelů bez licence
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "743"
 - "1200022"
 ms.assetid: a47ef0c1-5f44-4c5f-aa91-b681c0c17ebf
-ms.openlocfilehash: aa594ead2f48bd6b6597746588b1edc16e08a14a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 95f4a66817e9b8f133ec20305cf29c95fb0cb2ff
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740602"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705366"
 ---
-# <a name="create-mailboxes-that-dont-require-licenses"></a><span data-ttu-id="84aa9-102">Vytvoření poštovních schránek, které nevyžadují licence</span><span class="sxs-lookup"><span data-stu-id="84aa9-102">Create mailboxes that don't require licenses</span></span>
+# <a name="create-mailboxes-that-dont-require-licenses"></a><span data-ttu-id="7f74d-102">Vytvoření poštovních schránek, které nevyžadují licence</span><span class="sxs-lookup"><span data-stu-id="7f74d-102">Create mailboxes that don't require licenses</span></span>
 
-- <span data-ttu-id="84aa9-103">Pokud potřebujete e-mailovou adresu skupiny pro více osob, viz [Vytvoření sdílené poštovní schránky](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="84aa9-103">If you need a group email address for multiple people, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
+- <span data-ttu-id="7f74d-103">Pokud potřebujete skupinovou e-mailovou adresu pro více lidí, [přečtěte si](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)informace o vytvoření sdílené poštovní schránky .</span><span class="sxs-lookup"><span data-stu-id="7f74d-103">If you need a group email address for multiple people, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
 
-- <span data-ttu-id="84aa9-104">Chcete-li umožnit týmu lidí spolupracovat a sdílet e-maily a soubory, přečtěte si [informace o skupinách Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="84aa9-104">To allow a team of people to work together and share email and files, see [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
+- <span data-ttu-id="7f74d-104">Informace o skupinách Office 365 najdete v tématu [Další informace o skupinách Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="7f74d-104">To allow a team of people to work together and share email and files, see [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
