@@ -1,38 +1,38 @@
 ---
-title: 2491 oznámení e-mailové zprávy z rhyba doručit z důvodu klienta nebo uživatele přepsání zásad
+title: 2491 Upozornění e-mailové zprávy z 'Phish Doručené z důvodu nájemce nebo uživatel přepsat' zásady
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 456b186ecea59422c791c79d4df056ad8446bc70
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 2e4efd504304da757687e697ff23374aeea31851
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391180"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758901"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Oznámení e-mailové zprávy z rhyba doručit z důvodu klienta nebo uživatele přepsání zásad
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Upozornění e-mailové zprávy z 'Phish Doručené z důvodu nájemce nebo uživatel přepsat' zásady
 
-Byla vrácena výchozí zásady oznámení s názvem "Rhyba dodáno z klienta nebo uživatele přepsání" out pro klienty s licencí Office 365 ATP P1 a P2. Pokud jste obdrželi tuto výstrahu, zde je uveden postup prozkoumat:
+Výchozí zásada výstrahy s názvem "Phish Delivered z důvodu přepsání klienta nebo uživatele" byla zavedena klientům s licencemi Office 365 ATP P1 a P2. Pokud jste obdrželi toto upozornění, zde jsou kroky k prošetření:
 
-1. Výstražná zpráva klepněte na **Zobrazení upozornění** přejdete na stránku **oznámení** v & zabezpečení centra kompatibility.
+1. Ve výstražné zprávě klikněte na **Zobrazit výstrahu** a přejděte na stránku **Výstrahy** v Centru dodržování předpisů & zabezpečení.
 
-2. Vyberte možnost **zobrazení seznamu zpráv** nebo **zobrazení zprávy v aplikaci Explorer**zobrazit upozornění. Obě tyto možnosti můžete přejít na podrobnosti zprávy, která obsahuje ID zprávy. Všimněte si, že odkaz Průzkumník hrozbu automaticky filtrovat zprávy, které splňují kritéria výstrahy. Můžete nastavit filtr data v aplikaci Explorer ohrožení.
+2. Výběrem výstrahy zobrazíte možnost **Zobrazit seznam zpráv** nebo Zobrazit zprávy v **Průzkumníkovi**. Obě tyto možnosti vás přenese k podrobnostem zprávy, která obsahuje ID zprávy. Všimněte si, že odkaz Průzkumník hrozeb bude automaticky filtrovat zprávy, které odpovídají kritériím výstrahy. V Průzkumníku hrozeb může být nutné upravit filtr data.
 
-Protože ručně konfigurované přepsání byla doručena zpráva útoku phishing:
+Phishingová zpráva byla doručena z důvodu ručně nakonfigurovaného přepsání:
 
-- Povolené odesílatele nebo domény nastavena uživatelem.
+- Povolený odesílatel nebo doména nastavená uživatelem.
 
-- Povolené odesílatele nebo domény nastavena správcem v zásady ochrany proti nevyžádané poště.
+- Povolený odesílatel nebo doména nastavená správcem v zásadách ochrany proti nevyžádané poště.
 
-- Povolené adresy IP v zásadě připojení filtru.
+- Povolená adresa IP v zásadách filtru připojení.
 
-- Mail toku pravidlo (také známý jako pravidlo dopravy) je nakonfigurován pro povolení zpráv v.
+- Pravidlo toku pošty (označované také jako pravidlo přenosu), které je nakonfigurováno tak, aby umožňovalo zprávy.
 
-Pokud se domníváte, že zpráva byla nesprávně označena jako podvodné, použijte modul aplikace Outlook [doplněk hlášení](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) předkládal vzorky zpráv společnosti Microsoft.
+Pokud se domníváte, že zpráva byla nesprávně označena jako phish, použijte [doplněk Zprávy aplikace](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) Outlook k odeslání ukázek zpráv společnosti Microsoft.

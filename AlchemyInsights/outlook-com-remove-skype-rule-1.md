@@ -1,9 +1,9 @@
 ---
-title: Skype pro Outlook.com odebrat
+title: Outlook.com odebrat Skype
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/15/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: 4ce51c6bc7af6cf1cd6d82feeff0d9be9159bdbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f97aa887e072f01bbb7e077550c195bb934c6648
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535096"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743806"
 ---
-# <a name="skype-icon-missing"></a>Chybí ikona Skype
+# <a name="skype-icon-missing"></a>Chybí ikona Skypu
 
-Odebrali jsme program dočasně ikonu Skype z Outlook.com jako součást návrhu funkce aktualizace a aktualizace jsme se těší být zavádění. Děkujeme za vaši trpělivost v době, kdy jsme pro vás připravit nové a zdokonalené zkušenosti.
+Ikonu Skype jsme dočasně odstranili z Outlook.com jako součást aktualizace návrhu a aktualizace funkcí, které jsme rádi, že se zavádějí. Vážíme si vaší trpělivosti, zatímco pro Vás připravujeme nový a vylepšený zážitek.
 
-Stále můžete použít Skype prostřednictvím prohlížeče na [web.skype.com](https://web.skype.com/).
+Skype můžete používat i přes prohlížeč na [web.skype.com](https://web.skype.com/).

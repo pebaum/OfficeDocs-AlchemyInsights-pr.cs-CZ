@@ -1,9 +1,9 @@
 ---
-title: Identifikaci blokování umístěn na poštovní schránky
+title: Identifikace blokování umístěných na poštovních schránkách
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538754"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724769"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Identifikaci blokování umístěn na poštovní schránky
+# <a name="identify-holds-placed-on-mailboxes"></a>Identifikace blokování umístěných v poštovních schránkách
 
-Máte obsah služeb Office 365, která má být **zachována** tak, že **podržíte** , nelze identifikovat? Potřebujete **zjistit,** kde je umístěna blokování **poštovní schránky** ? Blokování (*retenční funkce*) lze použít jednu z následujících metod ve službách Office 365:
+Máte obsah microsoft365, který je **zachován** **blokování,** které nelze identifikovat? Potřebujete **zjistit,** kde se přidržovací místo nachází na **poštovní schránce** ? Blokování (*retenční prvky*) lze použít jednou z následujících metod:
   
-- Soudní spory podržte
+- Blokování soudních sporů
 
-- služba eDiscovery blokování
+- podržení služby eDiscovery
 
-- V místě držení
+- Podržení na místě
 
-- Zásady uchovávání informací v Office 365 
+- Zásady uchovávání informací v Microsoftu 365 
 
-  - Konkrétní umístění zásady uchovávání informací
+  - Specifické zásady uchovávání informací o poloze
 
   - Zásady uchovávání informací pro celou organizaci
 
-- Štítky pro Office 365
+- Popisky Microsoft 365
 
-Určit, jaký typ blokování je použita k poštovní schránce uživatele, naleznete v tématu [určení typu podržte umístěných na serveru Exchange Online poštovní schránky](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Chcete-li zjistit, který typ blokování je použit pro poštovní schránku uživatele, přečtěte si informace [o tom, jak identifikovat typ blokování umístěného v poštovní schránce Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).

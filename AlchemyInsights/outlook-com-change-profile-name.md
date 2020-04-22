@@ -1,9 +1,9 @@
 ---
-title: Změňte název profilu v Outlook.com.
+title: Změna názvu profilu v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/11/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: e8b13f8b7a15fff520085e0644e4f8d9f732d92e
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 6f90968c23674274f4f516572828fe7a52c7818c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36546713"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760657"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a>Změňte název profilu v Outlook.com.
+# <a name="change-your-profile-name-in-outlookcom"></a>Změna názvu profilu v Outlook.com
 
-1. Přejděte na [informace o účtu společnosti Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
-2. Vyberte položku **Upravit název**.
-3. Zadejte křestní jméno a příjmení a vyberte možnost **Uložit**.
+1. Přejděte na [informace o svém účtu Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
+2. Vyberte **Upravit název**.
+3. Zadejte jméno a příjmení a vyberte **Uložit**.
 
-Změny názvu profilu se projeví až po 24 hodinách.
+Vyčkejte až 24 hodin, než změny názvu vašeho profilu vstoupí v platnost.

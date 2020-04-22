@@ -1,9 +1,9 @@
 ---
-title: 723 vytvoření e-mailového aliasu jako primární e-mail pro uživatele
+title: 723 Vytvoření e-mailového aliasu primárním e-mailem pro uživatele
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: 3e22655c7408863915ab22389f70d10956839ad8
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c21e57befaf770301a7c8a42dd3ff9ff92394b70
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735238"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721885"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Vytvořit alias e-mailu jako primární adresu uživatele
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Nastavení e-mailového aliasu jako primární adresy uživatele
 
-Pokyny naleznete v tématu [Přidání dalšího aliasu e-mailu pro uživatele](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).
+Pokyny najdete v [tématu Přidání jiného e-mailového aliasu pro uživatele](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).
 
-**Poznámka**: Pokud se vaše organizace nachází v hybridním režimu, je třeba změnit primární e-mailovou adresu ve vaší organizaci pro výměnu na místě. Další informace naleznete v tématu [Přidání nebo odebrání e-mailových adres poštovní schránky](https://technet.microsoft.com/library/bb123794.aspx).
+**Poznámka:** Pokud je vaše organizace v hybridním režimu, musíte změnit primární e-mailovou adresu v místní organizaci Exchange. Další informace naleznete v [tématu Přidání nebo odebrání e-mailových adres poštovní schránky](https://technet.microsoft.com/library/bb123794.aspx).

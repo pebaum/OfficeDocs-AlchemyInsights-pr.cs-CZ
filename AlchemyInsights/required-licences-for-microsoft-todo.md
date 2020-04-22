@@ -1,9 +1,9 @@
 ---
-title: Povinné licence pro Microsoft ToDo
+title: Požadované licence pro microsoft todo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,50 +13,50 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 110bc5b949060387bbebb478538d9aeb77f26c85
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eb25746eff60463f7182df4785a3c34d958e6c39
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552164"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722649"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Povinné licence pro Microsoft ToDo
+# <a name="required-licenses-for-microsoft-todo"></a>Požadované licence pro microsoft todo
 
-[Povinné licence pro Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Požadované licence pro microsoft todo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-Uživatel musí mít jednu z následujících licencí použít Microsoft ToDo:
+Uživatel musí mít jednu z následujících licencí, aby mohl používat nástroj Microsoft ToDo:
   
 - Business Essentials
 
 - Business Premium
 
-- Microsoft 365 Firstline F1
+- Microsoft 365 První řádek F1
 
-- Jakýkoli plán Office 365 Enterprise
+- Libovolný plán Office 365 Enterprise
 
-- Zabezpečené obchodní produktivity
+- Bezpečné produktivní podnikání
 
-- Zabezpečit produktivní Enterprise E3
+- Zabezpečená produktivní podnik E3
 
-- Zabezpečit produktivní Enterprise E5
+- Zabezpečený produktivní podnik E5
 
-- Jakýkoli plán vzdělávání Office 365
+- Libovolný plán Office 365 Education
 
 - Microsoft 365 A3
 
 - Microsoft 365 A5
 
-Kromě platnou licenci produktu jednu z následujících verzí systému Exchange Online je potřebná pro úkol synchronizace uživatelských dat lze:
+Kromě platné licence produktu je k synchronizaci uživatelských dat potřeba jedna z následujících verzí Exchange Online:
   
-- Exchange Online plán 1
+- Plán Exchange Online 1
 
-- Exchange Online plán 2
+- Plán Exchange Online 2
 
-- Výměna Essentials
+- Základy výměny
 
-- Exchange Online prohlížení
+- Kiosek Exchange Online
 
 - Exchange Online POP
 
-[Přiřazení licencí na uživatelské účty pomocí prostředí PowerShell sady Office 365](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[Přiřazení licencí k uživatelským účtům pomocí Office 365 PowerShellu](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

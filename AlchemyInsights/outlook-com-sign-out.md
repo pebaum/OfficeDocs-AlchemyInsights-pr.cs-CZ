@@ -1,9 +1,9 @@
 ---
-title: Odhlášení z Outlook.com
+title: Odhlásit se z Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 02e4c5478f5ca880ece6cd70b3385ca78c724f28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 82e1926e267bd821b3374765878e6c7ce1e36d69
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557764"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743518"
 ---
 # <a name="how-to-sign-out-of-outlookcom"></a>Jak se odhlásit z Outlook.com
 
-1. Vyberte jméno nebo obrázek v pravém horním rohu.
+1. V pravém horním rohu vyberte své jméno nebo obrázek.
 
-    Pokud není zobrazen obrázek v horní části obrazovky, zkontrolujte, zda je zapnuta blokování reklam. V některých případech nebude obrázek zobrazující.
+    Pokud obrázek v horní části obrazovky nevidíte, zkontrolujte, jestli je blokování reklam zapnuté. To někdy brání zobrazení obrázku.
 
-2. Vyberte **Odhlásit**.
+2. Vyberte **Odhlásit .**
 
-    Chcete-li ukončit automatické přihlášení, zrušte zaškrtnutí políčka pro **zůstat přihlášeni** na stránce, kde zadáte své heslo.
+    Chcete-li automatické přihlašování zastavit, zaškrtněte políčko **Ponechat přihlášenna** stránce, na které zadáváte heslo.
 
-Další informace naleznete v tématu [přihlásit do nebo z Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Další informace najdete [v tématu Jak se přihlásit k Outlook.com nebo z něj.](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)
   

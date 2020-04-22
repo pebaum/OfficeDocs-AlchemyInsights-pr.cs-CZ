@@ -1,9 +1,9 @@
 ---
-title: Postup odhlášení z aplikace Outlook na webu
+title: Jak se odhlásit z Outlooku na webu
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 6eac1462c26c1889d2e91ce336c88de0d221124b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c850510881e16ceae5050bcbe06f6897b1e61dd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556666"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742942"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Postup odhlášení z aplikace Outlook na webu
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Jak se odhlásit z Outlooku na webu
 
-Chcete-li odhlásit z aplikace Outlook na webu, vyberte jméno nebo obrázek v pravém horním rohu a vyberte **Odhlásit**.
+Pokud se chcete z Outlooku na webu odhlásit, vyberte v pravém horním rohu svoje jméno nebo obrázek a vyberte **Odhlásit se**.
 
-Chcete-li ukončit automatické přihlášení k vašemu účtu práci a ve škole:
+Ukončení automatického přihlašování k pracovnímu nebo školnímu účtu:
 
-1. Vyberte název nebo obrázek a vyberte položku **Odhlásit**.
-1. Přejít na [Outlook.office.com](https://outlook.office.com/) a vyberte **použít jiný účet**.
-1. Přihlaste se pomocí e-mailovou adresu, kterou chcete použít.
+1. Vyberte své jméno nebo obrázek a vyberte **Odhlásit se**.
+1. Přejděte na [Outlook.office.com](https://outlook.office.com/) a vyberte **Použít jiný účet**.
+1. Přihlaste se pomocí e-mailové adresy, kterou chcete použít.
 
-Další informace naleznete v tématu [přihlásit do nebo z aplikace Outlook na webu](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+Další informace najdete [v tématu Jak se přihlásit k Outlooku nebo z něj na webu](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).

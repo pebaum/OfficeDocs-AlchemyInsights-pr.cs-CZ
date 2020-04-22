@@ -1,5 +1,5 @@
 ---
-title: Ověřte svou doménu pomocí namecheap
+title: Ověření vaší domény pomocí Namecheap
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: ac7a66fc3315132f85eccba6cfa7eb5d2c7f5465
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: 046a64632c4708ddd48730e00b13da13880ae365
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42325983"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721710"
 ---
-# <a name="verify-your-domain-with-namecheap"></a>Ověřte svou doménu pomocí namecheap
+# <a name="verify-your-domain-with-namecheap"></a>Ověření vaší domény pomocí Namecheap
 
-Chcete-li ověřit svou doménu, budete muset do registrátora domény přidat záznam TXT, abyste ověřili, že doménu vlastníte. 
+Chcete-li ověřit svou doménu, budete muset přidat záznam TXT do doménového registrátora, abyste ověřili, že doménu vlastníte. 
 
-Nejprve postupujte podle [Průvodce přidáním domény](https://portal.office.com/adminportal/home#/Domains) tak, že vyberete **Nastavení** \> **domén**a **potom přidejte doménu**.
+Nejprve postupujte podle [průvodce přidáním domény](https://portal.office.com/adminportal/home#/Domains) výběrem **nastavení** \> **domén**a potom **podle možnosti Přidat doménu**.
   
-Podrobné pokyny najdete [v tématu Vytvoření dns záznamů na namecheap pro Office 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap)
+Podrobné pokyny najdete [v tématu Vytvoření záznamů DNS na webu Namecheap pro Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap)

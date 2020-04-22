@@ -1,9 +1,9 @@
 ---
-title: Obnovení odstraněné podřízeného webu
+title: Obnovení odstraněného podřízeného webu
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 82ea3285b7ded867a179d81bb79ef204270eb038
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7da70d293730dcb5df1f13c42252bab58f41711
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552249"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758675"
 ---
-# <a name="restore-a-deleted-sharepoint-subsite"></a>Obnovení odstraněné podřízeného webu služby SharePoint
+# <a name="restore-a-deleted-sharepoint-subsite"></a>Obnovení odstraněného podřízeného sharepointového webu
 
-Odstraněné podřízené weby jsou odesílány do koše, kde jsou chována 93 dní kolekce webů. Chcete-li obnovit odstraněné podřízeného webu:
+Odstraněné podřízené weby se odesílají do koše kolekce webů, kde jsou uchovávány po dobu 93 dnů. Obnovení odstraněného podřízeného webu:
   
-1. V centru nového správce služby SharePoint Web, ze kterého byl odstraněn podřízený web a ujistěte se, že jste správce webu kolekce. 
+1. V novém Centru pro správu SharePointu najděte web, ze kterého byl podřízený web odstraněn, a ujistěte se, že jste správcem kolekce webů. 
     
-2. Přejděte na web. V levém podokně klepněte na tlačítko **Koš** . (Pokud nevidíte Koš, klepněte na ikonu nastavení a potom klepněte na tlačítko **obsah webu**. Koš je na pravé straně řádku nabídek nahoře.)
+2. Přejděte na web. V levém podokně klikněte na **Koš.** (Pokud koš nevidíte, klikněte na ikonu Nastavení a potom klikněte na **Obsah webu**. Koš je zcela vpravo na panelu příkazů v horní části.)
     
-3. V dolní části stránky klepněte na tlačítko **Koš druhé fáze**.
+3. V dolní části stránky klikněte na **Koš druhé fáze**.
     
-4. Klepněte vlevo na podřízený web a klepněte na tlačítko **Obnovit**.
+4. Klepněte na levý povrch na podřízený web a potom klepněte na tlačítko **Obnovit**.
     
 

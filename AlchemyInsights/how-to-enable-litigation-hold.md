@@ -1,9 +1,9 @@
 ---
-title: 976-postup-povolení-spor-hold
+title: 976-how-to-enable-litigation-hold 976-how-to-enable-litigation-hold 976-how-to-enable-litigation-hold 97
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
-ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
+ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37398620"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720725"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Uložení poštovní schránky do právního umístění
+# <a name="place-a-mailbox-on-legal-hold"></a>Umístění poštovní schránky na blokování
 
-- Chcete-li umístit poštovní schránku do soudního sporu nebo do místa na místě, je vyžadována [licence Online](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) plán serveru Exchange Online Plan 2. Pokud je poštovní schránce přiřazena licence Plan 1, můžete přiřadit samostatnou [licenci](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)k archivaci online archivace pro server Exchange.
+- Chcete-li umístit poštovní schránku na blokování z důvodu soudních sporů nebo blokování na místě, je vyžadována licence Exchange Online Plan 2 exchange [online.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Pokud je poštovní schránce přiřazena licence plánu 1, můžete přiřadit samostatnou doplňkovou licenci Exchange Online Archiving [Exchange Online Archiving .](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)
 
-- Chcete-li povolit soudní blokování pro jednoho uživatele, [postupujte](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold)takto: Je-li povoleno blokování sporů, je zachován veškerý obsah poštovní schránky.
+- Chcete-li povolit blokování z právních sporů pro jednoho uživatele, [postupujte takto](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Pokud je povoleno blokování z důvodu soudních sporů, veškerý obsah v poštovní schránce je zachován.
 
-- Chcete-li zachovat obsah ve všech poštovních schránkách v organizaci, můžete použít [zásady uchovávání informací pro celou organizaci Office 365](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Pro zásady uchovávání informací v rámci celé organizace budou novým uživatelům automaticky přiřazeny zásady.
+- Chcete-li zachovat obsah ve všech poštovních schránkách ve vaší organizaci, můžete použít [zásady uchovávání informací pro celou organizaci](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Všimněte si, že pro zásady uchovávání informací v rámci celé organizace budou k zásadám automaticky přiřazeni noví uživatelé.

@@ -1,5 +1,5 @@
 ---
-title: Jak provést nákup sady Office 365
+title: Jak provést nákup Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,29 +12,29 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 7f741a9aae0c4549f811b05b36498e7a201b7704
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 19e4a7ffd7f64f744eeba2a7a34390309bfe9bb8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921843"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759109"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a>Jak provést nákup sady Office 365
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Jak provést nákup Microsoft365
 
-Nákupy v sadě Office 365 lze provádět v centru pro správu.
+Nákupy v Microsoftu 365 lze provést v Centru pro správu.
   
-- Chcete-li zakoupit předplatné sady Office 365, přejděte na stránku **fakturačních** \> [nákupních služeb](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+- Pokud chcete plán zakoupit, přejděte na stránku **Služby fakturace** \> [nákupu.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-- Chcete-li zakoupit další licence, přejděte na stránku **fakturační** \> [produkty & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) . Vyberte předplatné, ke kterému chcete přidat licence, a pak vyberte možnost **Přidat nebo odebrat licence**.
+- Chcete-li zakoupit další licence, přejděte na stránku **Fakturační** \> [produkty & služby.](https://go.microsoft.com/fwlink/p/?linkid=842054) Vyberte předplatné, ke kterému chcete přidat licence, a pak vyberte **Přidat nebo odebrat licence**.
   
-Další informace naleznete v tématu [zakoupení licencí pro sadu Office 365 pro firemní předplatné](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Další informace najdete v [tématu Nákup licencí pro předplatné Microsoft 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
-**Řešení problémů**
+**Řešení potíží**
 
-Pokud při načítání stránky dojde k potížím, pokuste se otevřít webovou stránku v jiném prohlížeči nebo se pokuste otevřít stránku v soukromém okně prohlížeče, například v okně Microsoft Edge nebo v inkognito okně aplikace Google Chrome. 
+Pokud narazíte na problémy s načítáním webové stránky, zkuste ji otevřít v jiném prohlížeči nebo ji zkuste otevřít v anonymním okně prohlížeče – například v okně se službou procházení InPrivate v Microsoft Edge nebo v okně anonymního režimu v Google Chromu. 
 
 **Další zdroje informací**
   
-- [Přiřazení licencí uživatelům v Office 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Přiřazení licencí uživatelům v Microsoftu 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Zrušení sady Office 365 pro aplikaci Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Zrušení Microsoftu 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

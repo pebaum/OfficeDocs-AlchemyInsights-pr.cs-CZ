@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: 28c3a376170aba0ae43929865200fc85cd1c41f4
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 27f3dc123590f3199d6a984d7e9a4db3918ac9cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626737"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758855"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Jak odložit upgrade týmů řízených společností Microsoft
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Jak odložit upgrade Teams řízeného microsoftem
 
-Pokud jste obdrželi komunikaci týkající se automatizovaného upgradu řízeného společností Microsoft z programu Skype for Business na týmy společnosti Microsoft a chcete tento automatizovaný upgrade odložit na pozdější dobu, může se sada Office 365 Global admin přihlásit k [portálu pro správce týmů](https://admin.teams.microsoft.com/dashboard) a vybrat tlačítko **odložit** . Chcete-li zobrazit nové datum automatického upgradu klienta na týmy společnosti Microsoft, aktualizujte stránku portálu správce týmů.
+Pokud jste obdrželi komunikaci o automatizovaném upgradu řízeném společností Microsoft ze Skypu pro firmy na Microsoft Teams a chcete automatický upgrade odložit na pozdější datum, může se globální správce přihlásit na [portál správy teams](https://admin.teams.microsoft.com/dashboard) a vybrat tlačítko **Odložit.** Pokud chcete zobrazit nové datum automatického upgradu vašeho tenanta na Microsoft Teams, aktualizujte stránku portálu pro správu Teams.
 
-**Poznámka:** Tlačítko **odložit** bude k dispozici pouze v případě, že jste obdrželi upozornění centra zpráv týkající se automatizovaného upgradu. 
+**Poznámka:** Tlačítko **Odložit** bude k dispozici pouze v případě, že jste obdrželi oznámení centra zpráv týkající se automatického upgradu. 
 
-Sada Office 365 Global Admins může také spustit funkci [Get-Cparsupgradestatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) a získat další informace o stavu jejich aktuálního upgradu. 
+Globální správci můžete také spustit [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) se dozvědět více o jejich aktuální stav upgradu. 

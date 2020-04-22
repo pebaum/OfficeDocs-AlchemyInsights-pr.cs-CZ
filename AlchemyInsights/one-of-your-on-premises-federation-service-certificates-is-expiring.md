@@ -1,9 +1,9 @@
 ---
-title: Jeden z certifikátů místního Federation Service vypršení platnosti
+title: Platnost jednoho z vašich místních certifikátů služby Federation Service vyprší.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 172084b7-68a1-42a5-944d-2e871eaa2972
-ms.openlocfilehash: 00cbc77cb178d59a3115e44874a16f506e4408c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 24c369c61ad7cf7a9fe101ac29271c32e5159c1f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543558"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761376"
 ---
-# <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a>Jeden z certifikátů místního Federation Service vypršení platnosti
+# <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a>Platnost jednoho z vašich místních certifikátů služby Federation Service vyprší.
 
 Chcete-li tento problém vyřešit, postupujte takto:
   
-- Nainstalujte Microsoft Azure Active Directory modul pro prostředí Windows PowerShell v počítači (Pokud již není nainstalován modul). Chcete-li to provést, přejděte k [Azure Active Directory PowerShell pro graf](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0)
+- Nainstalujte modul Microsoft Azure Active Directory module pro prostředí Windows PowerShell do počítače (pokud modul ještě není nainstalovaný). Chcete-li to provést, přejděte na [Azure Active Directory PowerShell pro graf](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0)
     
-- Postupujte podle pokynů "scénář 1: AD FS token podpisu certifikátu vypršela" části ["Došlo k chybě při přístupu na web" Chyba ze služby AD FS při federované uživatele služeb Office 365, Azure, nebo Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+- Postupujte podle kroků v části Scénář 1: Platnost certifikátu podpisu tokenu služby AD FS v části ["Došlo k potížím s přístupem k webu" ze služby AD FS, když se federovaný uživatel přihlásí k Office 365, Azure nebo Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
     
-- Postupujte podle t[jak aktualizovat nebo opravit nastavení federované domény do služeb Office 365, Azure nebo Intune](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
+- Postupujte podle kroků v části t[Jak aktualizovat nebo opravit nastavení federované domény v Office 365, Azure nebo Intune](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
     
-Další informace o obnovování certifikátů federace naleznete v tématu [obnovení certifikátu pro O365 a Azure AD](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+Další informace o obnovení federačních certifikátů naleznete [v tématu Obnovení certifikátu pro O365 a Azure AD](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
   
 

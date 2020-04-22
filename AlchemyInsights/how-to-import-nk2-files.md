@@ -1,9 +1,9 @@
 ---
-title: How-k-import-nk2-soubory
+title: jak importovat nk2-soubory
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,28 +13,28 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 83d30b2d62908db791f21ec5ed7fd5537e7a0944
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770240"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759325"
 ---
-# <a name="how-to-import-nk2-files"></a>Import souborů NK2 
+# <a name="how-to-import-nk2-files"></a>Jak importovat soubory .nk2 
 
-Při prvním spuštění aplikace Microsoft Outlook 2013, aplikace Outlook 2016, 2019 aplikace Outlook nebo Outlook pro Office 365, je mezipaměť přezdívek (uložené v souboru *Název_profilu*.nk2) importovat do skryté zprávy ve výchozím úložišti zpráv.
+Při prvním spuštění Aplikace Microsoft Outlook 2013, Outlooku 2016, Outlooku 2019 nebo Outlooku pro Microsoft 365 se vaše mezipaměť přezdívek (uložená v souboru *s názvem profilu*.nk2) importuje do skryté zprávy ve výchozím úložišti zpráv.
 
-Pro import souborů NK2 do aplikace Outlook 2013, aplikace Outlook 2016, 2019 aplikace Outlook nebo Outlook pro Office 365, ujistěte se, že soubor NK2 je v následující složce: %appdata%\Microsoft\Outlook
+Chcete-li importovat soubory NK2 do Outlooku 2013, Outlooku 2016, Outlooku 2019 nebo Outlooku pro Microsoft 365, zkontrolujte, zda je soubor NK2 v následující složce: %appdata%\Microsoft\Outlook
 
-**Poznámka**: soubor NK2 musí mít stejný název jako aktuální profil aplikace Outlook 2013 nebo Outlook 2016. Ve výchozím nastavení je název profilu "Outlook". Zkontrolujte název profilu, postupujte takto: 
-1. Klepněte na tlačítko **Start**a na příkaz **Ovládací panely**.
-2. Poklepejte na panel **Pošta**.
+**Poznámka:** Soubor NK2 musí mít stejný název jako aktuální profil Outlooku 2013 nebo Outlooku 2016. Ve výchozím nastavení je název profilu "Outlook". Chcete-li zkontrolovat název profilu, postupujte takto: 
+1. Klepněte na tlačítko **Start**a potom na **příkaz Ovládací panely**.
+2. Poklepejte na **položku Pošta**.
 3. V dialogovém okně Nastavení pošty vyberte **Zobrazit profily**.
-4. Vyberte možnost **Spustit** > **spuštění**.
-5. Do pole **Otevřít** zadejte *outlook.exe /importnk2*a potom klepněte na tlačítko **OK**. 
+4. Vyberte **možnost Spustit** > **.**
+5. Do pole **Otevřít** zadejte *outlook.exe /importnk2*a pak vyberte **OK**. 
 
-Po importu souboru NK2 obsah souboru jsou sloučeny do existující mezipaměť přezdívek uloženy v poštovní schránce.
+Po importu souboru NK2 se obsah souboru sloučí do existující mezipaměti přezdívek uložené v poštovní schránce.
 
-**Poznámka**: soubor NK2 přejmenován s příponou OLD, při příštím spuštění aplikace Outlook 2013, aplikace Outlook 2016, 2019 aplikace Outlook nebo Outlook pro Office 365. Pokud chcete znovu importovat soubor NK2, nejprve odeberte příponu názvu souboru OLD.
+**Poznámka:** Soubor NK2 se při příštím spuštění Outlooku 2013, Outlooku 2016, Outlooku 2019 nebo Outlooku pro Microsoft 365 přejmenuje s příponou .old název souboru. Chcete-li soubor NK2 znovu importovat, odeberte nejprve příponu .old název souboru.
 
-Další informace naleznete v tématu [Import nebo kopírování seznamu automatického dokončování do jiného počítače](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).
+Další informace naleznete [v tématu Import nebo kopírování seznamu automatického dokončování do jiného počítače](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

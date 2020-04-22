@@ -3,7 +3,7 @@ title: Obnovení předchozí verze souboru
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: 3d612b3e729b471cafd8304d8afe0f569f257e49
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 4432e3f169378c9a694bd633d0a7f12ad057e7ad
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36552344"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742712"
 ---
 # <a name="restore-a-previous-file-version"></a>Obnovení předchozí verze souboru
 
-Historie verzí Online umožňuje zobrazit a obnovit starší verze souborů v aplikaci OneDrive nebo SharePoint. Historie verzí funguje se všemi typy souborů včetně souborů PDF, souborů CAD, fotografií a videí. Postup obnovení předchozí verze souboru:
+Díky online historii verzí můžete zobrazit a obnovit starší verze souborů na OneDrivu nebo SharePointu. Historie verzí funguje se všemi typy souborů, včetně souborů PDF, souborů CAD, fotografií a videí. Obnovení předchozí verze souboru:
   
-1. Otevřete knihovnu dokumentů služby SharePoint nebo umístění OneDrive.
+1. Otevřete knihovnu dokumentů SharePointu nebo umístění OneDrivu.
     
-2. Klepnutím nalevo od souboru jej vyberte a potom klepněte na možnost **Historie verzí**. Není-li v panelu příkazů zobrazena Historie verzí, klepněte na tlačítko Další ( **...** ). 
+2. Klepnutím na levé straně souboru soubor vyberte a potom klepněte na **položku Historie verzí**. Pokud na panelu příkazů nevidíte historii verzí, klikněte na Další ( **...** ). 
     
-3. Klepněte na verzi, kterou chcete zobrazit, nebo klepněte na tlačítko Další ( **...** ) vpravo od verze a potom klepněte na tlačítko **obnovit**.
+3. Klepněte na verzi, kterou chcete zobrazit, nebo klepněte na tlačítko Další ( **...** ) napravo od verze a potom klepněte na tlačítko **Obnovit**.
     
 

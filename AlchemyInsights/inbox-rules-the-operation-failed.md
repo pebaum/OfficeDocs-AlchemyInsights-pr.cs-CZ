@@ -1,9 +1,9 @@
 ---
-title: 'Pravidla složky Doručená pošta: operace se nezdařila'
+title: 'Pravidla doručené pošty: Operace se nezdařila.'
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/29/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "1544"
 - "1800021"
-ms.openlocfilehash: c36201e45945f4a718fc67682f8e1c94a012778e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f9b0f8250724a2d2049a5d4b5358727ced31777b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499669"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724621"
 ---
-# <a name="rules-and-alerts-error-the-operation-failed"></a>Pravidla a oznámení chyb: "Operace se nezdařila"
+# <a name="rules-and-alerts-error-the-operation-failed"></a>Chyba Pravidla a výstrahy: Operace se nezdařila.
 
-Chyba pravidla složky Doručená pošta se může zobrazit po instalaci následujících aktualizací:
+Po instalaci následujících aktualizací se může zobrazit chyba pravidel složky Doručená pošta:
 
-- [Aplikace Outlook 2016: Aktualizace zabezpečení listopad KB](https://support.microsoft.com/help/4461506)
-- [2013 aplikace Outlook: Aktualizace zabezpečení listopadu KB](https://support.microsoft.com/help/4461486)
-- [Aplikace Outlook 2010: Aktualizace zabezpečení listopadu KB](https://support.microsoft.com/help/4461585)
+- [Outlook 2016: Listopadová aktualizace zabezpečení KB](https://support.microsoft.com/help/4461506)
+- [Outlook 2013: Listopadová aktualizace zabezpečení KB](https://support.microsoft.com/help/4461486)
+- [Outlook 2010: Listopadová aktualizace zabezpečení KB](https://support.microsoft.com/help/4461585)
 
-Můžete zobrazit nejnovější stav tomuto známému problému návštěvou [Chyba aplikace Outlook: "operace se nezdařila..." Při výběru spravovat pravidla výstrah &](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).
+Nejnovější stav tohoto známého problému zobrazíte tak, že navštívíte [chybu aplikace Outlook: "Operace se nezdařila..." při výběru možnosti Spravovat pravidla & výstrahy](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).

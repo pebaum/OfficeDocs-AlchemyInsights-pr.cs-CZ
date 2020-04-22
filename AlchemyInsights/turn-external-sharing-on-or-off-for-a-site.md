@@ -1,9 +1,9 @@
 ---
-title: Povolit externí sdílení webu
+title: Zapnutí nebo vypnutí externího sdílení webu
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: c0671e54b9d707bd63c7af275bfc4adc353019c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031807336e93fbf1862af01bbd78d14d048ac6b3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559150"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43731989"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Povolit externí sdílení na webu služby SharePoint
+# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Zapnutí nebo vypnutí externího sdílení na sharepointovém webu
 
 Pro web:
   
-1. V centru nového správce služby SharePoint v levém podokně klepněte na tlačítko **servery**.
+1. V novém Centru pro správu SharePointu klikněte v levém podokně na **Weby**.
     
-2. Vyberte web nebo weby a na pásu karet, klepněte na příkaz **sdílení**.
+2. Vyberte web nebo weby a na pásu karet klikněte na **Sdílení**.
     
-Nové weby, které uživatelé vytvářet i (týmové weby, které patří do skupiny Office 365) a komunikace mají standardně stejné sdílení nastavení jako celopodnikové nastavení, pokud nastavení celoorganizačních umožňuje sdílení souborů pomocí odkazů, které nejsou požadovat přihlášení. V tomto případě weby povolit sdílení se nové a existující externí uživatelé přihlásit. Chcete-li změnit nastavení pro konkrétní weby, použijte nové Centrum správy služby SharePoint.
+Ve výchozím nastavení mají nové weby, které uživatelé vytvářejí (oba týmové weby, které patří do skupin Office 365, tak komunikační weby) stejné nastavení sdílení jako nastavení pro celou organizaci, pokud nastavení pro celou organizaci neumožňuje sdílení souborů pomocí odkazů, které nevyžadují přihlášení. V takovém případě umožňují weby sdílení s novými a stávajícími externími uživateli, kteří se přihlašují. Pokud chcete změnit nastavení pro konkrétní weby, použijte nové Centrum pro správu SharePointu.
   
 > [!NOTE]
-> Externí sdílení nastavení libovolného webu může být více omezující než nastavení celoorganizačních ale povolující ne více než celopodnikové nastavení. 
+> Externí nastavení sdílení pro libovolný web může být více omezující než nastavení celé organizace, ale ne tolerantnější než nastavení pro celou organizaci. 
   
 

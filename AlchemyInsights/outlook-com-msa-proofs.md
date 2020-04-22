@@ -1,9 +1,9 @@
 ---
-title: Outlook.com MSA doklady
+title: Outlook.com msa korektní
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,24 +15,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 7a547841700f739f59ac17969e444f781093fb2e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79fcfdd0bd7336167b06aac5180411fede3e3607
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535960"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745894"
 ---
-# <a name="security-info-and-security-codes"></a>Informace o zabezpečení a zabezpečení kódy
+# <a name="security-info-and-security-codes"></a>Bezpečnostní údaje a bezpečnostní kódy
 
-Chcete-li přidat informace o zabezpečení účtu Microsoft:
+Přidání bezpečnostních údajů k účtu Microsoft:
 
-1. Přihlásit se k [zabezpečení základy](https://account.microsoft.com/security) s vaším účtem Microsoft.
-1. Vyberte **zabezpečení kontaktní informace**.
-1. Vyberte **informace o zabezpečení přidat** a postupujte podle pokynů a zadejte telefonní číslo nebo e-mailovou adresu.
-1. Zobrazí se na dané telefonní číslo nebo e-mailovou adresu bezpečnostní kód. Zadejte bezpečnostní kód, který jste obdrželi v okně **Přidat informace o zabezpečení** a klepněte na tlačítko **Další**.
+1. Přihlaste se k [základům zabezpečení](https://account.microsoft.com/security) pomocí svého účtu Microsoft.
+1. Vyberte **bezpečnostní kontaktní údaje**.
+1. Vyberte **Přidat bezpečnostní údaje** a podle pokynů zadejte telefonní číslo nebo e-mailovou adresu.
+1. Na toto telefonní číslo nebo e-mailovou adresu obdržíte bezpečnostní kód. Do okna Přidat bezpečnostní **údaje** zadejte bezpečnostní kód, který jste obdrželi, a vyberte **Další**.
 
-Pokud chcete odebrat telefonní číslo nebo e-mailovou adresu, vyberte **Odebrat** vedle něho.
+Pokud chcete odebrat telefonní číslo nebo e-mailovou adresu, vyberte **Odebrat** vedle něj.
 
-Pokud chcete změnit číslo, které telefonu nebo výstrahy zabezpečení obdrží e-mailovou adresu, vyberte **změnit možnosti výstrah**.
+Pokud chcete změnit, které telefonní číslo nebo e-mailová adresa obdrží upozornění zabezpečení, vyberte **Změnit možnosti upozornění**.
 
-Chcete-li získat další informace, číst [kódy info a ověření účtu zabezpečení společnosti Microsoft](https://support.microsoft.com/help/12428/).
+Další informace najdete v [informacích o zabezpečení účtu Microsoft a ověřovacích kódech](https://support.microsoft.com/help/12428/).

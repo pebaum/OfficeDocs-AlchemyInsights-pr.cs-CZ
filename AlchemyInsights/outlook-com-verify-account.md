@@ -1,9 +1,9 @@
 ---
-title: Ověření účtu Outlook.com
+title: Jak ověřit svůj účet Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 5456a07a919b6344206deb2847aaf3843182b63b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: febcc9c770f6e81ee9bea084a229b530fdcc266a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511488"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743410"
 ---
-# <a name="how-to-verify-your-outlookcom-account"></a>Ověření účtu Outlook.com
+# <a name="how-to-verify-your-outlookcom-account"></a>Jak ověřit svůj účet Outlook.com
 
-Ověření ve dvou krocích pomůže chránit tím, že obtížnější pro někoho jiného, pro přihlášení k vašemu účtu Microsoft. Používá dvě různé formy identity: heslo a způsob kontaktu (označované také jako informace o zabezpečení).
+Dvoustupňové ověření pomáhá chránit vás tím, že někomu jinému ztěžuje přihlášení k vašemu účtu Microsoft. Používá dvě různé formy identity: heslo a metodu kontaktu (označovanou také jako bezpečnostní údaje).
   
-Chcete-li zapnout nebo vypnout ověřování ve dvou krocích:
+Zapnutí nebo vypnutí dvoustupňového ověření:
   
-1. Přejděte na [stránku Základy zabezpečení](https://go.microsoft.com/fwlink/?linkid=842325) a přihlaste se pomocí účtu Microsoft.
+1. Přejděte na [stránku Základy zabezpečení](https://go.microsoft.com/fwlink/?linkid=842325) a přihlaste se pomocí svého účtu Microsoft.
 2. Vyberte **Další možnosti zabezpečení**.
-3. V části **ověření ve dvou krocích**vyberte **Nastavit ověření ve dvou krocích** a postupujte podle pokynů.
+3. V části **Dvoustupňové ověření**vyberte **Nastavit dvoustupňové ověření** a postupujte podle pokynů.
 
-Pokud zapnete ověřování ve dvou krocích, musíte se vždy dvě různé formy identifikace. Pokud ztratíte váš způsob kontaktu, samotné heslo nebude se můžete vrátit do účtu - a to může trvat 30 dnů znovu získat přístup.
+Pokud zapnete dvoustupňové ověření, budete vždy potřebovat dvě formy identifikace. Pokud ztratíte metodu kontaktu, vaše heslo samo o sobě vás nedostane zpět do vašeho účtu - a může trvat 30 dní, než získáte přístup.
   
-Další informace o [ověřování ve dvou krocích](https://go.microsoft.com/fwlink/?linkid=872270).
+Přečtěte si další informace o [dvoustupňovém ověření](https://go.microsoft.com/fwlink/?linkid=872270).
   

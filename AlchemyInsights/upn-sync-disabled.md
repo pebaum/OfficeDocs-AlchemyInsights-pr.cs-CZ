@@ -1,9 +1,9 @@
 ---
-title: Zakázat synchronizaci UPN
+title: Synchronizace UPN je zakázána.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: f390d659b191fa4c44bd7c8acb32409cd3021489
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33bc7e30d41ff70e2ce55d946202acf45dbcb0f2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532324"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726097"
 ---
-# <a name="upn-sync-disabled"></a>Zakázat synchronizaci UPN
+# <a name="upn-sync-disabled"></a>Synchronizace UPN je zakázána.
 
-Je-li spuštěna synchronizace Azure AD před 30. března 2016, spusťte následující rutiny prostředí PowerShell Azure AD Povolit porovnávání měkké UPN pro organizace pouze:
+Pokud jste začali synchronizovat s Azure AD před 30.
   
- **Sada MsolDirSyncFeature-funkce EnableSoftMatchOnUpn-povolit $True**
+ **Set-MsolDirSyncFeature -Funkce EnableSoftMatchOnUpn -Povolit $True**
   
-Rozlišovat měkké UPN je automaticky zapnuta pro organizace, které je spuštěna synchronizace Azure AD, nebo po 30. března 2016.
+Měkká shoda UPN se automaticky zapne pro organizace, které začaly synchronizovat s Azure AD na nebo po 30 března 2016.
   
-Další informace o povolení měkké shoda na UPN a další funkce synchronizace naleznete v [funkce služby synchronizace Azure AD připojit](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
+Další informace o povolení měkké shody na UPN a dalších funkcí synchronizace, naleznete v [tématu Azure AD Connect funkce synchronizace služby](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
   
 

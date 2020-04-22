@@ -1,9 +1,9 @@
 ---
-title: 8000035 opustit Outlook.com beta
+title: 8000035 Nechte Outlook.com beta
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 11/2/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -18,18 +18,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 8ee26da8360626165d120b592dec9d32b3d48dce
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97dd5e889cacfe73e0b81dcdee35f37dc12de9d7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542874"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762742"
 ---
-# <a name="the-new-outlookcom"></a>Nový Outlook.com
+# <a name="the-new-outlookcom"></a>Nová Outlook.com
 
-Již je možné nechat Outlook.com beta a vrátíte se do klasické verze Outlook.com.
+Již není možné opustit Outlook.com beta verzi a vrátit se ke klasické verzi Outlook.com.
   
-Pokud chcete poskytnout zpětnou vazbu o nový Outlook.com, přejděte na [fórum UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Můžete hlasovat o nápady nebo řeší problémy, které byste chtěli vidět a jsme budete reagovat přímo na začátek komentáře a návrhy.
+Pokud chcete poskytnout zpětnou vazbu k novému Outlook.com, přejděte do [fóra UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Můžete hlasovat o nápadech nebo problémech, které chcete vidět adresované, a my budeme reagovat přímo na hlavní komentáře a návrhy.
   
-[Další informace o nový Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[Přečtěte si další informace o novém Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
   

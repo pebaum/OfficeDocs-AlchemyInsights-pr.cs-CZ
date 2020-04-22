@@ -1,9 +1,9 @@
 ---
-title: Jak nainstalovat systém Mac Office z portálu
+title: Jak nainstalovat Mac Office z portálu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,19 +13,19 @@ ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
 ms.custom:
 - "647"
 - "2000016"
-ms.openlocfilehash: 28b32d18a134b7ae7d2495750768934058cb4408
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d6154b76c12efce5452f69fd54acea2017b29c78
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735310"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759253"
 ---
-# <a name="how-to-install-mac-office-from-the-portal"></a>Jak nainstalovat systém Mac Office z portálu
+# <a name="how-to-install-mac-office-from-the-portal"></a>Jak nainstalovat Mac Office z portálu
 
-1. [Odinstalujte sadu Office 2011 pro počítače Macintosh z počítačů](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).
+1. [Odinstalujte Office 2011 for Mac z počítačů](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).
 
-2. [Spravovat nastavení stahování softwaru v sadě Office 365](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).
+2. [Správa nastavení stahování softwaru](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).
 
-3. [Přiřadit licence uživatelům](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+3. [Přiřazuji uživatelům licence](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users).
 
-4. Uživatelé pak mohou nainstalovat software sady Office sami nebo můžete použít [sadu Office pro uživatele počítače Macintosh](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).
+4. Uživatelé pak můžou nainstalovat software Office sami, nebo můžete použít [Nasazení Office pro uživatele Macu](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).
