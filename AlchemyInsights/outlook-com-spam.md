@@ -1,9 +1,9 @@
 ---
-title: Boji proti spamu a nevyžádané v Outlook.com
+title: Nakládání se spamem a haraburdím v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 7/19/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,35 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: 4fda7a84d8fce49876126392ba09c24d6d697439
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0fab02fa06ff203933e6b5b8c306c2a8ecb15a56
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512056"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710724"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a>Nevyžádané e-mailů v Outlook.com
+# <a name="spam-and-junk-email-in-outlookcom"></a>Spam a nevyžádaná pošta v Outlook.com
 
-Pokud dostáváte příliš mnoho nevyžádané nebo spam, použijte tyto metody:
+Pokud dostáváte příliš mnoho nevyžádané pošty nebo nevyžádané pošty, vyzkoušejte tyto metody:
 
-1. **Označit jako nevyžádané e-mailu**
+1. **Označení e-mailu jako nevyžádané pošty**
     1. Vyberte zprávu.
-    1. Vyberte **nevyžádané** > **nevyžádané** zprávy přesunout do složky nevyžádané E-maily.
-    1. [Další informace o tom, jak zabránit spamu a nevyžádané pošty do složky Doručená pošta.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
+    1. Vyberte **Nevyžádaná** > **pošta,** chcete-li zprávu přesunout do složky Nevyžádaná pošta.
+    1. [Přečtěte si další informace o tom, jak zabránit nevyžádané poště a nevyžádané poště mimo doručenou poštu.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-1. **Blokovat odesílatele z doručené pošty**
+1. **Blokování odesílatele ze složky Doručená pošta**
     1. Vyberte zprávu.
-    1. Vyberte **nevyžádané** > **blok** > **OK**.
-    1. [Další informace o blokování nebo zrušení blokování odesílatelů.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
+    1. Vyberte **nevyžádaný** > **blok** > **OK**.
+    1. [Přečtěte si další informace o tom, jak blokovat nebo odblokovat odesílatele.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
-1. **Přidat odesílatele do seznamu blokovaných odesílatelů**
-    1. Otevřete [nastavení nevyžádané e-mailu](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).
-    1. V seznamu **Blokovaní odesílatelé a domény**vyberte možnost **Přidat**.
-    1. Zadejte e-mailovou adresu nebo doménu, kterou chcete blokovat a stiskněte klávesu Enter.
-    1. V části **filtry**vyberte, pokud chcete důvěřovat e-mailové adresy v seznamu Bezpeční odesílatelé a domény a Důvěryhodné seznamy adresátů.
+1. **Přidání odesílatele do seznamu blokovaných odesílatelů**
+    1. Otevřete [nastavení nevyžádané pošty](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).
+    1. V části **Blokovaní odesílatelé a domény**vyberte **Přidat**.
+    1. Zadejte e-mailovou adresu nebo doménu, kterou chcete zablokovat, a stiskněte Enter.
+    1. V části **Filtry**zvolte, jestli chcete důvěřovat e-mailům z adres v části Bezpeční odesílatelé a domény a Bezpečné seznamy adresátů.
     1. Vyberte **Uložit**.
 
-1. **Vytvořit pravidlo pro doručenou poštu**
-    1. Zprávy v seznamu zpráv klepněte pravým tlačítkem myši a vyberte možnost **vytvořit pravidlo**.
-    1. Zvolte složku, kam chcete přesunout všechny zprávy od tohoto odesílatele a klepněte na tlačítko **OK** > **OK**.
-    1. [Další informace o pravidlech složky Doručená pošta v Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
+1. **Vytvoření pravidla doručené pošty**
+    1. Klepněte pravým tlačítkem myši na zprávu v seznamu zpráv a vyberte **příkaz Vytvořit pravidlo**.
+    1. Vyberte složku, do které chcete přesunout všechny zprávy od tohoto odesílatele, a vyberte **OK** > **OK**.
+    1. [Přečtěte si další informace o pravidlech doručené pošty v Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)

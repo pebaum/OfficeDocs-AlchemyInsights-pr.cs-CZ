@@ -2,35 +2,35 @@
 title: Anonymní sdílení
 ms.author: pebaum
 author: pebaum
-ms.date: 9/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 8a007821fb44544512ae5b9bf22ee9aba16e618c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f503564af9ccdd3e27f328a3f94a52eb9871d17d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050374"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708048"
 ---
 # <a name="anonymous-sharing"></a>Anonymní sdílení
 
- **Povolit anonymní přístup**
+ **Povolení anonymního přístupu**
   
-V novém centru pro správu služby SharePoint klepněte v levém podokně na položku **sdílení** . 
+V novém Centru pro správu SharePointu klikněte v levém podokně na **sdílení.** 
   
-- Vyberte následující možnosti: **umožnit sdílení ověřeným externím uživatelům a používání anonymního přístupu.**
+- Vyberte následující: **Povolit sdílení ověřeným externím uživatelům a používat anonymní přístup.**
   
-(Volitelně můžete nastavit platnost propojení za určitý počet dní a vybrat způsob, jakým mohou příjemci odkazy použít.)
+(Volitelně můžete nastavit, aby platnost odkazů vypršela za určitý počet dní, a vybrat, jak mohou příjemci odkazy používat.)
     
  **Anonymní sdílení souboru nebo složky**
   
-- Vyberte soubor nebo složku, kterou chcete sdílet, a klepněte na tlačítko **sdílet**. 
+- Vyberte soubor nebo složku, kterou chcete sdílet, a klepněte na tlačítko **Sdílet**. 
     
-- Pro koho chcete tento odkaz použít? Klepněte na **kohokoliv.**
+- Pro koho chcete tento odkaz pracovat? klikněte na **Kdokoli.**
   
- **Poznámka**: **každý uživatel** vytvoří odkaz, který může kdokoli použít pro přístup k dokumentu nebo složce, a to i v případě, že nejsou přihlášeni do sady Office 365 nebo OneDrive. Použijte toto pro sdílení s kýmkoli, uvnitř nebo vně vaší společnosti. Tento odkaz lze také předat komukoli. 
+ **Poznámka:** **Kdokoli** vytvoří odkaz, který může kdokoli použít pro přístup k dokumentu nebo složce, i když není přihlášen k Microsoftu 365 nebo OneDrivu. Použijte to to sdílet s kýmkoli, uvnitř nebo vně vaší společnosti. Tento odkaz může být také předán komukoliv. 
     
 

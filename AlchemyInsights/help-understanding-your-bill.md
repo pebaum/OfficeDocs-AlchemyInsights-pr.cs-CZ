@@ -1,9 +1,9 @@
 ---
-title: Zjistit vaše faktura
+title: Pomozte porozumět své vyúčtování
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97b26cb0843233bea281cac2363ff4ccf1bec58e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523072"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710076"
 ---
-# <a name="help-understanding-your-bill"></a>Zjistit vaše faktura
+# <a name="help-understanding-your-bill"></a>Pomozte porozumět své vyúčtování
 
-Částka fakturována pro váš Office 365 předplatného business odráží cenu licence vynásobené počet zakoupených licencí a jakékoli požadované daně nebo poplatky.
+Částka účtovaná za vaše předplatné odráží cenu licence vynásobenou počtem zakoupených licencí a požadovanými daněmi/poplatky.
   
-Pokud fakturovaná částka se liší pak očekávat, jsou z několika důvodů že k tomu může dojít:
+Pokud je fakturovaná částka jiná, než se očekává, může k tomu dojít z několika důvodů:
   
-- Licence byly přidán nebo odebrán z odběru. Pokud licence, jsou změněné hodnocení v polovině období, to se odrazí na následující faktuře. Může se zobrazit Dal a znovu vyúčtování za předchozí období služby na účet pro tuto změnu.
+- Licence byly přidány nebo odebrány z vašeho předplatného. Při změně licencí v polovině období se to projeví na následující faktuře. Můžete tedy vidět přeplatek nebo nově fakturovanou částku za předchozí období poskytování služby související s příslušnou změnou.
 
-- Předplatné bylo zrušeno. Fakturu obdržíte po zrušení s jakýkoli zůstatek po odečtení všech úvěrů.
+- Předplatné bylo zrušeno. Po zrušení dostanete fakturu s nevyrovnaným zůstatkem, od kterého budou odečtené všechny případné přeplatky.
 
-- Vaše předplatné obnoveno na nový termín a cena licence změněny.
+- Vaše předplatné bylo obnoveno na nové období a změnila se cena licence.
 
-Další informace o faktuře, viz: [Principy fakturu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)
+Další informace o faktuře naleznete v [tématu: Informace o faktuře](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)

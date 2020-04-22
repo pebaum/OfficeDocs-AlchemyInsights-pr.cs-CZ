@@ -3,29 +3,29 @@ title: Konfigurace dohledu
 ms.author: robmazz
 author: robmazz
 manager: laurawi
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 0e693de897fe083e1afd9093789367bc58220846
-ms.sourcegitcommit: fbc613525a6302e61d78388ae821f842f186ad03
+ms.openlocfilehash: 28c8070d9042e876263ff5e94e0a69bd53998a67
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "34813823"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705906"
 ---
 # <a name="configure-supervision-policies"></a>Konfigurace zásad dohledu
 
-Zásady dohledu v Microsoft 365 a služeb Office 365 vám umožňují monitorovat Exchange e-mailu, Skype pro Business Online, Microsoft Teams a 3. strana komunikace uvnitř i vně vaší organizace. Sledované zprávy zajistit, jsou kompatibilní s zásady vaší organizace, řízení rizik a dodržování norem a jejich řešení s typem klasifikace můžete zkoumat určenými kontrolory.
+Zásady dohledu v Microsoftu 365 umožňují sledovat e-maily Exchange, Online Skype pro firmy, Microsoft Teams a komunikaci třetích stran odeslanou ve vaší organizaci i mimo ni. Určení recenzenti mohou sledovat monitorované zprávy, aby se ujistili, že jsou v souladu se zásadami vaší organizace, řízením rizik a standardy dodržování předpisů, a vyřešit je pomocí typu klasifikace.
 
-Chcete-li použít zásady dohledu ve vaší organizaci, je třeba:
+Chcete-li ve vaší organizaci používat zásady dohledu, je třeba:
 
-- Určete, ke sledování komunikace.
-- Rozhodněte, kdo bude provádět přezkumu.
-- Nastavit zásady dohledu
+- Určete komunikaci, kterou chcete sledovat.
+- Rozhodněte, kdo provede kontrolu komunikace.
+- Nastavení zásad dohledu
 
 Víc se uč:
 

@@ -1,9 +1,9 @@
 ---
-title: Práce s úrovněmi oprávnění služby SharePoint
+title: Práce s úrovněmi oprávnění SharePointu
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3164"
-ms.openlocfilehash: be0b9373d5494ad1325b557a2b2e23eff8c8bfd4
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 924d8ed360c34c8cdcfba2651d1615ec1ca59c90
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922126"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705474"
 ---
-# <a name="working-with-sharepoint-permission-levels"></a>Práce s úrovněmi oprávnění služby SharePoint
+# <a name="working-with-sharepoint-permission-levels"></a>Práce s úrovněmi oprávnění SharePointu
 
-Služba SharePoint obsahuje výchozí úrovně oprávnění, které můžete použít, například **Contribute** a **zobrazení**. Pokud však některý z těchto požadavků nevyhovuje vašim potřebám, můžete vytvořit novou úroveň oprávnění. Mějte na paměti, že pokud nezměníte výchozí nastavení, je snazší sledovat úrovně oprávnění.
+SharePoint je dodáván s výchozími úrovněmi oprávnění, které můžete použít, například **contribute** a **zobrazit jenom**. Pokud však jedna z nich nevyhovuje vašim potřebám, můžete vytvořit novou úroveň oprávnění. Mějte na paměti, že pokud nezměníte výchozí hodnoty, je snazší sledovat úrovně oprávnění.
 
-[Vytvoření a úprava úrovní oprávnění](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
+[Jak vytvořit a upravit úrovně oprávnění](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)

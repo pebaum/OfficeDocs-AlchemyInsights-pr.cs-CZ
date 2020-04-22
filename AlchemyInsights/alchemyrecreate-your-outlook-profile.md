@@ -1,9 +1,9 @@
 ---
-title: Alchymie - znovu vytvořit váš profil aplikace Outlook
+title: Alchymie – opětovné vytvoření profilu aplikace Outlook
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "65"
 - "1800001"
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
-ms.openlocfilehash: 45a2cde886cc99b2e15b0cd6309464360a9c8dfb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 57a6b3e551cba4f7b73d440723798406e76e6061
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505788"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708276"
 ---
-# <a name="create-an-outlook-profile"></a>Vytvořte profil aplikace Outlook
+# <a name="create-an-outlook-profile"></a>Vytvoření profilu aplikace Outlook
 
-Chcete-li vytvořit nebo znovu vytvořit váš profil aplikace Outlook, můžete spustit [nástroj profil aplikace Outlook](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) v ohroženém počítači.
+Chcete-li vytvořit nebo znovu vytvořit profil aplikace Outlook, můžete spustit [nástroj profilu aplikace Outlook](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) v ohroženém počítači.
 
-Nástroj provádí různé kontroly, a Jakmile budete připraveni profil aplikace Outlook vytvořit e-mailovou adresou.
+Nástroj bude provádět různé kontroly a až budete připraveni, vytvoří profil aplikace Outlook s vaší e-mailovou adresou.

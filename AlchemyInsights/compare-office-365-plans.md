@@ -1,9 +1,9 @@
 ---
-title: Porovnat plány služeb Office 365
+title: Porovnání předplatných Microsoftu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: af35dbcf4995dda7faa11100d7f562a16079a3f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7f19715e6b036c9d8a5e44373aedc6e6aa11392
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520408"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706122"
 ---
-# <a name="compare-switch-or-purchase-office-365-plans"></a>Porovnat, přepnutí nebo zakoupit plány služeb Office 365
+# <a name="compare-switch-or-purchase-subscriptions"></a>Porovnání, přepnutí nebo nákup předplatných
   
-Plány Office 365 jsou k dispozici pro [obchodní](https://products.office.com/compare-all-microsoft-office-products?tab=2)a [podnikové úrovně firmy](https://products.office.com/business/compare-more-office-365-for-business-plans). Kromě toho je k dispozici pro [akademické instituce](https://products.office.com/academic/compare-office-365-education-plans), [vládní organizace](https://products.office.com/government/compare-office-365-government-plans)a [nonprofits](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)služeb Office 365.
+Předplatná jsou k dispozici pro [firmy](https://products.office.com/compare-all-microsoft-office-products?tab=2)a [podniky na podnikové úrovni](https://products.office.com/business/compare-more-office-365-for-business-plans). Kromě toho je Microsoft 365 k dispozici [akademickým institucím](https://products.office.com/academic/compare-office-365-education-plans), [vládním organizacím](https://products.office.com/government/compare-office-365-government-plans)a [neziskovým organizacím](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1).
   
-Pokud vaše organizace zájem porovnání všechny plány a ceny, zkontrolujte, [porovnejte všechny plány služeb Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Pokud má vaše organizace zájem o porovnání všech plánů a cen, přečtěte si recenzi [Porovnat všechna předplatná](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Pokud vaše organizace zakoupila již plán služeb Office 365 a zájem o přechod na jiný plán, že můžete tak učinit z středisku pro správce služeb Microsoft 365. Přejděte na **fakturační** \> [přihlášení k odběru](https://go.microsoft.com/fwlink/p/?linkid=842054) stránky a pak zvolte **přepínač plány** k prohlížení seznamu nové plány, které jsou k dispozici.
+Pokud si vaše organizace už předplatné zakoupila a má zájem o přechod na jiný plán, můžete tak učinit z Centra pro správu Microsoftu 365. Přejděte na stránku **Fakturační** \> [předplatná](https://go.microsoft.com/fwlink/p/?linkid=842054) a pak zvolte **Přepnout plány,** abyste zobrazili seznam nových plánů, které jsou k dispozici.
   
-Vaše organizace může také kombinační plány služeb Office 365, k uspokojení potřeb a požadavků uživatelů funkce. Z admin center, přejděte na položku **účtování** \> stránce [Nákupní služby](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+Vaše organizace může také kombinovat odběry tak, aby vyhovovaly potřebám a požadavkům na funkce uživatelů. V Centru pro správu přejděte na stránku [Služby nákupu](https://go.microsoft.com/fwlink/p/?linkid=868433) **fakturace.** \>

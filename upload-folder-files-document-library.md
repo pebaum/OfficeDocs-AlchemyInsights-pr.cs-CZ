@@ -1,9 +1,9 @@
 ---
-title: Odeslání složky nebo souborů do knihovny dokumentů
+title: Nahrání složky nebo souborů do knihovny dokumentů
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "5200007"
 - "3176"
 ms.assetid: ''
-ms.openlocfilehash: 3105555c0e88b72ede00045761356b6f03117594
-ms.sourcegitcommit: eeaaf0174dcad24f04f8979dfa7e78fffe1962aa
+ms.openlocfilehash: c75f1a0603a1abbc2c771b0d03499b73be70cf25
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37962419"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707144"
 ---
-# <a name="upload-a-folder-or-files-to-a-document-library"></a>Odeslání složky nebo souborů do knihovny dokumentů
+# <a name="upload-a-folder-or-files-to-a-document-library"></a>Nahrání složky nebo souborů do knihovny dokumentů
 
-Soubory můžete odeslat do knihovny dokumentů služby SharePoint jejich přetažením z počítače a jejich umístěním do knihovny dokumentů.
+Soubory můžete v SharePointu nahrát tak, že je přetáhnete z počítače a hodíte je do knihovny dokumentů.
 
-* [Odeslání složky nebo souborů do knihovny dokumentů](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
-* [Odeslat pomocí synchronizace OneDrive](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+* [Nahrání složky nebo souborů do knihovny dokumentů](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
+* [Nahrávání pomocí synchronizace OneDrivu](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)

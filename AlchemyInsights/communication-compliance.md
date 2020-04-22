@@ -1,5 +1,5 @@
 ---
-title: Shoda v komunikaci
+title: Dodržování předpisů pro komunikaci
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,33 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: e612c1fb9c0a1b1f6e9a53a2b9eefeed0583dc9e
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274848"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706158"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Shoda v komunikaci se společností Microsoft 365
+# <a name="communication-compliance-in-microsoft-365"></a>Dodržování předpisů pro komunikaci v Microsoftu 365
 
-Shoda v komunikaci je novým řešením kompatibility se systémem Microsoft 365, které organizacím pomáhá splnit požadavky na dodržování požadavků na dozor a minimalizovat komunikační rizika. Je založena na funkci "dozor" v sadě Office 365 a obsahuje nová vylepšení, včetně:
+Dodržování předpisů pro komunikaci je nové řešení dodržování předpisů microsoftu 365, které organizacím pomáhá splnit požadavky na dodržování předpisů dohledu a minimalizovat rizika komunikace. Je založen na funkci Dohled a obsahuje nová vylepšení, včetně:
 
 - Inteligentní přizpůsobitelné šablony
 - Flexibilní nápravné pracovní postupy
-- Napadnutelné poznatky
+- Užitečné přehledy
 
-Používáte-li [v sadě Office 365 zásady dohledu](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), doporučujeme, abyste nyní používali k řešení potřeb právních předpisů novou komunikační shodu.
+Pokud v současné době používáte [zásady dohledu](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), doporučujeme nyní použít nové dodržování předpisů komunikace k řešení regulačních potřeb.
 
-Chcete-li nastavit shodu komunikace, viz [Konfigurace kompatibility komunikace](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Informace o nastavení dodržování předpisů v komunikaci naleznete [v tématu Konfigurace dodržování předpisů pro komunikaci](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
-Chcete-li prozkoumat, přezkoumat a napravovat shodu komunikace, prostudujte si informace v tématu [vyšetřování a napravte oznámení o způsobilosti komunikace](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
+Informace o kontrole, kontrole a nápravě dodržování předpisů v komunikaci naleznete v [tématu Investigate and resante communication compliance alerts](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
 
-Přehled funkcí kompatibility komunikace naleznete [v části Kompatibilita se společností Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+Přehled funkce dodržování předpisů komunikace najdete [v tématu Dodržování předpisů komunikace v Microsoftu 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
 
-Licenční požadavky: uživatelé sledování pomocí zásad komunikace musí mít jednu z následujících možností:
+Licenční požadavky: Uživatelé monitorovaná komunikačními zásadami musí mít jednu z následujících možností:
 
-- Licence Microsoft 365 E5
-- Office 365 Enterprise E3 License s doplňkovým rozšířeným plněním
-- Office 365 předplatné aplikace Enterprise E5
+- Licence microsoft 365 E5 compliance
+- Licence Office 365 Enterprise E3 s doplňkem Advanced Compliance
+- Předplatné Office 365 Enterprise E5
 
-Pokud nemáte žádný z výše uvedených informací a chcete vyzkoušet shodu komunikace, přihlaste se **[ke zkušební verzi sady Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Pokud nemáte nic z výše uvedeného a chcete vyzkoušet dodržování předpisů pro komunikaci, **[zaregistrujte se ke zkušební verzi Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.

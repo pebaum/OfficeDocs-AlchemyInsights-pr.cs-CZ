@@ -1,9 +1,9 @@
 ---
-title: Předplatné služeb Microsoft Office 365 licence svazku aktivace
+title: Aktivace předplatného multilicence společnosti Microsoft
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661181"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708752"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Předplatné služeb Microsoft Office 365 licence svazku aktivace
+# <a name="activating-a-microsoft-volume-license-subscription"></a>Aktivace předplatného multilicence společnosti Microsoft
 
-1. Přihlaste se na [portál svazku Licensing Service Center (VLSC)](http://go.microsoft.com/fwlink/p/?LinkId=329762).
+1. Přihlaste se k [portálu Multilicenčního centra služeb (VLSC).](https://go.microsoft.com/fwlink/p/?LinkId=329762)
 
-2. Přejděte k předplatnému služeb Office 365 a zvolte **Aktivovat**.
+2. Přejděte k předplatnému a zvolte **Aktivovat**.
 
-3. E-mail bude zaslána kontaktu Online služby (OLS).
+3. E-mail bude zaslán vašemu kontaktu online služeb (OLS).
 
-4. Aktivační e-mail poskytuje dvě možnosti: **zaregistrovat**nebo **přihlásit**. Pokud jste dříve vytvořili zkušební verzi, zvolte **přihlásit**. Pokud ještě nemáte klienta Office 365, zvolte **přihlásit**.
+4. Aktivační e-mail vám poskytne dvě možnosti: **Zaregistrovat se**nebo **Přihlásit se**. Pokud jste již dříve vytvořili zkušební verzi, zvolte **Přihlásit se**. Pokud ještě nemáte klienta Microsoft 365, zvolte **Zaregistrovat se**.
 
-5. Přihlášení na stránku Správce Microsoft 365 ([https://admin.microsoft.com](https://admin.microsoft.com)) pomocí existující pověření správce služeb Office 365. Po úspěšném přihlášení, obdržíte další e-mail s potvrzením nákupu.
+5. Přihlaste se do Centra pro[https://admin.microsoft.com](https://admin.microsoft.com)správu Microsoftu 365 ( ) pomocí stávajících přihlašovacích údajů správce. Po úspěšném přihlášení obdržíte další e-mail s potvrzením nákupu.
 
-6. Poté, co jste přihlášeni, můžete přejít na **fakturaci** \> [& produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránky, chcete-li ověřit, zda jsou v rámci vašeho klienta aktivován vaše zakoupené předplatné Office 365. (Můžete také na kartě **předplatné** v VLSC zobrazíte podrobnosti ověření uložil odběru.)
+6. Po přihlášení můžete přejít na stránku **Fakturační** \> [produkty & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) a ověřit, že zakoupená předplatná jsou aktivována v rámci vašeho tenanta. (Můžete také zvolit kartu **Předplatné** ve VLSC a zobrazit podrobnosti oověření, že vaše předplatné bylo uloženo.)

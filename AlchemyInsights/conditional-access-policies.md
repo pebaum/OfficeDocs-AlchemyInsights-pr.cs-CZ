@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 8ce41d007988f2a45f1ded385ae50ac3def97c1b
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: 569507318b499cdbcf2a1cd75e84046953f62212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100413"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706050"
 ---
 # <a name="conditional-access-policies"></a>Zásady podmíněného přístupu
 
@@ -24,7 +24,7 @@ Podmíněný přístup je funkce Azure AD, která vám umožní vynutit řízen�
 
 Přečtěte si další informace o [podmíněném přístupu Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/).  
 
-**Poznámka:** Pokud byl váš klient vytvořen po 21. říjnu 2019 a vám se neočekávaně zobrazuje vícefaktorové ověřování, pravděpodobně máte v klientovi povolená [výchozí nastavení zabezpečení](http://aka.ms/securitydefaults).
+**Poznámka:** Pokud byl váš klient vytvořen po 21. říjnu 2019 a vám se neočekávaně zobrazuje vícefaktorové ověřování, pravděpodobně máte v klientovi povolená [výchozí nastavení zabezpečení](https://aka.ms/securitydefaults).
 
 **Správa výchozích hodnot zabezpečení**
 

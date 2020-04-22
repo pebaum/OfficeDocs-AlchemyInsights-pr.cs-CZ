@@ -1,5 +1,5 @@
 ---
-title: Převést poštovní schránky uživatele na sdílené poštovní schránky
+title: Převod poštovní schránky uživatelů na sdílenou poštovní schránku
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 0a8ba0d7d74cacd34cbcea8dcab454d55c283280
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b1c44e0990d07686ef083d2045a164afc5f11033
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665285"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705546"
 ---
-# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>Převést poštovní schránky uživatele na sdílené poštovní schránky
+# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>Převedení poštovní schránky uživatele na sdílenou poštovní schránku
 
-Když převedete poštovní schránky jednotlivých uživatelů služeb Office 365 sdílené poštovní schránky, všechny existující e-mailové a kalendářové položky jsou zachovány v sdílené poštovní schránky, kde přístup více uživatelů. Můžete také převést sdílené poštovní schránky zpět do poštovní schránky uživatele (soukromé).
+Při převodu poštovní schránky jednotlivých uživatelů na sdílenou poštovní schránku se všechny existující položky e-mailu a kalendáře uchovají ve sdílené poštovní schránce, ke které má přístup více uživatelů. Sdílenou poštovní schránku můžete také převést zpět na poštovní schránku uživatele (soukromou).
   
-Další informace naleznete v tématu [Převést poštovní schránky uživatele na sdílené poštovní schránky](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).
+Další informace naleznete [v tématu Převod poštovní schránky uživatele na sdílenou poštovní schránku](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).
   

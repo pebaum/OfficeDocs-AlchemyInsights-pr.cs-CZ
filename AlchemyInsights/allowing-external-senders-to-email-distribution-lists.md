@@ -1,5 +1,5 @@
 ---
-title: 714 povolit externím odesílatelům e-mailové distribuční seznamy
+title: 714 Povolení externích odesílatelů v seznamech e-mailových distribucí
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 165c84715d38f46f076941ec9eb4a4624ffcd5a6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768217"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708204"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Povolit externím odesílatelům odesílat zprávy do distribučních skupin
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Povolit externím odesílatelům odesílat zprávy distribučním skupinám
 
-Pokud se uživatelům mimo vaši organizaci zobrazí chybové zprávy při odesílání zpráv do distribučních skupin nebo chcete-li ověřit, zda jsou distribuční skupiny konfigurovány pro příjem e-mailů od externích odesílatelů, postupujte následujícím způsobem:
+Pokud se uživatelům mimo vaši organizaci při odesílání zpráv do distribučních skupin zobrazí chyby nebo chcete ověřit, zda jsou distribuční skupiny nakonfigurovány tak, aby přijímabyly poštu od externích odesílatelů, postupujte takto:
 
-1. V centru pro správu sady Office 365 přejděte[na stránku skupiny](https://portal.office.com/adminportal/home#/groups) **skupin** > .  
+1. V Centru pro správu Microsoftu 365 přejděte na stránku > [Skupiny](https://portal.office.com/adminportal/home#/groups) skupin. **Groups**  
 
-2. Vyberte distribuční skupinu a v podokně vlastností skupiny vyberte kartu **Nastavení** .
+2. Vyberte distribuční skupinu a v podokně vlastností skupiny vyberte kartu **Nastavení.**
 
-3. Vyberte možnost **Povolit externím odesílatelům odeslat e-mail této skupině**a pak vyberte možnost **Uložit**.
+3. Vyberte **Povolit externím odesílatelům, aby tuto skupinu odeslali e-mailem**, a pak vyberte **Uložit**.

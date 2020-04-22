@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 4453a9d62a63e980a9f9f56eb6ff2551c58e3e2b
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286473"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706194"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Běžné problémy a řešení pro ADFS
 
@@ -28,4 +28,4 @@ Konfigurace federované domény se dá aktualizovat, jak je popsáno v následuj
 
 - [2647020:](https://support.microsoft.com/help/2647020) Chyba typu Je nám líto, ale nedaří se nám vás přihlásit a chyba 80041317 nebo 80043431, když se federovaný uživatel pookusí přihlásit k Office 365, Azure nebo Intune.
 
-Další informace najdete v článku věnovaném [aktualizaci nebo opravě nastavení federované domény v Office 365, Azure nebo Intune](https://docs.microsoft.com/cs-CZ/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+Další informace najdete v článku věnovaném [aktualizaci nebo opravě nastavení federované domény v Office 365, Azure nebo Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).

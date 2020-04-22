@@ -1,9 +1,9 @@
 ---
-title: Nápověda Principy hodnota přidána daň (DPH)
+title: Pomoc při pochopení daně z přidané hodnoty (DPH)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: a8512f753e4d74a274f30bf5191495ffcaf3a23b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: cfe38fa8406980c45bcf3604acd0b666dfe1ee7c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390505"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710112"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Nápověda Principy hodnota přidána daň (DPH)
+# <a name="help-understanding-value-added-tax-vat"></a>Pomoc při pochopení daně z přidané hodnoty (DPH)
 
-Pokud jste v zemi, která používá dani z přidané hodnoty (DPH), jako je Spojené království, Microsoft Invoicing vypočítá DPH a částka se vztahuje na faktury.
+Pokud se v zemi, která používá daň z přidané hodnoty (DPH), například ve Spojeném království, společnost Microsoft Invoicing vypočítá DPH za vás a použije částku na vaše faktury.
   
-Z daňových důvodů je nutné také zadat vaše DAŇOVÉ identifikační číslo v nastavení fakturace.
+Z daňových důvodů musíte také zadat své DIČ v nastavení fakturace.
   
-Nelze přidat nebo odebrat sazby DPH, ale můžete změnit výchozí sazba DPH v nastavení. Ve výchozím nastavení fakturace služby používá k ověření DIČ, ale doporučujeme, abyste si přečetli [SOUHRNNÉHO prohlášení](https://go.microsoft.com/fwlink/?LinkID=841741) Evropské Komise zveřejní. Pokud se rozhodnete zakázat službu, je třeba ověřit všechny DIČ.
+Nemůžete přidávat ani odebírat sazby DPH, ale můžete změnit výchozí sazbu DPH v Nastavení. Ve výchozím nastavení služba Fakturace používá službu k ověření registračních čísel pro DPH, ale doporučujeme, abyste si [přečetli prohlášení v systému VIES](https://go.microsoft.com/fwlink/?LinkID=841741) zveřejněné Evropskou komisí. Pokud se rozhodnete službu zakázat, musíte ověřit všechna registrační čísla DPH.

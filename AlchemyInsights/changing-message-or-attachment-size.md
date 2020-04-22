@@ -10,19 +10,19 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 18d136f1fdd67b4af89b0f81da19e052f5ea3ff8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769656"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706350"
 ---
 # <a name="changing-message-or-attachment-size"></a>Změna velikosti zprávy nebo přílohy
 
-Jako správce sady Office 365 můžete změnit maximální/minimální velikost zpráv (včetně příloh), které uživatelé odesílají. To lze provést pro jednotlivé uživatele nebo pro všechny uživatele (výchozí nastavení organizace). Po změně tohoto nastavení trvá provedení této změny přibližně 30 minut.
+Jako správce Microsoftu 365 můžete změnit maximální/minimální velikost zpráv (včetně příloh), které uživatelé odesílají. Můžete to udělat pro jednotlivé uživatele nebo všechny uživatele (výchozí organizace). Po změně tohoto nastavení trvá přibližně 30 minut, než se projeví.
   
-- **** \> Chcete-li změnit velikost zprávy pro určitého uživatele, přejděte na **poštovní schránky** **příjemců** \> na **střediscích** \> pro správu. Vyberte poštovní schránku uživatele. Vyberte ikonu pro úpravy, vyberte **funkce poštovní schránky**a pak v části **omezení velikosti zprávy**zvolte **Podrobnosti zobrazení** a zadejte novou maximální velikost zprávy.
+- Pokud chcete změnit velikost zprávy pro konkrétního uživatele, přejděte do **poštovních schránek** **příjemců** \> **Exchange** \> **v centrech pro správce** \> . Vyberte poštovní schránku uživatele. Vyberte ikonu úprav, vyberte **funkce poštovní schránky**a potom v části Omezení **velikosti zprávy**zvolte Zobrazit **podrobnosti** a určete novou maximální velikost zprávy.
 
-- Informace o tom, jak tuto změnu provést u všech poštovních schránek, naleznete v [tomto článku](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- Informace o tom, jak toto změnit pro všechny poštovní schránky, naleznete v [tomto článku](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
 
-- Informace o maximálních limitech pomocí aplikace Outlook nebo Outlook na webu naleznete v [tomto článku](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). Aplikace Outlook Mobile má maximální limit 25MB. Chcete-li získat podporu aplikací Outlook iOS a Android, [klepněte sem](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).
+- Informace o maximálních limitech v Outlooku nebo Outlooku na webu najdete v [tomto článku](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). Outlook Mobile má maximální limit 25 MB. Pokud chcete získat podporu Outlooku iOS a Androidu, [klikněte sem](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).

@@ -1,9 +1,9 @@
 ---
-title: Přidat další alias e-mailu
+title: Přidání dalšího e-mailového aliasu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: db27f599f3b3182495c4308c05cb3567f9299c80
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 09edadb004fefd1bda92a5242886aa0414f87752
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737326"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708512"
 ---
-# <a name="create-or-add-an-email-alias-for-a-user"></a>Vytvoření nebo přidání aliasu e-mailu pro uživatele
+# <a name="create-or-add-an-email-alias-for-a-user"></a>Vytvoření nebo přidání e-mailového aliasu pro uživatele
 
-Potřebujete vytvořit alias e-mailu pro uživatele nebo přidat další e-mailovou adresu? Jen postupujte podle těchto kroků!
+Potřebujete vytvořit e-mailový alias pro uživatele nebo přidat další e-mailovou adresu? Stačí postupovat podle těchto kroků!
   
-1. V centru Microsoft 365 Admin Center přejděte na stránku [Uživatelé](https://go.microsoft.com/fwlink/p/?linkid=834822) nebo vyberte možnost **Uživatelé** \> **aktivní uživatelé**.
+1. V Centru pro správu Microsoftu 365 přejděte na stránku [Uživatelé](https://go.microsoft.com/fwlink/p/?linkid=834822) nebo zvolte **Uživatelé** \> **aktivní uživatelé**.
     
 2. Na stránce **Aktivní uživatelé** vyberte jméno osoby, kterou chcete upravit. 
     
 3. Napravo v řádku **Uživatelské jméno / E-mailové aliasy** zvolte **Upravit**.
     
-4. Do pole **alias** zadejte nový e-mail a pak klepněte na tlačítko **Přidat**. Pokud jste si předplatné koupili od GoDaddy nebo jiného partnera a chcete si nastavit nový alias jako primární, musíte přejít do konzoly pro správu GoDaddy nebo konzoly pro správu příslušného partnera. 
+4. Do pole **Alias** zadejte nový e-mail a pak zvolte **Přidat**. Pokud jste si předplatné koupili od GoDaddy nebo jiného partnera a chcete si nastavit nový alias jako primární, musíte přejít do konzoly pro správu GoDaddy nebo konzoly pro správu příslušného partnera. 
     
-    **DŮLEŽITÉ:** Pokud se zobrazí chybová zpráva **Nebyl nalezen parametr, který odpovídá názvu parametru EmailAddresses**, znamená to, že Office 365 trvá delší dobu, než nastaví vašeho tenanta nebo vaši vlastní doménu, pokud jste ji nedávno přidali. Nastavení může trvat až 4 hodiny. Chvíli počkejte, aby mohl proces nastavení doběhnout do konce, a potom to zkuste znovu. Pokud se tím problém nevyřeší, zavolejte pracovníkům podpory a požádejte je o úplnou synchronizaci.
+    **DŮLEŽITÉ:** Pokud se zobrazí chybová zpráva " **Parametr nelze najít, který odpovídá názvu parametru E-mailové adresy**, znamená to, že trvá o něco déle, než Microsoft dokončí nastavení vašeho tenanta nebo vlastní domény, pokud jste ho nedávno přidali. Nastavení může trvat až 4 hodiny. Chvíli počkejte, aby mohl proces nastavení doběhnout do konce, a potom to zkuste znovu. Pokud se tím problém nevyřeší, zavolejte pracovníkům podpory a požádejte je o úplnou synchronizaci.
     
-    Nový alias se projeví až za 30 minut.
+    Obvykle trvá asi 30 minut, než se nový alias projeví.
     
-    **Další informace naleznete v tomto článku:** [Přidání dalšího aliasu e-mailu uživateli](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
+    **Další podrobnosti najdete v tomto článku:** [Přidání dalšího e-mailového aliasu pro uživatele](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
     
 

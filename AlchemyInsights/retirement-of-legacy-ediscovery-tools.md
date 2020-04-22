@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600355"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43650561"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Vyřazení starších nástrojů eDiscovery
 
@@ -37,7 +37,7 @@ V důsledku nové a vylepšené funkce eDiscovery v Centru dodržování předpi
     - [Schránky SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [Schránky GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 Advanced eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Rozšířené eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Časová osa odchodu do důchodu**:
 - 1. dubna 2020: Nebudete moci vytvářet nová hledání a blokování, ale stále můžete spouštět, upravovat a odstraňovat stávající hledání na vlastní nebezpečí. Podpora společnosti Microsoft již nebude podporovat místní zjišťování eDiscovery & blokování v EAC.

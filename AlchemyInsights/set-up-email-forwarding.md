@@ -1,5 +1,5 @@
 ---
-title: Nastavení předávání e-mailu
+title: Nastavení přeposílání e-mailů
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: a28fd31412967841063f65ddd8ef2ee97fb6f89b
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: a737cb708219730612954535f000761ac99365b2
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068381"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43645629"
 ---
-# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kontrola nastavení předávání e-mailu u poštovní schránky
+# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kontrola nastavení předávání e-mailů pro poštovní schránku
 
-Je snadné ověřit nastavení předávání e-mailů v poštovní schránce sady Office 365. Stačí postupovat podle následujících kroků.
+Nastavení předávání e-mailů je snadné ověřit v poštovní schránce Microsoft 365. Postupujte podle těchto kroků.
   
-> Jedná-li se o uživatelskou poštovní schránku, přejděte na položku **Uživatelé** \> **Active Users** a vyberte uživatele, jehož poštovní schránku předáváte. Na kartě **Pošta** vyberte položku **Správa předávání e-mailu**.
+> Pokud se jedná o poštovní schránku uživatele, **přejděte** \> na **users aktivní uživatele** a vyberte uživatele, jehož poštovní schránku předáváte dál. Na kartě **Pošta** vyberte **Spravovat předávání e-mailů**.
 
-> Pokud se jedná o sdílenou poštovní schránku, přejděte ke **sdíleným poštovním schránkám** **skupiny** \> a vyberte sdílenou poštovní schránku, kterou předáváte dál. Vyberte možnost **Upravit** pro předávání e-mailu.
+> Pokud se jedná o sdílenou poštovní schránku, přejděte do **skupin sdílené** \> **poštovní schránky** a vyberte sdílenou poštovní schránku, kterou předáváte dál. Vyberte **Upravit** pro přeposílání e-mailů.
 
-Další informace naleznete v tématu [konfigurace předávání e-mailu v sadě Office 365](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
+Další informace najdete [v tématu Konfigurace předávání e-mailů v Microsoftu 365](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
   
-Chcete-li uživatelům odeslat pokyny, aby mohli nastavit předávání e-mailů pomocí vlastních poštovních schránek, přesuňte je na [Další e-mailový účet z sady Office 365](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Uvědomte si prosím, že můžete předat pouze jednu e-mailovou adresu. Pokud potřebujete nastavit předávání skupině osob, vytvořte distribuční seznam (v rámci **skupin**), přidejte do něj uživatele a nakonfigurujte předávání do této skupiny.
+Pokud chcete uživatelům poslat pokyny, aby mohli přeposílat e-maily ve svých vlastních poštovních schránkách, přejděte na [Přeposlat e-mail y z Microsoftu 365 na jiný e-mailový účet](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Vezměte prosím na vědomí, že můžete přeposlat pouze na jednu e-mailovou adresu. Pokud potřebujete nastavit předávání skupině osob, vytvořte distribuční seznam (v části **Skupiny**), přidejte do něj uživatele a pak nakonfigurujte předávání do této skupiny.
   
-Máte na odchodu zaměstnance? Doporučené kroky naleznete [v tématu Odebrání bývalého zaměstnance ze sady Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee) .
+Máte zaměstnance, který odchází? Doporučené kroky najdete [v tématu Odebrání bývalého zaměstnance z Microsoftu 365.](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)

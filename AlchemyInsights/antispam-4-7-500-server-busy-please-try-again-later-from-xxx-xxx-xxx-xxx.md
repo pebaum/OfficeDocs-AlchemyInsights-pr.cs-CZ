@@ -1,9 +1,9 @@
 ---
-title: 1050 antispam 4.7.500 Server zaneprázdněn. Opakujte akci znovu později z [XXX.XXX.XXX.XXX]
+title: 1050 Antispam 4.7.500 Server obsazeno. Opakujte akci později z [XXX.XXX.XXX.XXX]
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "1050"
 - "3100024"
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
-ms.openlocfilehash: 7f6a8bee1417741e7a8145778f03bf6fd8c9bdcd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1f6d7d6db0b229c116de79ae66bac48ef81bac8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494304"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707940"
 ---
-# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 server je zaneprázdněn, opakujte akci později
+# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 Server zaneprázdněn, zkuste to prosím znovu později
 
-K této chybě dochází, když objem provozu e-mailu z zdrojová adresa IP překračuje limit na základě pověsti (nebo nedostatek pověst) zdrojové IP adresy.
+K této chybě dochází, když objem e-mailového provozu ze zdrojové IP adresy překročí limit na základě reputace (nebo nedostatku pověsti) zdrojové IP adresy.
 
-Blokování e-mailu z zdrojová adresa IP vyprší během hodiny. Pokud je zdrojová adresa IP je e-mailový server v prostorách, které patří vám, zkontrolujte konfiguraci spojnice toku pošty. Pokud chování přetrvává více než jednu hodinu, obraťte se na podporu požádat o výjimku pro zdrojovou adresu IP.
+Blokování e-mailů ze zdrojové IP adresy vyprší během hodiny. Pokud je zdrojová IP adresa místní e-mailový server, který patří vám, ověřte konfiguraci konektoru toku pošty. Pokud chování trvá déle než hodinu, obraťte se na podporu požádat o výjimku pro zdrojovou adresu IP.

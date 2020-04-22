@@ -1,8 +1,8 @@
 ---
-title: Řešení problémů při instalaci sady Office
+title: Řešení problémů při instalaci Office
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,30 +12,30 @@ ms.custom:
 - "852"
 - "2000020"
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
-ms.openlocfilehash: 496db627c9d56fb19322e2fda7d9733ded7407ce
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 40f5f691754469bc82a89a88407cf26d0134cc4a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501432"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709076"
 ---
-# <a name="solutions-for-issues-while-installing-office"></a>Řešení problémů při instalaci sady Office
+# <a name="solutions-for-issues-while-installing-office"></a>Řešení problémů při instalaci Office
 
-Použijte jeden z těchto řešení opravit chybu aplikace sady Office:
+Tady je několik řešení, pomocí kterých můžete zkusit odstranit chybu Office:
   
-- Restartujte počítač a zkuste [instalaci sady Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Restartujte počítač a zkuste [nainstalovat Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Stáhněte a nainstalujte [podporu a Pomocník pro obnovení](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Stáhněte si nástroj [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) a nainstalujte ho.
 
-1. Po otevření, z **produktů sady Office odinstalovat** vyberte verzi, kterou chcete odinstalovat a klepněte na tlačítko **Další**.
+1. Po otevření vyberte v části **Odinstalovat produkty Office** verzi, kterou chcete odinstalovat, a vyberte **Další**.
 
-2. Pokračovat v procházení obrazovek a po zobrazení výzvy restartujte počítač.
+2. Pokračujte v procházení jednotlivých obrazovek a po zobrazení výzvy restartujte počítač.
 
-    Po restartování počítače, podpora a Pomocník pro obnovení automaticky znovu otevře dokončete proces odinstalace.
+    Po restartování se Pomocník pro podporu a obnovení automaticky znovu otevře a dokončí proces odinstalace.
 
-3. Postupujte podle zbývajících pokynů a [znovu nainstalujte sadu Office](https://portal.office.com/OLS/MySoftware.aspx) nebo zavřete pomocníka.
+3. Postupujte podle zbývajících výzev a [znovu nainstalujte Office](https://portal.office.com/OLS/MySoftware.aspx) nebo zavřete asistenta.
 
-- [Použití v režimu offline instalační program sady Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) nainstalovat systém Office
+- Instalace Office [pomocí offline instalačního programu Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-Další informace o chyby instalace naleznete v tématu [chybové zprávy při instalaci sady Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).
+Další informace o chybách instalace naleznete [v tématu Chybové zprávy při instalaci Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).
   

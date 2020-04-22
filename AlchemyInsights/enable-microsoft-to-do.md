@@ -1,9 +1,9 @@
 ---
-title: Povolit aplikaci Microsoft
+title: Povolit práci od Microsoftu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5221f9937d46897303bbe02ee4d13cd72ebe9ffb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36527536"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703492"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>Povolení aplikace Microsoft
+# <a name="how-to-enable-microsoft-to-do"></a>Jak povolit microsoft to-do
 
-Chcete-li použít službu Microsoft to-to, musí správce povolit aplikaci na účtu každého uživatele. Chcete-li povolit pro každého uživatele, přejděte na [stránku s doplňky služeb &amp; ](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) sady Office 365 admin. 
+Aby bylo možné používat Microsoft To-Do, musí správce povolit aplikaci na účet každého uživatele. Přejděte na [stránku Doplňky služeb &amp; ](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) na stránce nastavení správce Microsoftu 365 a povolte úkoly pro každého uživatele.
   
-Aplikace Microsoft to používá funkce serveru Exchange Online k synchronizaci a ukládání položek k tomuto uživateli. Aby mohl uživatel používat aplikaci Microsoft, potřebuje platnou poštovní schránku serveru Exchange Online.
+Microsoft To-Do používá funkce v Exchange Online k synchronizaci a ukládání položek uživatelských možností. Aby mohl uživatel používat microsoft to-do, potřebuje platnou poštovní schránku Exchange Online.
   
-Další informace naleznete v tématu [Správa náhledu společnosti Microsoft](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
+Další informace naleznete v [tématu Microsoft To-Do Preview administration](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
   
- **Poznámka**: Pokud se při pokusu o přihlášení zobrazí chyba 501 [http://todo.microsoft.com](http://todo.microsoft.com), zkuste. [https://to-do.microsoft.com](https://to-do.microsoft.com)
+ **Poznámka:** Pokud se při pokusu o přihlášení [https://todo.microsoft.com](https://todo.microsoft.com)zobrazí [https://to-do.microsoft.com](https://to-do.microsoft.com)chyba 501 , zkuste to .
   
 

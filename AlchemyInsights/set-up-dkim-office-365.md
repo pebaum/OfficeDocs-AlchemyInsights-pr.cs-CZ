@@ -1,5 +1,5 @@
 ---
-title: Nastavení DKIM ve službách Office 365
+title: Nastavení DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: dd908db6a4bc1739b3c1cff059387034d67e093d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666257"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43645665"
 ---
-# <a name="setup-dkim-in-office-365"></a>Nastavení DKIM ve službách Office 365
+# <a name="setup-dkim"></a>Nastavení DKIM
 
-Úplné pokyny pro konfiguraci DKIM pro vlastní domény ve službách Office 365 jsou [zde](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+Úplné pokyny pro konfiguraci DKIM pro vlastní domény v Microsoft 365 jsou [zde](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
 
-1. Pro **každou** vlastní doménu je nutné vytvořit **dva** záznamy DKIM CNAME na hostitelské služby DNS vaší domény (obvykle registrátora domény). Například contoso.com a fourthcoffee.com vyžadují čtyři záznamy DKIM CNAME: dvě pro contoso.com a dvě pro fourthcoffee.com.
+1. Pro **každou** vlastní doménu je třeba vytvořit **dva** záznamy DKIM CNAME v hostitelské službě DNS vaší domény (obvykle registrátor domény). Například contoso.com a fourthcoffee.com vyžadují čtyři záznamy DKIM CNAME: dva pro contoso.com a dva pro fourthcoffee.com.
 
-   Záznamy DKIM CNAME pro **každou** vlastní doménu pomocí následujících formátů:
+   Záznamy DKIM CNAME pro **každou** vlastní doménu používají následující formáty:
 
    - **Název hostitele**:`selector1._domainkey.<CustomDomain>`
 
@@ -36,16 +36,16 @@ ms.locfileid: "36666257"
 
      **TTL**: 3600
 
-   \<DomainGUID\> je text vlevo od `.mail.protection.outlook.com` ve vlastní záznam MX pro vlastní domény (například `contoso-com` pro doménu contoso.com). \<InitialDomain\> je doména, který jste použili při registraci služeb Office 365 (například contoso.onmicrosoft.com).
+   \<DomainGUID\> je text nalevo od `.mail.protection.outlook.com` v přizpůsobeném záznamu MX `contoso-com` pro vlastní doménu (například pro doménu contoso.com). \<InitialDomain\> je doména, kterou jste použili při registraci do Microsoftu 365 (například contoso.onmicrosoft.com).
 
-2. Po vytvoření záznamů CNAME pro vaší vlastní domény postupujte podle následujících pokynů:
+2. Po vytvoření záznamů CNAME pro vlastní domény postupujte podle následujících pokynů:
 
-   na. [Přihlaste se k Office 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) pomocí svého účtu pracovní nebo školní účet.
+   A. [Přihlaste se k Microsoftu 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) pomocí pracovního nebo školního účtu.
 
-   b. V levém horním rohu vyberte ikonu spouštěče aplikací a zvolte **Správce**.
+   B. V levém horním rohu vyberte ikonu spouštěče aplikací a zvolte **Správce**.
 
-   c. V levém navigačním **Admin** rozbalte a vyberte **Exchange**.
+   C. V levém dolním navigačním panelu rozbalte **položku Správce** a zvolte **Exchange**.
 
-   d. Přejít na **ochranu** > **DKIM**.
+   D. Přejděte na **ochranu** > **DKIM**.
 
-   e. Vyberte doménu a pak zvolte **Povolit** **přihlašovací**zprávy pro tuto doménu s DKIM podpisy. Tento krok opakujte pro každou vlastní doménu.
+   E. Vyberte doménu a pak zvolte **Povolit** pro **podepisování zpráv pro tuto doménu s podpisy DKIM**. Tento krok opakujte pro každou vlastní doménu.

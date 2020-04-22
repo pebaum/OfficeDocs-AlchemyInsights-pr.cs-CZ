@@ -1,9 +1,9 @@
 ---
-title: Služby Access Services
+title: Přístup ke službám
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: 2e645d3462d48227624e3d416d37d422c5d8baed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 165417510a0b7d19ddbd7afefff9cd12713e90da
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495672"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43686603"
 ---
-# <a name="access-services"></a>Služby Access Services
+# <a name="access-services"></a>Přístup ke službám
 
-Vyřazení funkce služeb Access Services v Online služby SharePoint. Nový přístup k sadě webových aplikací a webových databází můžete nadále vytvářet a stávajících webových aplikací a webových databází bude ukončena v dubnu, 2018. Plochy databáze aplikace Access (ACCDB) nejsou ovlivněny tuto změnu. Doporučujeme, aby že Microsoft PowerApps jako alternativu k přístupu webové aplikace a webové databáze. 
+Funkce Přístupové služby v SharePointu Online je vyřazena. Nové webové aplikace a webové databáze založené na Accessu již nelze vytvářet a stávající webové aplikace a webové databáze budou do dubna 2018 vypnuty. Access Desktopové databáze (.accdb) nejsou touto změnou ovlivněny. Jako alternativu k webovým aplikacím a webovým databázím pro Access doporučujeme Microsoft PowerApps. 
   
 [Další informace o Microsoft PowerApps](https://powerapps.microsoft.com/)
   
