@@ -1,9 +1,9 @@
 ---
-title: Funkce žádosti o přístup
+title: Funkce Žádosti o přístup
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 11/14/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,28 +11,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: c61947bc99d92768b18baaafd8d857d402e867b0
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 56cf55fcc58a33e8f2501196a552b3ac2dad7dff
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051886"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767314"
 ---
-# <a name="give-users-access-to-sharepoint-site"></a><span data-ttu-id="3d4a0-102">Poskytnout uživatelům přístup k webu služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="3d4a0-102">Give users access to SharePoint site</span></span>
+# <a name="give-users-access-to-sharepoint-site"></a><span data-ttu-id="22931-102">Poskytnutí přístupu uživatelům k webu Služby SharePoint</span><span class="sxs-lookup"><span data-stu-id="22931-102">Give users access to SharePoint site</span></span>
 
-<span data-ttu-id="3d4a0-103">Funkce vyžádání přístupu umožňuje uživatelům požadovat přístup k obsahu, který aktuálně nemá oprávnění k zobrazení.</span><span class="sxs-lookup"><span data-stu-id="3d4a0-103">The access request feature allows people to request access to content that they do not currently have permission to see.</span></span> <span data-ttu-id="3d4a0-104">Jako vlastník webu můžete nakonfigurovat tuto funkci tak, aby vám odesílal poštu, když někdo požádá o přístup k webu.</span><span class="sxs-lookup"><span data-stu-id="3d4a0-104">As a site owner, you can configure the feature to send you mail when someone requests access to a site.</span></span> <span data-ttu-id="3d4a0-105">Další informace naleznete na webu [nastavení a správa žádostí o přístup](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).</span><span class="sxs-lookup"><span data-stu-id="3d4a0-105">For more information, please visit [Set up and manage access requests](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).</span></span>
+<span data-ttu-id="22931-103">Funkce žádosti o přístup umožňuje uživatelům požádat o přístup k obsahu, ke kterému aktuálně nemají oprávnění.</span><span class="sxs-lookup"><span data-stu-id="22931-103">The access request feature allows people to request access to content that they do not currently have permission to see.</span></span> <span data-ttu-id="22931-104">Jako vlastník webu můžete tuto funkci nakonfigurovat tak, aby vám posílala poštu, když někdo požádá o přístup k webu.</span><span class="sxs-lookup"><span data-stu-id="22931-104">As a site owner, you can configure the feature to send you mail when someone requests access to a site.</span></span> <span data-ttu-id="22931-105">Další informace naleznete na stránce [Nastavení a správa žádostí o přístup](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).</span><span class="sxs-lookup"><span data-stu-id="22931-105">For more information, please visit [Set up and manage access requests](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).</span></span>
 
-<span data-ttu-id="3d4a0-106">Zde jsou některé běžné odkazy týkající se žádostí o přístup:</span><span class="sxs-lookup"><span data-stu-id="3d4a0-106">Here are some common links regarding access requests:</span></span>
+<span data-ttu-id="22931-106">Zde jsou některé běžné odkazy týkající se žádostí o přístup:</span><span class="sxs-lookup"><span data-stu-id="22931-106">Here are some common links regarding access requests:</span></span>
 
-- [<span data-ttu-id="3d4a0-107">Při zpracování žádosti čekající na vyřízení ve službě SharePoint Online byl odepřen přístup k seznamu požadavků na přístup nebo se nezdařilo schválení požadavku</span><span class="sxs-lookup"><span data-stu-id="3d4a0-107">Access Denied" to Access Requests list or "Request approval failed" when you process a pending request in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
+- [<span data-ttu-id="22931-107">Přístup byl odepřen" seznamu žádostí o přístup nebo "Žádost o schválení se nezdařila" při zpracování nevyřízené žádosti v SharePointu Online</span><span class="sxs-lookup"><span data-stu-id="22931-107">Access Denied" to Access Requests list or "Request approval failed" when you process a pending request in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
-- [<span data-ttu-id="3d4a0-108">Změna nastavení požadavků na přístup</span><span class="sxs-lookup"><span data-stu-id="3d4a0-108">Change access requests settings</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [<span data-ttu-id="22931-108">Změna nastavení žádostí o přístup</span><span class="sxs-lookup"><span data-stu-id="22931-108">Change access requests settings</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-- [<span data-ttu-id="3d4a0-109">Schválení nebo odmítnutí požadavků na přístup pro web</span><span class="sxs-lookup"><span data-stu-id="3d4a0-109">Approve or decline access requests for a site</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [<span data-ttu-id="22931-109">Schválení nebo odmítnutí žádostí o přístup k webu</span><span class="sxs-lookup"><span data-stu-id="22931-109">Approve or decline access requests for a site</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-- [<span data-ttu-id="3d4a0-110">Správa pozvání k externím uživatelům (pouze služba SharePoint Online)</span><span class="sxs-lookup"><span data-stu-id="3d4a0-110">Manage invitations to external users (SharePoint Online only)</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [<span data-ttu-id="22931-110">Správa pozvánek pro externí uživatele (jenom SharePoint Online)</span><span class="sxs-lookup"><span data-stu-id="22931-110">Manage invitations to external users (SharePoint Online only)</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-- [<span data-ttu-id="3d4a0-111">Opětovné odeslání pozvánky</span><span class="sxs-lookup"><span data-stu-id="3d4a0-111">Resend an invitation</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [<span data-ttu-id="22931-111">Opětovné odeslání pozvánky</span><span class="sxs-lookup"><span data-stu-id="22931-111">Resend an invitation</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 

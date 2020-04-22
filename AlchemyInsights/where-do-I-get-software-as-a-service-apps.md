@@ -1,9 +1,9 @@
 ---
-title: Kde mohu získat aplikace s softwarovými službami (SaaS)?
+title: Kde získám aplikace s softwarem jako službou (SaaS)?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000562"
 - "2421"
-ms.openlocfilehash: 6788a534d19521db98eb3ba59536cebeb02e190c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e55d8731ad930056975bd2aa36bee2ce781ab720
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36558538"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765226"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a><span data-ttu-id="280f8-102">Kde se nacházejí aplikace společnosti Microsoft s aplikací jako je služba (SaaS)?</span><span class="sxs-lookup"><span data-stu-id="280f8-102">Where do I get software-as-a-service (SaaS) apps from Microsoft partners?</span></span>
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a><span data-ttu-id="5e5d8-102">Kde získám aplikace softwaru jako služby (SaaS) od partnerů společnosti Microsoft?</span><span class="sxs-lookup"><span data-stu-id="5e5d8-102">Where do I get software-as-a-service (SaaS) apps from Microsoft partners?</span></span>
 
-<span data-ttu-id="280f8-103">Zákazníci mohou vyhledávat, prozkoumat a nakupovat aplikace SaaS z [Appsource](http://www.appsource.com/).</span><span class="sxs-lookup"><span data-stu-id="280f8-103">Customers can search for, research, and purchase SaaS apps from [AppSource](http://www.appsource.com/).</span></span>
+<span data-ttu-id="5e5d8-103">Zákazníci mohou vyhledávat, zkoumat a nakupovat aplikace SaaS z [AppSource](https://www.appsource.com/).</span><span class="sxs-lookup"><span data-stu-id="5e5d8-103">Customers can search for, research, and purchase SaaS apps from [AppSource](https://www.appsource.com/).</span></span>

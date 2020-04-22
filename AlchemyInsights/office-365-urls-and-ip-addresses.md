@@ -1,9 +1,9 @@
 ---
-title: Adresy URL sady Office 365 a adresy IP
+title: Adresy URL a ADRESY IP od Microsoftu 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,16 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
-ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
+ms.openlocfilehash: 4a8de785b02e60f035d6a6f24e726f58fb15929c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37775308"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761585"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a><span data-ttu-id="80d2d-102">Adresy URL sady Office 365 a rozsahy adres IP</span><span class="sxs-lookup"><span data-stu-id="80d2d-102">Office 365 URLs and IP address ranges</span></span>
+# <a name="microsoft-365-urls-and-ip-address-ranges"></a><span data-ttu-id="bde2a-102">Adresy URL a rozsahy IP adres od Microsoftu 365</span><span class="sxs-lookup"><span data-stu-id="bde2a-102">Microsoft 365 URLs and IP address ranges</span></span>
 
-<span data-ttu-id="80d2d-103">Sada Office 365 vyžaduje připojení k Internetu prostřednictvím určitých adres IP nazývaných *koncové body*.</span><span class="sxs-lookup"><span data-stu-id="80d2d-103">Office 365 requires connectivity to the Internet via specific IP addresses called *endpoints*.</span></span>
-<span data-ttu-id="80d2d-104">Seznam koncových bodů, které musí být dostupné, naleznete v [adresách URL sady Office 365 a rozsahy adres IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span><span class="sxs-lookup"><span data-stu-id="80d2d-104">For a list of endpoints that need to be reachable, see [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span></span> 
+<span data-ttu-id="bde2a-103">Microsoft 365 vyžaduje připojení k Internetu prostřednictvím konkrétních IP adres nazývaných *koncové body*.</span><span class="sxs-lookup"><span data-stu-id="bde2a-103">Microsoft 365 requires connectivity to the Internet via specific IP addresses called *endpoints*.</span></span>
+<span data-ttu-id="bde2a-104">Seznam koncových bodů, které je třeba k zastihnout, najdete v [tématu Adresy URL a rozsahy IP adres microsoftu 365.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span><span class="sxs-lookup"><span data-stu-id="bde2a-104">For a list of endpoints that need to be reachable, see [Microsoft 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span></span> 
 
-<span data-ttu-id="80d2d-105">Adresa IP a webová služba URL sady Office 365 vám pomohou lépe identifikovat a rozlišit síťové přenosy sady Office 365, což vám umožní snadněji vyhodnotit, konfigurovat a udržet aktuální změny.</span><span class="sxs-lookup"><span data-stu-id="80d2d-105">The Office 365 IP Address and URL web service helps you better identify and differentiate Office 365 network traffic, making it easier for you to evaluate, configure, and stay up to date with changes.</span></span> <span data-ttu-id="80d2d-106">Viz [Office 365 adresa IP a webová služba URL](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).</span><span class="sxs-lookup"><span data-stu-id="80d2d-106">See [Office 365 IP Address and URL web service](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).</span></span>
+<span data-ttu-id="bde2a-105">Webová služba Ip adresy a adresy URL společnosti Microsoft 365 vám pomůže lépe identifikovat a rozlišit síťový provoz microsoftu 365, což usnadňuje vyhodnocení, konfiguraci a sledování se změnami.</span><span class="sxs-lookup"><span data-stu-id="bde2a-105">The Microsoft 365 IP Address and URL web service helps you better identify and differentiate Microsoft 365 network traffic, making it easier for you to evaluate, configure, and stay up to date with changes.</span></span> <span data-ttu-id="bde2a-106">Viz [Webová služba IP adresy a adresy URL Office 365](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).</span><span class="sxs-lookup"><span data-stu-id="bde2a-106">See [Office 365 IP Address and URL web service](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).</span></span>
