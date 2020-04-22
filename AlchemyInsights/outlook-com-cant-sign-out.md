@@ -1,9 +1,9 @@
 ---
-title: Nelze odhlásit Outlook.com
+title: Outlook.com se nemůže odhlásit
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0469aa53e031970ef295856619dbb59e0b95bf5a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d668960b463c7dd3d9731e4d7b52a7779331b034
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547808"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666842"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Nelze odhlásit z Outlook.com
+# <a name="unable-to-sign-out-of-outlookcom"></a>Nelze se odhlásit z Outlook.com
 
-Chcete-li odhlásit z Outlook.com, vyberte jméno nebo obrázek v pravém horním rohu obrazovky a pak vyberte příkaz **Odhlásit**.
+Pokud se chcete odhlásit ze Outlook.com, vyberte své jméno nebo obrázek v pravém horním rohu obrazovky a pak vyberte **Odhlásit se**.
 
-Pokud není zobrazen obrázek v horní části obrazovky, zkontrolujte, zda je zapnuta blokování reklam. V některých případech nebude obrázek zobrazující.
+Pokud obrázek v horní části obrazovky nevidíte, zkontrolujte, jestli je blokování reklam zapnuté. To někdy brání zobrazení obrázku.
 
-Pokud stále nemůžete podepsat z Outlook.com, klepněte na tlačítko [https://login.live.com/logout.srf](https://login.live.com/logout.srf) pak zavřete všechna okna prohlížeče.
+Pokud se z Outlook.com stále nemůžete [https://login.live.com/logout.srf](https://login.live.com/logout.srf) odhlásit, klikněte na zavřete všechna okna prohlížeče.

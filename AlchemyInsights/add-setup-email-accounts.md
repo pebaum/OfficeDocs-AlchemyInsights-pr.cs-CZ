@@ -1,8 +1,8 @@
 ---
-title: 764 přidat/nastavit e-mailové účty
+title: 764 Přidání a nastavení e-mailových účtů
 ms.author: pdigia
 author: pebaum
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2495ad459e1eb318ad2f3e9753a4bae07fa8909a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36660893"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671378"
 ---
-# <a name="setup-email-accounts"></a>Nastavit e-mailové účty
+# <a name="setup-email-accounts"></a>Nastavení e-mailových účtů
 
-1. V aplikaci Outlook vyberte možnost**informace o** >  **souboru** > **Přidat účet**.
+1. V Outlooku vyberte Přidat účet**informace o** >  **souboru** > .**Add Account**
 
-2. Zadejte svou e-mailovou adresu a pak klepněte na možnost **připojit**.
+2. Zadejte svou e-mailovou adresu a pak vyberte **Připojit**.
 
-3. Zadejte heslo a klepněte na **tlačítko OK**.
+3. Zadejte heslo a vyberte **OK**.
 
-4. Opakováním těchto kroků můžete přidat více účtů.
+4. Tyto kroky můžete zopakovat a přidat více účtů.
 
     > [!NOTE]
-    > Některé e-mailové účty, například Gmail, Yahoo nebo Ichlasitý, vyžadují, abyste nastavili dvoufaktorovou autentizaci, aby bylo možné používat aplikaci Outlook k odesílání a přijímání e-mailů. Další informace naleznete v tématu [Přidání e-mailového účtu do aplikace Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
+    > Některé e-mailové účty, například Gmail, Yahoo a iCloud, vyžadují, abyste nastavili dvoufaktorové ověřování, abyste mohli používat Outlook k odesílání a přijímání e-mailů. Další informace najdete [v tématu Přidání e-mailového účtu do Outlooku.](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)
   

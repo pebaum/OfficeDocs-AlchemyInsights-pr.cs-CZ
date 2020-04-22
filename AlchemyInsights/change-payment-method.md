@@ -12,21 +12,21 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 9408ea841ec142450c6a796b703021e0e2835543
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 72a0ea867e8ea6bc5fff80b6a8497195c15f82e7
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068270"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655491"
 ---
 # <a name="change-payment-method"></a>Změna způsobu platby
 
-Můžete ověřit a změnit způsob platby nakonfigurovaný v centru Microsoft 365 Admin Center. Vyberte předplatné, které chcete ověřit. Způsob platby nakonfigurovaný pro odběr se zobrazí pod položkou **fakturace**.
+Můžete ověřit a změnit způsob platby, který je nakonfigurovaný v Centru pro správu Microsoftu 365. Vyberte předplatné, které chcete ověřit. Způsob platby nakonfigurovaný pro předplatné se zobrazí v části **Fakturace**.
   
 1. V Centru pro správu přejděte na stránku **Fakturace** \> [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
 2. Najděte předplatné, pro které chcete změnit způsob platby. Vedle způsobu platby vyberte **Upravit**.
 
-3. Dokončete změnu podle pokynů na obrazovce.
+3. Změnu dokončete podle pokynů na obrazovce.
 
-Další informace naleznete v tématu [Změna způsobu platby pro sadu Office 365 pro podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+Další informace najdete v [tématu Změna způsobu platby pro Microsoft 365 pro firmy.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)

@@ -1,8 +1,8 @@
 ---
-title: Správa skupiny bez licence serveru Exchange
+title: Správa skupiny bez výměnné licence
 ms.author: pebaum
 author: pebaum
-ms.date: 5/23/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: f117cc1dc55e1786a9f6bc500314877e97df3f5e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7170f98a1f874f5f44badc82247e1e933f9972d8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049258"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671162"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>Správa skupiny bez licence serveru Exchange
+# <a name="manage-a-group-without-an-exchange-license"></a>Správa skupiny bez výměnné licence
 
-Pokud účet správce sady Office 365 nemá poštovní schránku, může se při pokusu o úpravu skupiny sady Office 365 setkat s chybějící licencí k produktu.
+Pokud váš účet správce nemá poštovní schránku, může se při pokusu o úpravu skupiny Office 365 zobrazit chyba ohledně chybějící licence produktu.
   
-Protože jste správcem klienta, můžete upravit skupinu i v případě, že nemáte licenci pro server Exchange. Chcete-li spravovat skupinu Office 365, stačí přejít do \> **skupiny** [centra pro správu serveru Exchange](https://outlook.office365.com/ecp.aspx) .
+Vzhledem k tomu, že jste správcem tenanta, můžete skupinu upravit, i když nemáte licenci Exchange. Stačí přejít na \> **Skupiny** [Centra pro správu Exchange](https://outlook.office365.com/ecp.aspx) a spravovat skupinu Office 365.
   
-Chcete-li upravit skupiny v centru pro správu, přidejte licenci serveru Exchange k účtu správce. Před úpravou skupiny je třeba počkat na úplné vytvoření poštovní schránky.
+Pokud chcete upravit skupiny v Centru pro správu, přidejte k účtu správce licenci Exchange. Před úpravou skupiny je třeba počkat, až bude poštovní schránka plně vytvořena.
   

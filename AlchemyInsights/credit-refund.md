@@ -1,9 +1,9 @@
 ---
-title: Dal/náhrady
+title: Kredit/refundace
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 7/11/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 72b765ddd33d01be03c5dbd44600670fd26e5370
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 717e6e7547c9b60d9ddc490f66bcc4b689bbb2ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389205"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705294"
 ---
-# <a name="creditrefund"></a>Dal/náhrady
+# <a name="creditrefund"></a>Kredit/refundace
 
 **Zrušení**
   
-Po zrušení přihlášení k odběru, obdržíte konečnou fakturu s Dal termín na datum další fakturace. To může trvat až 30 dní ode dne, kdy předplatné bylo zrušeno přijímat.
+Při zrušení předplatného obdržíte konečnou fakturu s kreditem splatným k dalšímu fakturačnímu datu. Příjem od data zrušení předplatného může trvat až 30 dní.
   
-**Změna sedadla**
+**Výměna sedadel**
   
-Licence jsou odstraněny z předplatného, nepoužité čas na tyto licence budou použity jako kredit na další kusovníku. To může trvat až 30 dní ode dne, kdy jsou odebrána licence přijímat.
+Po odebrání licencí z předplatného bude nevyužitý čas na těchto licencích použit jako kredit na další vyúčtování. Příjem licencí může trvat až 30 dní.

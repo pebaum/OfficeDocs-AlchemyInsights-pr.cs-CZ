@@ -2,7 +2,7 @@
 title: Poradce při potížích s aktivací
 ms.author: jillz
 author: jillz
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: a9dfbdd5b8b1dc34eded716ac7162f7188e622df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495564"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676418"
 ---
 # <a name="activation-troubleshooting"></a>Poradce při potížích s aktivací
 
-V **Ovládacích panelech** \> , **programy a funkce**hledání sady Office. Měli byste vidět Microsoft Office 365 ProPlus nebo Microsoft Office 365 Business. Pokud se zobrazí více než jednu verzi sady Office, které jsou uvedeny, odinstalujte verzi, které nepoužíváte.
+V **Ovládacích panelech** \> **Programy a funkce**vyhledejte Office. Měli byste vidět Microsoft 365 Apps pro podniky nebo Microsoft 365 Apps pro firmy. Pokud se v seznamu zobrazí více verzí Office, odinstalujte nepoužívané verze.
   
-Pokud odinstalování úspěšně pomocí ovládacích panelů pomocí [podpory a Pomocník pro obnovení](https://aka.ms/SARA-OfficeUninstall-Alchemy) k odinstalaci verze, které nepoužíváte.
+Pokud se vám nedaří úspěšně odinstalovat pomocí Ovládacích panelů, odinstalujte verzi, kterou nepoužíváte, pomocí [Pomocníka pro podporu a obnovení.](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-Pokud je stále bez licence Office, přejděte zpět do **Ovládacího panelu** \> **programy a funkce**. Zbývající instalace sady Office klepněte pravým tlačítkem myši, vyberte **Upravit** (nebo změnit) a vyberte **Opravy Online**. Opravy online může chvíli trvat. Potom restartujte sadu Office a přihlaste se pomocí práce nebo školní účet, pokud se zobrazí výzva.
+Pokud sada Office stále nemá licenci, přejděte zpět do **Ovládacích panelů** \> **Programy a funkce**. Klikněte pravým tlačítkem myši na zbývající instalaci Office, vyberte **Změnit** (nebo Změnit) a pak vyberte **Online Repair**. Online oprava může chvíli trvat. Potom restartujte Office a po zobrazení výzvy se přihlaste pomocí svého pracovního nebo školního účtu.
   
-Pokud je stále bez licence Office, stáhněte a spusťte [Poradce při potížích s aktivací](https://aka.ms/SARA-OfficeActivation-Alchemy) na ohrožené počítače Chcete-li vyřešit problémy s aktivací.
+Pokud office stále nemá licenci, stáhněte si a spusťte [poradce při potížích s aktivací](https://aka.ms/SARA-OfficeActivation-Alchemy) v postiženém počítači, abyste opravili problémy s aktivací.
   
-Další informace naleznete v tématu: [nelicencovaný produkt a chyby aktivace sady Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Další informace naleznete v [tématu: Nelicencované chyby produktu a aktivační chyby v Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

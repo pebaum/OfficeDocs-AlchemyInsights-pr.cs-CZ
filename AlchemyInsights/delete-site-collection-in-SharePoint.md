@@ -2,18 +2,18 @@
 title: Odstranění webu
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 01290defa0c12ba92707bf7368b371c14f2eae56
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 978df2785967eac4b951fa3facdac0b8c2833d1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42931291"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704770"
 ---
 # <a name="delete-a-site"></a>Odstranění webu
 

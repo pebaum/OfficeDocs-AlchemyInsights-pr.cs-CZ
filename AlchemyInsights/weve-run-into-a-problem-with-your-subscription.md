@@ -1,5 +1,5 @@
 ---
-title: Oprava aplikací sady Office vyskytl se problém se zprávou o odběru.
+title: Oprava aplikací Narazili jsme na problém se zprávou o předplatném
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3419"
 - "9001427"
-ms.openlocfilehash: e1ba8c1ef4d62b1e2f129d7e299745ed317927b1
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: dc83c4edd6d25606e8b8fb18fa0c6562bf833e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628199"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676850"
 ---
-# <a name="fixing-the-office-apps-weve-run-into-a-problem-with-your-subscription-message"></a>Oprava aplikací sady Office "vyskytly se potíže se zprávou o odběru"
+# <a name="fixing-the-office-apps-weve-run-into-a-problem-with-your-subscription-message"></a>Oprava zprávy Ořešení aplikací Office "Narazili jsme na problém s vaším předplatným"
 
-Zobrazí-li se tato zpráva, postupujte takto:
+Pokud se zobrazí tato zpráva, vyzkoušejte následující postup:
 
-- Pokud jste nedávno přepnuli na jiný předplatné sady Office 365, postupujte podle pokynů v [části "oznámení o účtu" v sadě Office po přepnutí sady office 365](https://support.office.com/article/account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) , aby bylo možné přeinstalovat nebo aktualizovat sadu Office.
-- Viz [Chyba systému Office "upozornění účtu: došlo k potížím s odběrem sady Office 365"](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1). 
-- Odebrání a opětovné přiřazení [licence systému Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) postiženého uživatele 
-- Otevřete aplikaci sady Office, vyberte **položku** > **účet**a odpodepište všechny účty. Přihlaste se znovu pomocí uživatelského účtu s platnou licencí. Podrobné informace naleznete v tématu [obchodní vztahy v sadě Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9).
+- Pokud jste nedávno přešli na jiné předplatné/plán Microsoft 365, postupujte podle pokynů v části Oznámení o účtu, které [se zobrazí v Office po přepnutí předplatných Microsoft 365](https://support.office.com/article/account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) k přeinstalaci nebo aktualizaci Office.
+- Viz [chyba Office "Oznámení o účtu: Narazili jsme na problém s vaším předplatným Microsoft 365"](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1). 
+- Odeberte a znovu přiřaďte [licenci](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) postiženému uživateli. 
+- Otevřete aplikaci Office, vyberte **Účet** > **soubor**a odhlaste se ze všech účtů. Přihlaste se znovu pomocí uživatelského účtu s platnou licencí. Podrobné informace najdete v článku [Účty v Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9).
 - Spusťte [Poradce při potížích s aktivací](https://aka.ms/SARA-OfficeActivation-Alchemy) a restartujte počítač.
-- V ohroženém počítači [Obnovte stav aktivace systému Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
+- Na postiženém počítači [obnovte stav aktivace sady Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-Podrobné pokyny naleznete v tématech: 
-- [Při otevření aplikace sady Office 365 se zobrazí oznámení o odběru](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
-- [Odstraňování problémů s aktivací sady Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+Podrobné pokyny: 
+- [Při otevření aplikace Microsoft 365 se zobrazí oznámení o předplatném](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+- [Poradce při potížích s aktivací Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)

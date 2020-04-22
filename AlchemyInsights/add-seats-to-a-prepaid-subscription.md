@@ -1,9 +1,9 @@
 ---
-title: Přidání křesel do předplacené zálohy
+title: Přidání licencí k předplacenému předplatnému
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,28 +13,28 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e2d9c25b12a11e933cf0ff40436c717172621af7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36660965"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671450"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>Přidání křesel do předplacené zálohy
+# <a name="add-seats-to-a-prepaid-subscription"></a>Přidání licencí k předplacenému předplatnému
 
-Předplacené licence sady Office 365 vám jsou vydávány jako 25místný alfanumerický kód. Po zakoupení licencí, které potřebujete, je můžete přidat k předplatnému. 
+Předplacené licence se vystavují ve formě 25místného alfanumerického kódu. Po zakoupení potřebných licencí je můžete přidat do předplatného. 
 
-1. V centru pro správu přejděte na stránku **fakturační** > [produkty & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V Centru pro správu přejděte na stránku **Fakturační** > [produkty & služby.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-2. Najděte předplatné, ke kterému chcete přidat licence. V části **licence** vyberte možnost **Přidat další licence**.
+2. Najděte předplatné, ke kterým chcete přidat licence. V části **Licence** vyberte **Přidat další licence**.
 
-3. V podokně **Přidat další licence** vyberte možnost **použít nový a nepoužitý kód Product Key**a potom klepněte na tlačítko **Další**.
+3. V podokně **Přidat další licence** vyberte Použít nový a **nepoužitý kód Product Key**a pak vyberte **Další**.
 
-4. Zadejte kód Product Key a pak klepněte na tlačítko **Další**.
+4. Zadejte kód Product Key a vyberte **Další**.
 
     > [!NOTE]
-    > Máte-li více než jeden kód Product Key, můžete k jejich zadávání vybrat možnost **Přidat další kód Product Key** .
+    > Pokud máte více než jeden kód Product Key, můžete pro něj zadat **další kód Product Key.**
 
-5. Zkontrolujte podrobnosti objednávky a poté vyberte možnost **uplatnit**.
+5. Zkontrolujte podrobnosti objednávky a pak vyberte **Uplatnit**.
 
-Další informace naleznete v tématu [Přidání licencí k odběru nebo rozšíření předplatného placené za použití klíče produktu](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Další informace najdete v [tématu Přidání licencí k předplatnému placenému pomocí kódu Product Key nebo jeho rozšíření](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

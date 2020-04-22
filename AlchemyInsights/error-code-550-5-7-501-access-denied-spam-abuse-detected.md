@@ -1,8 +1,8 @@
 ---
-title: Kód chyby 550 5.7.501 odepřen přístup, bylo zjištěno zneužití nevyžádané pošty
+title: Kód chyby 550 5.7.501 Přístup odepřen, bylo zjištěno zneužití nevyžádané pošty
 ms.author: chrisda
 author: chrisda
-ms.date: 6/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7be23f02878d12aa08cb4970af6f99539a9cefab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740134"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703019"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 odepření přístupu, zjištěno zneužití nevyžádané pošty
+# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 Přístup odepřen, bylo zjištěno zneužití spamu
 
-Tato zpráva se obvykle zobrazí, pokud uživatelé odesílají e-mailové zprávy z adres IP pomocí počáteční domény *onmicrosoft.com* , která je přiřazena novým nájemníkům v sadě Office 365. Nejjednodušším způsobem řešení těchto potíží je:
+Tato zpráva se obvykle vyskytuje, když uživatelé odesílají e-mailové zprávy z IP adres pomocí počáteční domény *.onmicrosoft.com,* která je přiřazena novým klientům v Microsoftu 365. Nejjednodušší způsob, jak tento problém vyřešit, je:
 
-1. [Přidejte doménu k nájemci](https://docs.microsoft.com//office365/admin/setup/add-domain).
+1. [Přidejte doménu do klienta](https://docs.microsoft.com//office365/admin/setup/add-domain).
 
-2. [Změňte primární e-mailovou adresu uživatele](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) na novou vlastní doménu, kterou jste právě přidali.
+2. [Změňte primární e-mailovou adresu uživatelů](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) na novou vlastní doménu, kterou jste právě přidali.

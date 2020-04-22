@@ -1,22 +1,22 @@
 ---
-title: Je můžete vidět e-mailu nebo do fronty pošty?
+title: Zobrazuje se zpoždění e-mailů nebo pošta ve frontě?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: 285ad9e856390dc0cba10ebed9aae07461de3e14
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ae90583cc93653a615b5f1abdaa699b52a8b8af5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34764935"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703780"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Je můžete vidět e-mailu nebo do fronty pošty?
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Zobrazuje se zpoždění e-mailů nebo pošta ve frontě?
 
-Nedávno začal zavrhnutí starší Office 365 SMTP koncové body. K dispozici v záznamech MX a inteligentních hostitelů před 2012 byly tyto cílové hodnoty služeb Office 365. Pokud stále používáte jednu z těchto hodnot starší, budete potřebovat k aktualizaci na podporovanou hodnotu koncového bodu služeb Office 365. Další informace naleznete v tématu této [podpory KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Nedávno jsme začali zavrhovat starší koncové body SMTP. Tyto cílové hodnoty byly k dispozici pro použití v záznamech MX a inteligentních hostitelích před rokem 2012. Pokud stále používáte jednu z těchto starších hodnot, budete muset aktualizovat koncový bod na podporovanou hodnotu. Další informace naleznete v této [podpoře KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).

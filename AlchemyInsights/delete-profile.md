@@ -1,9 +1,9 @@
 ---
-title: 1800001 odstranit profil
+title: 1800001 Odstranit profil
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 8/29/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,30 +13,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: da0897bf834c7b96eb5e6035457ef664c486c7ae
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b3822a7b90048cb8f0447eeb80ca1c457a17918e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513208"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704826"
 ---
 # <a name="delete-a-profile"></a>Odstranění profilu
 
-Odstranění profilu, použijte následující kroky.
+Chcete-li profil odstranit, postupujte podle následujících kroků.
   
-1. V aplikaci Outlook, vyberte **soubor** \> **Nastavení účtu** \> **Spravovat profily**.
+1. V Outlooku vyberte **Nastavení** \> účtu **souboru** \> **Spravovat profily**.
 
-2. Vyberte možnost **Zobrazit profily**.
+2. Vyberte **Zobrazit profily**.
 
-3. V dialogovém okně **Pošta** vyberte profil, který chcete odstranit a potom klepněte na tlačítko **Odebrat**.
+3. V dialogovém okně **Pošta** vyberte profil, který chcete odstranit, a klepněte na **tlačítko Odebrat**.
 
     > [!NOTE]
-    > Aplikace Outlook může upozornit, odstranění profilu bude odebrat data v režimu offline. Nepřijdete o žádné informace uložené v datové soubory aplikace Outlook (PST) nebo veškeré informace uloženy v online účty, například Outlook.com, Exchange nebo Office 365 účty.
+    > Aplikace Outlook vás může upozornit, že odstraněním profilu odeberete offline data. Neztratíte žádné informace uložené v datových souborech aplikace Outlook (.pst) ani žádné informace uložené ve vašich online účtech, například Outlook.com, Exchange nebo Účty Microsoft 365.
   
-Správa profilů **aplikace Outlook pro Mac** naleznete v tématu [Spravovat profily nebo identity v aplikaci Outlook pro Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) nebo postupujte podle následujících kroků.
+Správa profilů **Outlooku for Mac** najdete v [tématu Správa profilů nebo identit v Outlooku for Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) nebo použijte následující kroky.
   
-1. Z Finderu otevřete složku **aplikace** .
+1. Z Finderu otevřete složku **Aplikace.**
 
-2. CTRL + klepnutí nebo klepněte pravým tlačítkem myši **Aplikace Microsoft Outlook**a vyberte **Zobrazit obsah balíčku**.
+2. Ctrl+klepněte nebo klikněte pravým tlačítkem myši na **aplikaci Microsoft Outlook**a vyberte **možnost Zobrazit obsah balíčku**.
 
-3. Vyberte **obsah** \> **Podpora sdílené**a potom spustit **Správce profilu aplikace Outlook**.
+3. Vyberte **sdílenou podporu** **obsahu** \> a spusťte **Správce profilů aplikace Outlook**.

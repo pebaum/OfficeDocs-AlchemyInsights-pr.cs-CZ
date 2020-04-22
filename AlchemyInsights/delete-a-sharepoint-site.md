@@ -1,29 +1,29 @@
 ---
-title: Odstranění webu služby SharePoint
+title: Odstranění sharepointového webu
 ms.author: pebaum
 author: pebaum
-ms.date: 1/24/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 75a4502dc0a68309189f1b424a22a5b42ef0b256
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2ab08cfa4d0cc7d39962f91dd60fd96d046b2ded
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052390"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704970"
 ---
-# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Odstranění webu z nového centra pro správu služby SharePoint
+# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Odstranění webu z nového Centra pro správu SharePointu
 
-Pomocí nového centra pro správu služby SharePoint můžete odstranit klasické i moderní weby. Vyberte **aktivní weby**, vyberte web a pak vyberte možnost **Odstranit**. Chcete [-li zobrazit a obnovit odstraněné weby v novém centru pro správu služby SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), vyberte **odstraněné weby**. Další informace naleznete v tématu [odstranění webu v novém centru pro správu služby SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
+Pomocí nového Centra pro správu SharePointu můžete odstranit klasické i moderní weby. Vyberte **Aktivní weby**, vyberte web a pak vyberte **Odstranit**. Pokud chcete [zobrazit a obnovit odstraněné weby v novém Centru pro správu SharePointu](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), vyberte **Odstraněná webová stránka**. Další informace najdete [v tématu Odstranění webu v novém Centru pro správu SharePointu](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
-**Důležité:** Pokud je web součástí zásady uchovávání informací, je možné, že jej nebude možné odstranit, dokud nebude web odebrán z této [ &amp; zásady](https://protection.office.com/?rfr=AdminCenter#/homepage). Další informace naleznete v [přehledu zásad uchovávání informací](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
+**Důležité:** Pokud je web součástí zásad uchovávání informací, je možné, že jej nebudete moci odstranit, dokud nebude web odebrán ze [zásad Centra pro správu dodržování předpisů zabezpečení &amp; ](https://protection.office.com/?rfr=AdminCenter#/homepage). Další informace najdete v [tématu Přehled zásad uchovávání informací.](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) 
 
 Tipy:
-- Správci služby SharePoint mohou nyní odstranit weby patřící do **skupin Office 365**. Touto cestou odstraníte skupinu a všechny její zdroje, včetně poštovní schránky a kalendáře aplikace Outlook, a všech kanálů týmů. Další informace naleznete v tématu [odstranění webu služby SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-- Odstraněné weby lze obnovit po 93 dní. Odstraněné skupiny musí být obnoveny do 30 dnů. Další informace naleznete v tématu [zobrazení a obnovení odstraněných webů](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
-- Chcete-li web trvale odebrat, viz [trvale odstranit web](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). Tento krok bude vyžadován v případě, že plánujete znovu použít adresu URL. 
-- Chcete-li odebrat podřízený web, viz [odstranění rychlých kroků webu nebo podřízených webů](https://support.office.com/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut)
+- Správci SharePointu teď můžou odstraňovat weby, které patří do **skupin Office 365**. Tím odstraníte skupinu a všechny její prostředky, včetně poštovní schránky a kalendáře aplikace Outlook a všech kanálů Teams. Další informace najdete [v tématu Odstranění sharepointového webu.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Odstraněné weby můžete obnovit po dobu 93 dnů. Všimněte si, že odstraněné skupiny musí být obnoveny do 30 dnů. Další informace najdete v tématu [Zobrazení a obnovení odstraněných webů](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- Informace o trvalém odebrání webu naleznete v [tématu Trvalé odstranění webu](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). Tento krok bude vyžadován, pokud plánujete znovu použít adresu URL. 
+- Odebrání podřízenýweb, najdete [v tématu Odstranění webu nebo rychlých kroků podřízených webů.](https://support.office.com/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut)

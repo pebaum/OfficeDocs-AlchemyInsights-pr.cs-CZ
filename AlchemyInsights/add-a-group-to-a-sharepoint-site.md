@@ -1,9 +1,9 @@
 ---
-title: Přidání skupiny na web služby SharePoint
+title: Přidání skupiny na sharepointový web
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 8/3/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,39 +11,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 6ac4728c02471dd2640e0c516fee7cf5ebb12f54
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36495204"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676382"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>Přidání skupiny na web služby SharePoint
+# <a name="add-a-group-to-a-sharepoint-site"></a>Přidání skupiny na sharepointový web
 
-Některé týmové weby služby SharePoint (včetně těch, které byly vytvořeny v aplikaci Microsoft týmy) jsou spravovány vlastníky skupin Office 365. Weby a obsah služby SharePoint lze také sdílet se skupinami Office 365 a se skupinami SharePoint. Skupina SharePoint je kolekce uživatelů, kteří mají stejnou sadu oprávnění k webům a obsahu. Pro klasické weby doporučujeme používat skupiny k pohodlnému přiřazení stejné úrovně oprávnění mnoha uživatelům namísto přiřazování oprávnění jedné osobě najednou.
+Některé týmové weby SharePointu (včetně webů vytvořených v Microsoft Teams) spravují vlastníci skupin Office 365. Weby a obsah SharePointu lze taky sdílet se skupinami Office 365 a se skupinami SharePointu. Skupina SharePoint je kolekce uživatelů, kteří mají stejnou sadu oprávnění k webům a obsahu. U klasických webů doporučujeme používat skupiny k pohodlnému přiřazení stejné úrovně oprávnění mnoha lidem najednou, nikoli k přiřazení oprávnění jedné osobě najednou.
   
 Správa členů skupiny Office 365:
   
-1. Přejděte na [stránku skupiny v centru Microsoft 365 Admin Center](https://portal.office.com/adminportal/home#/groups).
+1. Přejděte na [stránku Skupiny v Centru pro správu Microsoftu 365](https://portal.office.com/adminportal/home#/groups).
     
-2. Výběrem skupiny zobrazíte její vlastníky a členy. Chcete-li přidat nebo odebrat osoby, klepněte na odkaz **Upravit** v řádku **vlastníci** nebo **Členové** . 
+2. Vyberte skupinu, chcete-li zobrazit její vlastníky a členy. Pokud chcete lidi přidat nebo odebrat, klikněte na odkaz **Upravit** v řádku **Vlastníci** nebo **Členové.** 
     
 Sdílení komunikačního webu se skupinou Office 365:
   
-1. Přejděte na web v prohlížeči a v pravém horním rohu klepněte na položku **sdílet web** . 
+1. Přejděte na web v prohlížeči a v pravém horním setu klikněte na **Sdílet.** 
     
-2. Zadejte název skupiny a pak vyberte úroveň oprávnění (číst, upravit nebo úplné řízení).
+2. Zadejte název skupiny a vyberte úroveň oprávnění (Čtení, Úpravy nebo Úplné řízení).
     
-Vytvoření skupiny SharePoint pro použití s klasickou sítí:
+Vytvořte skupinu SharePointu, která se bude používat s klasickým webem:
   
-1. Přejděte na web v prohlížeči a klepněte na ikonu nastavení vpravo nahoře.
+1. Přejděte na web v prohlížeči a klikněte na ikonu Nastavení v pravém horním.
     
-2. Klepněte na položku **Nastavení webu**a v části **Uživatelé a oprávnění**klepněte na tlačítko **oprávnění webu**.
+2. Klikněte na **Nastavení webu**a potom v části **Uživatelé a oprávnění**klikněte na Oprávnění **webu**.
     
-3. Na kartě oprávnění klepněte na tlačítko **vytvořit skupinu**.
+3. Na kartě Oprávnění klikněte na **vytvořit skupinu**.
     
 [Připojení klasického týmového webu k nové skupině Office 365](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[Další informace o práci se skupinami SharePoint](https://go.microsoft.com/fwlink/?linkid=874658)
+[Další informace o práci se skupinami SharePointu](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

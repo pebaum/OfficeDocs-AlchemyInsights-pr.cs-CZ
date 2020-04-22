@@ -3,7 +3,7 @@ title: Tipy pro zásady ochrany před únikem informací nefungují
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 6375fa8077529f36ae95d6632ad4d2db5625dc29
-ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
+ms.openlocfilehash: 7d31f6bcbd464b7428092b6fd6ff9f9582db2a8b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42977227"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704370"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problémy s tipem na zásady ochrany před únikem
 
-**Důležité:** V těchto nebývalých časech podnikáme kroky k zajištění toho, aby služby SharePointu Online a OneDrive zůstaly vysoce dostupné – další informace najdete na stránce [Dočasné úpravy funkcí SharePointu Online.](https://aka.ms/ODSPAdjustments)
+**Důležité**: V této mimořádné době přijímáme opatření, aby služby SharePointu Online a OneDrivu zůstaly vysoce dostupné. Další informace najdete v článku zaměřeném na [dočasné úpravy funkcí SharePointu Online](https://aka.ms/ODSPAdjustments).
 
 **Tipy pro zásady ochrany před únikem informací**
 

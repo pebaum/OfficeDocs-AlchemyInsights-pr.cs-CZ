@@ -1,5 +1,5 @@
 ---
-title: Změna oprávnění poštovní schránky
+title: Změna oprávnění v poštovní schránce
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734374"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692506"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a>Změna oprávnění poštovní schránky
+# <a name="changing-permissions-on-a-mailbox"></a>Změna oprávnění v poštovní schránce
 
-Pokud uživatelé potřebují přístup k poštovním schránkám sady Office 365 jiným než svým vlastním, musí jim být přidělena oprávnění pro práci s těmito poštovními schránkami. Způsob přiřazování těchto oprávnění závisí na typu poštovní schránky. Pokud uživatelé potřebují přístup k:
+Pokud uživatelé potřebují přístup k jiným poštovním schránkám, než je jejich vlastní, musí jim být udělena oprávnění k práci s těmito poštovními schránkami. Způsob přiřazení těchto oprávnění závisí na typu poštovní schránky. Pokud uživatelé potřebují přístup k:
   
-- Poštovní schránky jiných uživatelů-Podívejte [se, prosím, přidělte oprávnění poštovní schránky jinému uživateli sady Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Poštovní schránky jiných uživatelů – viz [Udělení oprávnění poštovní schránky jinému uživateli](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- Sdílená poštovní schránka-viz [Přidání nebo odebrání členů ze sdílené poštovní schránky](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Sdílená poštovní schránka – viz [Přidání nebo odebrání členů ze sdílené poštovní schránky](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
-Pokud oprávnění po provedení výše uvedených kroků nefungují správně, přejděte do centra pro správu serveru Exchange a pokuste se nastavit oprávnění z tohoto adresáře (viz [Správa oprávnění pro příjemce](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Pokud oprávnění nefungují správně po provedete výše uvedené kroky, přejděte do Centra pro správu Exchange a zkuste nastavit oprávnění odtud (viz [Správa oprávnění pro příjemce](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   

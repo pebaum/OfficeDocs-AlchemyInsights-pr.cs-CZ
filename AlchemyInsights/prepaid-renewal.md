@@ -1,9 +1,9 @@
 ---
-title: Obnovení záloh
+title: Předplacené obnovení
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,26 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666689"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666770"
 ---
-# <a name="prepaid-office-365-renewal"></a>Obnovení záloh služeb Office 365
+# <a name="prepaid-microsoft-365-renewal"></a>Předplacené obnovení Microsoftu 365
 
-1. Ve středisku pro správce, přejděte na **fakturační** \> stránku [produkty a služby &](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V Centru pro správu přejděte na stránku **Fakturace** \> [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Vyhledejte předplatné, které chcete rozšířit. V části **Fakturace** vyberte **rozšířit koncové datum**.
+2. Najděte předplatné, které chcete rozšířit. V části **Fakturace** vyberte **Prodloužit koncové datum**.
 
-3. V podokně **rozšíření odběru** vyberte položku **použít nové a nepoužívané product key**a potom klepněte na tlačítko **Další**.
+3. V podokně **Rozšířit odběr** vyberte Použít nový **a nepoužitý kód Product Key**a pak vyberte **Další**.
 
-4. Zadejte kód product key a potom klepněte na tlačítko **Další**.
+4. Zadejte kód Product Key a vyberte **Další**.
 
 > [!NOTE]
-> Pokud máte více než jeden kód product key, můžete je zadat **jiný kód product key přidat** .
+> Pokud máte více než jeden kód Product Key, můžete pro něj zadat **další kód Product Key.**
 
-5. Podrobnosti vaší objednávky a potom vyberte možnost **Redeem**.
+5. Zkontrolujte podrobnosti objednávky a pak vyberte **Uplatnit**.
 
-Další informace naleznete v tématu [Přidat licence nebo prodloužit předplatné zaplatili za pomocí kódu product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Další informace najdete v [tématu Přidání licencí k předplatnému placenému pomocí kódu Product Key nebo jeho rozšíření](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

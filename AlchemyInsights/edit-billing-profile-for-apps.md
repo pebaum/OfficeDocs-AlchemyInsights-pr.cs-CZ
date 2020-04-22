@@ -1,9 +1,9 @@
 ---
-title: Upravte fakturační profil pro aplikace
+title: Úprava fakturačního profilu aplikací
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: 6edfe19d9b4f75f93e80fac3f36d6b94b40f661a
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606629"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703888"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Upravte fakturační profil pro aplikace
+# <a name="edit-billing-profile-for-apps"></a>Úprava fakturačního profilu aplikací
 
-## <a name="to-change-the-billing-profile-on-apps"></a>Chcete-li změnit účtovací profil v apps
+## <a name="to-change-the-billing-profile-on-apps"></a>Změna fakturačního profilu v aplikacích
 
-1. Přejděte na **fakturační** > [produkty a služby &](https://go.microsoft.com/fwlink/p/?linkid=842054) stránky a potom klepněte na kartu **aplikace** .
+1. Přejděte na stránku **Fakturační** > [produkty & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) a pak zvolte kartu **Aplikace.**
 
 2. Najděte a vyberte aplikaci, kterou chcete spravovat.  
 
-3. U **fakturační profil**, vyberte **Upravit** a zvolte fakturační profil, který chcete přidružit aplikace.
+3. Vedle **položky Fakturační profil**vyberte **Upravit** a vyberte fakturační profil, který chcete k aplikaci přidružit.
 
-## <a name="edit-billing-profiles"></a>Upravit účtovací profily
+## <a name="edit-billing-profiles"></a>Úprava fakturačních profilů
 
-1. Přejděte na **fakturační** > [& platby směnky](https://go.microsoft.com/fwlink/p/?linkid=848039) stránky a potom vyberte **účtovací profily**.
+1. Přejděte na stránku **Účty za fakturaci** > [& platby](https://go.microsoft.com/fwlink/p/?linkid=848039) a pak zvolte **Fakturační profily**.
 
-2. Zvolte fakturační profil ze seznamu, který chcete upravit.
+2. Vyberte fakturační profil ze seznamu, který chcete upravit.

@@ -3,7 +3,7 @@ title: Chyba AttributeValueMustBeUnique
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: 5ac56fa78c66cf3b246bc0cc01f040e27310d629
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: fa1fdb35f1af250bc98aa61c0e5111f1f1b8aac4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36526973"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703167"
 ---
 # <a name="error-attributevaluemustbeunique"></a>Chyba: AttributeValueMustBeUnique
 
-Nejběžnější příčinou chyby AttributeValueMustBeUnique jsou dva objekty s odlišnou hodnotou Sourcekotvu (immutableId), které mají stejnou hodnotu atributů ProxyAddresses a/nebo UserPrincipalName. Při opravě chyby AttributeValueMustBeUnique postupujte takto:
+Nejběžnější důvod pro AttributeValueMustMustUnique chyba je dva objekty s různými SourceAnchor (imemtableId) mají stejnou hodnotu pro ProxyAddresses a/nebo UserPrincipalName atributy. Chcete-li opravit chybu AttributeValueMustMustMustUnique:
   
-1. Identifikujte duplikované proxyAddresses, userPrincipalName nebo jinou hodnotu atributu, která způsobuje chybu. Identifikujte také, které dva (nebo více) objekty jsou do konfliktu zapojeny. Sestava vytvořená pomocí Azure stavu připojení pro synchronizaci vám pomůže identifikovat tyto dva objekty.
+1. Identifikujte duplicitní proxyAdresy, userPrincipalName nebo jinou hodnotu atributu, která chybu způsobuje. Také určit, které dva (nebo více) objekty jsou zapojeny do konfliktu. Sestava generovaná službou Azure AD Connect Health pro synchronizaci vám může pomoci identifikovat dva objekty.
     
-2. Určete, který objekt by měl i nadále mít duplikátní hodnotu a který objekt by neměl být.
+2. Určete, který objekt by měl mít duplicitní hodnotu a který objekt by neměl.
     
-3. Odeberte duplikátní hodnotu z objektu, který by neměl mít tuto hodnotu. Nezapomeňte provést změnu v adresáři, ze kterého je objekt odvozen. V některých případech může být nutné odstranit některý z objektů v konfliktu.
+3. Odeberte duplicitní hodnotu z objektu, který by neměl mít tuto hodnotu. Všimněte si, že byste měli provést změnu v adresáři, odkud je objekt pochází. V některých případech může být nutné odstranit jeden z objektů v konfliktu.
     
-4. Pokud jste provedli změnu v prostorách služby AD, nechť Azure AD Connect provede synchronizaci změny, aby se chyba vyřeší.
+4. Pokud jste provedli změnu v místní službě AD, nechte Azure AD Connect synchronizovat změnu, aby se chyba opravila.
     
 

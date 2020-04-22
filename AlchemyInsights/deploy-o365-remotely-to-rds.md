@@ -1,9 +1,9 @@
 ---
-title: Nasazení sady Office 365 ProPlus pro sdílené použití na serveru RDS, Terminal Server nebo VDI
+title: Nasazení aplikací Microsoft 365 pro podniky pro sdílené použití v rds, terminálovém serveru nebo vdi
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 12/9/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 2312cca9ebf5dad1322bc98335cef6a6bc81f03e
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: ddd44d40e9430ee31b8b734450dde0defef229d7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959453"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704698"
 ---
-# <a name="deploying-office-365-proplus-for-shared-use-on-rds-terminal-server-or-vdi"></a>Nasazení sady Office 365 ProPlus pro sdílené použití na serveru RDS, Terminal Server nebo VDI
+# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Nasazení aplikací Microsoft 365 pro podniky pro sdílené použití v rds, terminálovém serveru nebo vdi
 
-Nasazení sady Office 365 ProPlus pomocí služby vzdálené plochy (RDS), dříve pojmenované Terminálová služba:
-- Je nutné, abyste měli k obchodnímu plánu Microsoft 365 pro obchodní plán nebo k plánu sady Office 365, který obsahuje sadu Office 365 ProPlus, například Office 365 Enterprise E3 nebo Enterprise E5.
+Chcete-li nasadit aplikace Microsoft 365 pro podniky pomocí služby RdS (Remote Desktop Services), dříve nazývaní Terminálová služba:
+- Musíte mít plán Microsoft 365 pro firmy nebo plán Office 365, který zahrnuje aplikace Microsoft 365 pro podniky, jako je Office 365 Enterprise E3 nebo Enterprise E5.
    > [!NOTE] 
-   > Plány Office 365 Business a Office 365 Business Premium nezahrnují sadu Office 365 ProPlus.
+   > Plány Microsoft 365 Apps pro firmy a Microsoft 365 Business Premium Standard neobsahují aplikace Microsoft 365 pro podniky.
 - Je nutné povolit [aktivaci sdíleného počítače](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
 > [!NOTE]
-> Chcete-li nainstalovat sadu Office 365 ProPlus do režimu aktivace počítače, můžete také stáhnout a spustit [Pomocníka pro podporu a obnovení společnosti Microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal) .
+> Můžete také stáhnout a spustit [Pomocníka pro podporu a obnovení společnosti Microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal) a nainstalovat aplikace Microsoft 365 pro podniky v režimu aktivace sdíleného počítače.
 
-Další informace o požadavcích, instalačních pokynech a pokynech pro vlastní instalace pomocí nástroje pro nasazení sady Office naleznete v tématu [nasazení sady office 365 ProPlus pomocí služby Vzdálená plocha](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Další informace o požadavcích, pokynech k instalaci a pokynech k přizpůsobeným instalacím pomocí Nástroje pro nasazení Office naleznete v [tématu Nasazení aplikací Microsoft 365 pro podniky pomocí služby Vzdálená plocha](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
 
 Oprava chyb souvisejících s aktivací sdíleného počítače:
-- Viz [odstraňování problémů s aktivací sdíleného počítače pro sadu Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
-- Viz [obnovení stavu aktivace aplikace Office 365 ProPlus](https://go.microsoft.com/fwlink/?linkid=2109218).
+- Přečtěte [si článek Řešení potíží s aktivací sdíleného počítače pro Microsoft 365 Apps pro podniky](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+- Přečtěte si téma zaměřené na [resetování stavu aktivace Microsoft 365 Apps pro podniky](https://go.microsoft.com/fwlink/?linkid=2109218).
 
-Chcete-li nainstalovat sadu Office 365 ProPlus do služby RDS z centra pro správu Microsoft 365, ***který používá výchozí nastavení instalace***, postupujte takto:
+Pokud chcete nainstalovat Microsoft 365 Apps for enterprise na RDS z Centra pro správu Microsoft365, ***které používá výchozí nastavení instalace***, postupujte takto:
 
-1.  Zkontrolujte, jaký plán sady Office 365 máte. [Dozvíte se jak](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
-2.  V případě potřeby přepněte na jiný plán sady Office 365. [Dozvíte se jak](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-3.  Pokud je sada Office již na serveru RDS nainstalována pomocí jiných plánů sady Office 365, odinstalujte ji. Například pomocí **ovládacího panelu** > **odinstalace programu**. Pokud máte potíže, odinstalujte pomocí [Pomocníka pro podporu a obnovení společnosti Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) .
-4.  Na serveru RDS se přihlaste ke středisku Microsoft 365 Admin Center pomocí účtu správce a [nainstalujte sadu Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
-5.  Po nainstalování sady Office se ***Neotevírejte ani nepřihlaste*** k žádným aplikacím sady Office.
-6.  Na serveru RDS povolte aktivaci sdíleného počítače úpravou registru následujícím postupem:
-   1. Klepněte pravým tlačítkem myši na tlačítko Windows v levém dolním rohu obrazovky a vyberte příkaz **Spustit**. Do pole Otevřít zadejte **příkaz regedit**a pak klepněte na **tlačítko OK**.
-   2. Vyberte možnost **Ano** po zobrazení výzvy, aby mohl Editor registru provést změny v zařízení.
-   3. V editoru registru přidejte řetězcovou hodnotu **Sharedcomputerlicensing** s nastavením 1 pod HKEY_LOCAL_MACHINE \SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
-   4. Na serveru RDS se ***přihlaste jako koncový uživatel*** a [Ověřte, zda je aktivace sdíleného počítače povolena pro sadu Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+1.    Zkontrolujte, jaké předplatné máte. [Přečtěte si, jak](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
+2.    V případě potřeby přepněte na jiné předplatné. [Přečtěte si, jak](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
+3.    Pokud je Office už na serveru RDS nainstalovaný pomocí jiných předplatných microsoftu, odinstalujte ho. Například tím, že půjdete do **Ovládacích panelů** > **Odinstalovat program**. Pokud narazíte na problémy, odinstalujte jej pomocí [Pomocníka pro podporu a obnovení](https://aka.ms/SARA-OfficeUninstall-Alchemy) společnosti Microsoft.
+4.    Na serveru RDS se přihlaste k Centru pro správu Microsoft 365 pomocí svého účtu správce a [nainstalujte microsoft 365 Apps pro podniky](https://portal.office.com/OLS/MySoftware.aspx).
+5.    Po instalaci Office se neotevírejte ani se k žádným aplikacím Office ***nepřihlašujete.***
+6.    Na serveru RDS povolte aktivaci sdíleného počítače úpravou registru následujícími kroky:
+   1. Klepněte pravým tlačítkem myši na tlačítko Windows v levém dolním rohu obrazovky a vyberte **příkaz Spustit**. Do pole Otevřít zadejte **regedit**a pak vyberte **OK**.
+   2. Po zobrazení výzvy vyberte **Ano,** chcete-li Editoru registru povolit změny v zařízení.
+   3. V Editoru registru přidejte řetězcovou hodnotu **SharedComputerLicensing** s nastavením 1 pod HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\ClickToRun\Configuration.
+   4. Na serveru RDS ***se přihlaste jako koncový uživatel*** a [ověřte, zda je pro microsoft 365 Apps pro podniky povolena aktivace sdíleného počítače.](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)
 

@@ -3,7 +3,7 @@ title: DLP nefunguje podle očekávání
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 574a8a43d8264e98c6af2bfeb1bb472475e6e334
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: efb4a19f345fe6b8a1e8bb72abeba4a923c05777
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42977431"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704406"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP nefunguje podle očekávání
 
@@ -32,7 +32,7 @@ Zásady ochrany před únikem informací umožňují identifikovat a chránit ci
   
  **Co zásady ochrany před únikem a ochrany údajů**
   
-Při použití **předdefinovaných typů citlivých informací** v Centru zabezpečení a dodržování předpisů Office 365 hledají zásady ochrany před únikem informací konkrétní vzory a prvky při zjišťování těchto citlivých typů.
+Při použití **předdefinovaných typů citlivých informací** v centrech zabezpečení a dodržování předpisů, zásady ochrany před únikem informací hledají konkrétní vzory a prvky při zjišťování těchto citlivých typů.
   
 - **Předdefinované typy citlivých informací**
 
