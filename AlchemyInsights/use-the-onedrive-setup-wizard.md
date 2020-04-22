@@ -1,9 +1,9 @@
 ---
-title: Použití Průvodce nastavením OneDrive
+title: Použití průvodce nastavením OneDrivu
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b711af6-3d0e-4334-ae67-8b3cb76293de
-ms.openlocfilehash: 54d36f7b557ac948ff2746b77cc6c51220d50559
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cfe35f7788c5baa4f21ebc4c1593ca616c85a2ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049438"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710652"
 ---
-# <a name="set-up-onedrive"></a><span data-ttu-id="6bc08-102">Nastavit OneDrive</span><span class="sxs-lookup"><span data-stu-id="6bc08-102">Set up OneDrive</span></span>
+# <a name="set-up-onedrive"></a><span data-ttu-id="d4dbe-102">Nastavení OneDrivu</span><span class="sxs-lookup"><span data-stu-id="d4dbe-102">Set up OneDrive</span></span>
 
-<span data-ttu-id="6bc08-103">Chcete-li pro organizaci rychle nastavit funkce OneDrive, [použijte Průvodce nastavením OneDrive](https://portal.office.com/onboarding/odfbquickstartguide).</span><span class="sxs-lookup"><span data-stu-id="6bc08-103">To set up OneDrive quickly for your organization, [use the OneDrive setup wizard](https://portal.office.com/onboarding/odfbquickstartguide).</span></span>
+<span data-ttu-id="d4dbe-103">Pokud chcete onedrive pro vaši organizaci rychle nastavit, [použijte Průvodce nastavením OneDrivu](https://portal.office.com/onboarding/odfbquickstartguide).</span><span class="sxs-lookup"><span data-stu-id="d4dbe-103">To set up OneDrive quickly for your organization, [use the OneDrive setup wizard](https://portal.office.com/onboarding/odfbquickstartguide).</span></span>
   
 

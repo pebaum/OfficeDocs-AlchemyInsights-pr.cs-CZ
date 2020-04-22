@@ -1,9 +1,9 @@
 ---
-title: 761 připojení k serveru Exchange Online PowerShell, pokud MFA je povoleno.
+title: 761 Připojení k prostředí Exchange Online PowerShell, pokud je povolena vícefaktorové povolení
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: efcc1138a6ae71e7093f665722c8bafe730d70d6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517060"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705798"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a><span data-ttu-id="39094-102">MFA je povoleno se připojit k serveru Exchange Online PowerShell</span><span class="sxs-lookup"><span data-stu-id="39094-102">Connect to Exchange Online PowerShell when MFA is enabled</span></span>
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a><span data-ttu-id="1faa3-102">Připojení k Exchange Online PowerShellu, když je povolena vícefaktorové povolení</span><span class="sxs-lookup"><span data-stu-id="1faa3-102">Connect to Exchange Online PowerShell when MFA is enabled</span></span>
 
-<span data-ttu-id="39094-103">Má-li váš účet povolit vícenásobné ověření (MFA), potřebujete postupujte podle těchto pokynů pro připojení k serveru Exchange Online PowerShell: [vícenásobné ověření pomocí připojení k serveru Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).</span><span class="sxs-lookup"><span data-stu-id="39094-103">If your account has multi-factor authentication (MFA) enabled, you need to follow these instructions to connect to Exchange Online PowerShell: [Connect to Exchange Online PowerShell using multi-factor authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).</span></span>
+<span data-ttu-id="1faa3-103">Pokud je na vašem účtu povoleno vícefaktorové ověřování (MFA), je třeba podle těchto pokynů připojit k Exchange Online PowerShell: [Připojení k Exchange Online PowerShell pomocí vícefaktorového ověřování](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).</span><span class="sxs-lookup"><span data-stu-id="1faa3-103">If your account has multi-factor authentication (MFA) enabled, you need to follow these instructions to connect to Exchange Online PowerShell: [Connect to Exchange Online PowerShell using multi-factor authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).</span></span>
 
-<span data-ttu-id="39094-104">**Poznámka**: I v případě, že jste připojeni k serveru Exchange Online PowerShell v minulosti pomocí [pokynů normální připojení](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), musíte použít pokyny pro připojení MFA po MFA je povoleno váš účet.</span><span class="sxs-lookup"><span data-stu-id="39094-104">**Note**: Even if you've connected to Exchange Online PowerShell in the past using [the regular connection instructions](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), you need to use the MFA connection instructions after MFA has been enabled for your account.</span></span>
+<span data-ttu-id="1faa3-104">**Poznámka:** I v případě, že jste se v minulosti připojili k exchange online powershellu pomocí [běžných pokynů pro připojení](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), je třeba použít pokyny pro připojení vícefaktorové žádosti po povolení vícefaktorového přístupu pro váš účet.</span><span class="sxs-lookup"><span data-stu-id="1faa3-104">**Note**: Even if you've connected to Exchange Online PowerShell in the past using [the regular connection instructions](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), you need to use the MFA connection instructions after MFA has been enabled for your account.</span></span>

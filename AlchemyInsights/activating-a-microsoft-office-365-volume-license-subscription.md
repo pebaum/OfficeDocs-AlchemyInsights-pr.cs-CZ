@@ -1,9 +1,9 @@
 ---
-title: Předplatné služeb Microsoft Office 365 licence svazku aktivace
+title: Aktivace předplatného multilicence společnosti Microsoft
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661181"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708752"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a><span data-ttu-id="8d835-102">Předplatné služeb Microsoft Office 365 licence svazku aktivace</span><span class="sxs-lookup"><span data-stu-id="8d835-102">Activating a Microsoft Office 365 Volume License Subscription</span></span>
+# <a name="activating-a-microsoft-volume-license-subscription"></a><span data-ttu-id="2ce7d-102">Aktivace předplatného multilicence společnosti Microsoft</span><span class="sxs-lookup"><span data-stu-id="2ce7d-102">Activating a Microsoft Volume License Subscription</span></span>
 
-1. <span data-ttu-id="8d835-103">Přihlaste se na [portál svazku Licensing Service Center (VLSC)](http://go.microsoft.com/fwlink/p/?LinkId=329762).</span><span class="sxs-lookup"><span data-stu-id="8d835-103">Sign in to your [Volume Licensing Service Center (VLSC) portal](http://go.microsoft.com/fwlink/p/?LinkId=329762).</span></span>
+1. <span data-ttu-id="2ce7d-103">Přihlaste se k [portálu Multilicenčního centra služeb (VLSC).](https://go.microsoft.com/fwlink/p/?LinkId=329762)</span><span class="sxs-lookup"><span data-stu-id="2ce7d-103">Sign in to your [Volume Licensing Service Center (VLSC) portal](https://go.microsoft.com/fwlink/p/?LinkId=329762).</span></span>
 
-2. <span data-ttu-id="8d835-104">Přejděte k předplatnému služeb Office 365 a zvolte **Aktivovat**.</span><span class="sxs-lookup"><span data-stu-id="8d835-104">Navigate to your Office 365 subscription and choose **Activate**.</span></span>
+2. <span data-ttu-id="2ce7d-104">Přejděte k předplatnému a zvolte **Aktivovat**.</span><span class="sxs-lookup"><span data-stu-id="2ce7d-104">Navigate to your subscription and choose **Activate**.</span></span>
 
-3. <span data-ttu-id="8d835-105">E-mail bude zaslána kontaktu Online služby (OLS).</span><span class="sxs-lookup"><span data-stu-id="8d835-105">An email will be sent to your Online Services (OLS) Contact.</span></span>
+3. <span data-ttu-id="2ce7d-105">E-mail bude zaslán vašemu kontaktu online služeb (OLS).</span><span class="sxs-lookup"><span data-stu-id="2ce7d-105">An email will be sent to your Online Services (OLS) Contact.</span></span>
 
-4. <span data-ttu-id="8d835-106">Aktivační e-mail poskytuje dvě možnosti: **zaregistrovat**nebo **přihlásit**.</span><span class="sxs-lookup"><span data-stu-id="8d835-106">The activation email will provide you with two options: **Sign up**, or **Sign in**.</span></span> <span data-ttu-id="8d835-107">Pokud jste dříve vytvořili zkušební verzi, zvolte **přihlásit**.</span><span class="sxs-lookup"><span data-stu-id="8d835-107">If you have previously created a trial, choose **Sign in**.</span></span> <span data-ttu-id="8d835-108">Pokud ještě nemáte klienta Office 365, zvolte **přihlásit**.</span><span class="sxs-lookup"><span data-stu-id="8d835-108">If you don't yet have an Office 365 tenant, choose **Sign up**.</span></span>
+4. <span data-ttu-id="2ce7d-106">Aktivační e-mail vám poskytne dvě možnosti: **Zaregistrovat se**nebo **Přihlásit se**.</span><span class="sxs-lookup"><span data-stu-id="2ce7d-106">The activation email will provide you with two options: **Sign up**, or **Sign in**.</span></span> <span data-ttu-id="2ce7d-107">Pokud jste již dříve vytvořili zkušební verzi, zvolte **Přihlásit se**.</span><span class="sxs-lookup"><span data-stu-id="2ce7d-107">If you have previously created a trial, choose **Sign in**.</span></span> <span data-ttu-id="2ce7d-108">Pokud ještě nemáte klienta Microsoft 365, zvolte **Zaregistrovat se**.</span><span class="sxs-lookup"><span data-stu-id="2ce7d-108">If you don't yet have a Microsoft 365 tenant, choose **Sign up**.</span></span>
 
-5. <span data-ttu-id="8d835-109">Přihlášení na stránku Správce Microsoft 365 ([https://admin.microsoft.com](https://admin.microsoft.com)) pomocí existující pověření správce služeb Office 365.</span><span class="sxs-lookup"><span data-stu-id="8d835-109">Sign in to the Microsoft 365 admin center ([https://admin.microsoft.com](https://admin.microsoft.com)) using your existing Office 365 administrator credentials.</span></span> <span data-ttu-id="8d835-110">Po úspěšném přihlášení, obdržíte další e-mail s potvrzením nákupu.</span><span class="sxs-lookup"><span data-stu-id="8d835-110">After you successfully sign in, you'll receive another email confirming your purchase.</span></span>
+5. <span data-ttu-id="2ce7d-109">Přihlaste se do Centra pro[https://admin.microsoft.com](https://admin.microsoft.com)správu Microsoftu 365 ( ) pomocí stávajících přihlašovacích údajů správce.</span><span class="sxs-lookup"><span data-stu-id="2ce7d-109">Sign in to the Microsoft 365 admin center ([https://admin.microsoft.com](https://admin.microsoft.com)) using your existing administrator credentials.</span></span> <span data-ttu-id="2ce7d-110">Po úspěšném přihlášení obdržíte další e-mail s potvrzením nákupu.</span><span class="sxs-lookup"><span data-stu-id="2ce7d-110">After you successfully sign in, you'll receive another email confirming your purchase.</span></span>
 
-6. <span data-ttu-id="8d835-111">Poté, co jste přihlášeni, můžete přejít na **fakturaci** \> [& produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránky, chcete-li ověřit, zda jsou v rámci vašeho klienta aktivován vaše zakoupené předplatné Office 365.</span><span class="sxs-lookup"><span data-stu-id="8d835-111">After you've signed in, you can go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page to verify that your purchased Office 365 Subscriptions are activated within your tenant.</span></span> <span data-ttu-id="8d835-112">(Můžete také na kartě **předplatné** v VLSC zobrazíte podrobnosti ověření uložil odběru.)</span><span class="sxs-lookup"><span data-stu-id="8d835-112">(You can also choose the **Subscription** tab in the VLSC to view details verifying that your subscription has been deposited.)</span></span>
+6. <span data-ttu-id="2ce7d-111">Po přihlášení můžete přejít na stránku **Fakturační** \> [produkty & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) a ověřit, že zakoupená předplatná jsou aktivována v rámci vašeho tenanta.</span><span class="sxs-lookup"><span data-stu-id="2ce7d-111">After you've signed in, you can go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page to verify that your purchased subscriptions are activated within your tenant.</span></span> <span data-ttu-id="2ce7d-112">(Můžete také zvolit kartu **Předplatné** ve VLSC a zobrazit podrobnosti oověření, že vaše předplatné bylo uloženo.)</span><span class="sxs-lookup"><span data-stu-id="2ce7d-112">(You can also choose the **Subscription** tab in the VLSC to view details verifying that your subscription has been deposited.)</span></span>

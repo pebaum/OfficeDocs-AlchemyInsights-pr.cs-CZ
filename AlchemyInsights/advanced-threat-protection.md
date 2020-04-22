@@ -1,32 +1,32 @@
 ---
-title: Office 365 Advanced Threat Protection
+title: Rozšířená ochrana před hrozbami v Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: ec9e74a1c1054d45356b8347a87e36c592c47fbf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 680f182fbc2f0110a4aa4ed168b35a1a694b2ef4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664493"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710328"
 ---
-# <a name="office-365-advanced-threat-protection"></a><span data-ttu-id="e1c84-102">Office 365 Advanced Threat Protection</span><span class="sxs-lookup"><span data-stu-id="e1c84-102">Office 365 Advanced Threat Protection</span></span>
+# <a name="office-365-advanced-threat-protection"></a><span data-ttu-id="74742-102">Rozšířená ochrana před hrozbami v Office 365</span><span class="sxs-lookup"><span data-stu-id="74742-102">Office 365 Advanced Threat Protection</span></span>
 
-- <span data-ttu-id="e1c84-103">Bezpečné přílohy bezpečné odkazy a anti-phishing jsou součástí systému Office 365 Advanced ohrožení ochrany (ATP).</span><span class="sxs-lookup"><span data-stu-id="e1c84-103">Safe Attachments, Safe Links, and anti-phishing are part of Office 365 Advanced Threat Protection (ATP).</span></span> <span data-ttu-id="e1c84-104">E5 organizace, vzdělávání A5 a Microsoft 365 Business obsahují ATP.</span><span class="sxs-lookup"><span data-stu-id="e1c84-104">Enterprise E5, Education A5, and Microsoft 365 Business include ATP.</span></span> <span data-ttu-id="e1c84-105">Ostatní plány vyžadují odběr doplňku ATP.</span><span class="sxs-lookup"><span data-stu-id="e1c84-105">All other plans require an add-on ATP subscription.</span></span>
+- <span data-ttu-id="74742-103">Bezpečné přílohy, bezpečné odkazy a ochrana proti phishingu jsou součástí rozšířené ochrany před internetovými zprávami (ATP) office 365 Advanced Threat Protection (ATP).</span><span class="sxs-lookup"><span data-stu-id="74742-103">Safe Attachments, Safe Links, and anti-phishing are part of Office 365 Advanced Threat Protection (ATP).</span></span> <span data-ttu-id="74742-104">Enterprise E5, Education A5 a Microsoft 365 Business Premium zahrnují atp.</span><span class="sxs-lookup"><span data-stu-id="74742-104">Enterprise E5, Education A5, and Microsoft 365 Business Premium include ATP.</span></span> <span data-ttu-id="74742-105">Všechny ostatní plány vyžadují doplňkové předplatné ATP.</span><span class="sxs-lookup"><span data-stu-id="74742-105">All other plans require an add-on ATP subscription.</span></span>
 
-- <span data-ttu-id="e1c84-106">Je třeba přiřadit odpovídající licence pro ochranu uživatelů Office 365 ATP.</span><span class="sxs-lookup"><span data-stu-id="e1c84-106">You need to assign the appropriate licenses to protect your users by Office 365 ATP.</span></span> <span data-ttu-id="e1c84-107">Viz [Toto téma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) návod na hromadné licence platí pro uživatele.</span><span class="sxs-lookup"><span data-stu-id="e1c84-107">See [this topic](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) for instructions on how to bulk apply licenses to your users.</span></span>
+- <span data-ttu-id="74742-106">Je třeba přiřadit příslušné licence k ochraně uživatelů pomocí ochrany počítače Office 365 ATP.</span><span class="sxs-lookup"><span data-stu-id="74742-106">You need to assign the appropriate licenses to protect your users by Office 365 ATP.</span></span> <span data-ttu-id="74742-107">Pokyny k hromadnému použití licencí uživatelům naleznete v [tomto tématu.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="74742-107">See [this topic](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) for instructions on how to bulk apply licenses to your users.</span></span>
 
-- <span data-ttu-id="e1c84-108">Office 365 globální správci nebo správci zabezpečení můžete přistupovat k funkcím Office 365 ATP v & zabezpečení centra kompatibility v **Ohrožení Managmeent** \> **zásad**.</span><span class="sxs-lookup"><span data-stu-id="e1c84-108">Office 365 global administrators or security administrators can access Office 365 ATP features in the Security & Compliance Center at **Threat Managmeent** \> **Policy**.</span></span>
+- <span data-ttu-id="74742-108">Globální správci nebo správci zabezpečení mají přístup k funkcím ochrany ATP sady Office 365 v Centru dodržování předpisů zabezpečení & v **zásadách**řízení **hrozeb** \> .</span><span class="sxs-lookup"><span data-stu-id="74742-108">Global administrators or security administrators can access Office 365 ATP features in the Security & Compliance Center at **Threat Managmeent** \> **Policy**.</span></span>
 
-- <span data-ttu-id="e1c84-109">Bezpečné přílohy a bezpečné propojení mohou být zásady oboru můžete celou organizaci, určité domény nebo menších skupin uživatelů.</span><span class="sxs-lookup"><span data-stu-id="e1c84-109">Safe Attachments and Safe Link policies can be scoped you your entire organization, specific domains, or smaller groups of users.</span></span>
+- <span data-ttu-id="74742-109">Bezpečné přílohy a zásady bezpečného propojení mohou být vymezeny v celé organizaci, konkrétních doménách nebo menších skupinách uživatelů.</span><span class="sxs-lookup"><span data-stu-id="74742-109">Safe Attachments and Safe Link policies can be scoped you your entire organization, specific domains, or smaller groups of users.</span></span>
 
-- <span data-ttu-id="e1c84-110">Neexistuje žádný výchozí zásady bezpečné připevnění ATP.</span><span class="sxs-lookup"><span data-stu-id="e1c84-110">There is no default ATP Safe Attachment policy.</span></span> <span data-ttu-id="e1c84-111">Potřebujete [vytvořit zásady](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) a platí pro vaše uživatele.</span><span class="sxs-lookup"><span data-stu-id="e1c84-111">You need to [create a policy](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) and apply it to your users.</span></span>
+- <span data-ttu-id="74742-110">Neexistuje žádná výchozí zásada bezpečnépřílohy ATP.</span><span class="sxs-lookup"><span data-stu-id="74742-110">There is no default ATP Safe Attachment policy.</span></span> <span data-ttu-id="74742-111">Musíte [vytvořit zásadu](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) a použít ji pro uživatele.</span><span class="sxs-lookup"><span data-stu-id="74742-111">You need to [create a policy](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) and apply it to your users.</span></span>
 
-- <span data-ttu-id="e1c84-112">Je výchozí zásady bezpečné odkazy ATP, které platí pro všechny uživatele v organizaci.</span><span class="sxs-lookup"><span data-stu-id="e1c84-112">There is a default ATP Safe Links policy that applies to everyone in your organization.</span></span> <span data-ttu-id="e1c84-113">Tuto zásadu upravit nebo vytvořit vlastní zásady, najdete v [tomto tématu](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).</span><span class="sxs-lookup"><span data-stu-id="e1c84-113">To edit this policy or to create custom policies, see [this topic](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).</span></span>
+- <span data-ttu-id="74742-112">Existuje výchozí zásada ochrany atp bezpečné odkazy, která platí pro všechny ve vaší organizaci.</span><span class="sxs-lookup"><span data-stu-id="74742-112">There is a default ATP Safe Links policy that applies to everyone in your organization.</span></span> <span data-ttu-id="74742-113">Chcete-li upravit tuto zásadu nebo vytvořit vlastní zásady, přečtěte [si toto téma](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).</span><span class="sxs-lookup"><span data-stu-id="74742-113">To edit this policy or to create custom policies, see [this topic](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).</span></span>

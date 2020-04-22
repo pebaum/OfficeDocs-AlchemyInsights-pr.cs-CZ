@@ -1,5 +1,5 @@
 ---
-title: 'CSS: pravidlo hlubokého spojení PSTN'
+title: 'CSS: PsTN pilíř hluboké propojení pravidlo'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2555"
 - "9000675"
-ms.openlocfilehash: 5da1c6f2aa01a0db76167672112f5d98012e73de
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: bd0c6c244a5aff05f475f8310b49cf4ae10180c6
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469201"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655347"
 ---
-# <a name="pstn-calling-with-microsoft-teams"></a><span data-ttu-id="a8d5b-102">Volání PSTN s týmy společnosti Microsoft</span><span class="sxs-lookup"><span data-stu-id="a8d5b-102">PSTN Calling with Microsoft Teams</span></span>
+# <a name="pstn-calling-with-microsoft-teams"></a><span data-ttu-id="38e01-102">Volání do služby VE službě "PSTN" s Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="38e01-102">PSTN Calling with Microsoft Teams</span></span>
 
-<span data-ttu-id="a8d5b-103">Chcete-li získat další informace o telefonním systému a veřejné telefonní síti v aplikaci Microsoft týmy, přečtěte si informace o [telefonním systému v sadě Office 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)</span><span class="sxs-lookup"><span data-stu-id="a8d5b-103">To learn more about Phone System and PSTN calling in Microsoft Teams, see [What is Phone System in Office 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)</span></span>
+<span data-ttu-id="38e01-103">Další informace o volání telefonního systému a telefonní seznamy v Microsoft Teams najdete [v tématu Co je telefonní systém v Microsoftu 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)</span><span class="sxs-lookup"><span data-stu-id="38e01-103">To learn more about Phone System and PSTN calling in Microsoft Teams, see [What is Phone System in Microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)</span></span>

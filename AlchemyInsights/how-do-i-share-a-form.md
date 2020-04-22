@@ -1,5 +1,5 @@
 ---
-title: Jak se sdílení formuláře?
+title: Jak mohu sdílet formulář?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2543"
 - "9000672"
-ms.openlocfilehash: 656c3f05494abbe0f387dffec4bd36c4e337a317
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0517697073ca20fa73f41f6b142e50090c7fd2c2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522821"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709896"
 ---
-# <a name="share-a-form"></a><span data-ttu-id="1d930-102">Sdílení formuláře</span><span class="sxs-lookup"><span data-stu-id="1d930-102">Share a form</span></span>
+# <a name="share-a-form"></a><span data-ttu-id="4d216-102">Sdílení formuláře</span><span class="sxs-lookup"><span data-stu-id="4d216-102">Share a form</span></span>
 
-<span data-ttu-id="1d930-103">Sdílení kvíz nebo formuláře v Microsoft Forms, naleznete v tématu [sdílení formuláře ke spolupráci](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b).</span><span class="sxs-lookup"><span data-stu-id="1d930-103">To share a quiz or form in Microsoft Forms, see [Share a form to collaborate](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b).</span></span>
+<span data-ttu-id="4d216-103">Pokud chcete sdílet kvíz nebo formulář v Microsoft Forms, přečtěte si část [Sdílení formuláře za účelem spolupráce](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b).</span><span class="sxs-lookup"><span data-stu-id="4d216-103">To share a quiz or form in Microsoft Forms, see [Share a form to collaborate](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b).</span></span>
 
-<span data-ttu-id="1d930-104">Pro správu umožňují sdílet externě formulářů, naleznete v tématu [nastavení formulářů aplikace Microsoft](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240?ui=en-US&rs=en-US&ad=US#PickTab=Configure).</span><span class="sxs-lookup"><span data-stu-id="1d930-104">To manage the ability to share forms externally, see [Set up Microsoft Forms](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240?ui=en-US&rs=en-US&ad=US#PickTab=Configure).</span></span> 
+<span data-ttu-id="4d216-104">Informace o možnosti externího sdílení formulářů naleznete v [tématu Nastavení formulářů společnosti Microsoft .](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240)</span><span class="sxs-lookup"><span data-stu-id="4d216-104">To manage the ability to share forms externally, see [Set up Microsoft Forms](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240).</span></span> 
 
-<span data-ttu-id="1d930-105">Chcete-li získat souhrnný odkaz ke sdílení výsledků s ostatními:</span><span class="sxs-lookup"><span data-stu-id="1d930-105">To get a summary link to share results with others:</span></span>
+<span data-ttu-id="4d216-105">Získání souhrnného odkazu pro sdílení výsledků s ostatními:</span><span class="sxs-lookup"><span data-stu-id="4d216-105">To get a summary link to share results with others:</span></span>
 
-1. <span data-ttu-id="1d930-106">Na kartě **odpovědí** klepněte na tlačítko elipsy (\*\*\*\*...).</span><span class="sxs-lookup"><span data-stu-id="1d930-106">On the **Responses** tab, click the ellipses button (**...**).</span></span>
-3. <span data-ttu-id="1d930-107">Zvolte **vytvořit souhrnný odkaz**.</span><span class="sxs-lookup"><span data-stu-id="1d930-107">Choose **Create a summary link**.</span></span>
-4. <span data-ttu-id="1d930-108">Klepněte na tlačítko **Kopírovat**.</span><span class="sxs-lookup"><span data-stu-id="1d930-108">Click **Copy**.</span></span>
+1. <span data-ttu-id="4d216-106">Na kartě **Odpovědi** klikněte na tlačítko třeme pse (**...**).</span><span class="sxs-lookup"><span data-stu-id="4d216-106">On the **Responses** tab, click the ellipses button (**...**).</span></span>
+3. <span data-ttu-id="4d216-107">Zvolte **Vytvořit souhrnný odkaz**.</span><span class="sxs-lookup"><span data-stu-id="4d216-107">Choose **Create a summary link**.</span></span>
+4. <span data-ttu-id="4d216-108">Klepněte na tlačítko **Kopírovat**.</span><span class="sxs-lookup"><span data-stu-id="4d216-108">Click **Copy**.</span></span>
 
-<span data-ttu-id="1d930-109">Každý, s kým sdílíte tento odkaz můžete zobrazit souhrn odpovědí pro formulář.</span><span class="sxs-lookup"><span data-stu-id="1d930-109">Anyone with whom you share this link can view a summary of responses for your form.</span></span>
+<span data-ttu-id="4d216-109">Každý, s kým tento odkaz sdílíte, může zobrazit souhrn odpovědí pro váš formulář.</span><span class="sxs-lookup"><span data-stu-id="4d216-109">Anyone with whom you share this link can view a summary of responses for your form.</span></span>

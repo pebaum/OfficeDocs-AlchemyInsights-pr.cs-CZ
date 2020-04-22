@@ -1,8 +1,8 @@
 ---
-title: 414 vyhledávání aktualizován
+title: 414 Vyhledávání bylo aktualizováno
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: a4ecb6fcdd33b871f971a788ffe2afa8e7c50ba6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8602a1e0c9374e8c772d91b4721c1435fec4bea1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551480"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709292"
 ---
-# <a name="search-experience-updated"></a><span data-ttu-id="074f5-102">Aktualizovat vyhledávání</span><span class="sxs-lookup"><span data-stu-id="074f5-102">Search experience updated</span></span>
+# <a name="search-experience-updated"></a><span data-ttu-id="b8a93-102">Vyhledávání bylo aktualizováno</span><span class="sxs-lookup"><span data-stu-id="b8a93-102">Search experience updated</span></span>
 
-<span data-ttu-id="074f5-103">Hledání je nyní umístěn v dolní části aplikace.</span><span class="sxs-lookup"><span data-stu-id="074f5-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="074f5-104">Při klepnutí na něj poskytuje přímý přístup na začátek kontakty, nadcházející cestovní itineráře, balíček dodávky a poslední přílohy.</span><span class="sxs-lookup"><span data-stu-id="074f5-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="074f5-105">Můžete vyhledat e-mailové zprávy, soubory nebo kontakty ve všech účtů z jednoho jediného vyhledávacího pole nebo použít naše nové filtry zúžit vyhledávání.</span><span class="sxs-lookup"><span data-stu-id="074f5-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>
+<span data-ttu-id="b8a93-103">Hledání se nyní nachází v dolní části aplikace.</span><span class="sxs-lookup"><span data-stu-id="b8a93-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="b8a93-104">Klepnutím na něj získáte přímý přístup k vašim nejlepším kontaktům, nadcházejícím cestovním itinerářům, doručování balíků a nedávným přílohám.</span><span class="sxs-lookup"><span data-stu-id="b8a93-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="b8a93-105">E-mailové zprávy, soubory a kontakty můžete vyhledat v libovolném z vašich účtů z jednoho vyhledávacího pole nebo pomocí našich nových filtrů hledání zúžit.</span><span class="sxs-lookup"><span data-stu-id="b8a93-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>
