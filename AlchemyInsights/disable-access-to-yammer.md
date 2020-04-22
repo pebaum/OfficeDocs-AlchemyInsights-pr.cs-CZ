@@ -1,8 +1,8 @@
 ---
-title: Zakázání přístupu k Yammer
+title: Zakázání přístupu k Yammeru
 ms.author: pebaum
 author: pebaum
-ms.date: 5/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ ms.custom:
 - "722"
 - "6000004"
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
-ms.openlocfilehash: 6e7947afed1223fa55a2aa5710573c03cd804416
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 297b4665fcce0821dd2dea7f4412724943ca6862
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740350"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715225"
 ---
-# <a name="disable-access-to-yammer"></a>Zakázat přístup do Yammer
+# <a name="disable-access-to-yammer"></a>Zakázání přístupu k Yammeru
 
-Řešením pro zakázání přístupu Yammer je zablokování a zrušení přidělení licencí Yammer pro uživatele sady Office 365. Další informace získáte v následujícím článku.
+Řešením pro zakázání přístupu yammeru je blokování a zrušení přiřazení licencí Yammeru uživatelům ve vaší organizaci. Další informace naleznete v následujícím článku.
   
-- [Vypnout přístup Yammer pro uživatele sady Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)
+- [Vypnutí přístupu yammeru](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)

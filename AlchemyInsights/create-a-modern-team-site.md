@@ -1,31 +1,31 @@
 ---
-title: Vytvořit moderní týmový Web
+title: Vytvoření moderního týmového webu
 ms.author: clake
-author: spowriter
-ms.date: 11/9/2018
+author: pebaum
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: caeb3d464ecb528f3ffc87cf75be4a3f9b410798
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7778ce6afd7dd92d62bda85a978637608b187107
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36516310"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715517"
 ---
-# <a name="create-an-office-365-group-connected-team-site"></a>Vytvoření týmového webu pro skupinu Office 365
+# <a name="create-an-office-365-group-connected-team-site"></a>Vytvoření týmového webu připojeného ke skupině Office 365
 
-1. Klepněte na spouštěč aplikace v levém horním rohu a vyberte **SharePoint**. Pokud nevidíte dlaždici služby SharePoint, klepněte na **všechny**aplikace.
+1. Klikněte na spouštěč aplikací v levém horním rohu a vyberte **SharePoint**. Pokud dlaždici SharePoint unevidíte, klikněte na **Všechny aplikace**.
     
-2. V horní části domovské stránky služby SharePoint klepněte na tlačítko **vytvořit web** a vyberte možnost **týmový web** . 
+2. V horní části domovské stránky SharePointu klikněte na **Vytvořit web** a zvolte možnost **Týmový web.** 
     
     > [!NOTE]
-    > Pokud není příkaz vytvořit web zobrazen, je možné, že ve vaší organizaci není povoleno vytváření webů. Chcete-li ji povolit, viz [Správa vytváření webů](https://go.microsoft.com/fwlink/?linkid=2009644). 
+    > Pokud příkaz Vytvořit web nevidíte, je možné, že vytvoření webu není ve vaší organizaci povoleno. Informace o povolení naleznete v [tématu Správa vytváření webů](https://go.microsoft.com/fwlink/?linkid=2009644). 
   
-3. Podle pokynů na obrazovce pojmenujte web a vytvořte e-mailovou adresu pro skupinu Office 365 a klepněte na tlačítko **Další**. Můžete také přidat další vlastníky a členy skupiny. Klikněte na **Dokončit**.
+3. Podle pokynů na obrazovce web pojmenujte, vytvořte e-mailovou adresu pro skupinu Office 365 a klikněte na **Další**. Můžete také přidat další vlastníky a členy skupiny. Klikněte na **Dokončit**.
   
- **Poznámka:** Chcete-li vytvořit týmový web bez připojené skupiny, postupujte podle výše uvedených kroků, ale místo výběru týmového webu v kroku 2. Vyberte možnost Další možnosti. Tento průvodce vás provede vytvořením týmového webu bez skupiny. 
+ **Poznámka:** Chcete-li vytvořit týmový web bez připojené skupiny, postupujte podle výše uvedených kroků, ale místo výběru týmového webu v kroku 2. vyberte Další možnosti. To vás provede vytvořením týmového webu bez skupiny. 
     
 

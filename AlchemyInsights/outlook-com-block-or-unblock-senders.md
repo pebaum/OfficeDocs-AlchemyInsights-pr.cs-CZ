@@ -1,9 +1,9 @@
 ---
-title: Zablokování a odblokování odesílatelů v Outlook.com
+title: Blokování nebo odblokování odesílatelů v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,29 +15,29 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 67bd05e8d2effa325e152ca568748d4cd92930cf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768721"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717757"
 ---
-# <a name="block-or-unblock-senders"></a>Zablokování a odblokování odesílatelů
+# <a name="block-or-unblock-senders"></a>Blokování nebo odblokování odesílatelů
 
-Zprávy z e-mailových adres nebo domén blokovaných odesílatelů jdou přímo do složky Nevyžádaná pošta aplikace Outlook. E-maily jsou po 30 dnech automaticky odebrány ze složky Nevyžádaná pošta a nelze je obnovit. Vyberte položku, kterou chcete zobrazit, pokud bude odebrána.
+Zprávy z e-mailových adres nebo domén blokovaných odesílatelů jdou přímo do složky Outlook Nevyžádaná pošta. E-mail se po 30 dnech automaticky odebere ze složky Nevyžádaná pošta a nelze je obnovit. Vyberte položku, která chcete zjistit, kdy bude odebrána.
 
-**Ze složky Doručená pošta:**
+**Z doručené pošty:**
 
-- V seznamu zpráv vyberte zprávu a pak vyberte možnost **Nevyžádaná pošta** > **.**
-- **Poznámka:** Blokující položku, která je již ve složce Nevyžádaná pošta, nebude odstraněna.
+- V seznamu zpráv vyberte zprávu a pak vyberte **Nevyžádaná** > **blok**.
+- **Poznámka:** Blokováním položky, která je již ve složce Nevyžádaná pošta, ji neodstraníte.
 
 **Z nastavení:**
 
-1. Otevřete nastavení [nevyžádané](https://outlook.live.com/mail/options/mail/junkEmail) pošty.
-2. V seznamu **Blokovaní odesílatelé a domény**vyberte možnost **Přidat**.
-3. Zadejte e-mailovou adresu domény, kterou chcete blokovat, a stiskněte klávesu ENTER.
+1. Otevřete nastavení [nevyžádané pošty.](https://outlook.live.com/mail/options/mail/junkEmail)
+2. V části **Blokovaní odesílatelé a domény**vyberte **Přidat**.
+3. Zadejte e-mailovou adresu domény, kterou chcete zablokovat, a stiskněte Enter.
 4. Vyberte **Uložit**.
 
-Chcete-li zrušit blokování odesílatele, vyberte ikonu koše vedle e-mailové adresy nebo domény, kterou chcete odblokovat.
+Chcete-li odblokovat odesílatele, vyberte ikonu koše vedle e-mailové adresy nebo domény, kterou chcete odblokovat.
 
-Další informace naleznete v tématu [označení e-mailu jako nevyžádaných nebo blokovaných odesílatelů v Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Další informace najdete [v tématu Označení e-mailu jako nevyžádané pošty nebo odesílatelů bloků v Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

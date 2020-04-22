@@ -1,5 +1,5 @@
 ---
-title: Antispam-5.7.23
+title: Antispam - 5.7.23
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 9a2a6eb8736c2fd9b4b3cdc548461d5b15feb4a4
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 377e7d3164f7732246e1c1980bc1d0b0ccc8ebbb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682069"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712631"
 ---
-# <a name="banned-sending-ip"></a>Zakázané odesílání IP
+# <a name="banned-sending-ip"></a>Zakázaná odesílání IP
 
-Při odesílání do sady Office 365 může dojít k chybě odesílatele. Odesílatel potřebuje navštívit https://sender.office.com a podle pokynů.  Pokud neobdrží ověřovací e-mail z portálu, zkontrolujte, zda je ve složce Nevyžádaná pošta, nebo zkuste jinou e-mailovou adresu.
+Při odesílání pošty do microsoftu 365 může dojít k této chybě odesílateli. Odesílatel musí navštívit https://sender.office.com a postupovat podle pokynů.  Pokud neobdrží ověřovací e-mail z portálu, nechte je zkontrolovat složku se spamem a / nebo to zkusit s jinou e-mailovou adresou.

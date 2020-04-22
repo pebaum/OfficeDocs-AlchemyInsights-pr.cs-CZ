@@ -1,31 +1,31 @@
 ---
-title: Nastavení služba eDiscovery
+title: Nastavení zjišťování ediscovery
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.assetid: ''
-ms.openlocfilehash: 756473fc94a4c68d5cb1f4c390ecb810c3a8cf89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528220"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714395"
 ---
-# <a name="ediscovery-settings"></a>Nastavení služba eDiscovery
+# <a name="ediscovery-settings"></a>Nastavení zjišťování ediscovery
 
-vyhledávání služba eDiscovery/obsah ve službách Office 365 umožňuje vyhledávání, stiskněte a podržte a exportovat obsah schránky Exchange Online, SharePoint Online a OneDrive pro obchodní sítě Skype pro obchodní konverzace, Teams společnosti Microsoft a skupiny Office 365.
+Vyhledávání eDiscovery/obsahu umožňuje vyhledávat, držet a exportovat obsah z poštovních schránek Exchange Online, SharePointu Online a OneDrivu pro firmy, konverzací ve Skypu pro firmy, Microsoft Teams a skupin Office 365.
 
-- Pokud hledáte služba eDiscovery nebo možnosti nabídky obsahu hledání naleznete v tématu [služba eDiscovery problémy](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Informace o oprávnění, které jsou potřebné pro provedení služba eDiscovery hledání z [oprávnění požadovaná pro vyhledávání služba eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Hledání nevrací očekávané výsledky, naleznete v tématu [hledání nelze vracet očekávané výsledky](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Pokud hledáte možnosti nabídky eDiscovery nebo Hledání obsahu, přečtěte si informace [o problémech s eDiscovery](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
+- Přečtěte si o oprávněních potřebných k vyhledávání eDiscovery z [oprávnění požadovaných pro vyhledávání eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
+- Pokud hledání nevrací očekávané výsledky, přečtěte si, že [hledání nevrací očekávané výsledky](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-Další informace o služba ediscovery ve službách Office 365 naleznete v tématu [Služba Ediscovery ve službách Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).
+Další informace o ediscovery naleznete v tématu [Ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).

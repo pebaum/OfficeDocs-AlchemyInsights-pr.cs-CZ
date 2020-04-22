@@ -7,27 +7,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 216e3606c57af9a7855b154d58d03b4aacc331fc
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f2f1950f3f0f7b307b0adf50a3cc873f04b66883
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053434"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713207"
 ---
 # <a name="sync-a-users-profile-picture"></a>Synchronizace profilového obrázku uživatele
 
-Můžete přidat nebo změnit fotografii profilu v sadě Office 365 z [Office.com](http://www.office.com)nebo při použití aplikací sady Office 365 v počítači nebo v prohlížeči v telefonu. Fotografie se objeví všude, kde je v sadě Office 365 kroužek s profilem fotografie.
+Profilovou fotku v Microsoftu 365 můžete přidat nebo změnit v [aplikaci Office.com](https://www.office.com)nebo při používání aplikací společnosti Microsoft v počítači nebo v prohlížeči v telefonu. Vaše fotka se zobrazí všude, kde je v Microsoftu 365 kruh profilových fotografií.
 
-Přidání fotografie z profilu do sady Office 365 pro podniky
+Přidání profilové fotky do Microsoftu 365 pro firmy
 
-- Najděte fotografii, kterou chcete použít, a uložte ji do počítače, OneDrive nebo jiného místa, kam se můžete dostat
+- Najděte fotku, kterou chcete použít, a uložte ji do počítače, OneDrivu nebo na jiné místo, kam se dostanete.
 
-- Přihlaste se k sadě Office 365 pomocí svého pracovního nebo školního účtu na adrese [Office.com](http://www.office.com).
+- Přihlaste se k Microsoftu 365 pomocí pracovního nebo školního účtu na [office.com](https://www.office.com).
 
-- Vyberte kruh v pravém horním rohu stránky, na kterém jsou uvedeny iniciály nebo ikona osoby.
+- Vyberte kruh v pravém horním rohu stránky, který zobrazuje vaše iniciály nebo ikonu osoby.
 
-- V podokně moje účty vyberte kruh, který zobrazuje iniciály nebo ikonu osoby. Změňte fotografii v zobrazeném okně.
+- V podokně Moje účty vyberte kruh, který zobrazuje vaše iniciály, nebo ikonu osoby. V přeokřovaném vyskakovacím vyskakovacím rámečku můžete změnit fotku.
 
-Poznámka: Pokud jste již obrázek odeslali, můžete zkusit klepnout na dlaždici SharePoint nebo OneDrive a znovu synchronizovat tento obrázek.
+Poznámka: Pokud jste už obrázek nahráli, můžete zkusit zkusit kliknutím na dlaždici SharePoint nebo OneDrive tento obrázek znovu synchronizovat.
 
-Další informace naleznete [v informacích o synchronizaci profilových obrázků v sadě Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
+Další informace naleznete [v části Informace o synchronizaci profilových obrázků v aplikaci Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).

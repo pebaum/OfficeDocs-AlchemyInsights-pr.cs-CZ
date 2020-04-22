@@ -3,7 +3,7 @@ title: Pravidlo DLP pro číslo pasu USA/UK nefunguje
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 11/5/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 534e258c31a9a71c618765511487487c53f455b5
-ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
+ms.openlocfilehash: 9d9615eccd1e245bf4ca32742bfc64321dd7a8cf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42977099"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714979"
 ---
 # <a name="problems-with-dlp---usuk-passport-numbers"></a>Problémy s DLP - ČÍSLA pasů v USA/Velké Británii
 
-**Důležité:** V těchto nebývalých časech podnikáme kroky k zajištění toho, aby služby SharePointu Online a OneDrive zůstaly vysoce dostupné – další informace najdete na stránce [Dočasné úpravy funkcí SharePointu Online.](https://aka.ms/ODSPAdjustments)
+**Důležité**: V této mimořádné době přijímáme opatření, aby služby SharePointu Online a OneDrivu zůstaly vysoce dostupné. Další informace najdete v článku zaměřeném na [dočasné úpravy funkcí SharePointu Online](https://aka.ms/ODSPAdjustments).
 
 **Problémy s dlp s čísly pasů usa / UK**
 

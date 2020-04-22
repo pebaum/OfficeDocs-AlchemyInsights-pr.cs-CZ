@@ -1,9 +1,9 @@
 ---
-title: Přesunutí položek v knihovně dokumentů služby SharePoint
+title: Přesunutí položek v knihovně dokumentů SharePointu
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,31 +13,31 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 63d2115c6c167ade1d39f8cdeca08de1a2e12d17
-ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
+ms.openlocfilehash: 1f8ebd035511775dc355a5efd548b331fc6797c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38711713"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713567"
 ---
-# <a name="move-items-in-a-sharepoint-document-library"></a>Přesunutí položek v knihovně dokumentů služby SharePoint
+# <a name="move-items-in-a-sharepoint-document-library"></a>Přesunutí položek v knihovně dokumentů SharePointu
 
-Položky lze přesouvat do různých umístění v rámci knihovny dokumentů.
+Položky můžete přesunout do různých umístění v knihovně dokumentů.
   
-1. Ve webovém prohlížeči vyhledejte soubory, složky nebo odkazy, které chcete přesunout, a pak klepněte na tlačítko **přesunout**.
+1. Ve webovém prohlížeči vyhledejte soubory, složky nebo odkazy, které chcete přesunout, a klepněte na tlačítko **Přesunout do aplikace**.
 
     > [!NOTE]
-    > Pokud používáte klasické možnosti služby SharePoint Online, **přesunutí** není k dispozici.
+    > **Přechod na** něj není dostupný, pokud používáte klasické prostředí SharePointu Online.
   
-2. Ve skupinovém rámečku **vybrat cíl**vyberte umístění, do kterého chcete položky přesunout. Pokud se přesouváte na jiný web nebo na dílčí web a nevidíte jej v seznamu, klepněte na **weby pro procházení** a zobrazte úplný seznam webů, na které můžete přejít.
+2. V části **Vyberte cíl**vyberte umístění, do kterého chcete položky přesunout. Pokud se stěhujete na jiný web nebo podřízený web a nevidíte je v seznamu, klikněte na **Procházet weby** a podívejte se na úplný seznam webů, na které se můžete přesunout.
 
-    Chcete-li vytvořit novou složku pro přesun souborů, vyberte umístění v hierarchii složek, klepněte na možnost **Nová složka**, zadejte název složky a klepnutím na zaškrtávací značku uložte název.
+    Chcete-li vytvořit novou složku pro přesunutí souborů, vyberte umístění v hierarchii složek, klepněte na **tlačítko Nová složka**, zadejte název složky a klepnutím zaškrtněte název.
 
-3. Klepněte na **přesunout sem**.
+3. Klikněte na **Přesunout sem**.
 
- Pokud se soubor přesunuje, zobrazí se ve zdrojovém adresáři až do úplného přesunutí do cílového umístění a poté bude odstraněn. Soubor zůstane v koši zdrojových webů po dokončení přesunu a bude podléhat běžnému plánu recyklace, dokud jej uživatel z koše neobnoví.
+ Když se soubor přesouvá, bude stále zobrazen ve zdrojovém adresáři, dokud nebude plně přesunut do cíle, a poté bude odstraněn. Soubor zůstane po dokončení přesunu v koši zdrojových webů a bude podléhat normálnímu plánu recyklace, pokud jej uživatel neobnoví z koše.
 
 Další informace najdete tady:
 
- - [Přesouvání nebo kopírování souborů ve službě SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (článek podpory sady Office)
- - [Přesunout soubory z libovolné složky v sadě Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (článek o blogu Microsoft Tech Společenství) 
+ - [Přesunutí nebo kopírování souborů v SharePointu](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (článek podpory Office)
+ - [Přesunutí souborů z libovolné složky v Microsoftu 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (článek blogu Microsoft Tech Community) 

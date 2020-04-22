@@ -1,5 +1,5 @@
 ---
-title: Více Geo
+title: Multi-Geo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3046"
 - "9001088"
-ms.openlocfilehash: 2017b2d50b7170a6435ad8119b2a72f6066f89fa
-ms.sourcegitcommit: 8e1fa99a781674a79ae5d0385a48be2e209a2386
+ms.openlocfilehash: cb9fef505e35e9d5888ab995d5cd3a43392b682f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37554392"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713531"
 ---
-# <a name="office-365-multi-geo"></a>Sada Office 365 s více Geo
+# <a name="microsoft-365-multi-geo"></a>Microsoft 365 Multi-Geo
 
-S aplikací Office 365 multi-Geo může vaše organizace rozšířit svou přítomnost v sadě Office 365 na více zeměpisných oblastí nebo zemí v rámci existujícího nájemníka. Další informace získáte v odkazech níže.
+S Microsoft365 Multi-Geo může vaše organizace rozšířit svou přítomnost Microsoft 365 do více geografických oblastí nebo zemí v rámci stávajícího tenanta. Další informace naleznete v níže uvedených odkazech.
 
-- [Sada Office 365 s více Geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
-- [Možnosti s více Geo v aplikaci OneDrive a SharePoint Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
-- [Možnosti pro více Geo na serveru Exchange Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
-- [Plánování pro sadu Office 365 s více Geo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
-- [Konfigurovat Vícegeo](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)
+- [Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
+- [Funkce více geo na OneDrivu a SharePointu Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
+- [Funkce více geo v Exchange Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
+- [Plán pro Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
+- [Konfigurace multigeo](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)

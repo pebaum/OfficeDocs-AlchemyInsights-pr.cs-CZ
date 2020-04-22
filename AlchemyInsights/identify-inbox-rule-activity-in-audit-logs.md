@@ -1,9 +1,9 @@
 ---
-title: Identifikace aktivity pravidla složky Doručená pošta z protokolů auditování
+title: Identifikace aktivity pravidel doručené pošty v protokolech auditu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f946510539b3d28f2ceeec1546cbffce8bd352fd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539152"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716417"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identifikace aktivity pravidla složky Doručená pošta z protokolů auditování
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identifikace aktivity pravidel doručené pošty v protokolech auditu
 
-Můžete hledat protokolu auditu v zabezpečení Office 365 & centra kompatibility zobrazení událostí pravidla složky Doručená pošta (vytváření, úprava a odstranění pravidla složky Doručená pošta).
+Pomocí hledání protokolu auditu v Centru dodržování předpisů microsoft 365 Security & Compliance Center můžete zobrazit události pravidel doručené pošty (vytváření, úpravy a odstranění pravidel doručené pošty).
 
-1. Přihlášení do [Centra kompatibility aplikace Office 365 zabezpečení &](https://protection.office.com/).
+1. Přihlaste se k [Centru dodržování předpisů pro zabezpečení & microsoft 365](https://protection.office.com/).
 
-2. Přejít na **vyhledávání** > **auditování protokolu vyhledávací** stránku.
+2. Přejděte na stránku**hledání protokolu auditování** **vyhledávání.** > 
 
-3. Vyberte rozsah dat v polích **Počáteční datum** a **Koncové datum** .
+3. Vyberte rozsah dat v polích **Počáteční datum** a **Koncové datum.**
 
-4. V rámci **Činnosti poštovní schránky serveru Exchange**, ověřte pole **aktivity** je nastavena na **New-InboxRule vytvořit/upravit/povolit/zakázat pravidla složky Doručená pošta**.
+4. V části **Aktivity poštovní schránky serveru Exchange**ověřte, zda je pole **Aktivity** nastaveno na **pravidlo vytvoření/úpravy/povolit/zakázání pole Vytvoření/změna/povolit/zakázání doručené pošty**.
 
-5. Klepněte na tlačítko **Hledat**.
+5. Klepněte na **tlačítko Hledat**.
 
-V seznamu výsledků vyberte záznam auditu. V plovoucí panel Podrobnosti klepněte na tlačítko **Další informace**. Informace o nastavení pravidel složky Doručená pošta se zobrazí v poli **Parametry** .
+Ve výsledcích vyberte záznam auditu. V informačním rámečku podrobnosti klikněte na **Další informace**. Informace o nastavení pravidla doručené pošty se zobrazí v poli **Parametry.**
 
-Další informace naleznete v tématu [určení, pokud uživatelem vytvořené pravidlo pro doručenou poštu](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Další informace naleznete v [tématu Určení, zda uživatel vytvořil pravidlo doručené pošty](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

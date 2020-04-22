@@ -1,5 +1,5 @@
 ---
-title: Změnit uživatelské jméno a e-mailovou adresu
+title: Změna jména a e-mailové adresy uživatele
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 6a33ce3662680ed5940db94161b7f925670e397f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 833e4142356a02b23e2465273bf63c42ee7e4f5b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665393"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715769"
 ---
-# <a name="change-a-users-name-and-email-address"></a>Změnit uživatelské jméno a e-mailovou adresu
+# <a name="change-a-users-name-and-email-address"></a>Změna jména a e-mailové adresy uživatele
 
-Změnit uživatelské jméno a e-mailovou adresu ve službách Office 365 je snadné. Přejděte na **uživatele** \> stránce [Aktivní uživatelé](https://go.microsoft.com/fwlink/p/?linkid=834822) a vyberte uživatele, upravit informace o jejich. V tomto článku můžete použít také pro podrobné pokyny:
+Změna jména a e-mailové adresy uživatele v Microsoftu 365 je snadná. Přejděte na stránku **Uživatelé** \> [aktivní uživatelé](https://go.microsoft.com/fwlink/p/?linkid=834822) a vyberte uživatele, chcete-li upravit jejich informace. Tento článek můžete také použít pro podrobné pokyny:
   
-[Změnit uživatelské jméno a e-mailová adresa ve službách Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+[Změna uživatelského jména a e-mailové adresy v Microsoftu 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
- **Poznámka**: Pokud změníte hlavní e-mailovou adresu uživatele, jejich původní e-mailovou adresu stále platí pro přijímání e-mailů (to se stane automaticky). Také pokud vaše organizace je ve stavu hybridní, všechny změny e-mailu a uživatelské jméno třeba provést v místní službě Active Directory a pak se synchronizují s cloudem.
+ **Poznámka:** Pokud změníte hlavní e-mailovou adresu uživatele, jeho stará e-mailová adresa bude stále platná pro příjem e-mailů (k tomu dochází automaticky). Pokud je vaše organizace ve stavu Hybrid, je třeba provést všechny změny e-mailu a uživatelského jména v místním adresáři Active Directory a potom je synchronizovat do cloudu.

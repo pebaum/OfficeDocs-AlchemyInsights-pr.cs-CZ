@@ -1,9 +1,9 @@
 ---
-title: Odstraňuje problémy doručení e-mailu do poštovní veřejných složek
+title: Řešení problémů s doručováním e-mailů do veřejných složek s povoleným poštou
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "1956"
 - "3500007"
 ms.assetid: ''
-ms.openlocfilehash: f7b5e5a230d26870d5e95e8762b5874f73723c6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e261fe60843555fa45927b0a6b36e1ccf79fb028
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525091"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716345"
 ---
-# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Odstraňuje problémy doručení e-mailu do poštovní veřejných složek
+# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Řešení problémů s doručováním e-mailů do veřejných složek s povoleným poštou
 
-Pokud externích odesílatelů nelze odeslat zprávy do veřejné složky poštovní a odesílatelé zobrazí chybová zpráva: **nebyl nalezen (550 5.4.1)**, ověřte e-mailovou doménu pro veřejné složky je nakonfigurován jako domény vnitřní relay namísto autoritativní domény:
+Pokud externí odesílatelé nemohou odesílat zprávy do veřejných složek s podporou pošty a odesílatelům se zobrazí chyba: **nelze najít (550 5.4.1),** ověřte, zda je e-mailová doména pro veřejnou složku nakonfigurována jako interní přenosová doména namísto autoritativní domény:
 
-1. Otevřete [Exchange admin center (EAC)](https://docs.microsoft.com/Exchange/exchange-admin-center).
+1. Otevřete [Centrum pro správu Exchange (EAC).](https://docs.microsoft.com/Exchange/exchange-admin-center)
 
-2. Přejít na **toku pošty** \> **přijaté domény**přijaté domény vyberte a klepněte na tlačítko **Upravit**.
+2. Přejděte na Přijaté domény **toku** \> **pošty**, vyberte přijatou doménu a klepněte na tlačítko **Upravit**.
 
-3. Ve vlastnostech stránky otevře, pokud typ domény je nastavena na **autoritativní**, změňte hodnotu na **vnitřní relay** a klepněte na tlačítko **Uložit**.
+3. Pokud je typ domény nastaven na **autoritativní**, změňte na stránce vlastností, která se otevře, změňte hodnotu na **Interní přenos** a klepněte na tlačítko **Uložit**.
 
-Pokud externí odesílatelé obdržet chyba **že nemáte oprávnění (550 5.7.13)**, spusťte následující příkaz v [Prostředí Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) Chcete-li zobrazit oprávnění pro anonymní uživatele ve veřejné složce:
+Pokud se externím odesílatelům zobrazí **chyba, ke které nemáte oprávnění (550 5.7.13),** spusťte v [prostředí Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) následující příkaz, abyste viděli oprávnění pro anonymní uživatele ve veřejné složce:
 
 `Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous`Například `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous`.
 
-Pokud chcete povolit externí uživatelé odeslat e-mail této veřejné složky, přidejte přístup CreateItems právo na anonymní uživatele. Například `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`.
+Chcete-li externím uživatelům povolit odesílání e-mailů do této veřejné složky, přidejte uživatelskému uživateli anonymní přístupové právo CreateItems. Například `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`.

@@ -1,9 +1,9 @@
 ---
-title: Určení adresy IP a klient z protokolů auditování
+title: Identifikace IP adresy a klienta v protokolech auditu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539022"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716381"
 ---
-# <a name="identify-ip-address-and-client-in-audit-logs"></a>Určení adresy IP a klient z protokolů auditování
+# <a name="identify-ip-address-and-client-in-audit-logs"></a>Identifikace IP adresy a klienta v protokolech auditu
 
-Adresu IP, která odpovídá aktivity služeb Office 365, uživatel nebo správce se zobrazí záznamy auditu. Informace o klientovi je také zaznamenána. Zde jsou kroky k identifikaci těchto informací
+Ip adresa, která odpovídá aktivitě uživatele nebo správce microsoftu 365, je zobrazena v protokolech auditu. Informace o klientovi jsou také protokolovány. Zde jsou kroky k identifikaci těchto informací
 
-1. Přihlášení do [Centra kompatibility aplikace Office 365 zabezpečení &](https://protection.office.com/).
+1. Přihlaste se k [Centru dodržování předpisů pro zabezpečení & microsoft 365](https://protection.office.com/).
 
-2. Přejít na **vyhledávání** > **auditování protokolu vyhledávací** stránku.
+2. Přejděte na stránku**hledání protokolu auditování** **vyhledávání.** > 
 
-   Pokud vás zajímají konkrétní aktivity, vyberte ji ze seznamu **aktivit** . Pokud ne, budou vráceny všechny aktivity pro vybraného uživatele (výchozí nastavení).
+   Pokud máte zájem o konkrétní aktivitu, vyberte ji ze seznamu **Aktivity.** Pokud tomu tak není, budou pro vybraného uživatele vráceny všechny aktivity (výchozí nastavení).
 
-   **Poznámka**: některé činnosti nemusí být k dispozici v nabídce **činností** ; však ty položky auditu bude vrácena, pokud je **Zobrazit výsledky pro všechny činnosti** (výchozí nastavení).
+   **Poznámka**: Některé aktivity nemusí být v nabídce **Aktivity** k dispozici. tyto položky auditu však budou vráceny, pokud je **vybrána možnost Zobrazit výsledky pro všechny aktivity** (výchozí nastavení).
 
-3. Zadejte uživatelské jméno do pole **Uživatelé** a vyberte příslušné období aktivity klepněte na tlačítko **Hledat**.
+3. Zadejte uživatelské jméno do pole **Uživatelé,** vyberte příslušné časové období aktivity a klepněte na tlačítko **Hledat**.
 
-Ve výsledcích se zobrazí adresu IP pro tuto činnost v podokně výsledků. Vyberte záznam auditu zobrazíte podrobné informace vždy **Podrobnosti** (například klienta, uživatel, který provedl akci, atd.).
+Ve výsledcích se zobrazí ip adresa pro tuto aktivitu v podokně výsledků. Výběrem záznamu auditu zobrazíte podrobné informace v informačním rámečku **Podrobnosti** (například Klient, Uživatel, který provedl akci atd.).
 
-Další informace naleznete v tématu [vyhledání adresy IP počítače pro přístup k ohrožení zabezpečení účtu](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Další informace naleznete [v tématu Hledání IP adresy počítače používaného pro přístup k ohroženému účtu](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).

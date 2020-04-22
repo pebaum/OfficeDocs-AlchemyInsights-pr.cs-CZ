@@ -1,9 +1,9 @@
 ---
-title: Chyba při odesílání e-mailu blokováno SpamHaus
+title: Při odesílání e-mailů blokovaných spamem došlo k chybě.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "255"
 - "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: 39213f6f1b96c2bef9ea071f43c38766debf64d1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ff4f7a155fe74f5b42a1bd43e67ef0a751d7fbd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527125"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714251"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Chyba při odesílání e-mailu: klienta host blokovaných Spamhaus pomocí
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Při odesílání e-mailů došlo k chybě: Hostitel klienta byl zablokován pomocí spamhausu
 
-Adresu IP, který zprávu odeslal, je na seznamu blokování [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245)vlastněné. Hostují účty obsahovat důvody blokován nastavením Spamhaus ohrožení počítače sdílení veřejných adres IP a zásad poskytovatele služeb Internetu (ISP). Jsou možné opravy:
+IP adresa, která zprávu odeslala, je na seznamu blokování vlastněném [společností Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Mezi důvody, proč spamhaus blokuje, patří kompromitované účty, ohrožené počítače sdílející veřejnou IP adresu a zásady poskytovatele internetových služeb (ISP). Možné opravy jsou:
   
-- Blokování příchozích zpráv kde ovládacího prvku zdrojového serveru e-mailu služeb Office 365 je třeba zjistit příčinu a odstranit blokování Spamhaus webu.
+- U blokovaných příchozích zpráv, kde ovládáte zdrojový e-mailový server, je třeba určit příčinu a odstranit blok z webu Spamhaus.
 
-- U blokovaných příchozích zpráv do služeb Office 365, pokud je zdrojová adresa IP patří někomu jinému musí odstranit blok z webu Spamhaus adresa vlastníka. Pokud adresa IP je v seznamu zásad bloku (PBL), vlastník můžete přiřadit jinou statickou adresu IP nebo adresu odebrat z PBL.
+- U blokovaných příchozích zpráv, u kterých zdrojová IP adresa patří někomu jinému, musí vlastník adresy odstranit blok z webu Spamhaus. Pokud je adresa IP v seznamu blokování zásad (PBL), může vlastník přiřadit jinou statickou adresu IP nebo adresu z PBL odebrat.
 
-- Pro blokované odchozí zprávy z vaší domény služeb Office 365 můžete obdržet tuto chybu Pokud zprávy jsou směrovány prostřednictvím služby 3. strana. Vyhledávací nástroj WHOIS můžete použít k nalezení vlastníka blokované adresy IP.
+- U blokovaných odchozích zpráv z vaší domény připojené k Microsoftu se tato chyba zobrazí, pokud jsou zprávy směrovány prostřednictvím služby třetí strany. Pomocí vyhledávacího nástroje WHOIS můžete najít vlastníka blokované adresy IP.

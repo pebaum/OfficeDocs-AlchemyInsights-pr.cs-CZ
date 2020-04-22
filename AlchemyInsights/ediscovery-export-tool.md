@@ -14,36 +14,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769296"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714763"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nelze nainstalovat nebo spustit nástroj pro export systému eDiscovery?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nelze nainstalovat nebo spustit nástroj eDiscovery Export Tool?
 
-Pokud nemůžete nainstalovat nebo spustit nástroj Office 365 eDiscovery export pro stahování výsledků hledání, zkontrolujte následující skutečnosti:
+Pokud se vám nepodařilo nainstalovat nebo spustit nástroj eDiscovery Export Tool ke stažení výsledků hledání, zkontrolujte následující věci:
   
 - Počítač, který používáte, splňuje tyto požadavky:
 
-  - 32-nebo 64-bitové verze systému Windows 7 a novější verze
+  - 32bitové nebo 64bitové verze systému Windows 7 a novějších verzí
 
-  - Rozhraní Microsoft .NET Framework 4,7
+  - Rozhraní Microsoft .NET Framework 4.7
 
   - Podporovaný prohlížeč:
 
-  - Hrana společnosti Microsoft
+  - Microsoft Edge
 
     Nebo
 
   - Internet Explorer 10 a novější verze
 
-    Jiné prohlížeče, například Google Chrome a Mozilla Firefox, nejsou podporovány.
+    Ostatní prohlížeče, jako je Google Chrome a Mozilla Firefox, nejsou podporovány.
 
-- Vaše organizace se může připojit ke koncovému bodu v Azure, což je ** \*. blob.Core.Windows.NET** (zástupný znak představuje jedinečný identifikátor pro vaši úlohu exportu).
+- Vaše organizace se může připojit ke koncovému bodu v Azure, což je ** \*.blob.core.windows.net** (zástupný znak představuje jedinečný identifikátor pro úlohu exportu).
 
-- Máte přiřazenu roli exportu v centru pro dodržování zabezpečení &amp; Office 365. Ve výchozím nastavení je tato role přiřazena pouze ke skupině rolí správce eDiscovery. Viz [přiřazení oprávnění eDiscovery](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- Roli Export vám přiřadíte v Centru &amp; dodržování předpisů zabezpečení Microsoft 365. Ve výchozím nastavení je tato role přiřazena pouze skupině rolí správce eDiscovery. Viz [Přiřazení oprávnění eDiscovery](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-Další informace viz [Export výsledků hledání obsahu](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Další informace naleznete v [tématu Export výsledků hledání obsahu](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

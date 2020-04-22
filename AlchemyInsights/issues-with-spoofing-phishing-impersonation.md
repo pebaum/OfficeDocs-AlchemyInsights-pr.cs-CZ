@@ -1,5 +1,5 @@
 ---
-title: Problémy s podvodnou identifikací, podvodnými zprávami nebo zosobněním?
+title: Problémy s falšováním, phishingem nebo zosobněním?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,29 +9,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 73a960d76802ccfee5500b1816f34a15b960c3f2
-ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
+ms.openlocfilehash: fa6503b7ec1c4e83030149ee460e6d84602d7f4d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36716096"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713963"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problémy s podvodnou identifikací, podvodnými zprávami nebo zosobněním?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problémy s falšováním, phishingem nebo zosobněním?
 
-Informace o tom, jak vás sada Office 365 chrání před:
+Přečtěte si, jak vás společnost Microsoft chrání před:
 
 - [Spoofing](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
 
-- [Útoky typu phishing a zosobnění](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
+- [Phishing a zosobnění](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
 
 Další doporučení:
 
-- Pro odesílatele s falešnou identitou, které se jeví jako pocházejí z vaší vlastní domény, může pomoc [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) a [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) .
+- Pro podivíny, kteří vypadají, že pocházejí z vaší vlastní domény, mohou pomoci [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) a [DKIM.](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email)
 
-- Ověřte, zda odesílatelé ve vaší doméně nejsou nakonfigurováni tak, aby vynechal filtrování nevyžádané pošty pomocí pravidel toku pošty (označaných také jako pravidla přenosu) nebo povolit položky seznamu. Další informace naleznete v tématu [Upozornění na vynechání filtrů nevyžádané pošty sady Office 365](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+- Ověřte, zda odesílatelé ve vlastní doméně nejsou nakonfigurováni tak, aby obchází filtrování nevyžádané pošty pomocí pravidel toku pošty (označovaných také jako pravidla přenosu) nebo povolit položky seznamu. Další informace naleznete v [tématu Upozornění před obcházením filtrů nevyžádané pošty společnosti Microsoft](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
 
-- Ověřte, zda uživatelé nekonfigurováni položky [seznamu bezpečných odesílatelů](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) , kteří by mohli povolit útoky typu phishing.
+- Ověřte, zda uživatelé nenakonfigurovali položky [seznamu bezpečných odesílatelů,](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) které by mohly umožnit phishingové útoky.
 
-- Místo složky Nevyžádaná pošta zvažte možnost dodání nevyžádané pošty a podvodných zpráv s vysokou spolehlivostí do karantény. Další informace naleznete v tématu [karanténní e-mailové zprávy v sadě Office 365](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).
+- Zvažte, zda chcete místo složky Nevyžádaná pošta dokarantény dokarantény s vysokou důvěrou nevyžádanou poštou a phishingovými zprávami. Další informace naleznete v [tématu Karanténa e-mailových zpráv](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).
 
-**[Zasílání zpráv společnosti Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) je nejlepším způsobem, jak nám říct, jak filtry provádějí.**
+**[Vytváření sestav zpráv společnosti Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) je nejlepší způsob, jak nám dát vědět, jak si filtry vedou.**

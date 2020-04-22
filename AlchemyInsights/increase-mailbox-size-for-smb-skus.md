@@ -1,9 +1,9 @@
 ---
-title: Zvětšit velikost poštovní schránky pro SMB SKUs
+title: Zvětšení velikosti poštovní schránky pro skum SMB SMB
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/22/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 0d1c3a1bc4e61bd9167a5d7a18f064819a4686c4
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 1f4832ee74470ec2cb0f61fcc50ac559d3767791
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739234"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714071"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Přepnutí plánu na zvětšení velikosti poštovní schránky
+# <a name="switch-plans-to-increase-mailbox-size"></a>Přepnutí plánů pro zvětšení velikosti poštovní schránky
 
-Pokud je velikost poštovní schránky 50 GB, můžete velikost poštovní schránky zvětšit na 100 GB přepnutím do [sady Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) nebo [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Zde je postup přepnutí na jiný plán 365 sady Office:
+Pokud je velikost poštovní schránky 50 GB, můžete zvětšit velikost poštovní schránky na 100 GB přepnutím na [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) nebo [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Tady jsou kroky, jak přejít na jiné předplatné:
   
-1. V centru pro správu Microsoft 365 pro správce přejděte na stránku [odběry](https://go.microsoft.com/fwlink/p/?linkid=842054) nebo vyberte možnost **** \> **předplatné**fakturace.
+1. V Centru pro správu Microsoftu 365 přejděte na stránku [Předplatná](https://go.microsoft.com/fwlink/p/?linkid=842054) nebo zvolte **Fakturace** \> **předplatných**.
     
-2. Chcete-li zobrazit seznam nových plánů, které jsou k dispozici, zvolte příkaz **plány přepnutí** . 
+2. Zvolte **Přepnout plány,** chcete-li zobrazit seznam nových plánů, které jsou k dispozici. 
     
-3. Zvolte plán pro zobrazení nových celkových nákladů za měsíc. Přečtěte si **informace o klíči**a pak klepněte na tlačítko **Další** . 
+3. Zvolte plán, chcete-li zobrazit nové celkové náklady za měsíc. Nezapomeňte si přečíst **klíčové informace**, pak zvolte **Další** pro check out. 
     
-4. Až dokončíte rezervaci, bude sada Office 365 trvat několik minut, než bude přepínač dokončen. Nové předplatné můžete začít okamžitě používat.
+4. Po dokončení pokladny trvá dokončení přepínače v aplikaci Microsoft 365 několik minut. Nové předplatné můžete začít používat ihned.
     
-Další informace naleznete v tématu [Přepnutí do jiného plánu sady Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
+Další podrobnosti najdete v [tématu Přepnutí na jiné předplatné Microsoftu 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
   
 

@@ -1,29 +1,29 @@
 ---
-title: Instalovat a konfigurovat OneDrive
+title: Instalace a konfigurace OneDrivu
 ms.author: matteva
 author: pebaum
-ms.date: 6/10/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- "844"
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: d732b8a0804d348a27e6d896e058806b3611034c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: becdd4dc3be4dbeb87ceff3700f60019873bef2d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498984"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710976"
 ---
-# <a name="install-and-configure-onedrive"></a>Instalovat a konfigurovat OneDrive
+# <a name="install-and-configure-onedrive"></a>Instalace a konfigurace OneDrivu
 
-Synchronizace klienta OneDrive je předinstalovaný s Windows 10. Chcete-li nainstalovat OneDrive pro systém Windows 7 nebo Mac nebo získat mobilní aplikace pro telefon nebo tablet, přejděte na [http://onedrive.com/download](http://onedrive.com/download).
+Klient synchronizace OneDrivu je předinstalovaný ve Windows 10. Pokud chcete nainstalovat OneDrive pro Windows 7 nebo Mac nebo získat mobilní [https://onedrive.com/download](https://onedrive.com/download)aplikaci pro telefon nebo tablet, přejděte na .
   
-Nastavení klienta synchronizace OneDrive v systému Windows naleznete v následujících tématech:
+Pokud chcete nastavit klienta synchronizace OneDrivu ve Windows, přečtěte si následující:
   
-- [Nastavení počítače pro synchronizaci vašeho OneDrive pro firemní soubory ve službách Office 365](https://go.microsoft.com/fwlink/?linkid=533375)
+- [Nastavení počítače pro synchronizaci souborů OneDrivu pro firmy](https://go.microsoft.com/fwlink/?linkid=533375)
 
 - [Synchronizace sharepointových souborů pomocí nového synchronizačního klienta OneDrivu](https://go.microsoft.com/fwlink/?linkid=871666)

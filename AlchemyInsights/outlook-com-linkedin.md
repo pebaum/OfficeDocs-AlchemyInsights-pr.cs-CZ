@@ -1,9 +1,9 @@
 ---
-title: Problémy s nevyžádanou poštou, které tvrdí, že jsou z LinkedIn
+title: Problémy s nevyžádanou poštou, která tvrdí, že pochází z LinkedInu
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: e0c2029ce40e4c105c7a4790f15555f9cd3b1fee
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1cac908edee18c92219a46d24e38f9aed7cb2249
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36536491"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715913"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problémy s nevyžádanou poštou, které tvrdí, že jsou z LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problémy s nevyžádanou poštou, která tvrdí, že pochází z LinkedInu
 
-Jsme si vědomi, že někteří uživatelé dostávají nevyžádanou poštu, která tvrdí, že je z LinkedIn.
+Jsme si vědomi toho, že někteří uživatelé dostávají nevyžádanou poštu, která tvrdí, že pochází z LinkedIn.
 
-Pro filtrování těchto e-mailů doporučujeme použít pravidlo doručené pošty.
+K filtrování těchto e-mailů doporučujeme použít pravidlo doručené pošty.
 
-Další informace naleznete [v použití pravidel pro doručenou poštu v Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).
+Další informace naleznete v informacích o [používání pravidel doručené pošty v Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).

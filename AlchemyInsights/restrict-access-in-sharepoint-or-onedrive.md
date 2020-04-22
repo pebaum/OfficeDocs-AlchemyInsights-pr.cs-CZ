@@ -1,30 +1,30 @@
 ---
-title: Omezení přístupu v serveru SharePoint nebo OneDrive
+title: Omezení přístupu na SharePointu nebo OneDrivu
 ms.author: mikeplum
 author: MikePlumleyMSFT
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: e5458226fe33bd5cb3da1f608fb113b888fbfd16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ed8e97b20c96a7b46995c969074cc4cef3a787d9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551444"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715877"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Omezení přístupu v serveru SharePoint nebo OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Omezení přístupu na SharePointu nebo OneDrivu
 
-V SharePoint a OneDrive můžete omezit přístup k položky, jako jsou soubory, složky a seznamy udělením přístupu pouze pro skupiny nebo jednotlivce, který má přístup. Ve výchozím nastavení oprávnění ve službě SharePoint zděděna z výše v hierarchii. Tak soubor dědí oprávnění ze složky, které dědí oprávnění z knihovny, který dědí oprávnění z webu.
+V SharePointu a OneDrivu můžete omezit přístup k položkám, jako jsou soubory, složky a seznamy, tím, že udělíte přístup jenom skupinám nebo jednotlivcům, ke kterým chcete mít přístup. Ve výchozím nastavení se oprávnění v SharePointu dědí z vyšších míst v hierarchii. Soubor tedy dědí svá oprávnění ze složky, která dědí svá oprávnění z knihovny, která zdědí svá oprávnění z webu.
   
-Můžete sdílet na vyšší úrovni (například pomocí sdílení celého webu) a potom přerušit vztah dědičnosti, pokud chcete sdílet všechny položky na webu. Avšak nedoporučujeme to proto zachování oprávnění více složité a matoucí v budoucnosti. Zde je to, co byste mohli dělat místo toho:
+Pokud nechcete sdílet všechny položky na webu, můžete je sdílet na vyšší úrovni (například sdílením celého webu) a pak přerušit dědičnost. Nedoporučujeme to však, protože to v budoucnu zkomplikuje a zmatečně zkomplikuje a zmateční. Zde je to, co byste mohli udělat místo:
   
-- Pokud například chcete sdílet obsah složek s výjimkou jednoho souboru, tento soubor přesunete do nového umístění, který není sdílen.
+- Pokud například chcete sdílet veškerý obsah složky s výjimkou jednoho souboru v ní, přesuňte tento soubor do nového umístění, které není sdíleno.
     
-- Pokud máte dvě podsložky ve složce a chcete sdílet jednu podsložku s skupiny A a B povolit pouze skupiny A přístup k podsložce druhé, skupině A sdílet složku a přidat skupiny B první podsložky.
+- Pokud máte ve složce dvě podsložky a chcete sdílet jednu podsložku se skupinami A a B a povolit pouze skupinu A přístup k druhé podsložce, sdílejte nadřazenou složku se skupinou A a přidejte skupinu B do první podsložky.
     
-[Zastavení sdílení souboru nebo složky](https://go.microsoft.com/fwlink/?linkid=2008861)
+[Ukončení sdílení souboru nebo složky](https://go.microsoft.com/fwlink/?linkid=2008861)
   
 

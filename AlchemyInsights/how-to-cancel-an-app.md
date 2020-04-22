@@ -1,9 +1,9 @@
 ---
-title: Zrušení aplikace
+title: Jak zrušit aplikaci
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2eb0e1f521baf1458530f8557f55fdda69d1a23f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36542091"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711300"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Jak zrušit softwarové aplikace v provozu 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Jak zrušit aplikace softwaru jako služby 
 
-1. V centru Microsoft 365 Admin Center na **fakturační** > [produkty & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) **Vyberte kartu aplikace** .
+1. V Centru pro správu Microsoftu 365 na stránce **Fakturační** > [produkty & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) zvolte kartu **Aplikace.**
 
-2. Najděte a vyberte App, kterou chcete spravovat.
+2. Najděte a vyberte aplikaci, kterou chcete spravovat.
 
-3. V části **nastavení & akce**vyberte možnost **zrušit předplatné**.
+3. V části **Nastavení & akcí**vyberte Zrušit **předplatné**.

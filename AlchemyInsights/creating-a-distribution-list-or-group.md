@@ -1,5 +1,5 @@
 ---
-title: 711 vytvoření distribučního seznamu nebo skupiny
+title: 711 Vytvoření distribučního seznamu nebo skupiny
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: ed2e30b37f521d3c93fcffed281dbbb0c355d305
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 2ce7e4146abe272b2025132c4fc44329abc8d8a0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36740746"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715445"
 ---
-# <a name="create-distribution-groups"></a>Vytvořit distribuční skupiny
+# <a name="create-distribution-groups"></a>Vytvoření distribučních skupin
 
-Distribuční skupiny (označované také jako distribuční seznamy) v sadě Office 365 slouží k doručování e-mailových zpráv skupinám osob uvnitř i vně vaší organizace. Jejich tvorba je snadná! Pokyny naleznete v části [Vytvoření distribučních seznamů v centru Microsoft 365 Admin Center](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).
+Distribuční skupiny (označované také jako distribuční seznamy) slouží k doručování e-mailových zpráv skupinám osob ve vaší organizaci i mimo ni. Jejich vytváření je snadné! Pokyny najdete [v tématu Vytváření distribučních seznamů v Centru pro správu Microsoft365](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).
 
-**Poznámka**: správce potřebuje spravovat členství v distribuční skupině. Chcete-li, aby uživatelé spravili své vlastní seznamy členství ve skupinách, zvažte místo toho [skupiny Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) .
+**Poznámka:** Správce musí spravovat členství v distribuční skupině. Pokud chcete, aby uživatelé spravovali své vlastní seznamy členů skupiny, můžete místo toho zvážit [skupiny Office 365.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)

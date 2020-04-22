@@ -1,9 +1,9 @@
 ---
-title: 9000199 souborů PST v Outlook.com
+title: 9000199 PST soubory v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/27/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "1761"
 - "1771"
 - "9000199"
-ms.openlocfilehash: 6b4b5bdf5921153c99c4d1eb109ea0579c08eb37
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b54bcc3df2fd4a7f589ce012fc1f3933a754a4d4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36535600"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712775"
 ---
 # <a name="pst-data-files-in-outlookcom"></a>Datové soubory PST v Outlook.com
 
-Není možné importovat aplikaci Outlook. Datového souboru PST do účtu Outlook.com pomocí prohlížeče.
+Není možné importovat aplikaci Outlook . PST datový soubor do svého účtu Outlook.com pomocí prohlížeče.
 
-Chcete-li importovat. Datového souboru PST, je nutné použít aplikaci Outlook Desktop App. Chcete-li získat více informací, přečtěte si informace o [importu e-mailů, kontaktů a kalendářů ze souboru Outlook. PST.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
+Import . pst datový soubor, musíte použít desktopovou aplikaci Outlook. Další informace najdete v [části Import e-mailů, kontaktů a kalendáře z aplikace Outlook .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)

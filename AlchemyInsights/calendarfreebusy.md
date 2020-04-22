@@ -1,5 +1,5 @@
 ---
-title: 400 kalendář-volný čas
+title: Kalendář 400 - FreeBusy
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
@@ -9,13 +9,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: 7c3e9f99f0132f3fffa492c995cd8c45959749ea
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b708df774bbcb71a5ba8051fb857bcdd4ca99a0c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768469"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711840"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Problémy s informacemi o volném čase v kalendáři
+# <a name="issues-seeing-calendar-freebusy-information"></a>Problémy se zobrazením informací o volném čase kalendáře
 
-Pokud nejsou v jiných kalendářích aplikace Outlook zobrazeny informace o volném čase v kalendáři nebo pokud ostatní uživatelé neuvidí informace o volném čase v kalendáři, použijte [Pomocníka pro podporu a zotavení společnosti Microsoft pro sadu Office 365](https://diagnostics.office.com/).
+Pokud v jiných kalendářích outlooku nevidíte informace o volném čase kalendáře nebo pokud ostatní uživatelé nevidí informace o volném čase v kalendáři, použijte [Pomocníka pro podporu a obnovení microsoftu pro Microsoft 365](https://diagnostics.office.com/).

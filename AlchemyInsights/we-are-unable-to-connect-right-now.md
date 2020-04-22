@@ -1,5 +1,5 @@
 ---
-title: Problém aktivace-momentálně se nelze připojit
+title: Problém s aktivací – nedaří se nám připojit právě teď
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 84e3a7700558ad8a5fad5b7ded6354fe8736e0f7
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628235"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716165"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Oprava aplikací sady Office "nelze se nyní připojit".
+# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Oprava zprávy Opravou aplikací Office "Nejsme se teď schopni připojit"
 
-Zobrazí-li se tato zpráva, postupujte takto:
+Pokud se zobrazí tato zpráva, vyzkoušejte následující postup:
 
-1. Zkontrolujte bránu firewall, antivirový software a nastavení serveru proxy, abyste potvrdili, že neblokují internetový přístup k aplikacím sady Office. Viz [adresy URL sady Office 365 a rozsahy adres IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Zkontrolujte bránu firewall, antivirový software a nastavení proxy serveru a ověřte, zda neblokují přístup k Internetu aplikacím Office. Viz [Adresy URL společnosti Microsoft a rozsahy IP adres](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Přejděte ke **** > spuštění**a zadejte**příkaz **Services. msc**. Zkontrolujte, zda jsou spuštěny následující služby:
-    - Automatické nastavení zařízení připojených k síti
-    - Služba Network list Service
-    - Povědomí o síťovém umístění
+2. Přejděte na **spustit** > **a**zadejte **services.msc**. Ujistěte se, že jsou spuštěny všechny následující služby:
+    - Automatické nastavení síťových připojených zařízení
+    - Služba Seznam sítí
+    - Povědomí o umístění v síti
     - Protokol událostí systému Windows
 
-Není-li některá z těchto služeb spuštěna, pokuste se jej spustit. Pokud při spouštění služby dojde k potížím, spusťte pomocí příkazového řádku se zvýšenými oprávněními následující příkaz:
+Pokud některá z těchto služeb není spuštěna, zkuste ji spustit. Pokud máte problém se spuštěním služby, spusťte následující příkaz otevřením příkazového řádku se zvýšenými oprávněními:
 
-**sfc/scannow**
+**sfc /scannow**
 
 Po dokončení tohoto příkazu restartujte počítač.
 
-Podrobné informace naleznete v tématu ["Lituji, ale nemůžeme se připojit k vašemu účtu. Při aktivaci sady Office ze sady Office 365 opakujte akci později](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Podrobné informace najdete [v tématu "Omlouváme se, ale nemůžeme se připojit k vašemu účtu. Zkuste to prosím znovu později" chyba při aktivaci Office z Microsoft u 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
