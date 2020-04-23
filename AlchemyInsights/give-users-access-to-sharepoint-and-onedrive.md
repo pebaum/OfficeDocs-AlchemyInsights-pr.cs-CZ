@@ -1,9 +1,9 @@
 ---
-title: Poskytnout uživatelům přístup ke službě SharePoint a OneDrive
+title: Poskytnutí přístupu uživatelům ke SharePointu a OneDrivu
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 11/14/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: eead51d6d16206de19bca213d6df72dbb6b66c8b
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0bdc2fa97ad1fe8b3280411babaaf2bd685a644d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051922"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721728"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Poskytnout uživatelům přístup ke službě SharePoint a OneDrive
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Poskytnutí přístupu uživatelům ke SharePointu a OneDrivu
 
 > [!NOTE]
-> Pokud není web OneDrive nebo SharePoint k dispozici pro více uživatelů, kteří měli přístup dříve, může se jednat o dočasný problém se službou. [Kontrola řídicího panelu stavu služby](https://portal.office.com/adminportal/home#/servicehealth)
+> Pokud web OneDrivu nebo SharePointu není k dispozici více uživatelům, kteří k nim měli dříve přístup, může se jedná o dočasný problém se službou. [Kontrola řídicího panelu stavu služby](https://portal.office.com/adminportal/home#/servicehealth)
   
-Chcete-li, aby se uživatelé ve vaší organizaci mohli přihlásit a používat službu SharePoint a OneDrive, musíte pro ně přidat účty a ujistit se, že mají licenci, která jim poskytuje přístup ke službě SharePoint a OneDrive. Nejsnadnější způsob přidání uživatelů je v centru Microsoft 365 Admin Center.
+Pokud chcete, aby se lidé ve vaší organizaci mohli přihlásit a používat SharePoint a OneDrive, musíte pro ně přidat účty a ujistit se, že mají licenci, která jim umožní přístup ke SharePointu a OneDrivu. Nejjednodušší způsob, jak přidat uživatele, je v Centru pro správu Microsoftu 365.
   
-1. Přejděte na [stránku aktivní uživatelé ve středisku Microsoft 365 Admin Center](https://portal.office.com/adminportal/home#/users)a klepněte na tlačítko **Přidat uživatele**.
+1. Přejděte na [stránku Aktivní uživatelé v Centru pro správu Microsoftu 365](https://portal.office.com/adminportal/home#/users)a klikněte na **Přidat uživatele**.
     
-2. Zadejte informace pro uživatele a ujistěte se, že je v rámci **licencí k produktu**přiřazena licence a je vybrána **Služba SharePoint Online** . 
+2. Vyplňte informace o uživateli a ujistěte se, že v části **Licence produktu**je přiřazena licence a je **vybrána sharepointonline.** 
     
-Počítejte s tím, že pokud povolíte externí sdílení v organizaci, mohou uživatelé sdílet obsah služby SharePoint a OneDrive s lidmi mimo organizaci. Tyto licence externích uživatelů nemusíte poskytovat. Pro ně také nemusíte přidávat účty, pokud není sdílení nastaveno na "pouze existující externí uživatelé". V takovém případě, pokud uživatelé nejsou v adresáři vaší organizace, je třeba je přidat jako uživatele Guest do centra Azure AD Admin Center.
+Upozorňujeme, že pokud povolíte externí sdílení ve vaší organizaci, můžou uživatelé sdílet obsah SharePointu a OneDrivu s lidmi mimo organizaci. Těmto externím uživatelům nemusíte udělit licence. Také není nutné přidávat účty pro ně, pokud sdílení je nastavena na "Pouze stávající externí uživatelé." V takovém případě, pokud lidé nejsou v adresáři vaší organizace, je třeba je přidat jako uživatele typu Host v Centru pro správu Azure AD.
   
 

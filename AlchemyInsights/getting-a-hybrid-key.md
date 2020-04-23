@@ -1,9 +1,9 @@
 ---
-title: Získání klíče hybrid
+title: Získání hybridního klíče
 ms.author: dstrome
 author: dstrome
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: e679c8cded30048686cd965a2597e0447ecd21fb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6d12b8e1a9b94b28d0007065446a1d55ac072e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524044"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721708"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>Klíč pro výměnu hybridní získávání
+# <a name="getting-an-exchange-hybrid-key"></a>Získání hybridního klíče Exchange
 
-Chcete-li připojit místní organizace Exchange online v Office 365, musíte nastavit alespoň jeden server Exchange v organizaci v prostorách. Tento server bude použit k vytvoření hybridní nasazení, který se připojuje k serveru Exchange Online organizaci používající server Exchange v prostorách. Chcete-li získat klíč hybrid pro tento server, postupujte na [Průvodce distribuce klíčů produktu Exchange hybridní](https://aka.ms/hybridkey).
+Chcete-li připojit místní organizaci k Exchange Online v Microsoftu 365, musíte nastavit alespoň jeden server Exchange ve vaší místní organizaci. Tento server se používá k vytvoření hybridního nasazení, které propojuje místní organizaci Exchange s Exchange Online. Chcete-li získat hybridní klíč pro tento server, postupujte podle pokynů v [průvodci distribucí hybridního kódu Product Key serveru Exchange](https://aka.ms/hybridkey).
   

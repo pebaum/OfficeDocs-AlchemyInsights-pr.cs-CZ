@@ -1,9 +1,9 @@
 ---
-title: Problems-Sharing-with-Outlook-Customer-Manager
+title: problémy-sdílení-s-outlook-zákazník-manager
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 91e1e9fa8177d1db6df02dd3376edc6cdd05fb60
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8363481f87f4f153047269fd4c3e72f442fafcc6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554470"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758819"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Potíže se sdílením s Outlook Správce informací o zákaznících
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Problémy se sdílením se Správcem zákazníků aplikace Outlook
 
-Pokud máte sdílení problémy s aplikací Outlook Správce informací o zákaznících doporučujeme nejprve zkuste vymazání mezipaměti prohlížeče. Například v aplikaci Internet Explorer způsobem:
+Pokud máte problémy se sdílením se Správcem zákazníků aplikace Outlook, doporučujeme nejprve odstranit mezipaměť prohlížeče. Například v aplikaci Internet Explorer byste:
 
-1. Přejděte na **Nastavení** > >**Obecné** nastavení v části **Historie procházení** > **mezipaměti a databáze**.
-2. Odstranit soubory mezipaměti webu "outlookapps.com".
+1. Přejděte na **Nastavení** > **obecného** > Nastavení v části**Mezipaměti a databáze**historie >  **procházení**.
+2. Odstraňte soubory mezipaměti pro web "outlookapps.com".
 3. Restartujte aplikaci Outlook.
 
-Další informace o sdílení naleznete v tématu [sdílení informací v aplikaci Outlook Správce informací o zákaznících](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+Další informace o sdílení naleznete [v tématu Sdílení informací ve Správci zákazníků aplikace Outlook](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).

@@ -1,9 +1,9 @@
 ---
-title: Outlook.com účet je uzamčen.
+title: účet Outlook.com uzamčen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/30/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: 9a96bb18d06814164cd54e8183f67f2d2db55eac
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e3ddebc8b73688d65c32e15383c7d654a3f1fff1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546080"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745748"
 ---
-# <a name="account-locked"></a>Účet je uzamčen.
+# <a name="account-locked"></a>Účet uzamčen
 
-Pokud se zobrazí zpráva "účet byl uzamčen" při pokusu o přihlášení na Outlook.com, je to proto, že jsme jste zaznamenali některé neobvyklé aktivity na vašem účtu. Chcete-li chránit před potenciální podvod nebo zneužití, jsme jste váš účet dočasně uzamčen. Jsme si vědomi, že je to nepříjemné, ale pomůžeme vám se vrátit zpět na váš účet pomocí několika kroků.
+Pokud se při pokusu o přihlášení k Outlook.com zobrazí zpráva "Váš účet byl uzamčen", je to proto, že jsme ve vašem účtu zaznamenali neobvyklou aktivitu. Abychom vás ochránili před potenciálním podvodem nebo zneužitím, váš účet jsme dočasně uzamkli. Víme, že je to frustrující, ale můžeme vám pomoci dostat se zpět do svého účtu s několika kroky.
 
-1. Přejděte na [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) a přihlášení k uzamčenému účtu.K odemčení účtu, musíte zadat bezpečnostní kód v textové zprávě k dispozici od společnosti Microsoft. Chcete-li získat text zprávy, musíte mít telefon, který podporuje textové zprávy. Pokud váš telefon nepodporuje textové zprávy, můžete požádat přítele nebo rodinného příslušníka použít jejich telefon. Společnost Microsoft neukládá toto telefonní číslo, telefonní číslo, které použijete k zobrazení této zprávy text nemusí být přidružen k vašemu účtu.
-2. Pokud se zobrazí zpráva "Byl překročen limit využití", přejděte k [Účtu opětovné zavedení](https://go.microsoft.com/fwlink/?linkid=2090483) a jeden z našich agentů bude kontrolovat svůj účet.
+1. Přejděte na [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) a přihlaste se ke svému zamčenému účtu.Chcete-li odemknout účet, musíte zadat bezpečnostní kód uvedený v textové zprávě od společnosti Microsoft. Chcete-li získat textovou zprávu, musíte mít telefon, který podporuje textové zprávy. Pokud váš telefon nepodporuje textové zprávy, můžete požádat přítele nebo člena rodiny, aby jeho telefon používal. Společnost Microsoft toto telefonní číslo neukládá, takže telefonní číslo, které používáte k přijímání této textové zprávy, nemusí být přidruženo k vašemu účtu.
+2. Pokud se zobrazí zpráva "Překročen limit využití", přejděte na [obnovení účtu](https://go.microsoft.com/fwlink/?linkid=2090483) a jeden z našich agentů zkontroluje váš účet.
 
-Chcete-li získat další informace, přečtěte si [Odblokovat účet Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 
+Další informace najdete v textu [Odblokovat účet Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 

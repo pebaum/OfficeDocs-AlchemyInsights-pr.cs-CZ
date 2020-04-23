@@ -1,9 +1,9 @@
 ---
-title: Outlook.com e-mailové odběry
+title: Outlook.com e-mailová odběry
 ms.author: lpyfer
 author: lpyfer
 manager: joallard
-ms.date: 11/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: c07e1af1f1559b06515cdb65ca3c40c58bdb7216
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f802c3fb16decad593cf79ebb20561f61f0931ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38645646"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43723524"
 ---
-# <a name="unable-to-attach-or-upload-files-from-facebook"></a>Nelze připojit nebo uložit soubory z Facebook.
+# <a name="unable-to-attach-or-upload-files-from-facebook"></a>Nelze připojit nebo nahrát soubory z Facebooku
 
-Vzhledem ke změně podmínek a podmínek Facebooku po 23. října 2019 již nebudete moci odesílat přílohy přímo z Facebooku a Facebooku se již nebude zobrazovat v seznamu umístění mraků. 
+Října 2019 už nebudete moci odesílat přílohy přímo z Facebooku a Facebook se už nebude moct zobrazovat v seznamu vašich cloudových lokalit. 
 
-Seznam dalších umístění mraků v [účtech úložišť](https://go.microsoft.com/fwlink/?linkid=2111075)můžete spravovat.
+Seznam dalších cloudových umístění můžete spravovat ve svých [účtech úložiště](https://go.microsoft.com/fwlink/?linkid=2111075).
 
-Další informace o [účtech úložišť](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a)
+Přečtěte si další informace o [účtech úložiště](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
   

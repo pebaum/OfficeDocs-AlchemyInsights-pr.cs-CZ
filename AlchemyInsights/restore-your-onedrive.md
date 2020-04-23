@@ -1,9 +1,9 @@
 ---
-title: Obnovení aplikace OneDrive
+title: Obnovení OneDrivu
 ms.author: matteva
 author: pebaum
 manager: scotv
-ms.date: 4/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 2750a91a243543df073b016e41d3332a968123a1
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 395b4356667af463e2a63eb80a8f2ff24e3b2583
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36551660"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758639"
 ---
-# <a name="restore-your-onedrive"></a>Obnovení aplikace OneDrive
+# <a name="restore-your-onedrive"></a>Obnovení OneDrivu
 
-Pokud dojde k odstranění, zničení, poškození nebo nakažení souborů OneDrive pomocí malwaru, můžete během posledních 30 dnů obnovit celou dobu OneDrive do předchozího období.
+Pokud se spousta souborů OneDrivu odstraní, přepne, poškodí nebo nakazí malwarem, můžete celý OneDrive obnovit na předchozí dobu během posledních 30 dnů.
   
-1. Ve webovém prohlížeči přejděte na server OneDrive.
+1. Přejděte na OneDrive ve webovém prohlížeči.
     
-2. Klepněte na ikonu nastavení vpravo nahoře a vyberte možnost **obnovit svou funkci OneDrive**.
+2. V pravém horním horním panelu klikněte na ikonu Nastavení a pak vyberte **Obnovit OneDrive**.
     
-3. Vyberte datum ze seznamu nebo zvolte **vlastní datum a čas**.
+3. Vyberte datum ze seznamu nebo zvolte **Vlastní datum a čas**.
     
-4. Klepnutím na tlačítko **obnovit** vrátíte zpět všechny aktivity po vybraném datu. 
+4. Kliknutím na **Obnovit** vrátíte všechny aktivity po vybraném datu. 
     
-[Další Nápověda pomocí nástroje Obnovení souborů](https://go.microsoft.com/fwlink/?linkid=872874)
+[Další nápověda pomocí nástroje Obnovení souborů](https://go.microsoft.com/fwlink/?linkid=872874)
   
 

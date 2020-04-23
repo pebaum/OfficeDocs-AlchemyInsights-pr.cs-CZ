@@ -1,8 +1,8 @@
 ---
-title: Správa verzí ve službě SharePoint a OneDrive
+title: Správa verzí na SharePointu a OneDrivu
 ms.author: pebaum
 author: pebaum
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,33 +12,33 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 167c0fde2f09d4ba2f2f2b583eea849670fdb8c5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e578dc3b19c573335c0e90cc0f84d5c6c1b1c889
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044144"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767386"
 ---
-# <a name="versioning-in-sharepoint-and-onedrive"></a>Správa verzí ve službě SharePoint a OneDrive 
+# <a name="versioning-in-sharepoint-and-onedrive"></a>Správa verzí na SharePointu a OneDrivu 
 
 
-Je-li Správa verzí povolena v seznamu nebo knihovně služby SharePoint, můžete ukládat, sledovat a obnovovat položky seznamu a souborů v knihovně při každé změně. Správa verzí spolu s dalšími nastaveními, jako je například rezervace, poskytuje mnoho řízení obsahu, který je na vašem webu zaúčtován, a může poskytnout reálnou hodnotu, pokud budete někdy potřebovat vyhledat nebo obnovit starou verzi položky nebo souboru.
+Pokud je v sharepointovém seznamu nebo knihovně povolena správa verzí, můžete kdykoli v knihovně ukládat, sledovat a obnovovat položky v seznamu a soubory v knihovně. Správa verzí v kombinaci s dalšími nastaveními, jako je například pokladna, vám dává velkou kontrolu nad obsahem, který je zveřejněn na vašem webu, a může poskytnout skutečnou hodnotu, pokud máte někdy potřebu podívat se na starou verzi položky nebo souboru nebo ji obnovit.
 
-Další informace o správě verzí naleznete na následujících článcích.
+Pro více informací o verzích navštivte níže uvedené články.
 
-- [Jak pracuje Správa verzí v seznamu nebo knihovně služby SharePoint](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
+- [Jak funguje správa verzí v sharepointovém seznamu nebo knihovně](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
 
 - [Povolení a konfigurace správy verzí pro seznam nebo knihovnu](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f)
 
 - [Jak zobrazit historii verzí](https://support.office.com/article/View-the-version-history-of-an-item-or-file-in-a-list-or-library-53262060-5092-424D-A50B-C798B0EC32B1)
 
-- [Obnovení předchozí verze souboru v aplikaci OneDrive](https://support.office.com/article/restore-a-previous-version-of-a-file-in-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893)
+- [Obnovení předchozí verze souboru na OneDrivu](https://support.office.com/article/restore-a-previous-version-of-a-file-in-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893)
 
 - [Zobrazení předchozích verzí souborů Office](https://support.office.com/article/view-previous-versions-of-office-files-5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
 - [Omezení správy verzí](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
 >[!Note] 
->Pokud jste zákazníkem sady Office 365, je ve výchozím nastavení Správa verzí zapnuta, když vytváříte nový objekt OneDrive pro obchodní knihovny a automaticky se uloží posledních 500 verzí dokumentu. To vám pomůže předejít ztrátě důležitých dokumentů nebo dat. Pokud máte existující knihovny na webu OneDrive for Business nebo na týmovém webu, ve kterém není povolena Správa verzí, můžete pro ně kdykoli zapnout správu verzí.
+>Pokud jste zákazníkem Microsoftu 365, správa verzí je teď ve výchozím nastavení zapnutá při vytváření nových knihoven OneDrivu pro firmy a automaticky uloží posledních 500 verzí dokumentu. To vám pomůže zabránit ztrátě důležitých dokumentů nebo dat. Pokud máte na webu OneDrivu pro firmy nebo na týmovém webu existující knihovny, které nemají povolenou správu verzí, můžete pro ně kdykoli zapnout správu verzí.
 
 

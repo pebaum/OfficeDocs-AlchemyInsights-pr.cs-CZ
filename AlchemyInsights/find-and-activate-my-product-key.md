@@ -11,26 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 8b661671afe9fa670decce63b9eb030b35cf072d
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417676"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716129"
 ---
 # <a name="find-and-activate-my-product-key"></a>Vyhledání a aktivace kódu Product Key
 
-Pokud jste si koupili Office 365 pro firmy prostřednictvím [programu Microsoft Open License Program](https://go.microsoft.com/fwlink/p/?LinkID=613298), tady je způsob, jak najít a aktivovat kód Product Key.
+Pokud jste si koupili Microsoft 365 pro firmy prostřednictvím [programu Microsoft Open License Program](https://go.microsoft.com/fwlink/p/?LinkID=613298), zde je způsob, jak najít a aktivovat kód Product Key.
 
-1. Jakmile si koupíte kód od partnera Office 365, vyhledejte si ve složce Doručená pošta e-mail od Microsoftu obsahující aktivační odkaz.  **Poznámka:** E-mail je odeslán osobě uvedené jako správce online v multilicenční smlouvě.  Pokud nevíte, kdo je určený jako online správce, kontaktujte svého partnera Office 365.
+1. Po zakoupení klíče od partnera Microsoftu 365 zkontrolujte v doručené poště e-mail od společnosti Microsoft obsahující aktivační odkaz.  **Poznámka:** E-mail je odeslán osobě uvedené jako správce online v multilicenční smlouvě.  Pokud si nejste jisti, kdo je určen jako správce online, zeptejte se svého partnera Microsoft 365.
 
-2. Pomocí odkazu v e-mailu se přihlaste pomocí pracovního nebo školního účtu, přijměte licenční smlouvu Otevřít a obnovte předplatné.  Podrobné informace o tom, že si můžete stáhnout průvodce PDF, [Aktivovat online služby: Předplatné Office 365](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
+2. Pomocí odkazu v e-mailu se přihlaste pomocí pracovního nebo školního účtu, přijměte licenční smlouvu Otevřít a obnovte předplatné.  Podrobné informace o tom, že si můžete stáhnout průvodce [PDF, Aktivovat online služby: Předplatné Microsoftu 365](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
 
 **Poznámka:** Zákazníci s multilicenčním programem se mohou také rozhodnout aktivovat odběry v [Centru multilicenčních služeb](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Chcete-li se dozvědět, jak, stáhněte si průvodce [PDF, Active Online Services v Centru multilicenčních služeb](https://go.microsoft.com/fwlink/p/?LinkId=618096).
 
-Pokud jste si Office 365 Business Premium zakoupili v maloobchodě, prodlužte datum vypršení platnosti nebo přidejte licenci k existujícímu předplatnému pomocí následujících kroků.
+Pokud jste si koupili Microsoft 365 Business Premium Standard v maloobchodě, použijte následující kroky k prodloužení data vypršení platnosti nebo přidání licence k existujícímu předplatnému.
 
-**Poznámka:** Chcete-li pomocí kódu Product Key prodloužit datum vypršení platnosti nebo přidat licenci ke stávajícímu předplatnému Office 365 Business Premium, potřebujete pro stejný plán Office 365 nový a nepoužívaný klíč.  Zadání původního kódu Product Key pro Office 365 nebude fungovat, protože použitý kód se nedá znovu použít.
+**Poznámka:** Chcete-li pomocí kódu Product Key prodloužit datum vypršení platnosti nebo přidat licenci ke stávajícímu předplatnému Microsoft 365 Business Premium Standard, potřebujete pro stejné předplatné Microsoft 365 nový a nepoužívaný klíč.  Zadání původního kódu Product Key microsoft365 nebude fungovat, protože klíč, který již byl uplatněn, nelze znovu použít.
 
 1. V Centru pro správu přejděte na stránku **Fakturační** > [produkty & služby.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
