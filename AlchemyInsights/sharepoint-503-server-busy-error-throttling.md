@@ -2,7 +2,7 @@
 title: Omezení SharePointu Online
 ms.author: pebaum
 author: pebaum
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 2aca55ac2fefbb2035140a759a77730dc905a4e9
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 50b2c29db1fd294abe6c9e60f067156109de392b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958711"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742202"
 ---
 # <a name="sharepoint-online-throttling"></a>Omezení SharePointu Online
 
-**Důležité:** V těchto nebývalých časech podnikáme kroky k zajištění toho, aby služby SharePointu Online a OneDrive zůstaly vysoce dostupné – další informace najdete na stránce [Dočasné úpravy funkcí SharePointu Online.](https://aka.ms/ODSPAdjustments)
+**Důležité**: V této mimořádné době přijímáme opatření, aby služby SharePointu Online a OneDrivu zůstaly vysoce dostupné. Další informace najdete v článku zaměřeném na [dočasné úpravy funkcí SharePointu Online](https://aka.ms/ODSPAdjustments).
 
 **Chyba serveru 503 je zaneprázdněna**
 
 Uživatelé mohou při pokusu o přechod na weby SharePointu nebo OneDrivu obdržet chybu zaneprázdněného serverem 503. 
 
-Tato chyba může být způsobena omezením v rámci služby SharePoint. SharePoint Online používá omezení k udržení optimálního výkonu a spolehlivosti služby SharePointu Online. Omezení omezuje počet akcí uživatele nebo souběžných volání (podle skriptu nebo kódu), aby se zabránilo nadměrnému využívání prostředků. 
+Tato chyba může být způsobena omezením v rámci služby SharePoint. SharePoint Online využívá omezování k zajištění optimálního výkonu a spolehlivosti svých služeb. Omezování limituje počet akcí uživatelů nebo současných volání (podle skriptů nebo kódu), aby nedocházelo k nadměrnému využití prostředků. 
 
 Další informace o omezení najdete [v tématu Vyhněte se omezení nebo zablokování v SharePointu Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 

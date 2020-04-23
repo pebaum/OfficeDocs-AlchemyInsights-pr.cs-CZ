@@ -1,9 +1,9 @@
 ---
-title: E-mail pracovního postupu není odeslán.
+title: E-mail pracovního postupu se neodesílá
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 7/25/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 76b64323c9d34d49e9c6bd77c2cc7eff6d7c5402
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 391d3a2dcc2676a405065115f375c802d2492119
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049366"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766126"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>E-mail pracovního postupu není odeslán pro seznam nebo knihovnu SharePoint.
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>E-mail pracovního postupu se neodesílá pro sharepointový seznam nebo knihovnu.
 
-1. E-maily z pracovních postupů nejsou odesílány všem uživatelům nebo pouze určitým uživatelům nebo se zobrazí chyba, **kterou e-mailovou zprávu nelze odeslat. Zkontrolujte, zda e-mail obsahuje platného příjemce**.
+1. E-maily z pracovních postupů nejsou odesílány všem uživatelům nebo pouze konkrétním uživatelům nebo se zobrazí chyba **E-mailovou zprávu nelze odeslat. Zkontrolujte, zda má e-mail platného příjemce**.
 
-    Zkontrolujte, zda uživatel existuje ve skupině oprávnění pro **všechny osoby** (seznam informací o uživatelích) pro danou kolekci webů.  Ukázka přímé adresy URL:<tenant>https://.<sitename>SharePoint.com/sites//_layouts/15/People.aspx? MembershipGroupId = 0
+    Zkontrolujte, zda uživatel pro tuto kolekci webů existuje ve skupině Oprávnění **Všichni lidé** (seznam informací o uživateli).  Ukázka přímé<tenant>adresy<sitename>URL: https:// .sharepoint.com/sites/ /_layouts/15/people.aspx? ČlenstvíGroupId=0
 
-    - Pokud uživatel neexistuje, ujistěte se, že je uživatel přihlášen na stránku. 
-    - Pokud se jedná o externího uživatele, ujistěte se, že pozvání bylo přijato.
-    - Pokud uživatel existuje ve skupině oprávnění, zkontrolujte správnost e-mailové adresy.
-    - Pokud zde není nastavena e-mailová adresa uživatele, vytvořte vzorovou výstrahu pro tohoto uživatele, který vynutí synchronizaci tohoto uživatelského účtu z uživatelských profilů služby SharePoint do této kolekce webů.
+    - Pokud uživatel neexistuje, ujistěte se, že je uživatel přihlášen ke stránce. 
+    - Pokud se jedná o externího uživatele, ujistěte se, že jeho pozvání bylo přijato.
+    - Pokud uživatel existuje ve skupině oprávnění, ujistěte se, že e-mailová adresa je správná.
+    - Pokud zde není nastavena e-mailová adresa uživatelů, vytvořte pro tohoto uživatele ukázkovou výstrahu, která vynutí synchronizaci tohoto uživatelského účtu z uživatelských profilů služby SharePoint do této kolekce webů.
  
-2. E-maily z pracovních postupů jsou odesílány správcům kolekcí webů, ale nikoli jiným uživatelům a zobrazí se chyba **http zakázána pro <span>https:</span>//URL/_vti_bin/Client.XVC.SP.Utilities.Utility.SendEmail**.
+2. E-maily z pracovních postupů jsou odesílány správcům kolekce webů, ale ne ostatním uživatelům a zobrazí se chyba **HTTP Forbidden to <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Informace [o odepření přístupu při odeslání e-mailu skupině SharePoint](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
+    Viz [Přístup byl odepřen při odeslání e-mailu skupině SharePointu](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
-    Ověřte také, zda není aktivní funkce kolekce webů v **režimu uzamčení omezeného přístupu** .
+    Ověřte také, zda funkce kolekce webů **režimu uzamčení uživatelských oprávnění s omezeným přístupem** není aktivní.
 
 
 ## <a name="related-topics"></a>Související témata
-Chcete vyzkoušet program Microsoft Flow ve službě SharePoint Online?
+Chcete vyzkoušet Microsoft Flow na SharePointu Online?
 - [Vytvořit tok](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [Služba SharePoint a tok](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [SharePoint a tok](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

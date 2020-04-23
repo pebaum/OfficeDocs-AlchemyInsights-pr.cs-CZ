@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 73fc8b71cf06be1a4ea91e164c2c47fd19971056
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: 7ffbd796979d8e63682bcc9f5ec5e21e16f777b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43053910"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765802"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Řešení problémů při instalaci Office
 
@@ -29,7 +29,7 @@ Tady je několik řešení, pomocí kterých můžete zkusit odstranit chybu Off
 - Odstraňte všechny předchozí stopy sady Office a k její přeinstalaci použijte nástroj Support and Recovery Assistant (SaRA). 
 
     - Stáhněte si nástroj [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) a nainstalujte ho. Až se otevře okno pro **odinstalaci produktů Office**, vyberte verzi, kterou chcete odinstalovat (pokud taková existuje), a klikněte na **Další**. Pokračujte v procházení jednotlivých obrazovek a po zobrazení výzvy restartujte počítač. Po restartování se nástroj SaRA automaticky znovu otevře pro dokončení procesu odinstalace.
-    - Použijte SaRA k [přeinstalaci Office](http://aka.ms/sara-officeinstall). **Poznámka:** Pokud chcete pomocí SaRA nastavit Visio nebo Project, použijte [instalaci Visia](https://aka.ms/SaRA-VisioSetupScenario) nebo [instalaci Projectu](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - Použijte SaRA k [přeinstalaci Office](https://aka.ms/sara-officeinstall). **Poznámka:** Pokud chcete pomocí SaRA nastavit Visio nebo Project, použijte [instalaci Visia](https://aka.ms/SaRA-VisioSetupScenario) nebo [instalaci Projectu](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - K instalaci Office [použijte offline instalační program Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
 

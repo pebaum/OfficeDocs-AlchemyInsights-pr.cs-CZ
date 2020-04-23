@@ -1,9 +1,9 @@
 ---
-title: Office 365 pro neziskové organizace plány a ceny
+title: Plány a ceny Office 365 pro neziskové organizace
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 503ed30c3a9c1d8ab67d964a6c03a1886d9bcefd
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3841ea04e5fac7492372adaa27258ef66b6879ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390577"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761555"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 pro neziskové organizace plány a ceny
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Plány a ceny Office 365 pro neziskové organizace
 
-Kvalifikované nonprofits můžete obdržet Office 365 neziskové organizace jako darování nebo upgradovat na pokročilé funkce významnou slevou. Pro neziskové organizace Office 365 plán musí je třeba držet [rozpoznán charitativní stav](https://go.microsoft.com/fwlink/p/?LinkID=330253) v zásadě zákazu diskriminace vaší země a podpis společnosti Microsoft. Společnost Microsoft si vyhrazuje právo kdykoli ověřit způsobilost a pozastavit službu pro způsobilé organizace.
+Kvalifikované neziskové organizace mohou získat Office 365 Nonprofit jako dar nebo upgradovat na pokročilé funkce s výraznou slevou. Abyste se kvalifikovali pro plán Office 365 Nonprofit, musíte mít ve své zemi [uznávaný charitativní status](https://go.microsoft.com/fwlink/p/?LinkID=330253) a podepsat zásady společnosti Microsoft pro nediskriminaci. Společnost Microsoft si vyhrazuje právo kdykoli ověřit oprávněnost a pozastavit službu pro nezpůsobilé organizace.
   
-Zobrazit [Nejčastější dotazy](https://products.office.com/nonprofit/office-365-nonprofit) pro další otázky týkající se této nabídky.
+Další dotazy týkající se této nabídky naleznete v [nejčastějších](https://products.office.com/nonprofit/office-365-nonprofit) dotazech.
   
-- [Hodnocení plánů Neziskové organizace](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [Kontrola plánů neziskových organizací](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
 
-- [Porovnat všechny plány služeb Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Porovnání všech předplatných Microsoftu 365](https://products.office.com/business/compare-more-office-365-for-business-plans)

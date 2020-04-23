@@ -1,8 +1,8 @@
 ---
-title: Upgrade na plnou verzi aplikace Microsoft Teams
+title: Upgrade na plnou verzi Microsoft Teams
 ms.author: pebaum
 author: pebaum
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 4fa566acd7fab0b43e4614c8a7c7ae76bcabaa5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74f242f4023e34d30787b91cb710bd658f1282ca
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506210"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766522"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Upgrade na plnou verzi aplikace Microsoft Teams
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Upgrade na plnou verzi Microsoft Teams
 
-Je třeba upgradovat z bezplatné plnou verzi programu Microsoft Teams? Viz [Aktualizace týmy společnosti Microsoft bezplatnou verzi předplatné služeb Office 365](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
+Potřebujete upgradovat z bezplatné verze Microsoft Teams? Viz [Upgrade Microsoft Teams zdarma na verzi předplatného Microsoft 365](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
-Budete potřebovat pro splnění těchto požadavků:
+Budete muset splnit tyto požadavky:
 
-- Jsi ten, kdo registraci zdarma aktuální verzi týmy.
-- Pokud máte vlastní doménu, nemůže již být spojeny s Azure Active Directory.
-- K přenosu dat při inovaci, se musíte přihlásit během procesu upgradu. Pokud jste si koupili Office 365 mimo proces upgradu nelze přenášet data.
+- Jste osoba, která se zaregistrovala k aktuální bezplatné verzi Teams.
+- Pokud máte vlastní doménu, už ji nelze přidružit ke službě Azure Active Directory.
+- Chcete-li při upgradu přenést data, musíte se přihlásit k odběru během procesu upgradu. Pokud jste si koupili předplatné mimo proces upgradu, nemůžete přenášet data.

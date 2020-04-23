@@ -1,5 +1,5 @@
 ---
-title: Ověření domény pomocí Dreamhostu
+title: Ověření domény pomocí dreamhostingu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: b7e8c1fe631e8057ae77cb4d0b7826bd887bac56
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: c6ebac44d800483bfb03fe5997dfb17844ac2f15
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42325968"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766234"
 ---
-# <a name="verify-your-domain-with-dreamhost"></a>Ověření domény pomocí Dreamhostu
+# <a name="verify-your-domain-with-dreamhost"></a>Ověření domény pomocí dreamhostingu
 
-Chcete-li ověřit svou doménu, budete muset do registrátora domény přidat záznam TXT, abyste ověřili, že doménu vlastníte. 
+Chcete-li ověřit svou doménu, budete muset přidat záznam TXT do doménového registrátora, abyste ověřili, že doménu vlastníte. 
 
-Nejprve postupujte podle [Průvodce přidáním domény](https://portal.office.com/adminportal/home#/Domains) tak, že vyberete **Nastavení** \> **domén**a **potom přidejte doménu**.
+Nejprve postupujte podle [průvodce přidáním domény](https://portal.office.com/adminportal/home#/Domains) výběrem **nastavení** \> **domén**a potom **podle možnosti Přidat doménu**.
   
-Podrobné pokyny najdete [v tématu Vytvoření dns záznamů na Dreamhostpro Office 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost)
+Podrobné pokyny najdete [v tématu Vytváření dns záznamů na webu Dreamhost pro Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost)

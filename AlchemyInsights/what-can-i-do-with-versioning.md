@@ -1,30 +1,30 @@
 ---
-title: Co lze udělat s verzí?
+title: Co mohu dělat se správu verzí?
 ms.author: toresing
 author: tomresing
-ms.date: 6/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 36c890c4-cafc-4409-8887-4a5c039692e3
-ms.openlocfilehash: d479b44e9ef858b0279f2d7e053132a877aabbd2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b86d815bb1e2e34474df9237c24c254c57f56aeb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531316"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765328"
 ---
-# <a name="what-can-i-do-with-versioning"></a>Co lze udělat s verzí?
+# <a name="what-can-i-do-with-versioning"></a>Co mohu dělat se správu verzí?
 
-Můžete použít správu verzí v seznamech služby SharePoint a knihoven:
+Správa verzí v sharepointových seznamech a knihovnách můžete použít k tomuto:
   
-- **Sledování historie verzí**. Jestliže je povolena Správa verzí, se zobrazí při změně položky nebo souboru a kdo tuto změnu provedl. Můžete také zobrazit, pokud byly změněny vlastnosti (informace o souboru). Například pokud někdo změní datum splatnosti v položce seznamu, tyto informace se zobrazí v historii verzí. Uvidíte také komentáře, které lidé při kontrole souborů do knihovny. 
+- **Sledování historie verze**. Pokud je povolena správa verzí, můžete zjistit, kdy byla položka nebo soubor změněna a kdo ji změnil. Můžete také zjistit, kdy byly změněny vlastnosti (informace o souboru). Pokud například někdo změní datum splatnosti položky seznamu, zobrazí se tyto informace v historii verzí. Můžete také zobrazit komentáře, které lidé dělají při zaškrtávacích souborů do knihoven. 
     
-- **Obnovení předchozí verze**. Pokud jste udělali chybu v aktuální verzi, aktuální verze je poškozen, nebo se jednoduše chcete předchozí verzi lépe, můžete nahradit předchozího aktuální verzi. Obnovená verze se stane nový aktuální verzi. 
+- **Obnovení předchozí verze**. Pokud jste v aktuální verzi udělali chybu, pokud je aktuální verze poškozená, nebo pokud se vám prostě líbí předchozí verze lépe, můžete nahradit aktuální verzi předchozí verzí. Obnovená verze se stane novou aktuální verzí. 
     
-- **Zobrazit předchozí verze**. Můžete zobrazit předchozí verzi, aniž byste přepsali aktuální verzi. Při zobrazení historie verzí dokumentu Microsoft Office, například soubor aplikace Word nebo Excel, můžete porovnat dvě verze, chcete-li zjistit, jaké jsou rozdíly. 
+- **Zobrazení předchozí verze**. Předchozí verzi můžete zobrazit bez přepsání aktuální verze. Pokud si prohlížíte historii verzí v dokumentu sady Microsoft Office, například v souboru aplikace Word nebo Excel, můžete tyto dvě verze porovnat a určit, jaké jsou rozdíly. 
     
-[Další informace o jak funguje správa verzí v Online služby SharePoint](https://go.microsoft.com/fwlink/?linkid=875710)
+[Další informace o tom, jak funguje správa verzí v SharePointu Online](https://go.microsoft.com/fwlink/?linkid=875710)
   
 

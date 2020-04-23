@@ -1,9 +1,9 @@
 ---
-title: Nepokračuje veřejné weby služby SharePoint Online
+title: Veřejné weby SharePointu Online jsou ukončené
 ms.author: clake
-author: spowriter
+author: pebaum
 manager: scotv
-ms.date: 1/2/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: db37089c11842c070b6bfbbb6f668aa392fd9b2c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f9327b7ba506790549ae3215cd84606d3645703a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507588"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764290"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Nepokračuje veřejné weby služby SharePoint Online
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Veřejné weby SharePointu Online jsou ukončené
 
-Pokud jste vytvořili služby SharePoint Online veřejného webu, můžete pokračovat v použití až do 31. března 2018. Pokud chcete pokračovat s veřejně dostupné na webu, je nutné vytvořit novou u nového poskytovatele. Obsahu na webu služby SharePoint Online veřejné budou odstraněny, takže třeba kopírovat jakýkoliv obsah, který chcete zachovat.
+Pokud jste vytvořili veřejný web SharePointu Online, můžete ho dál používat až do 31. Pokud chcete pokračovat ve veřejném webu, musíte vytvořit nový s novým poskytovatelem. Obsah na veřejném webu SharePointu Online se smaže, takže budete muset zkopírovat veškerý obsah, který chcete zachovat.
   
-Nápis se nyní zobrazí v horní části webu služby SharePoint Online veřejné jako oznámení, že na webu budou odstraněny. Nelze vypnout tento nápis. Informace o ukládání a kopírování obsahu na webu partnera naleznete [Podrobnosti o procesu přerušení funkce](https://go.microsoft.com/fwlink/?linkid=866980).
+V horní části veřejného webu SharePointu Online se teď zobrazí nápis jako oznámení, že web bude odebrán. Ten hlemýždě nejde vypnout. Informace o ukládání a kopírování obsahu na partnerský web naleznete [v tématu Podrobnosti o procesu přerušení funkce](https://go.microsoft.com/fwlink/?linkid=866980).
   

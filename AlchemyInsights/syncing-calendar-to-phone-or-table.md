@@ -1,24 +1,24 @@
 ---
-title: 1600036 synchronizaci kalendáře na telefon nebo tabulky
+title: 1600036 Synchronizace kalendáře s telefonem nebo tabulkou
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ef3b7fc8-f8c0-43b0-8d78-3f8287872ebd
 ms.custom: 1600036
-ms.openlocfilehash: 6eecf530488bfaf6d7479948a99a51a15629c6b9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c5592607bbe2bae3e410a81d9b170d855a6dc7f6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559582"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43740005"
 ---
-# <a name="issues-synchronizing-your-outlook-calendar-to-devices"></a>Problémy synchronizace kalendáře aplikace Outlook do zařízení
+# <a name="issues-synchronizing-your-outlook-calendar-to-devices"></a>Problémy se synchronizací outlookového kalendáře se zařízeními
 
-Poradce při potížích s problémy synchronizace kalendáře na zařízení, naleznete v tématu [nemůže synchronizovat kalendář a kontakty se telefon nebo tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx).
+Informace o řešení problémů se synchronizací kalendáře se zařízeními najdete v tématu [Nelze synchronizovat kalendář a kontakty s telefonem nebo tabletem](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx).
   
 

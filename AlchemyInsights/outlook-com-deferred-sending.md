@@ -3,7 +3,7 @@ title: Odložené odeslání v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: d4df8902d8334b54582eacc3edd6ee13d463239d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 164da9375951c6a1a193b2026272fa211cc38f50
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546944"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760405"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>Zpoždění nebo plán odesílání e-mailových zpráv
+# <a name="delay-or-schedule-sending-email-messages"></a>Zpoždění nebo naplánování odesílání e-mailových zpráv
 
-Omlouváme se, ale nelze odložit nebo naplánovat odeslání e-mailové zprávy v mobilní aplikaci nebo webový prohlížeč. To lze provést pomocí [aplikace Outlook pro systém Windows nebo aplikace Outlook pro Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
+Omlouváme se, ale odesílání e-mailových zpráv v mobilní aplikaci nebo webovém prohlížeči nemůžete odložit ani naplánovat. Chcete-li to provést, použijte [Outlook pro Windows nebo Outlook for Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
 
-**Zrušit odesílání**
+**Vrátit odeslat**
 
-Můžete změnit nastavení Outlook.com zpoždění odesílání zprávy až na 10 sekund. Můžete zrušit odeslání zprávy během tohoto období. Chcete-li povolit tuto funkci, otevřete nastavení [Odeslat zpět](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
+Nastavení Outlook.com můžete změnit, abyste odložili odeslání zprávy až o 10 sekund. Odeslání zprávy během tohoto období můžete zrušit. Chcete-li tuto funkci zapnout, otevřete nastavení [odeslání vrátit se vrátit.](https://outlook.live.com/mail/options/mail/messageContent/undoSend)
 
-Další informace o [vrácení e-mailů v Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+Přečtěte si další informace o [vyvolání e-mailu v Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).

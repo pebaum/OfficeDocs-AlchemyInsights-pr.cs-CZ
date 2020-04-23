@@ -1,9 +1,9 @@
 ---
-title: 1488-Perform-eDiscovery-and-Content-searches
+title: 1488-provést-eDiscovery-a-obsah-vyhledávání
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555226"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764721"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Jak provést hledání obsahu a služba eDiscovery hledání
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Jak provádět vyhledávání obsahu a vyhledávání eDiscovery
 
-Použití nástroje pro hledání obsahu v & zabezpečení centra kompatibility můžete rychle najít e-mail do poštovní schránky serveru Exchange, dokumenty a weby služby SharePoint a účet OneDrive, rychlých zpráv v konverzaci v Skype pro firmy. Nástroj pro vyhledávání obsahu můžete také hledat e-maily, dokumenty a rychlé zasílání zpráv konverzace do nástroje spolupráce služeb Office 365 jako Teams společnosti Microsoft a skupiny Office 365.
+Pomocí nástroje pro vyhledávání obsahu v Centru dodržování předpisů zabezpečení & rychle najděte e-maily v poštovních schránkách Exchange, dokumenty na sharepointových webech a účet OneDrivu a konverzace pomocí rychlých zpráv ve Skypu pro firmy. Pomocí Nástroje pro vyhledávání obsahu můžete také vyhledávat e-maily, dokumenty a konverzace pomocí rychlých zpráv v nástrojích pro spolupráci microsoftu 365, jako jsou Microsoft Teams a Skupiny Office 365.
 
-**Pro vyhledávání obsahu**
+**Provedení vyhledávání obsahu**
 
-1. Přejít na [& zabezpečení centra kompatibility](https://protection.office.com) a přihlaste se.
-2. Klepněte na tlačítko **hledání > obsahu hledání**.
-3. Klepněte na tlačítko **nové hledání** Chcete-li vytvořit nové hledání.
-4. Zadejte požadované vyhledávací podmínky, včetně klíčových slov a umístění obsahu.  
-5. Klepnutím na tlačítko **Spustit & uložit** název hledání, spusťte ji a pak zobrazte náhled výsledků.
+1. Přejděte do [Centra dodržování předpisů & zabezpečení](https://protection.office.com) a přihlaste se.
+2. Klepněte **na tlačítko Hledat > vyhledávání obsahu**.
+3. Chcete-li vytvořit nové hledání, klepněte na **tlačítko Nové hledání.**
+4. Zadejte požadované podmínky vyhledávání včetně klíčových slov a umístění obsahu.  
+5. Kliknutím na **Uložit & spustit,** chcete-li pojmenovat hledání, spustit a pak zobrazit náhled výsledků.
 
-Podrobné pokyny týkající se obsahu hledání exportování výsledků a vytváření případů služba eDiscovery pro uložení dat, naleznete v [Obsahu hledání](https://docs.microsoft.com/office365/securitycompliance/content-search) a [služba eDiscovery případů](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Podrobné pokyny týkající se vyhledávání obsahu, exportu výsledků a vytváření případů eDiscovery pro ukládání dat najdete v [tématu Vyhledávání obsahu](https://docs.microsoft.com/office365/securitycompliance/content-search) a [případy eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Další informace o obsahu hledání kontrolou [požadavky a limity](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) a [vyšetřování částečně indexované položky](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) a ostatní výsledky znát pochopit.
+Další informace o vyhledávání obsahu naleznete tak, že si proberete [požadavky a limity](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) a [prozkoumáte částečně indexované položky](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) a další výsledky, které je třeba znát.

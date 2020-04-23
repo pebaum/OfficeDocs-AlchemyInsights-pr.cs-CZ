@@ -1,9 +1,9 @@
 ---
-title: Poradce při potížích s používáním programu Open v Průzkumníkovi
+title: Poradce při potížích s aplikací Otevřít v Průzkumníkovi
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 12/10/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: cb26876d93a110b3b0addd7821206215c783f959
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36742726"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759685"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Řešení potíží s otevřením v Průzkumníkovi
+# <a name="fix-problems-with-open-with-explorer"></a>Řešení problémů s aplikací Otevřít v Průzkumníkovi
 
-Řešení běžných potíží s otevřením knihovny dokumentů ve službě SharePoint nebo OneDrive pomocí příkazu **otevřít v programu Průzkumník** : 
+Řešení běžných problémů s otevřením knihovny dokumentů na SharePointu nebo OneDrivu pomocí příkazu **Otevřít v Průzkumníkovi:** 
   
-- Použijte aplikaci Internet Explorer 10 nebo Internet Explorer 11. **Otevřít v aplikaci Explorer** není kompatibilní s aplikací Microsoft Edge, Google Chrome, Firefox a dalšími. **Otevřít v aplikaci Explorer** je zakázáno ve všech prohlížečích kromě aplikace Internet Explorer. 
+- Použijte internet explorer 10 nebo internet explorer 11. **Otevřít s Průzkumníkem** není kompatibilní s Microsoft Edge, Google Chrome, Firefox a další. **Otevřít v aplikaci Explorer** je zakázáno ve všech prohlížečích kromě aplikace Internet Explorer. 
     
-- **Otevření v aplikaci Explorer** není k dispozici v moderních zkušenostech s knihovnami služby SharePoint. Místo toho použijte **zobrazení v Průzkumníku souborů** . \> **V Průzkumníku souborů**vyberte možnost **Zobrazit možnosti zobrazení** . Zobrazení v Průzkumníku souborů není kompatibilní s aplikací Microsoft Edge, Google Chrome, Firefox a dalšími. **Zobrazit v Průzkumníku souborů** , který je k dispozici pouze v aplikaci Internet Explorer. 
+- **Open with Explorer** není k dispozici v moderním prostředí pro sharepointové knihovny. Místo toho **použijte zobrazení v Průzkumníkovi** souborů. V **Průzkumníkovi** \> **souborů vyberte Zobrazit volby Zobrazení**. Zobrazení v Průzkumníkovi souborů není kompatibilní s Microsoft Edge, Google Chrome, Firefox a další. **Zobrazení v Průzkumníkovi souborů** je k dispozici pouze v aplikaci Internet Explorer. 
     
-- Přesvědčte se, zda je spuštěna služba Webový klient. V poli Hledat systému Windows zadejte příkaz Spustit, vyberte položku Spustit pracovní plochu, zadejte Services. msc a stiskněte klávesu ENTER. Přejděte dolů ke službě Webový klient a ujistěte se, že ve sloupci **stav** je zobrazeno "spuštěno". Pokud tomu tak není, poklepejte na službu, klepněte na tlačítko **Start**a potom na tlačítko **OK**. (Službu bude pravděpodobně nutné nejprve povolit výběrem možnosti **ručně** nebo **automaticky** v poli **Typ spouštění** .) 
+- Zkontrolujte, zda je spuštěna služba WebClient. Do vyhledávacího pole windows zadejte spustit, vyberte spustit aplikaci klasické pracovní plochy, zadejte services.msc a stiskněte Enter. Přejděte dolů na službu WebClient a ujistěte se, že ve sloupci **Stav** se zobrazí zpráva Spuštěno. Pokud tomu tak není, poklepejte na službu, klikněte na **tlačítko Start**a potom klikněte na **tlačítko OK**. (Službu může být nutné nejprve povolit zaškrtnutím políčka **Ručně** nebo **Automaticky** v poli **Typ spuštění.)** 
     
 > [!NOTE]
-> Otevření knihovny v Průzkumníku souborů je užitečné v případě, že potřebujete zkopírovat nebo přesunout více souborů a složek, ale pokud chcete v knihovně pravidelně pracovat, doporučujeme jej synchronizovat. Informace o řešení potíží s otevřením v Průzkumníku souborů naleznete [v tématu Open in Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Informace o nastavení synchronizace naleznete v tématu [synchronizujte soubory služby SharePoint s novým synchronním klientem OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).
+> Otevření knihovny v Průzkumníkovi souborů je užitečné, pokud potřebujete jednou zkopírovat nebo přesunout více souborů a složek, ale pokud chcete v knihovně pravidelně pracovat, doporučujeme ji synchronizovat. Informace o řešení problémů s otevřením v Průzkumníkovi souborů naleznete [v tématu Otevření v Průzkumníkovi](https://go.microsoft.com/fwlink/?linkid=871665). Informace o nastavení synchronizace najdete v [tématu Synchronizace sharepointových souborů s novým klientem synchronizace OneDrivu](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Další informace naleznete v článku [použití příkazu otevřít v Průzkumníkovi k řešení potíží ve službě SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) . 
+Další informace najdete v článku [Použití příkazu Otevřít v průzkumníkovi k řešení problémů v SharePointu Online.](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) 
   
 

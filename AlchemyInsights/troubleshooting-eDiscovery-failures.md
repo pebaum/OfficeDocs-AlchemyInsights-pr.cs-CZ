@@ -1,9 +1,9 @@
 ---
-title: 1490-Poradce při potížích – služba eDiscovery selhání
+title: 1490-troubleshooting-eDiscovery-selhání
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559366"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759577"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Řešení potíží s chybami obsahu hledání
+# <a name="troubleshoot-content-search-errors"></a>Poradce při potížích s chybami hledání obsahu
 
-Jsou vám má problémy s obsahu hledání ve službách Office 365 nebo zjišťování selhání při exportu výsledků hledání?
+Dochází k problémům s vyhledáváním obsahu nebo k chybám při exportu výsledků hledání?
 
-Například je zobrazena následující při spuštění hledání?
+Například, dostáváte následující při spuštění vyhledávání?
 
 - Chyby CS008 nebo CS012
 
-- Server zaneprázdněn nebo vypršení časového limitu
+- Server busy/timeout errors
 
-- Došlo k chybě aplikace
+- Došlo k chybě aplikace.
 
-Nebo při hledání nebo exportování výsledků z velkého počtu poštovních schránek (více než 100 000 poštovních schránek), zobrazují se chyby exportu?
+Nebo při vyhledávání nebo exportu výsledků z velkého počtu poštovních schránek (více než 100 000 poštovních schránek) dochází k chybám při exportu?
 
-Tyto typy chyb opakujte hledání umístění obsahu, které se nezdařily. V části Další informace [tohoto článku](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) .
+U těchto typů chyb opakujte hledání umístění obsahu, která se nezdařila. Další informace naleznete v [tomto článku.](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search)

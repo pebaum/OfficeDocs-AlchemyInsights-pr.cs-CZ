@@ -1,30 +1,30 @@
 ---
-title: Řešení potíží s Office 365 Advanced ohrožení ochrany (ATP)
+title: Řešení problémů s Office 365 Advanced Threat Protection (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: dbdfe2ddcc4afd4477f66ffd060ddb7093af8fd6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 99bc985f2d66693aca45f0833ab47c043acc1324
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420290"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766738"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Řešení potíží s Office 365 ATP
+# <a name="troubleshoot-issues-with-office-365-atp"></a>Řešení problémů s úřadem ATP Office 365
 
-- **Oznámení zpoždění dodání e-mailové zprávy**? Zkuste použít možnost dynamické dodávky pro vaše zásady bezpečné přílohy ATP. Vyhnout se zpoždění doručení e-mailové zprávy při ochraně příjemců z nebezpečné soubory.
-- **Chcete sestavu falešně pozitivních výsledků a hodnotu false záporů**? Pomocí tohoto odkazu můžete odeslat soubor pro analýzu:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Věděli jste, že můžete povolit ochranu bezpečné odkazy ATP pro e-maily odeslané mezi uživateli ve vaší organizaci**? Postupujte takto:
-    1. Přejít na https://protection.office.coma přihlaste se.
-    2. Přejít na **Threat management** > **zásad** > **Bezpečné odkazy**.
-    3. V části **zásady, které platí pro konkrétní příjemce**upravit nebo přidat zásadu.
-    4. Vyberte možnost **použít bezpečné odkazy na zprávy odeslané v rámci organizace**.
-    5. Uložte vaše zásady a povolit změny jejich fungují prostřednictvím své datové centrum asi 30 minut.
-- Chcete-li získat další pomoc s ATP, naleznete v tématu [Office 365 Advanced ohrožení ochrany](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).
+- **Oznámení zpoždění s doručováním e-mailových zpráv?** Zkuste použít možnost Dynamické doručování pro zásady bezpečné přílohy ATP. Tím se zabrání zpoždění doručování e-mailových zpráv a zároveň ochránípříjemce před škodlivými soubory.
+- **Chcete nahlásit falešně pozitivní nebo falešně negativní**výsledky? Tento odkaz slouží k odeslání souboru k analýze:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Věděli jste, že můžete povolit ochranu atp bezpečné odkazy pro e-maily odeslané mezi lidmi ve vaší organizaci?** Postupujte takto:
+    1. Přejděte https://protection.office.comna a přihlaste se.
+    2. Přejděte na bezpečné odkazy > **pro správu** >  **hrozeb**.**Safe Links**
+    3. V části **Zásady, které platí pro konkrétní příjemce**, upravte (nebo přidejte) zásadu.
+    4. Vyberte **Použít bezpečné odkazy na zprávy odeslané v rámci organizace**.
+    5. Uložte si zásady a nechte asi 30 minut, než se změny propracují přes vaše datové centrum.
+- Další pomoc s ochrany matná z atp najdete v [tématu Office 365 Advanced Threat Protection](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).

@@ -1,5 +1,5 @@
 ---
-title: Migrovat data veřejných složek do sady Office 365
+title: Migrace dat veřejných složek do Microsoftu 365
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -11,22 +11,22 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 85bef3ac5f590a57ead16cb73c7961fcb0ee8eae
-ms.sourcegitcommit: 198defbbed20dd9db3f7c044c6e77a8feb05dacd
+ms.openlocfilehash: b9659f657555411ffd87a63bc099708b49d46300
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "39202587"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762130"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a>Migrovat data veřejných složek do sady Office 365
+# <a name="migrate-public-folder-data-to-microsoft-365"></a>Migrace dat veřejných složek do Microsoftu 365
 
-Pokud nemáte mnoho veřejných složek pro uvedení do sady Office 365, je nejjednodušší způsob, jak je přivést, zkopírovat data do aplikace. Soubory PST a potom je importovat do sady Office 365. U malých objemů dat se jedná o jednoduchou přetažení veřejné složky do. PST může být dostačující. Pokud máte více dat (až 30 GB), [dokumentujeme proces](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) , který můžete použít k exportu složek do souborů PST.
+Pokud nemáte mnoho veřejných složek, které chcete přenést do aplikace Microsoft 365, nejjednodušší způsob, jak je přenést, by bylo zkopírovat data do aplikace . PST soubory a pak je importovat do Microsoft 365. U malých objemů dat lze jednoduše přetáhnout veřejnou složku do . PST soubor může být dostačující. Pokud máte více dat, než je (až 30 GB), jsme [zdokumentovali proces,](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) který můžete použít k exportu složek do souborů PST.
   
-U větších organizací, které přesunují veřejné složky do sady Office 365, máme k dispozici vodítka:
+Pro větší organizace, které přesouvají veřejné složky do Microsoftu 365, máme k dispozici průvodce:
   
-- [Přenést starší veřejné složky](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)
+- [Migrace starších veřejných složek](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)
 
-- [Přenést veřejné složky serveru Exchange 2013, Exchange 2016 nebo Exchange 2019](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
+- [Migrace veřejných složek Exchange 2013, Exchange 2016 nebo Exchange 2019](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-Také máte možnost [migrovat veřejné složky do skupin Office 365](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
+Máte také možnost [migrovat veřejné složky do skupin Office 365](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
   
