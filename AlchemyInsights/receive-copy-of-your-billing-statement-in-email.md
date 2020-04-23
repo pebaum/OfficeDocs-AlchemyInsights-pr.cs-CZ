@@ -1,9 +1,9 @@
 ---
-title: Přijímat e-mailem kopii vašeho výpis vyúčtování
+title: Příjem kopie fakturačního výpisu e-mailem
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,23 +13,23 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2af1c5374c0cb08891f42f83e2a5e54ef17e914a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510076"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724943"
 ---
-# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>Přijímat e-mailem kopii vašeho výpis vyúčtování služeb Office 365
+# <a name="receive-copy-of-your-billing-statement-in-email"></a>Příjem kopie fakturačního výpisu e-mailem
 
 Můžete zvolit možnost příjmu kopie vyúčtování jako přílohy v e-mailu. V případě, že to uděláte, upozorňujeme na tyto skutečnosti:
   
 - E-mail se odešle na primární a alternativní e-mailové adresy všech osob, které jsou uvedené jako příjemci oznámení.
 
-- Zobrazí se dva samostatné e-maily: jeden, který umožňuje vědět, že vaše faktura je připravena s pokyny k přihlášení na stránku správce k jeho zobrazení a druhý e-mail, který obsahuje výpis vyúčtování jako přílohu.
+- Obdržíte dva samostatné e-maily: jeden, který vám dá vědět, že vaše faktura je připravená, s pokyny pro přihlášení do Centra pro správu, abyste si ji prohlédli, a druhý e-mail, který obsahuje vyúčtování jako přílohu.
 
-Příjem váš výpis vyúčtování v e-mailu:
+Jak dostávat výpis y fakturace e-mailem:
   
-1. Ve středisku pro správce, přejděte na **fakturační** \> stránce [fakturační oznámení](https://go.microsoft.com/fwlink/p/?linkid=853212) .
+1. V Centru pro správu přejděte na stránku [Oznámení fakturace.](https://go.microsoft.com/fwlink/p/?linkid=853212) **Billing** \>
 
-2. Ve skupinovém rámečku **zobrazí výpis vyúčtování jako přílohu e-mailu?**, přejděte přepnout **na**. Příjem e-mailů s vyúčtováním můžete kdykoli ukončit přepnutím přepínače na **Vypnuto**.
+2. V části **Přijmout výpis z fakturace jako přílohu e-mailu?** přepněte přepínač **na Zapnuto**. Příjem e-mailů s vyúčtováním můžete kdykoli ukončit přepnutím přepínače na **Vypnuto**.

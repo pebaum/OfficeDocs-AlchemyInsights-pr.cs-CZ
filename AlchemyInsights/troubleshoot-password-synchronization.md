@@ -1,9 +1,9 @@
 ---
-title: Poradce při potížích s synchronizace hesel
+title: Poradce při potížích se synchronizací hesel
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,51 +13,51 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 2b0a1527ab1b16f56a97891445a2dcb4570302f5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533800"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732503"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Poradce při potížích s synchronizace hesel
+# <a name="troubleshoot-password-synchronization"></a>Poradce při potížích se synchronizací hesel
 
-Řešení problémů, kde žádná hesla jsou synchronizované s Azure AD připojit verze 1.1.614.0 nebo novější:
+Řešení problémů, kdy se žádná hesla synchronizují s Azure AD Connect verze 1.1.614.0 nebo novějším:
   
-1. Otevřete novou relaci prostředí Windows PowerShell na serveru Azure AD připojit pomocí možnosti **Spustit jako správce** .
+1. Otevřete novou relaci prostředí Windows PowerShell na serveru Azure AD Connect s možností **Spustit jako správce.**
 
-2. Spouštění **RemoteSigned zásady nastavení spouštění** nebo **neomezený zásady nastavení spouštění**.
+2. Spuštění **zásad vzdáleného podpisu set-executionpolicy** nebo **zásady spuštění bez omezení**.
 
-3. Spustíte Průvodce Azure AD připojit.
+3. Spusťte Průvodce připojením Azure AD Connect.
 
-4. Přejděte na stránku **Další úkoly** , vyberte **Poradce při potížích**a klepněte na tlačítko **Další**.
+4. Přejděte na stránku **Další úkoly,** vyberte **Poradce při potížích**a klepněte na tlačítko **Další**.
 
-5. Na stránce řešení potíží v nabídce **spuštění, chcete-li spustit Poradce při potížích** v prostředí PowerShell.
+5. Na stránce Poradce při potížích klikněte na **Spustit a spusťte nabídku řešení potíží** v PowerShellu.
 
-6. V hlavní nabídce vyberte možnost **Poradce při potížích s synchronizace hesel**.
+6. V hlavní nabídce vyberte **Poradce při potížích se synchronizací hesel**.
 
-7. V dílčí nabídce vyberte možnost **Synchronizace hesel nefunguje vůbec**.
+7. V dílčí nabídce vyberte **synchronizace hesel nefunguje vůbec**.
 
-**Porozumět výsledky řešení úloh**
+**Vysvětlení výsledků úlohy řešení potíží**
   
-Řešení úloh provádí následující kontroly:
+Úloha řešení potíží provádí následující kontroly:
   
-- Ověří, zda je povolena funkce Synchronizace hesel pro vašeho klienta Azure AD.
+- Ověří, že funkce synchronizace hesel je povolená pro vašeho klienta Azure AD.
 
-- Ověří, že Azure AD připojit server není v režimu pracovní.
+- Ověří, že server Azure AD Connect není v pracovním režimu.
 
-- Pro každý existující místní konektor služby Active Directory (která odpovídá existující doménové struktuře služby Active Directory):
+- Pro každý existující místní konektor služby Active Directory (který odpovídá existující doménové struktuře služby Active Directory):
 
 - 
-  - Ověří, zda je povolena funkce Synchronizace hesel.
+  - Ověří, zda je povolena funkce synchronizace hesel.
 
-  - Hledá hesla synchronizace prezenční signál události v protokolu událostí aplikací systému Windows.
+  - Vyhledá události prezenčního signálu synchronizace hesel v protokolech událostí aplikace systému Windows.
 
-  - Pro každou doménu služby Active Directory v rámci konektor služby Active Directory v prostorách:
+  - Pro každou doménu služby Active Directory v místním konektoru služby Active Directory:
 
-  - Ověří, že je dosažitelný z Azure AD připojit server k doméně.
+  - Ověří, že doména je dosažitelná ze serveru Azure AD Connect.
 
-  - Ověří, zda účty služba Active Directory Domain Services (služba AD DS) používá konektor služby Active Directory v prostorách má správné uživatelské jméno, heslo a oprávnění nutná pro funkci Synchronizace hesel.
+  - Ověří, zda účty služby AD DS používané místním konektorem služby Active Directory mají správné uživatelské jméno, heslo a oprávnění vyžadovaná pro synchronizaci hesel.
 
-Další pomoc s odstraňováním heslo synchronizace viz [Synchronizace hesel Poradce při potížích s synchronizace Azure AD připojit](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
+Další nápovědu k řešení potíží se synchronizací hesel [najdete v tématu Poradce při potížích se synchronizací hesel pomocí synchronizace služby Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
   

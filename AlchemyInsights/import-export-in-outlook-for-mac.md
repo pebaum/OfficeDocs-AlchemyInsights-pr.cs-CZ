@@ -1,9 +1,9 @@
 ---
-title: Import-export-in-Outlook-for-Mac
+title: import a export v aplikaci outlook-for-mac
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 5a03c5871187b07201e548295facf17df3209f74
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 524053a53a8390253259c3edae71a7a60995c8ce
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33629939"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724723"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>Import a Export v aplikaci Outlook pro Mac 
+# <a name="importexport-in-outlook-for-mac"></a>Import nebo export v Outlooku pro Mac 
 
-Exportujte:
+Vývozní:
 1. Na kartě **Nástroje** zvolte **Exportovat**.
-2. V poli **Uložit jako** v seznamu **Oblíbené položky**vyberte složku **Downloads** a vyberte možnost **Uložit**.
-3. Po zobrazení oznámení dokončení exportu, vyberte možnost **Dokončit**.
+2. V poli **Uložit jako** v části **Oblíbené**zvolte složku **Stažené soubory** a vyberte **Uložit**.
+3. Až se zobrazí oznámení, že export je dokončen, vyberte **Dokončit**.
 
 Import:
-1. Na kartě **Nástroje** klepněte na příkaz **importovat**.
-2. Vyberte **aplikaci Outlook pro Windows archivace (PST)** > **pokračovat**.
-3. Vyhledejte soubor PST v počítači Mac a potom vyberte příkaz **Import**.
-4. Po dokončení procesu importu, zvolte **Dokončit**.
-5. Importované položky se zobrazí v navigačním podokně ve složce **V tomto počítači**.
+1. Na kartě **Nástroje** zvolte **Importovat**.
+2. Vyberte **archivní soubor Outlooku pro Windows (.pst)** > **Pokračovat**.
+3. Vyhledejte soubor PST na Macu a pak zvolte **Importovat**.
+4. Po dokončení procesu importu zvolte **Dokončit**.
+5. Importované položky se zobrazí v navigačním podokně v části **Na tomto počítači**.
 
-Úplnou sadu importu a exportu naleznete pokyny pro aplikaci Outlook pro Mac [importem a exportem aplikace Outlook e-mail, kontakty a kalendáře](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
+Úplnou sadu pokynů k importu a exportu Outlooku pro Mac najdete v [tématu Import a export e-mailů, kontaktů a kalendáře outlooku](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
 
-Získat podporu v app pro aplikaci Outlook pro Mac problémy, spusťte aplikaci Outlook a vyberte **Nápověda** > **Kontaktovat podporu**. Zadejte otázku a členem aplikace Outlook pro Mac tým podpory se obrátit. [Obraťte se na podporu aplikace Outlook pro Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Pokud chcete získat podporu v aplikaci pro problémy s Outlookem pro Mac, otevřete Outlook a vyberte **Nápověda** > **Kontaktovat podporu**. Zadejte svůj dotaz a člen týmu podpory Outlooku pro Mac se s vámi spojí. [Kontaktování podpory v Outlooku for Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)

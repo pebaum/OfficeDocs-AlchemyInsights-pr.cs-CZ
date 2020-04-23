@@ -1,9 +1,9 @@
 ---
-title: 1221-import-export-Outlook-email-Contacts-Calendar
+title: 1221-import-export-outlook-e-mail-kontakty-kalendář
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545150"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724657"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importovat a exportovat e-maily, kontakty a položky kalendáře aplikace Outlook
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Import a export e-mailu, kontaktů a položek kalendáře Outlooku
 
-1. V aplikaci Outlook klepněte na tlačítko **soubor**.
+1. V Outlooku klikněte na **Soubor**.
 
-2. Klepněte na tlačítko **Otevřít & Export**a potom klepněte na tlačítko **Import a Export**.
+2. Klikněte na **Otevřít a exportovat** a potom klikněte na **Import nebo export**.
 
     Spustí se Průvodce importem a exportem.
 
-Pro úplnou sadu dovozní a vývozní pokyny pro aplikaci Outlook, naleznete v [tomto článku](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+Úplnou sadu pokynů pro import a export aplikace Outlook naleznete v [tomto článku](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 
-Pokud jste správce a chcete hromadně import více souborů PST do poštovní schránky Office 365, naleznete v [tomto článku](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+Pokud jste správce a chcete hromadně importovat více souborů PST do poštovních schránek Microsoft 365, přečtěte si [tento článek](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
