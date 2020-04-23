@@ -1,5 +1,5 @@
 ---
-title: Výkon migrace SharePointu
+title: Rady týkající se výkonu migrace na SharePointu
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: ae62607bf5991eb8fd8764ebad64da040389df6b
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958728"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789295"
 ---
-# <a name="sharepoint-migration-performance"></a>Výkon migrace SharePointu
+# <a name="sharepoint-migration-performance-guidance"></a>Rady týkající se výkonu migrace na SharePointu
 
-**Důležité**: V této mimořádné době přijímáme opatření, aby služby SharePointu Online a OneDrivu zůstaly vysoce dostupné. Další informace najdete v článku zaměřeném na [dočasné úpravy funkcí SharePointu Online](https://aka.ms/ODSPAdjustments).
+Na výkon migrace může mít vliv síťová infrastruktura, velikost souborů, čas migrace a omezování.
 
-**Výkon migrace**
+Další informace najdete zde:
 
-Na výkon migrace může mít vliv síťová infrastruktura, velikost souborů, čas migrace a omezování. Pochopení těchto možností vám pomůže naplánovat vaši migraci a zajistit její maximální efektivitu.
+- [Obecné rady týkající se výkonu migrace](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-Pokud chcete získat další informace, podívejte se na níže uvedené odkazy.
-
-- [Rychlost migrace SharePointu Online a ODB](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
-
-- [Vyhnutí se omezení nebo zablokování v SharePointu Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [Stažení a instalace nástroje pro migraci SharePointu](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [Jak se vyhnout omezení nebo zablokování v SharePointu Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
