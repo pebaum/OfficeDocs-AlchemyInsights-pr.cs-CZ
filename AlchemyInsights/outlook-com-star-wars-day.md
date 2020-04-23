@@ -1,24 +1,24 @@
 ---
-title: Den Hvězdných válek 8000045
+title: 8000045 Den Hvězdných válek
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000045
-ms.openlocfilehash: a1c0f8bf1ea220e5e8d3efc98451abb0fd352c89
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 576525b9d5c7e251b0cdbfa086cda40991433d69
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36512075"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743482"
 ---
-# <a name="star-wars-day"></a><span data-ttu-id="7f51b-102">Svátek Hvězdných válek</span><span class="sxs-lookup"><span data-stu-id="7f51b-102">Star Wars day</span></span>
+# <a name="star-wars-day"></a><span data-ttu-id="62f9f-102">Den Hvězdných válek</span><span class="sxs-lookup"><span data-stu-id="62f9f-102">Star Wars day</span></span>
 
-<span data-ttu-id="7f51b-103">Hmmm, jsi zvědavá.</span><span class="sxs-lookup"><span data-stu-id="7f51b-103">Hmmm, curious you are.</span></span>
+<span data-ttu-id="62f9f-103">Hmmm, zvědavý jste.</span><span class="sxs-lookup"><span data-stu-id="62f9f-103">Hmmm, curious you are.</span></span>
 
-<span data-ttu-id="7f51b-104">Ať je síla s tebou.</span><span class="sxs-lookup"><span data-stu-id="7f51b-104">May the Force be with you.</span></span>
+<span data-ttu-id="62f9f-104">Ať je Síla s tebou.</span><span class="sxs-lookup"><span data-stu-id="62f9f-104">May the Force be with you.</span></span>
