@@ -1,9 +1,9 @@
 ---
-title: Složka RecoverableItems. 1336 je plná.
+title: 1336 RecoverableItems složka je plná
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/5/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,33 +12,33 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 8a5859ba29d847606e8b44d169c3cd6a26364744
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509723"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720245"
 ---
-# <a name="the-recoverable-items-folder-is-full"></a>Složka obnovitelné položky je plná.
+# <a name="the-recoverable-items-folder-is-full"></a>Složka Obnovitelné položky je plná.
 
-Výchozí limit úložiště pro složku obnovitelné položky pro Exchange Online poštovní schránky ve službách Office 365, je 30 GB. Omezení úložiště pro složku obnovitelné položky se automaticky zvýší na 100 GB, pokud poštovní schránka je umístěna na soudní spory podržte služba eDiscovery blokování nebo je přiřazena zásadám uchovávání informací služeb Office 365.
+U poštovních schránek Exchange Online je výchozí limit úložiště pro složku Obnovitelné položky 30 GB. Limit úložiště pro složku Obnovitelné položky se automaticky zvýší na 100 GB, pokud je poštovní schránka umístěna do blokování z důvodu soudních sporů, blokování eDiscovery nebo je přiřazena k zásadám uchovávání informací.
 
-Pokud se složky obnovitelné položky dosáhne limitu úložiště, funkce poštovní schránky bude ovlivněna následujícími způsoby:
+Když složka Obnovitelné položky dosáhne limitu úložiště, funkce poštovní schránky jsou ovlivněny následujícími způsoby:
 
-- Uživatele nelze odstranit položky z poštovní schránky.
+- Uživatel nemůže odstranit položky z poštovní schránky.
 
-- Spravované složky pomocníka nelze odstranit položky založené na značku uchovávání informací nebo nastavení spravované složky.
+- Pomocník pro správu složek nemůže odstranit položky na základě nastavení značky uchování nebo spravovaných složek.
 
-- Poštovní schránky, které mají jeden obnovení položky povoleno nebo jsou blokována nelze udržovat proces ochrana stránky kopírování při zápisu verze položek upraven uživatelem.
+- U poštovních schránek, které mají povolenou nebo jsou pozastaveny obnovení jedné položky, nemůže proces ochrany stránky při zápisu udržovat verze položek upravovaných uživatelem.
 
-- Pro poštovní schránky, které mají povoleno protokolování auditování poštovní schránky mohou být uloženy žádné položky protokolu auditování poštovní schránky ve audity podsložky ve složce obnovitelných položek.
+- U poštovních schránek, které mají povoleno protokolování auditu poštovní schránky, nelze do podsložky Audity ve složce Obnovitelné položky uložit žádné položky protokolu auditování poštovní schránky.
 
-Pro poštovní schránky, které nejsou blokována, můžete použít admins `Search-Mailbox -SearchDumpsterOnly -DeleteContent` příkazu v Exchange Online PowerShell, chcete-li odstranit položky ve složce obnovitelné položky. Další informace najdete v těchto tématech:
+U poštovních schránek, které nejsou `Search-Mailbox -SearchDumpsterOnly -DeleteContent` pozastavené, můžou správci pomocí příkazu v prostředí Exchange Online PowerShell odstranit položky ve složce Obnovitelné položky. Další informace najdete v těchto tématech:
 
-- [Vyhledání a odstranění zpráv](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
+- [Hledání a odstraňování zpráv](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
 
-- [Hledání-poštovní schránky](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
+- [Hledat-Poštovní schránka](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-Pro poštovní schránky, které jsou blokovány admins před nutné odebrat blokování mohou odstraněné položky ze složky obnovitelné položky. Další informace naleznete v tématu [Odstranění položek v obnovitelných položek, stiskněte a podržte složku cloudové poštovní schránky na](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+U poštovních schránek, které jsou v blokování, musí správci před odstraněním položek ze složky Obnovitelné položky blokování odebrat. Další informace naleznete [v tématu Odstranění položek ve složce Obnovitelné položky v přijím na eblacích poštovních schránek](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-Zabránit složky obnovitelné položky stále plné, admins můžete zvýšit limit velikosti obnovitelných položek složky pro poštovní schránky na uložení a nastavit zásady uchovávání informací poštovní schránky, který přesune položky ze složky obnovitelné položky do archivu uživatele poštovní schránka. Viz [zvýšení obnovitelných položek kvóty poštovní schránky na uložení](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+Chcete-li zabránit tomu, aby se složka Obnovitelné položky stala plnou, mohou správci zvýšit limit úložiště složky Obnovitelné položky pro poštovní schránky, která je v režimu blokování, a nastavit zásady uchovávání informací poštovní schránky, které přesouvají položky ze složky Obnovitelné položky do archivní poštovní schránky uživatele. Viz [Zvýšení kvóty obnovitelné položky pro poštovní schránky v blokování](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
