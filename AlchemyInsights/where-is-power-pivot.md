@@ -14,31 +14,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 326f07ae2cf677822e7c7d31eba4e0dc3a6506a4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769836"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765190"
 ---
-# <a name="where-is-power-pivot"></a><span data-ttu-id="cea69-102">Kde je Power Pivot?</span><span class="sxs-lookup"><span data-stu-id="cea69-102">Where is Power Pivot?</span></span>
+# <a name="where-is-power-pivot"></a><span data-ttu-id="8292b-102">Kde je Power Pivot?</span><span class="sxs-lookup"><span data-stu-id="8292b-102">Where is Power Pivot?</span></span>
 
-<span data-ttu-id="cea69-103">Existují tři důvody, proč je možné, že se nezobrazí Power Pivot:</span><span class="sxs-lookup"><span data-stu-id="cea69-103">There are three reasons why you might not see Power Pivot:</span></span>
+<span data-ttu-id="8292b-103">Existují tři důvody, proč se vám Power Pivot nemusí zobrazit:</span><span class="sxs-lookup"><span data-stu-id="8292b-103">There are three reasons why you might not see Power Pivot:</span></span>
   
-<span data-ttu-id="cea69-104">**Verze aplikace Excel ji neobsahuje**</span><span class="sxs-lookup"><span data-stu-id="cea69-104">**Your version of Excel doesn't include it**</span></span>
+<span data-ttu-id="8292b-104">**Vaše verze Excelu ji neobsahuje**</span><span class="sxs-lookup"><span data-stu-id="8292b-104">**Your version of Excel doesn't include it**</span></span>
   
-<span data-ttu-id="cea69-105">Ne všechny verze aplikace Excel mají například zdroj Power Pivot.</span><span class="sxs-lookup"><span data-stu-id="cea69-105">Not all versions of Excel include Power Pivot.</span></span> <span data-ttu-id="cea69-106">Bude nutné upgradovat na verzi sady Office, která obsahuje funkci Power Pivot.</span><span class="sxs-lookup"><span data-stu-id="cea69-106">You will need to upgrade to a version of Office that includes Power Pivot.</span></span> [<span data-ttu-id="cea69-107">Zkontrolujte seznam podporovaných verzí.</span><span class="sxs-lookup"><span data-stu-id="cea69-107">Check the list of supported versions.</span></span>](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+<span data-ttu-id="8292b-105">Ne všechny verze Excelu obsahují Power Pivot.</span><span class="sxs-lookup"><span data-stu-id="8292b-105">Not all versions of Excel include Power Pivot.</span></span> <span data-ttu-id="8292b-106">Budete muset upgradovat na verzi Office, která obsahuje Power Pivot.</span><span class="sxs-lookup"><span data-stu-id="8292b-106">You will need to upgrade to a version of Office that includes Power Pivot.</span></span> [<span data-ttu-id="8292b-107">Zkontrolujte seznam podporovaných verzí.</span><span class="sxs-lookup"><span data-stu-id="8292b-107">Check the list of supported versions.</span></span>](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-<span data-ttu-id="cea69-108">**Nepovolili jste možnost Power Pivot**</span><span class="sxs-lookup"><span data-stu-id="cea69-108">**You haven't enabled Power Pivot**</span></span>
+<span data-ttu-id="8292b-108">**Power Pivot u mocenska nepovolili**</span><span class="sxs-lookup"><span data-stu-id="8292b-108">**You haven't enabled Power Pivot**</span></span>
   
-<span data-ttu-id="cea69-109">Pokud pracujete ve verzi aplikace Excel, která podporuje funkci Power Pivot, zkontrolujte, zda je doplněk povolen:</span><span class="sxs-lookup"><span data-stu-id="cea69-109">If you are working in a version of Excel that supports Power Pivot, check to see that the Add-in is enabled:</span></span>
+<span data-ttu-id="8292b-109">Pokud pracujete ve verzi Excelu, která podporuje Power Pivot, zkontrolujte, jestli je doplněk povolený:</span><span class="sxs-lookup"><span data-stu-id="8292b-109">If you are working in a version of Excel that supports Power Pivot, check to see that the Add-in is enabled:</span></span>
   
-1. <span data-ttu-id="cea69-110">Zvolte \*\*\*\* \> \*\*\*\* \> **Doplňky**možností souboru.</span><span class="sxs-lookup"><span data-stu-id="cea69-110">Choose **File** \> **Options** \> **Add-Ins**.</span></span>
+1. <span data-ttu-id="8292b-110">Zvolte Doplňky **možnosti** \> **souboru** \> . **Add-Ins**</span><span class="sxs-lookup"><span data-stu-id="8292b-110">Choose **File** \> **Options** \> **Add-Ins**.</span></span>
 
-2. <span data-ttu-id="cea69-111">V rozevíracím seznamu **Spravovat** vyberte položku **Doplňky modelu COM** a klepněte na tlačítko **Přejít**.</span><span class="sxs-lookup"><span data-stu-id="cea69-111">In the **Manage** drop down box, choose **COM Add-ins** and click **Go**.</span></span>
+2. <span data-ttu-id="8292b-111">V rozevíracím poli **Spravovat** zvolte **doplňky com** a klikněte na **Přejít**.</span><span class="sxs-lookup"><span data-stu-id="8292b-111">In the **Manage** drop down box, choose **COM Add-ins** and click **Go**.</span></span>
 
-3. <span data-ttu-id="cea69-112">V dialogovém okně **Doplňky modelu COM** zaškrtněte políčko vedle možnosti **Microsoft Power Pivot pro aplikaci Excel**a klepněte na tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="cea69-112">In the **Com Add-ins** dialog box, select the checkbox next to **Microsoft Power Pivot for Excel**, and then click **OK**.</span></span>
+3. <span data-ttu-id="8292b-112">V dialogovém okně **Doplňky com** zaškrtněte políčko vedle microsoft **power pivotu pro Excel**a klepněte na tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="8292b-112">In the **Com Add-ins** dialog box, select the checkbox next to **Microsoft Power Pivot for Excel**, and then click **OK**.</span></span>
 
-<span data-ttu-id="cea69-113">**Máte více odběrů nebo obchodních vztahů.**</span><span class="sxs-lookup"><span data-stu-id="cea69-113">**You have multiple subscriptions or accounts**</span></span>
+<span data-ttu-id="8292b-113">**Máte více předplatných nebo účtů.**</span><span class="sxs-lookup"><span data-stu-id="8292b-113">**You have multiple subscriptions or accounts**</span></span>
   
-<span data-ttu-id="cea69-114">Je možné, že máte jiné odběry sady Office 365, které jsou přiřazeny různým uživatelským účtům.</span><span class="sxs-lookup"><span data-stu-id="cea69-114">You might have different Office 365 subscriptions assigned to different user accounts.</span></span> <span data-ttu-id="cea69-115">Přesvědčte se, zda jste přihlášeni k účtu s verzí aplikace Excel, která podporuje funkci Power Pivot.</span><span class="sxs-lookup"><span data-stu-id="cea69-115">Make sure you're signed in to an account with a version of Excel that supports Power Pivot.</span></span> <span data-ttu-id="cea69-116">Zkontrolujte seznam [podporovaných verzí](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)a postupujte podle pokynů pro [přepínání mezi různými účty sady Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).</span><span class="sxs-lookup"><span data-stu-id="cea69-116">Check the list of [supported versions](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), and follow the instructions to [switch between different Office accounts](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).</span></span>
+<span data-ttu-id="8292b-114">Můžete mít různé předplatná Microsoft 365 přiřazené k různým uživatelským účtům.</span><span class="sxs-lookup"><span data-stu-id="8292b-114">You might have different Microsoft 365 subscriptions assigned to different user accounts.</span></span> <span data-ttu-id="8292b-115">Ujistěte se, že jste přihlášení k účtu pomocí verze Excelu, která podporuje Power Pivot.</span><span class="sxs-lookup"><span data-stu-id="8292b-115">Make sure you're signed in to an account with a version of Excel that supports Power Pivot.</span></span> <span data-ttu-id="8292b-116">Zkontrolujte seznam [podporovaných verzí](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)a podle pokynů [přepínejte mezi různými účty Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).</span><span class="sxs-lookup"><span data-stu-id="8292b-116">Check the list of [supported versions](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), and follow the instructions to [switch between different Office accounts](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).</span></span>

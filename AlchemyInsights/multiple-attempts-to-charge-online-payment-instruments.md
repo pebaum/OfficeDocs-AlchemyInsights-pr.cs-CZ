@@ -1,9 +1,9 @@
 ---
-title: Více pokusů o poplatku online platební nástroje
+title: Několik pokusů o platbu online platebních prostředků
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 5bcba5903f9ca00b3c6235f9d07e165f35b2a66e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548672"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761987"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a><span data-ttu-id="fe3c4-102">Více pokusů o poplatku online platební nástroje</span><span class="sxs-lookup"><span data-stu-id="fe3c4-102">Multiple attempts to charge online payment instruments</span></span>
+# <a name="multiple-attempts-to-charge-online-payment-instruments"></a><span data-ttu-id="5c7fb-102">Několik pokusů o platbu online platebních prostředků</span><span class="sxs-lookup"><span data-stu-id="5c7fb-102">Multiple attempts to charge online payment instruments</span></span>
 
-<span data-ttu-id="fe3c4-103">Více pokusů o poplatku online platební nástroje před přijetím každého opatření na službu neposkytujeme.</span><span class="sxs-lookup"><span data-stu-id="fe3c4-103">We make multiple attempts to charge online payment instruments before taking any action on the service.</span></span> <span data-ttu-id="fe3c4-104">Po provedení platby je vybrána metoda, všechny po splatnosti částky úhrady vybraný způsob platby.</span><span class="sxs-lookup"><span data-stu-id="fe3c4-104">After a payment method is selected, all past due amounts must be paid with the selected payment method.</span></span> <span data-ttu-id="fe3c4-105">Chcete-li aktualizovat aktuální informace o platbě pro vaše předplatné, postupujte podle [Přidat, aktualizovat, nebo odebrat kreditní kartu nebo bankovní účet ve službách Office 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="fe3c4-105">To update the current payment information for your subscription, follow the steps in [Add, update, or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="5c7fb-103">Před přijetím jakýchkoli opatření ve službě se několikrát pokoušíme účtovat poplatky za online platební prostředky.</span><span class="sxs-lookup"><span data-stu-id="5c7fb-103">We make multiple attempts to charge online payment instruments before taking any action on the service.</span></span> <span data-ttu-id="5c7fb-104">Po výběru způsobu platby musí být všechny částky po splatnosti zaplaceny vybraným způsobem platby.</span><span class="sxs-lookup"><span data-stu-id="5c7fb-104">After a payment method is selected, all past due amounts must be paid with the selected payment method.</span></span> <span data-ttu-id="5c7fb-105">Chcete-li aktualizovat aktuální platební údaje pro své předplatné, postupujte podle pokynů v části [Přidání, aktualizace nebo odebrání platební karty nebo bankovního účtu v Microsoftu 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="5c7fb-105">To update the current payment information for your subscription, follow the steps in [Add, update, or remove a credit card or bank account in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
