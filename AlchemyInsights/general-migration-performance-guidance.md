@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958531"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537734"
 ---
 # <a name="general-migration-performance-guidance"></a>Obecné rady týkající se výkonu migrace
 
+
 **Důležité**: V této mimořádné době přijímáme opatření, aby služby SharePointu Online a OneDrivu zůstaly vysoce dostupné. Další informace najdete v článku zaměřeném na [dočasné úpravy funkcí SharePointu Online](https://aka.ms/ODSPAdjustments).
 
-**Rady týkající se výkonu migrace**
+**Možnosti migrace**
 
-Na výkon migrace může mít vliv síťová infrastruktura, velikost souborů, čas migrace a omezování. Pochopení těchto možností vám pomůže naplánovat vaši migraci a zajistit její maximální efektivitu.
+Pro migraci obsahu do SharePointu Online jsou k dispozici různé možnosti v závislosti na velikosti a množství souborů, které je potřeba přesunout. Na seznam možností se můžete podívat [zde](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-- [Obecné rady týkající se výkonu migrace](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+Pokud chcete získat další informace o migraci obsahu, podívejte se na níže uvedené odkazy.
+
+- [Nástroj SharePoint Migration Tool](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Začínáme se správcem migrace](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Mover](https://mover.io/)
