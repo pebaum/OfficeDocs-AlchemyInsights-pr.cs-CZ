@@ -1,5 +1,5 @@
 ---
-title: Jak ověřit doménu v Office 365
+title: 'Jak ověřit vaši doménu '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: ade67097172464fdf213b8af7af6639a25d48315
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: c0f0fbc2528e62f01cebe515fbeb192315c4d3c9
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529597"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787984"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="b1478-102">Jak ověřit doménu v Office 365</span><span class="sxs-lookup"><span data-stu-id="b1478-102">How to verify your domain with Office 365</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="49688-102">Jak ověřit vaši doménu</span><span class="sxs-lookup"><span data-stu-id="49688-102">How to verify your domain</span></span>
 
-<span data-ttu-id="b1478-103">Chcete-li ověřit svou doménu, budete muset přidat záznam TXT do doménového registrátora, abyste ověřili, že doménu vlastníte.</span><span class="sxs-lookup"><span data-stu-id="b1478-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="b1478-104">Nejprve postupujte podle [průvodce Přidáním domény](https://portal.office.com/adminportal/home#/Domains/Wizard) klepnutím na **položku Instalační** \> **domény**a potom **podle příkazu Přidat doménu**.</span><span class="sxs-lookup"><span data-stu-id="b1478-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="49688-103">Chcete-li ověřit svou doménu, budete muset přidat záznam TXT do doménového registrátora, abyste ověřili, že doménu vlastníte.</span><span class="sxs-lookup"><span data-stu-id="49688-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="49688-104">Nejprve postupujte podle [průvodce Přidáním domény](https://portal.office.com/adminportal/home#/Domains/Wizard) klepnutím na **položku Instalační** \> **domény**a potom **podle příkazu Přidat doménu**.</span><span class="sxs-lookup"><span data-stu-id="49688-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="b1478-105">Podle pokynů v části [Vytvoření záznamů DNS u libovolného poskytovatele hostingu DNS pro Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) přidejte záznam TXT k ověření vaší domény.</span><span class="sxs-lookup"><span data-stu-id="b1478-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="49688-105">Podle pokynů v části [Vytvoření záznamů DNS u libovolného poskytovatele hostingu DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) přidejte záznam TXT k ověření vaší domény.</span><span class="sxs-lookup"><span data-stu-id="49688-105">Follow the instructions in [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
 
-<span data-ttu-id="b1478-106">U ostatních domén zkuste nejčastější dotazy k [doménám](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="b1478-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="49688-106">U ostatních domén zkuste nejčastější dotazy k [doménám](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="49688-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>

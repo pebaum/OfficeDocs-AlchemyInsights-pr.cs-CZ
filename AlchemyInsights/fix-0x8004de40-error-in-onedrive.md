@@ -1,32 +1,32 @@
 ---
-title: Fix 0x8004de40 chyba v OneDrive
+title: Oprava chyby 0x8004de40 na OneDrivu
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 48b29f57763ca22a71a23b2afddcac0e8e8a95db
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5da4271f242597b195ef61d553fd4a2ffb313025
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052030"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716021"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a><span data-ttu-id="7e7cf-102">Fix 0x8004de40 chyba v OneDrive</span><span class="sxs-lookup"><span data-stu-id="7e7cf-102">Fix 0x8004de40 error in OneDrive</span></span>
+# <a name="fix-0x8004de40-error-in-onedrive"></a><span data-ttu-id="e25b5-102">Oprava chyby 0x8004de40 na OneDrivu</span><span class="sxs-lookup"><span data-stu-id="e25b5-102">Fix 0x8004de40 error in OneDrive</span></span>
 
-<span data-ttu-id="7e7cf-103">Obdržíte-li chybu 0x8004de40 u funkce OneDrive:</span><span class="sxs-lookup"><span data-stu-id="7e7cf-103">If you receive an 0x8004de40 error with OneDrive:</span></span>
+<span data-ttu-id="e25b5-103">Pokud se na OneDrivu zobrazí chyba 0x8004de40:</span><span class="sxs-lookup"><span data-stu-id="e25b5-103">If you receive an 0x8004de40 error with OneDrive:</span></span>
 
-- <span data-ttu-id="7e7cf-104">Restartujte ohrožený počítač, který je připojen k doméně adresáře Acitve.</span><span class="sxs-lookup"><span data-stu-id="7e7cf-104">Reboot the affected computer while connected to your Acitve Directory domain.</span></span>
-- <span data-ttu-id="7e7cf-105">Pokud počítač nebude problém napravovat, připojte se a znovu připojte k zařízení Azure AD.</span><span class="sxs-lookup"><span data-stu-id="7e7cf-105">If a reboot doesn't fix the issue, unjoin and rejoin your device from Azure AD.</span></span> 
+- <span data-ttu-id="e25b5-104">Restartujte postižený počítač při připojení k doméně Acitve Directory.</span><span class="sxs-lookup"><span data-stu-id="e25b5-104">Reboot the affected computer while connected to your Acitve Directory domain.</span></span>
+- <span data-ttu-id="e25b5-105">Pokud restartování problém nevyřeší, odpojte se a znovu se připojte k zařízení z Azure AD.</span><span class="sxs-lookup"><span data-stu-id="e25b5-105">If a reboot doesn't fix the issue, unjoin and rejoin your device from Azure AD.</span></span> 
 
-<span data-ttu-id="7e7cf-106">**Poznámka**: při provádění těchto kroků byste měli být v podnikové síti.</span><span class="sxs-lookup"><span data-stu-id="7e7cf-106">**Note**: You should be on your corporate network while performing these steps.</span></span> <span data-ttu-id="7e7cf-107">Neprovádějte tyto kroky, pokud se nemůžete připojit k podnikové infrastruktuře (například při cestování).</span><span class="sxs-lookup"><span data-stu-id="7e7cf-107">Don't perform these steps when you aren't able to connect to your corporate infrastructure (for example, while traveling).</span></span> 
+<span data-ttu-id="e25b5-106">**Poznámka:** Při provádění těchto kroků byste měli být v podnikové síti.</span><span class="sxs-lookup"><span data-stu-id="e25b5-106">**Note**: You should be on your corporate network while performing these steps.</span></span> <span data-ttu-id="e25b5-107">Tyto kroky neprovádějte, pokud se nemůžete připojit k podnikové infrastruktuře (například na cestách).</span><span class="sxs-lookup"><span data-stu-id="e25b5-107">Don't perform these steps when you aren't able to connect to your corporate infrastructure (for example, while traveling).</span></span> 
 
-- <span data-ttu-id="7e7cf-108">Otevřete příkazový řádek se zvýšenými oprávněními.</span><span class="sxs-lookup"><span data-stu-id="7e7cf-108">Open an elevated command prompt.</span></span> 
-- <span data-ttu-id="7e7cf-109">Chcete-li otevřít příkazový řádek se zvýšenými oprávněními, klepněte na tlačítko **Start**, klepněte pravým tlačítkem myši na položku **příkazový řádek**a potom klepněte na příkaz **Spustit jako správce**.</span><span class="sxs-lookup"><span data-stu-id="7e7cf-109">To open an elevated command prompt, click - **Start**, right-click **Command Prompt**, and then click **Run as administrator**.</span></span>
-- <span data-ttu-id="7e7cf-110">Zadejte příkaz *dsregcmd/odejdi* a stiskněte klávesu **ENTER**.</span><span class="sxs-lookup"><span data-stu-id="7e7cf-110">Type *dsregcmd /leave* and press **Enter**.</span></span>
-- <span data-ttu-id="7e7cf-111">Po dokončení zadejte příkaz *dsregcmd/JOIN* a stiskněte klávesu **ENTER**.</span><span class="sxs-lookup"><span data-stu-id="7e7cf-111">When complete, type *dsregcmd /join* and press **Enter**.</span></span>
-- <span data-ttu-id="7e7cf-112">Po dokončení ukončete příkazový řádek.</span><span class="sxs-lookup"><span data-stu-id="7e7cf-112">When complete, close the command prompt.</span></span>
-- <span data-ttu-id="7e7cf-113">Restartujte počítač a přihlaste se k OneDrive.</span><span class="sxs-lookup"><span data-stu-id="7e7cf-113">Reboot the computer, and log into OneDrive.</span></span>
+- <span data-ttu-id="e25b5-108">Otevřete příkazový řádek se zvýšenými oprávněními.</span><span class="sxs-lookup"><span data-stu-id="e25b5-108">Open an elevated command prompt.</span></span> 
+- <span data-ttu-id="e25b5-109">Chcete-li otevřít příkazový řádek se zvýšenými oprávněními, klepněte na tlačítko - **Spustit**, klepněte pravým tlačítkem myši na **příkazový řádek**a potom klepněte na příkaz **Spustit jako správce**.</span><span class="sxs-lookup"><span data-stu-id="e25b5-109">To open an elevated command prompt, click - **Start**, right-click **Command Prompt**, and then click **Run as administrator**.</span></span>
+- <span data-ttu-id="e25b5-110">Zadejte *dsregcmd /leave* a stiskněte **enter**.</span><span class="sxs-lookup"><span data-stu-id="e25b5-110">Type *dsregcmd /leave* and press **Enter**.</span></span>
+- <span data-ttu-id="e25b5-111">Po dokončení zadejte *dsregcmd /join* a stiskněte **Enter**.</span><span class="sxs-lookup"><span data-stu-id="e25b5-111">When complete, type *dsregcmd /join* and press **Enter**.</span></span>
+- <span data-ttu-id="e25b5-112">Po dokončení zavřete příkazový řádek.</span><span class="sxs-lookup"><span data-stu-id="e25b5-112">When complete, close the command prompt.</span></span>
+- <span data-ttu-id="e25b5-113">Restartujte počítač a přihlaste se k OneDrivu.</span><span class="sxs-lookup"><span data-stu-id="e25b5-113">Reboot the computer, and log into OneDrive.</span></span>
