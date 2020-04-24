@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059873"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720058"
 ---
 # <a name="update-credit-card-information"></a>Aktualizace údajů o platební kartě
 
-1. V Centru pro správu Microsoftu 365 přejděte na stránku **Fakturace** \> [Způsoby platby](https://go.microsoft.com/fwlink/p/?linkid=2018806).
+1. V centru pro správu Microsoftu 365 přejděte na stránku **Fakturace** \> [Způsoby platby](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
     > [!NOTE]
     > Pokud se vám stane, že vás web vrátí na domovskou stránku správce před dokončením aktualizace, zkuste použít režim InPrivate nebo anonymní režim.
@@ -40,4 +40,4 @@ ms.locfileid: "43059873"
 
 Pokud narazíte na problémy s načítáním webové stránky, zkuste ji otevřít v jiném prohlížeči nebo ji zkuste otevřít v anonymním okně prohlížeče – například v okně se službou procházení InPrivate v Microsoft Edge nebo v okně anonymního režimu v Google Chromu. 
 
-Další informace najdete v článcích [Přidání, aktualizace nebo odebrání platební karty nebo bankovního účtu v Office 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) a [Řešení potíží s platebními kartami a bankovními účty](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Další informace získáte v tématech o [přidání, aktualizaci či odebrání platební karty nebo bankovního účtu v Microsoftu 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) a o [řešení problému s platebními kartami a bankovními účty](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

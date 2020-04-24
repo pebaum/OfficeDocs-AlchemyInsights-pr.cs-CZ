@@ -12,16 +12,16 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 3a940182e831c03e040e5bb2dd9c73adcfd2c7b0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 623222ee0cfe9cd5798e341149b439e887a998e4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735454"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759145"
 ---
 # <a name="how-to-install-office"></a>Jak se instaluje Office
 
-Abyste mohli klientské aplikace Office nainstalovat, ujistěte se, že máte předplatné pro firmy jako Office 365 Business Premium, Office 365 Business nebo Office 365 Education.
+Jestliže chcete nainstalovat klientské aplikace Office, musíte mít k dispozici předplatné pro firmy, jako je Microsoft 365 Business Premium Standard, Microsoft 365 Apps pro firmy nebo Office 365 Education.
   
 *Poznámka: [Office pro domácnosti a podnikatele](https://products.office.com/home-and-business) je produkt z řady [Office pro domácnosti](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) a není součástí předplatného pro firmy. Přesné pokyny pro produkty Visio a Project najdete v tématech [Instalace Visia](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) nebo [Projectu](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
 
