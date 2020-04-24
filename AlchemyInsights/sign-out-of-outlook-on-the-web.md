@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 2eac0cafc0fed6fe813d3820044a407e200955f3
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: a3d9adbea318e4302490e52d190d93607ce9fd4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100414"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789043"
 ---
 # <a name="sign-out-of-outlook-on-the-web"></a>Odhlášení z Outlooku na webu
 
 1. Klikněte na obrázek/iniciály vašeho účtu v pravém horním rohu obrazovky. Pokud v horní části stránky svůj obrázek nevidíte, zkontrolujte, jestli nemáte zapnuté blokování reklam. To někdy brání zobrazení obrázku.
 
-2. Klikněte na **Odhlásit**. (Pokud nechcete, aby se Outlook na webu automaticky přihlašoval k vašemu pracovnímu nebo školnímu účtu, zrušte při příštím přihlášení k Office 365 zaškrtnutí políčka **Neodhlašovat**.)
+2. Klikněte na **Odhlásit**. (Pokud nechcete, aby se Outlook na webu automaticky přihlašoval k vašemu pracovnímu nebo školnímu účtu, zrušte při příštím přihlášení zaškrtnutí políčka **Neodhlašovat**.)
 
 3. Pokud možnost odhlášení není k dispozici, jedná se o známý problém a pracujeme na vydání opravy v budoucí verzi.  Zkuste prosím vymazat mezipaměť prohlížeče a soubory cookie, abyste zjistili, jestli se tím problém nevyřeší.  Pokud ne, můžete se [odhlásit od svého účtu ručně](https://login.live.com/logout.srf) a zavřít všechna okna prohlížeče.
 

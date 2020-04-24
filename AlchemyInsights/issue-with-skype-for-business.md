@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: fab71b234088b54a684f43dca5533dd0332da48d
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 9f72e8d263c0cef611e2fe19964141d68633e8a3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739054"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765838"
 ---
 # <a name="issue-with-skype-for-business"></a>Máte problémy se Skypem pro firmy?
 
@@ -23,7 +23,7 @@ Zaznamenali jsme, že následující domény mají problémy, které můžou br�
   
 {HealthCheckString}
   
-Záznamy NS, CNAME nebo SRV nastavení domény nejsou správně nakonfigurované pro Skype pro firmy. Podrobnější informace můžete najít v článku [Vytvoření DNS záznamů pro Office 365 u kteréhokoliv poskytovatele hostingu DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Záznamy NS, CNAME nebo SRV nastavení domény nejsou správně nakonfigurované pro Skype pro firmy. Podrobné pokyny najdete v tématu o [vytvoření záznamů DNS u libovolného poskytovatele hostingu DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
   
 Pokud chcete problém opravit, přejděte na stránku [Domény](https://admin.microsoft.com/adminportal/home#/Domains) v Centru pro správu Microsoftu 365 a my vám s tím pomůžeme.
   

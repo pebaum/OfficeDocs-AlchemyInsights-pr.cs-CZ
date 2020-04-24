@@ -1,5 +1,5 @@
 ---
-title: Aktivace předplatného Office 365
+title: Aktivujte si předplatné Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191059"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784000"
 ---
-# <a name="activate-your-office-365-subscription"></a>Aktivace předplatného Office 365
+# <a name="activate-your-subscription"></a>Aktivujte si předplatné
 
 **Aktivace předplatného**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191059"
 
 **Opětovná aktivace předplatného**
 
-Pokud vám vypršela platnost předplatného nebo ho zablokoval Microsoft nebo pokud jste předplatné zrušili v průběhu doby jeho platnosti, můžete si ho znovu aktivovat v Centru pro správu Office 365.
+Pokud vám vypršela platnost předplatného nebo ho zablokoval Microsoft nebo pokud jste předplatné zrušili v průběhu doby jeho platnosti, můžete si ho znovu aktivovat v Centru pro správu Microsoftu 365.
 
-- V Centru pro správu Office 365 přejděte na stránku [Předplatná](https://go.microsoft.com/fwlink/p/?linkid=842054) (nebo klikněte na **Fakturace > Předplatná**).
+- V Centru pro správu Microsoftu 365 přejděte na stránku [Předplatná](https://go.microsoft.com/fwlink/p/?linkid=842054) (nebo klikněte na **Fakturace > Předplatná**).
 
 - Zvolte předplatné, jehož platnost chcete znovu aktivovat, a potom klikněte na **Znovu aktivovat**. Pokud akce **Znovu aktivovat** není dostupná, [kontaktujte podporu](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) a požádejte o opětovnou aktivaci předplatného.
 
@@ -42,6 +42,6 @@ Další informace najdete v článku [Opětovná aktivace předplatného](https:
 
 **Aktivace nového předplatného pomocí kódu Product Key**
 
-- Pokud chcete aktivovat nové předplatné Office 365 pomocí kódu Product Key, začněte [tady](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Pokud chcete aktivovat nové předplatné Microsoft 365 pomocí kódu Product Key, začněte [tady](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Zadejte kód Product Key pro Office 365 a postupujte podle pokynů pro aktivaci vašeho předplatného. Pokud máte s aktivací potíže, podívejte se na tento seznam [běžných chyb s kódem Product Key a jejich řešení](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+- Zadejte kód Product Key pro Microsoft 365 a postupujte podle pokynů pro aktivaci vašeho předplatného. Pokud máte s aktivací potíže, podívejte se na tento seznam [běžných chyb s kódem Product Key a jejich řešení](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
