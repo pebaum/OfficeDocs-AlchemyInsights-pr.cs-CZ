@@ -12,17 +12,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 83ac66ddd2f5dac25aaa0b2ac3fe855c2e29f988
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: e1dd2bd37be42de74701b11864841e876cf5a2a6
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154234"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43556950"
 ---
-# <a name="pstn-calling-plans"></a><span data-ttu-id="3229c-102">Tarify pro volání do veřejné telefonní sítě</span><span class="sxs-lookup"><span data-stu-id="3229c-102">PSTN calling plans</span></span>
+# <a name="pstn-calling-plans"></a><span data-ttu-id="f587b-102">Tarify pro volání do veřejné telefonní sítě</span><span class="sxs-lookup"><span data-stu-id="f587b-102">PSTN calling plans</span></span>
 
-<span data-ttu-id="3229c-103">Volání jiným uživatelům Skypu pro firmy a Microsoft Teams je zdarma, ale pokud chcete, aby uživatelé mohli volat na normální telefony, a ještě nemáte poskytovatele služeb pro hlasová volání, musíte koupit plán volání.</span><span class="sxs-lookup"><span data-stu-id="3229c-103">Calls to other Skype for Business and Microsoft Teams users are free, but if you want your users to be able to call regular phones, and you don't already have a service provider to make voice calls, you need to buy a Calling Plan.</span></span> 
+<span data-ttu-id="f587b-103">Pokud chcete, aby vaši uživatelé mohli volat na normální telefony, a ještě nemáte poskytovatele služeb pro hlasové hovory, budete si muset koupit volací plán.</span><span class="sxs-lookup"><span data-stu-id="f587b-103">If you want your users to be able to call regular phones, and you don't already have a service provider to make voice calls, you need to buy a Calling Plan.</span></span>
 
-- <span data-ttu-id="3229c-104">Postup, jak ho koupit, najdete v článku [Jak koupit plán volání](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365).</span><span class="sxs-lookup"><span data-stu-id="3229c-104">To start the purchasing process, see [How to buy a Calling Plan](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365).</span></span> 
+- <span data-ttu-id="f587b-104">Postup, jak ho koupit, najdete v článku [Jak si koupit volací plán](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365).</span><span class="sxs-lookup"><span data-stu-id="f587b-104">See [How to buy a Calling Plan](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) to start the purchasing process.</span></span>
 
-- <span data-ttu-id="3229c-105">Další informace najdete v článku [Telefonní systém a plány volání](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page).</span><span class="sxs-lookup"><span data-stu-id="3229c-105">For more info, see [Phone System and Calling Plans](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page).</span></span> 
+- <span data-ttu-id="f587b-105">Nastavte si [komunikační kredity](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization), aby uživatelům **nedošly volné minuty**.</span><span class="sxs-lookup"><span data-stu-id="f587b-105">Setup [Communication Credits](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) to prevent users from **running out of minutes**.</span></span> <span data-ttu-id="f587b-106">Sazby najdete [tady](https://products.office.com/microsoft-teams/voice-calling).</span><span class="sxs-lookup"><span data-stu-id="f587b-106">See rates [here](https://products.office.com/microsoft-teams/voice-calling).</span></span> 
+
+- <span data-ttu-id="f587b-107">Další informace najdete v tématu věnovaném [telefonnímu systému a volacím plánům](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) nebo v tématu vysvětlujícím, [co jsou komunikační kredity](https://docs.microsoft.com/microsoftteams/what-are-communications-credits).</span><span class="sxs-lookup"><span data-stu-id="f587b-107">For more info, see [Phone System and Calling Plans](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) or [What are Communication Credits?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span></span>
