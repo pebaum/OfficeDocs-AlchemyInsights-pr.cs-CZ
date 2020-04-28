@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714395"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911141"
 ---
 # <a name="ediscovery-settings"></a>Nastavení zjišťování ediscovery
 
-Vyhledávání eDiscovery/obsahu umožňuje vyhledávat, držet a exportovat obsah z poštovních schránek Exchange Online, SharePointu Online a OneDrivu pro firmy, konverzací ve Skypu pro firmy, Microsoft Teams a skupin Office 365.
+Vyhledávání eDiscovery/obsahu umožňuje vyhledávat, držet a exportovat obsah z poštovních schránek Exchange Online, SharePointu Online a OneDrivu pro firmy, konverzací ve Skypu pro firmy, Microsoft Teams a skupin Microsoft 365.
 
 - Pokud hledáte možnosti nabídky eDiscovery nebo Hledání obsahu, přečtěte si informace [o problémech s eDiscovery](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
 - Přečtěte si o oprávněních potřebných k vyhledávání eDiscovery z [oprávnění požadovaných pro vyhledávání eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709400"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908841"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Přidání překrytí do sharepointového kalendáře
 
-Kalendáře služby SharePoint jsou klasické typy seznamů, které jsou někdy zaměňované s kalendáři skupin Office 365.
+SharePoint kalendáře jsou klasické typy seznamů, které jsou někdy zaměňovány s Microsoft 365 Skupinových kalendářů.
  
 Pokud na webu používáte sharepointový kalendář, můžete na něj překrýt vlastní kalendář Exchange a vytvořit tak kombinované zobrazení kalendáře. Případně můžete překrýt jiný sharepointový kalendář, pokud jsou oba sharepointové kalendáře ve stejné kolekci webů.
  

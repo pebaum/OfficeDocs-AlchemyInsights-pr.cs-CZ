@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721733"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912396"
 ---
 # <a name="manage-access-requests"></a>Správa žádostí o přístup
 
@@ -26,7 +26,7 @@ Když se uživatel pokusí o přístup k položce v SharePointu a nemá oprávn�
     
 2. V části **Uživatelé a oprávnění**klikněte na **požadavky na přístup a pozvánky**. (Pokud se tato možnost nezobrazí, nebyly provedeny žádné žádosti o přístup.)
     
-3. Chcete-li uživateli udělit oprávnění jednotlivě, klepněte na tlačítko **Schválit** nebo **Odmítnout**. Chcete-li vybrat určitou úroveň oprávnění, klepněte nejprve na tři tečky (...) vedle jména osoby. Případně přidejte uživatele do skupiny, která má oprávnění k webu. U komunikačních webů a klasických týmových webů to můžete udělat na stránce Nastavení webu. U webů, které patří do skupiny Office 365, můžete do skupiny přidat uživatele.
+3. Chcete-li uživateli udělit oprávnění jednotlivě, klepněte na tlačítko **Schválit** nebo **Odmítnout**. Chcete-li vybrat určitou úroveň oprávnění, klepněte nejprve na tři tečky (...) vedle jména osoby. Případně přidejte uživatele do skupiny, která má oprávnění k webu. U komunikačních webů a klasických týmových webů to můžete udělat na stránce Nastavení webu. U webů, které patří do skupiny Microsoft 365, můžete přidat uživatele do skupiny.
     
     [Správa žádostí o přístup](https://go.microsoft.com/fwlink/?linkid=2008747)
     

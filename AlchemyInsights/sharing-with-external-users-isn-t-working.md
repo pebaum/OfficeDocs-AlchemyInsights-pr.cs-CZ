@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767242"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912995"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Řešení problémů se sdílením sharepointového obsahu s externími uživateli
 
@@ -32,7 +32,7 @@ Ujistěte se, že je pro web zapnuté externí sdílení. Pro klasickou kolekci 
     
 2. Vyberte web nebo weby a na pásu karet klikněte na **Sdílení**.
     
-Pro týmový web, který patří do skupiny Office 365 nebo komunikačního webu:
+Pro týmový web, který patří do skupiny Microsoft 365 nebo komunikační ho:
   
 - Tyto nové typy webů mají stejné nastavení sdílení jako nastavení pro celou organizaci, pokud nastavení pro celou organizaci neumožňuje sdílení souborů pomocí odkazů, které nevyžadují přihlášení. V takovém případě umožňují weby sdílení s novými a stávajícími externími uživateli, kteří se přihlašují. Pokud chcete změnit nastavení pro konkrétní weby, použijte nové Centrum pro správu SharePointu nebo PowerShell. [Další informace](https://go.microsoft.com/fwlink/?linkid=871863)
     

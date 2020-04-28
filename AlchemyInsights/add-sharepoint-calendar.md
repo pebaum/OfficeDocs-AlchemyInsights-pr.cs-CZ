@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 20780a2c06813f5d52f4caecaa21505da4c0b9f0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3fd8cea060a754b557c64ecd314487e359b56452
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671342"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43910997"
 ---
 # <a name="add-a-sharepoint-calendar"></a>Přidání sharepointového kalendáře
 
-Kalendáře služby SharePoint jsou klasické typy seznamů, které jsou někdy zaměňované s kalendáři skupin Office 365.
+SharePoint kalendáře jsou klasické typy seznamů, které jsou někdy zaměňovány s Microsoft 365 Skupinových kalendářů.
  
 Pokud chcete vytvořit sharepointový kalendář, postupujte takto:
  
@@ -29,5 +29,5 @@ Pokud chcete vytvořit sharepointový kalendář, postupujte takto:
 2.  Do **vyhledávacího** pole Najít aplikaci zadejte **Kalendář** a stiskněte enter.
 3.  Vyberte aplikaci s názvem **Kalendář**a zadejte název kalendáře.
 
-Další informace o skupinách Office 365 najdete v [tématu Další informace o skupinách Office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Další informace o skupinách microsoftu 365 najdete v [tématu Další informace o skupinách microsoftu 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 

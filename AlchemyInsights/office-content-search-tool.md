@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787980"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912251"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Nástroj pro vyhledávání obsahu pro vyhledání relevantních informací
 
-Pomocí nástroje pro vyhledávání obsahu v Centru dodržování předpisů zabezpečení & rychle najděte e-maily v poštovních schránkách Exchange, dokumenty na sharepointových webech a umístěních OneDrivu a konverzace pomocí rychlých zpráv ve Skypu pro firmy. Pomocí nástroje pro vyhledávání obsahu můžete vyhledávat e-maily, dokumenty a konverzace pomocí rychlých zpráv v nástrojích pro spolupráci microsoftu 365, jako jsou Microsoft Teams a Skupiny Office 365.
+Pomocí nástroje pro vyhledávání obsahu v Centru dodržování předpisů zabezpečení & rychle najděte e-maily v poštovních schránkách Exchange, dokumenty na sharepointových webech a umístěních OneDrivu a konverzace pomocí rychlých zpráv ve Skypu pro firmy. Pomocí nástroje pro vyhledávání obsahu můžete vyhledávat e-maily, dokumenty a konverzace pomocí rychlých zpráv v nástrojích pro spolupráci microsoftu 365, jako jsou Microsoft Teams a Skupiny Microsoft 365.
 
 
 Před použitím [funkce Hledání obsahu](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) z Centra pro dodržování předpisů zabezpečení [&](https://sip.protection.office.com/homepage)budete chtít dokončit nastavení konfigurace včetně [konfigurace oprávnění](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), nastavení [rychlosti stahování](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) a nastavení [exportu](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).

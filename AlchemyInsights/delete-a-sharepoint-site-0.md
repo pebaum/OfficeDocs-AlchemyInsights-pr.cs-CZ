@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: aa881dd6618f6912b854929db625f4cbaeb048d7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 612410700b00f02e524ada86d505883fb0f2d0fe
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705006"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911573"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Odstranění webů, které patří do skupiny Office 365
+# <a name="delete-sites-that-belong-to-an-microsoft-365-group"></a>Odstranění webů, které patří do skupiny Microsoft 365
 
-Když uživatelé vytvoří nový týmový web ze SharePointu Home nebo vy vytvoříte nový týmový web z nového Centra pro správu SharePointu, automaticky se vytvoří odpovídající skupina Office 365. Týmové weby Office 365 připojené ke skupině se vytvářejí taky při vytváření skupiny Office 365 nebo týmu v Microsoft Teams. Pokud chcete odstranit sharepointový web, který patří do skupiny Office 365, musíte odstranit samotnou skupinu Office 365. 
+Když uživatelé vytvoří nový týmový web ze SharePointu Home nebo vytvoříte nový týmový web z nového Centra pro správu SharePointu, automaticky se vytvoří odpovídající skupina Microsoft 365. Týmové weby microsoft 365 připojené ke skupině se vytvářejí také při vytváření skupiny Microsoft 365 nebo týmu v Microsoft Teams. Chcete-li odstranit sharepointový web, který patří do skupiny Microsoft 365, musíte odstranit samotnou skupinu Microsoft 365. 
   
 1. Přejděte na [stránku Skupiny v Centru pro správu Microsoftu 365](https://portal.office.com/adminportal/home#/groups).
     

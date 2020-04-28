@@ -1,5 +1,5 @@
 ---
-title: 712 Převedení distribučního seznamu na skupinu Office 365
+title: 712 Převod distribučního seznamu na skupinu Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 0aa4928b33c75051c7210e88098555b82e130fd5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c135727d1a3dd26aebca7a5140956cc75c78705b
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715733"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908661"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a>Převedení distribuční skupiny na skupinu Office 365
+# <a name="convert-a-distribution-group-to-an-microsoft-365-group"></a>Převedení distribuční skupiny na skupinu Microsoft 365
 
-Distribuční skupiny můžete převést na skupiny Office 365, pokud splňují určitá kritéria. Pokud chcete převést skupinu nebo vyřešit problémy s převodem, [přečtěte si článek Upgrade distribučních seznamů na skupiny Office 365 v Outlooku](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).
+Distribuční skupiny můžete převést na skupiny Microsoft 365, pokud splňují určitá kritéria. Pokud chcete převést skupinu nebo vyřešit problémy s převodem, [přečtěte si článek Upgrade distribučních seznamů na skupiny Microsoft 365 v Outlooku](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).
