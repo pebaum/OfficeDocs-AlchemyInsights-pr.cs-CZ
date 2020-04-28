@@ -1,5 +1,5 @@
 ---
-title: Zobrazený popisek citlivosti u Skupin Office 365
+title: Zobrazený popisek citlivosti u skupin Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: f0c8a8f07eda120b67a0adb34516d4f0203d6f7b
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 9aea00b8239ed126cd56385cc6265fc15466db30
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218089"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911860"
 ---
-# <a name="office-365-groups-showing-sensitivity-label"></a><span data-ttu-id="fd95e-102">Zobrazený popisek citlivosti u Skupin Office 365</span><span class="sxs-lookup"><span data-stu-id="fd95e-102">Office 365 Groups showing sensitivity label</span></span>
+# <a name="microsoft-365-groups-showing-sensitivity-label"></a><span data-ttu-id="262a1-102">Zobrazený popisek citlivosti u skupin Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="262a1-102">Microsoft 365 Groups showing sensitivity label</span></span>
 
-<span data-ttu-id="fd95e-103">U Skupin Office 365 můžete narazit na následující potíže:</span><span class="sxs-lookup"><span data-stu-id="fd95e-103">You may be seeing the following issue with Office 365 Group:</span></span>
+<span data-ttu-id="262a1-103">U skupiny Microsoft 365 můžete narazit na následující potíže:</span><span class="sxs-lookup"><span data-stu-id="262a1-103">You may be seeing the following issue with Microsoft 365 Group:</span></span>
 
-- <span data-ttu-id="fd95e-104">Skupinu Office 365 není možné vytvořit z webové aplikace Outlook, s chybou „Pole klasifikace nemůže být prázdné“.</span><span class="sxs-lookup"><span data-stu-id="fd95e-104">Unable to create an Office 365 Group from OWA, with the error "The classification field can't be empty."</span></span>
+- <span data-ttu-id="262a1-104">Skupinu Microsoft 365 není možné vytvořit z webové aplikace Outlook, s chybou „Pole klasifikace nemůže být prázdné“.</span><span class="sxs-lookup"><span data-stu-id="262a1-104">Unable to create an Microsoft 365 Group from OWA, with the error "The classification field can't be empty."</span></span>
 
-- <span data-ttu-id="fd95e-105">U Skupin Office 365 se zobrazuje popisek citlivosti, i když jste tuto funkci nepovolili.</span><span class="sxs-lookup"><span data-stu-id="fd95e-105">Seeing sensitivity label for Office 365 groups even though you have not enabled the feature.</span></span>
+- <span data-ttu-id="262a1-105">U skupin Microsoft 365 se zobrazuje popisek citlivosti, i když jste tuto funkci nepovolili.</span><span class="sxs-lookup"><span data-stu-id="262a1-105">Seeing sensitivity label for Microsoft 365 Groups even though you have not enabled the feature.</span></span>
 
-<span data-ttu-id="fd95e-106">Tento problém jsme opravili.</span><span class="sxs-lookup"><span data-stu-id="fd95e-106">This issue has been identified and fixed.</span></span> <span data-ttu-id="fd95e-107">Na vydání opravy se pracuje a mělo by být dokončené během několika hodin.</span><span class="sxs-lookup"><span data-stu-id="fd95e-107">The fix rollout is in progress and should be completed in a few hours.</span></span> <span data-ttu-id="fd95e-108">Mezitím prosím k vytváření Skupin Office 365 používejte portál pro správu Office nebo portál pro správu Azure.</span><span class="sxs-lookup"><span data-stu-id="fd95e-108">Meanwhile, please use Office admin portal or Azure Admin Portal to create Office 365 Groups.</span></span>  
+<span data-ttu-id="262a1-106">Tento problém jsme opravili.</span><span class="sxs-lookup"><span data-stu-id="262a1-106">This issue has been identified and fixed.</span></span> <span data-ttu-id="262a1-107">Na vydání opravy se pracuje a mělo by být dokončené během několika hodin.</span><span class="sxs-lookup"><span data-stu-id="262a1-107">The fix rollout is in progress and should be completed in a few hours.</span></span> <span data-ttu-id="262a1-108">Mezitím prosím k vytváření skupin Microsoft 365 používejte portál pro správu Office nebo portál pro správu Azure.</span><span class="sxs-lookup"><span data-stu-id="262a1-108">Meanwhile, please use Office admin portal or Azure Admin Portal to create Microsoft 365 Groups.</span></span>  
