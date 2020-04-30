@@ -14,13 +14,20 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
+ms.sourcegitcommit: 7755f288fcc718571367cf1960962b19a82bac4f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706820"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43939648"
 ---
 # <a name="change-how-often-you-pay"></a>Změna toho, jak často platíte
 
- **Chcete změnit četnost plateb?** Pokud chcete změnit, jak často platíte za předplatné Microsoftu 365 pro firmy, ať už z ročního na měsíční nebo měsíční na roční, můžeme vám s tím pomoci. Budete si muset zakoupit stejné předplatné s novou frekvencí plateb a zrušit staré předplatné. Prosím, použijte možnost "Dovolte nám zavolat" promluvit s pracovníkem podpory.
+Pokud chcete změnit, jak často se vám budou účtovat poplatky a platit za předplatné, proveďte následující kroky v Centru pro správu Microsoftu 365. 
+1. Přejděte do části **Fakturace > [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+2. Najděte předplatné, které chcete změnit. V části **Fakturace** klikněte vedle **Položky Fakturované měsíčně** nebo **Fakturované ročně**na **Upravit**. 
+3. Vyberte možnost, jak často se má účtovat, a klikněte na **Změnit**.
+
+**Poznámka:** Jedinou možností je měsíční nebo roční fakturace.
+
+Další informace najdete v [tématu Změna četnosti plateb](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).

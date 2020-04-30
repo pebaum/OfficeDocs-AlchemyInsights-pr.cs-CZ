@@ -1,5 +1,5 @@
 ---
-title: Zobrazit Moje vyúčtování
+title: Zobrazit můj účet
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,17 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665681"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947737"
 ---
-# <a name="view-my-bill"></a>Zobrazit Moje vyúčtování
+# <a name="view-my-bill"></a>Zobrazit můj účet
 
-1. Ve středisku pro správce služeb Microsoft 365 přejděte na **fakturační** \> stránky [& platby směnky](https://go.microsoft.com/fwlink/p/?linkid=848039) .
+1. V Centru pro správu Microsoftu 365 přejděte na stránku **Účty za fakturaci** \> [& platby.](https://go.microsoft.com/fwlink/p/?linkid=848039)
 
-2. Z rozevíracího seznamu vyberte rozsah dat a potom vyberte objednávku, kterou chcete zobrazit.
+2. V rozevíracím seznamu vyberte rozsah dat a pak vyberte objednávku, kterou chcete zobrazit.
 
-Další informace naleznete v tématu [zobrazení kusovníku nebo faktury](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+3. Chcete-li fakturu vytisknout, stáhněte ji jako soubor PDF a klepněte na **tlačítko Tisk**.
+
+Další informace najdete v článku [Zobrazení účtu nebo faktury](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).

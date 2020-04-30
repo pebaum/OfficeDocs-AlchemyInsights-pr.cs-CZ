@@ -13,25 +13,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b528a698f57f0ec1cbc08718b83b07bbe050637c
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198758"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943936"
 ---
 # <a name="change-your-billing-address"></a>Změna fakturační adresy
 
-Faktura nebo faktura obsahuje tři adresy. 
+Faktura nebo faktura obsahuje tři adresy.
 
-**Změna adresy plátce**
+**Změna fakturační adresy pro způsob platby**
 
-1. V Centru pro správu přejděte na stránku **Metody fakturace > [platby.](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** 
+1. V Centru pro správu přejděte na **Způsoby [fakturace](https://go.microsoft.com/fwlink/p/?linkid=2018806)> platby**.
+2. Vyberte platební kartu nebo bankovní účet, který chcete změnit.
+3. Na stránce **Podrobnosti o způsobu platby** klikněte na **Upravit**.
+4. Aktualizujte fakturační adresu a klikněte na **Uložit > Hotovo**.
 
-2. Vyberte platební kartu nebo bankovní účet, který chcete změnit. 
+Další informace o změnách adresy a oznámení najdete v [tématu Změna fakturačních adres pro Microsoft 365 pro firmy](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
 
-3. Na stránce **Podrobnosti o způsobu platby** klikněte na **Upravit**. 
+**Změna informací o fakturačním účtu**
 
-4. Aktualizujte fakturační adresu a klikněte na **Uložit > Hotovo**. 
+1. V Centru pro správu přejděte na **Fakturační > [fakturační účty](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+2. Vyberte **Upravit informace o fakturačním účtu**.
+3. Aktualizujte informace o fakturačním účtu a klepněte na tlačítko **Uložit > Hotovo**.
 
-Další informace o změnách adresy a oznámení najdete v [tématu Změna fakturačních adres office 365 pro firmy](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide). 
+**Poznámka:** Zemi/oblast nelze změnit. Pokud je potřeba toto pole změnit, budete muset zakoupit nového tenanta.
