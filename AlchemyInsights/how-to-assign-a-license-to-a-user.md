@@ -1,5 +1,5 @@
 ---
-title: Jak přiřadit licenci uživateli
+title: Přiřazení nebo zrušení přiřazení licencí uživatelům
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 21e039f381cf853b1b3879787d65a2f809fd1e65
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 6051af464630a9a23d47d8ae8e7b1c4729cc06e0
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799152"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957863"
 ---
-# <a name="how-to-assign-a-license-to-a-user"></a>Jak přiřadit licenci uživateli
+# <a name="assign-or-unassign-licenses-to-users"></a>Přiřazení nebo zrušení přiřazení licencí uživatelům
 
 Uživatel potřebuje licenci, aby měl přístup ke službám. Tady jsou kroky pro **přidání, změnu nebo odebrání** licence uživateli.
   
