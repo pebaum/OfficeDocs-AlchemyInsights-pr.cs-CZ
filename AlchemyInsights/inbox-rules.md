@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724549"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005251"
 ---
-# <a name="inbox-rules"></a>Pravidla doručené pošty
+# <a name="inbox-rules-in-outlook-desktop"></a>Pravidla doručené pošty v Outlooku Desktop
 
-Další informace o používání pravidel doručené pošty ve vlastní poštovní schránce najdete v těchto tématech:
+1. Přejděte na **Soubor > Spravovat pravidla & výstrahy** otevřete dialogové okno Pravidla a **výstrahy.**
+2. Na kartě **Pravidla e-mailu** klikněte na **Nové pravidlo**.
+3. Vyberte jednu ze šablon z **kroku 1**. Chcete-li začít z prázdného pravidla, vyberte **použít pravidlo u přijatých zpráv nebo Použít pravidlo u odesílaných zpráv**.
+4. V **poli Krok 2: Úprava popisu pravidla**klikněte na všechny podtržené možnosti, které chcete nastavit. Pokud jste například v kroku 1 vybrali možnost **Označit zprávy od někoho pro zpracování,** klikněte na lidé nebo **veřejná skupina** a vyberte zprávy odesilatelů, které chcete označit příznakem. pak klepněte **na tlačítko zdolatím v tomto okamžiku** a vyberte příznak a datum zpracování.
+5. Klikněte na **Další**.
 
-- [Správa e-mailových zpráv pomocí pravidel v Outlooku pro PC](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Správa zpráv pomocí pravidel doručené pošty v Outlooku na webu](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Pravidla složky Doručená pošta můžete spravovat také v prostředí Exchange Online PowerShell. Další informace naleznete v [tématech Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (view), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (delete), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modify existing), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (disable existing) a [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (enable existing).
+Další informace o tom, jak pracovat s pravidly doručené pošty, najdete v [tématu Správa e-mailových zpráv pomocí pravidel](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).

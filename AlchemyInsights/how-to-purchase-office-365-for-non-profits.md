@@ -1,5 +1,5 @@
 ---
-title: Jak koupit Office 365 pro neziskové organizace
+title: Microsoft 365 pro neziskové organizace – přezkoumáváno
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763534"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005215"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Jak koupit Office 365 pro neziskové organizace
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 pro neziskové organizace – přezkoumáváno
 
-Vaše způsobilost jako kvalifikované neziskové organizace společnosti Microsoft je předmětem přezkumu. Před vypršením platnosti zkušební verze můžete očekávat, že obdržíte oznámení o určení vaší způsobilosti. Stav aplikace můžete sledovat [zde](https://eligibilityweb.azurewebsites.net/).
+Vaše způsobilost jako kvalifikované neziskové organizace společnosti Microsoft je **předmětem přezkumu**. Můžete očekávat, že obdržíte oznámení o určení vaší způsobilosti **48 hodin** od okamžiku odeslání. Chcete-li toto oznámení obdržet před otevřením žádosti o službu, vyčkejte alespoň **48 hodin.** 
+
+Další informace najdete v [tématu Microsoft 365 pro neziskové organizace](https://www.microsoft.com/nonprofits/microsoft-365). 
