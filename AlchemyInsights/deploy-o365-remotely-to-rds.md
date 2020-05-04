@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: ddd44d40e9430ee31b8b734450dde0defef229d7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704698"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010247"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Nasazení aplikací Microsoft 365 pro podniky pro sdílené použití v rds, terminálovém serveru nebo vdi
 
@@ -25,15 +25,15 @@ Chcete-li nasadit aplikace Microsoft 365 pro podniky pomocí služby RdS (Remote
 - Musíte mít plán Microsoft 365 pro firmy nebo plán Office 365, který zahrnuje aplikace Microsoft 365 pro podniky, jako je Office 365 Enterprise E3 nebo Enterprise E5.
    > [!NOTE] 
    > Plány Microsoft 365 Apps pro firmy a Microsoft 365 Business Premium Standard neobsahují aplikace Microsoft 365 pro podniky.
-- Je nutné povolit [aktivaci sdíleného počítače](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Je nutné povolit [aktivaci sdíleného počítače](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
 > [!NOTE]
 > Můžete také stáhnout a spustit [Pomocníka pro podporu a obnovení společnosti Microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal) a nainstalovat aplikace Microsoft 365 pro podniky v režimu aktivace sdíleného počítače.
 
-Další informace o požadavcích, pokynech k instalaci a pokynech k přizpůsobeným instalacím pomocí Nástroje pro nasazení Office naleznete v [tématu Nasazení aplikací Microsoft 365 pro podniky pomocí služby Vzdálená plocha](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Další informace o požadavcích, pokynech k instalaci a pokynech k přizpůsobeným instalacím pomocí Nástroje pro nasazení Office naleznete v [tématu Nasazení aplikací Microsoft 365 pro podniky pomocí služby Vzdálená plocha](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
 
 Oprava chyb souvisejících s aktivací sdíleného počítače:
-- Přečtěte [si článek Řešení potíží s aktivací sdíleného počítače pro Microsoft 365 Apps pro podniky](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+- Přečtěte [si článek Řešení potíží s aktivací sdíleného počítače pro Microsoft 365 Apps pro podniky](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
 - Přečtěte si téma zaměřené na [resetování stavu aktivace Microsoft 365 Apps pro podniky](https://go.microsoft.com/fwlink/?linkid=2109218).
 
 Pokud chcete nainstalovat Microsoft 365 Apps for enterprise na RDS z Centra pro správu Microsoft365, ***které používá výchozí nastavení instalace***, postupujte takto:
@@ -47,5 +47,5 @@ Pokud chcete nainstalovat Microsoft 365 Apps for enterprise na RDS z Centra pro 
    1. Klepněte pravým tlačítkem myši na tlačítko Windows v levém dolním rohu obrazovky a vyberte **příkaz Spustit**. Do pole Otevřít zadejte **regedit**a pak vyberte **OK**.
    2. Po zobrazení výzvy vyberte **Ano,** chcete-li Editoru registru povolit změny v zařízení.
    3. V Editoru registru přidejte řetězcovou hodnotu **SharedComputerLicensing** s nastavením 1 pod HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\ClickToRun\Configuration.
-   4. Na serveru RDS ***se přihlaste jako koncový uživatel*** a [ověřte, zda je pro microsoft 365 Apps pro podniky povolena aktivace sdíleného počítače.](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)
+   4. Na serveru RDS ***se přihlaste jako koncový uživatel*** a [ověřte, zda je pro microsoft 365 Apps pro podniky povolena aktivace sdíleného počítače.](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)
 

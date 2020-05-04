@@ -11,12 +11,12 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d941bce524dc797d5dcbb7213bded6919fd01b7d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726241"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010850"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>Použití nástroje pro nasazení sady Office (ODT)
 
@@ -42,4 +42,4 @@ You use the Office Deployment Tool (ODT) to deploy Office 365 versions of Office
 
     **Poznámka:** Tento krok je nutné spustit z klientského počítače, do kterého chcete nainstalovat sadu Office, a musíte mít v tomto počítači oprávnění místního správce.
 
-Další informace o používání Nástroje pro nasazení Office pro scénáře nasazení aplikací Microsoft 365 pro podnikové nasazení najdete [v tématu Přehled Nástroje pro nasazení Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Další podrobnosti o použití Nástroje pro přizpůsobení Office naleznete v [tématu Přehled nástroje pro přizpůsobení Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Další informace o používání Nástroje pro nasazení Office pro scénáře nasazení aplikací Microsoft 365 pro podnikové nasazení najdete [v tématu Přehled Nástroje pro nasazení Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Další podrobnosti o použití Nástroje pro přizpůsobení Office naleznete v [tématu Přehled nástroje pro přizpůsobení Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
