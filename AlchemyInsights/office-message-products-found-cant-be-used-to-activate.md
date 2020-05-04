@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: 2593baeb696ae4dcc74dd997ff5e9f630897fea9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761413"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010715"
 ---
 # <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Zpráva aplikací Office – Produkty, nalezené ve vašem účtu, nelze použít k aktivaci
 
@@ -28,7 +28,7 @@ ms.locfileid: "43761413"
 
 - Na dotyčném počítači [resetujte stav aktivace Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
 
-Informace o situacích se sdílenými počítači najdete v tématu [Řešení potíží s aktivací Office 365 ProPlus pro sdílené počítače](https://support.office.com/article/office-error-the-products-we-found-in-your-account-can-t-be-used-to-activate-c9f9a0b3-5aae-4131-8077-21e6a59f141e)
+Informace o situacích se sdílenými počítači najdete v tématu [Řešení potíží s aktivací Microsoft 365 Apps pro sdílené počítače](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
 
 Další informace najdete tady: 
 

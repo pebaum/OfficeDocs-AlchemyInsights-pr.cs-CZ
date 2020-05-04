@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e69a9e32a713b859f8110ec66d4b3b53be1bb450
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713315"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010787"
 ---
 # <a name="office-activation-errors"></a>Chyby při aktivaci Office
 
-1. Na **Ovládacím panelu > Programy a funkce** vyhledejte **Office**. Měli byste vidět **Microsoft Office 365 ProPlus** nebo **Microsoft Office 365 Business**. Pokud se v seznamu zobrazí více verzí Office, odinstalujte nepoužívané verze. Pokud se vám verze, které nepoužíváte, nepovedlo odinstalovat pomocí Ovládacích panelů, použijte k jejich [odinstalaci](https://aka.ms/SARA-OfficeUninstall-Alchemy) nástroj Support and Recovery Assistant (SaRA). Potom restartujte Office a po zobrazení výzvy se přihlaste pomocí svého pracovního nebo školního účtu. 
+1. Na **Ovládacím panelu > Programy a funkce** vyhledejte **Office**. Měli byste vidět **Microsoft 365 pro velké organizace** nebo **Microsoft 365 pro firmy**. Pokud se v seznamu zobrazí více verzí Office, odinstalujte nepoužívané verze. Pokud se vám verze, které nepoužíváte, nepovedlo odinstalovat pomocí Ovládacích panelů, použijte k jejich [odinstalaci](https://aka.ms/SARA-OfficeUninstall-Alchemy) nástroj Support and Recovery Assistant (SaRA). Potom restartujte Office a po zobrazení výzvy se přihlaste pomocí svého pracovního nebo školního účtu. 
 
 2. Pokud je Office stále nelicencovaný, vraťte se do **Ovládacích panelů > Programy a funkce**, klikněte pravým tlačítkem myši na zbývající instalaci Office, klikněte na **Úpravy** (nebo na **Změny**) a potom klikněte na **online oprava**. Online oprava může chvíli trvat. Potom restartujte Office a po zobrazení výzvy se přihlaste pomocí svého pracovního nebo školního účtu. 
 
