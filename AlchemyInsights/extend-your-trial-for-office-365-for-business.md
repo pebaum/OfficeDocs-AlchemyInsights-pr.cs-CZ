@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 90feb8198061c6cc5ab5774360c4e421492420b9
+ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005323"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44016861"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Rozšíření zkušební verze pro Microsoft 365 pro firmy
 
-Zkušební verzi můžete prodloužit o 30 dnů. Poté se zkušební verze dostane do dodatečné 30denní [lhůty odkladu](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). Zkušební verzi prodlužte takto:
+Bezplatnou zkušební verzi můžete prodloužit o jeden dalších 30denní období. Poté se zkušební verze dostane do 30denní [lhůty odkladu](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). Zkušební verzi prodlužte takto:
   
 1. V Centru pro správu přejděte na **fakturační** \> [produkty & služby](https://portal.office.com/adminportal/home#/subscriptions).
 

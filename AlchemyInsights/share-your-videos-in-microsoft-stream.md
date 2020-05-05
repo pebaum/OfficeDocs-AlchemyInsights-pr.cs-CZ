@@ -11,19 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3772"
-ms.openlocfilehash: 4e68514c463b1c6d5376ee0fdd35672f1513fd1d
-ms.sourcegitcommit: 35b6db0a7160fa03a5ea54ad7f16cd84ca3186df
+ms.openlocfilehash: 0fdfee4e6675a12921dc7309a76cb9cb8e0cc292
+ms.sourcegitcommit: 264b782ac2fba8ffd84524180dc4f7d60b45e9a4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403473"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44015754"
 ---
 # <a name="share-your-videos-in-microsoft-stream"></a>Sdílení videí v Microsoft Streamu
 
-Videa v Microsoft Streamu můžete sdílet s lidmi, kteří k nim jinak nemají přístup. Videa můžete sdílet různými způsoby: 
+Videa v Microsoft Streamu můžete sdílet s lidmi, kteří k nim jinak nemají přístup. Videa můžete sdílet různými způsoby:
 
 - [Sdílení videí v Microsoft Streamu](https://docs.microsoft.com/stream/portal-share-video)
-
-- [Externí sdílení v Microsoft Streamu](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
 - [Oprávnění k videu](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
