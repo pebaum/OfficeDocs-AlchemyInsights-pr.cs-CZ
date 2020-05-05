@@ -13,15 +13,15 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: de5cf1992b413080436d8555c9f3b71ef5787bc6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3a65a1611c8cd694039009303df4ea3602cfe82f
+ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763678"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44016942"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="58803-102">Jak zakoupit plány Office 365 Education</span><span class="sxs-lookup"><span data-stu-id="58803-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="7d626-102">Jak zakoupit plány Office 365 Education</span><span class="sxs-lookup"><span data-stu-id="7d626-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="58803-103">Vaši žádost jsme zhodnotili a zjistili jsme, že tato organizace není způsobilá jako kvalifikovaná akademická instituce společnosti Microsoft.</span><span class="sxs-lookup"><span data-stu-id="58803-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Academic Institution.</span></span> <span data-ttu-id="58803-104">Platnost vašich aktuálních nabídek na akademické zkušební verze vyprší na konci zkušebního období.</span><span class="sxs-lookup"><span data-stu-id="58803-104">Your current academic trial offers will expire at the end of the trial period.</span></span>
+<span data-ttu-id="7d626-103">Vaši žádost jsme zhodnotili a zjistili jsme, že tato organizace není způsobilá jako kvalifikovaná akademická instituce společnosti Microsoft.</span><span class="sxs-lookup"><span data-stu-id="7d626-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Academic Institution.</span></span> <span data-ttu-id="7d626-104">Platnost vašich aktuálních nabídek na akademické zkušební verze vyprší na konci zkušebního období.</span><span class="sxs-lookup"><span data-stu-id="7d626-104">Your current academic trial offers will expire at the end of the trial period.</span></span>
   
-<span data-ttu-id="58803-105">Pokud chcete Office 365 zakoupit komerčně, přečtěte si [dostupné nabídky](https://go.microsoft.com/fwlink/p/?linkid=868433).</span><span class="sxs-lookup"><span data-stu-id="58803-105">To purchase Office 365 commercially, please see [available offers](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>  
+<span data-ttu-id="7d626-105">Chcete-li zakoupit microsoft 365 komerčně, podívejte se na [dostupné nabídky](https://go.microsoft.com/fwlink/p/?linkid=868433).</span><span class="sxs-lookup"><span data-stu-id="7d626-105">To purchase Microsoft 365 commercially, please see [available offers](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>  
