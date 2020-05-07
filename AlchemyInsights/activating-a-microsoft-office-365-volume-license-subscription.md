@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 73c8a56623bb55926d7df995bad43ff734bfceef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708752"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062025"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Aktivace předplatného multilicence společnosti Microsoft
 
@@ -32,4 +32,4 @@ ms.locfileid: "43708752"
 
 5. Přihlaste se do Centra pro[https://admin.microsoft.com](https://admin.microsoft.com)správu Microsoftu 365 ( ) pomocí stávajících přihlašovacích údajů správce. Po úspěšném přihlášení obdržíte další e-mail s potvrzením nákupu.
 
-6. Po přihlášení můžete přejít na stránku **Fakturační** \> [produkty & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) a ověřit, že zakoupená předplatná jsou aktivována v rámci vašeho tenanta. (Můžete také zvolit kartu **Předplatné** ve VLSC a zobrazit podrobnosti oověření, že vaše předplatné bylo uloženo.)
+6. Po přihlášení můžete přejít na stránku **Fakturace** \> [produktů](https://go.microsoft.com/fwlink/p/?linkid=842054) a ověřit, že zakoupená předplatná jsou aktivována v rámci vašeho tenanta. (Můžete také zvolit kartu **Předplatné** ve VLSC a zobrazit podrobnosti oověření, že vaše předplatné bylo uloženo.)

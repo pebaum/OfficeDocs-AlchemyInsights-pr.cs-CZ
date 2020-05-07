@@ -12,18 +12,18 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: e97658ab8fff504c8adccfa7e68cce0b613aee53
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: e02e5e835446626152c8dd98207898de52ae6933
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957827"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063790"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Přidání nebo odebrání licencí pro předplatné
 
 Tady je postup, jak přidat nebo odebrat licence.
   
-1. Přejděte na **fakturační > [odběry](https://portal.office.com/adminportal/home#/subscriptions)**.
+1. V Centru pro správu přejděte na stránku **Fakturace** \> **[produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Zvolte předplatné, pro které chcete přidat nebo odebrat licence.
 
@@ -37,7 +37,7 @@ Tady je postup, jak přidat nebo odebrat licence.
 
 Informace o tom, jak přiřadit licence, naleznete v [tématu Přiřazení licencí uživatelům](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
- **Prostředky**
+**Prostředky**
   
 - [Správa předplacených licencí – nákup nebo odebrání](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 5741edef38f15bfa546aba3a2868c4621da4934e
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 19871ba1cb6d12be3c0eab462adcbe0840afeebe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417679"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061772"
 ---
 # <a name="billing-and-payment"></a>Fakturace a platba
 
@@ -24,7 +24,7 @@ Vaše účty najdete na kartě **Účty za fakturaci** > [& plateb.](https://go.
 
 **Příjem faktur e-mailem**
 
-Na stránce[Oznámení fakturace](https://go.microsoft.com/fwlink/p/?linkid=853212) můžete tuto funkci **zapnout** a spravovat uživatele, kteří obdrží fakturu jako přílohu e-mailu. **** >  Faktura bude odeslána na e-mailové adresy uživatelů v seznamu příjemců oznámení. Seznam obsahuje všechny fakturační a globální správce.  Změnou role můžete spravovat, kdo získá oznámení faktury.  Odebráním role globálního správce nebo správce fakturace odeberete tohoto uživatele ze seznamu příjemců a přidáním role správce globálního účtu nebo fakturace přidáte uživatele do seznamu příjemců.
+Na stránce[Oznámení fakturace](https://go.microsoft.com/fwlink/p/?linkid=853212) můžete tuto funkci **zapnout** a spravovat uživatele, kteří obdrží fakturu jako přílohu e-mailu. **Billing** >  Faktura bude odeslána na e-mailové adresy uživatelů v seznamu příjemců oznámení. Seznam obsahuje všechny fakturační a globální správce.  Změnou role můžete spravovat, kdo získá oznámení faktury.  Odebráním role globálního správce nebo správce fakturace odeberete tohoto uživatele ze seznamu příjemců a přidáním role správce globálního účtu nebo fakturace přidáte uživatele do seznamu příjemců.
 
 **Poznámka:** Obdržíte dva samostatné e-maily: jeden, který vám dá vědět, že je váš účet připraven, s pokyny pro přihlášení do Centra pro správu, abyste si ho prohlédli, a druhý e-mail, který obsahuje vyúčtování jako přílohu.
 
@@ -34,11 +34,11 @@ Pokud platíte kreditní kartou nebo bankovním účtem, bude vám způsob platb
 
 Pokud jste přidali novou kartu a stále dostáváte oznámení o odmítnutí na staré kreditní kartě, možná budete muset tuto novou kartu přidružit k předplatnému.
 
-1. Přejděte na **informace o službách & fakturace** > [produktů](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Přejděte na **Fakturace** > **[vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Vyberte předplatné, které chcete zaplatit pomocí nové karty nebo bankovního účtu. V části **Fakturace** klikněte vedle způsobu platby na **Upravit**.
+2. Vyberte předplatné, které chcete zaplatit novou kartou nebo bankovním účtem. V části **Fakturace** vedle způsobu platby klikněte na **Upravit**.
 
-3. Vedle aktuálního způsobu platby klikněte na **Změnit.**
+3. Vedle aktuálního způsobu platby klikněte na **Změnit**.
 
 4. V rozevírací nabídce vyberte alternativní způsob platby nebo přidejte nový způsob platby.
 
