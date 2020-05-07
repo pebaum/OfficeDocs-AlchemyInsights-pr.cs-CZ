@@ -12,27 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 0d4b7c7adaee7972b0cf810fc15da391184ad7e3
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: 2389daa13aa08f394feded5c5cd67839e62734ff
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43599238"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061627"
 ---
 # <a name="cancel-project-subscription"></a>Zrušit předplatné projektu
 
-Správci můžou zrušit předplatné Projectu pro svou organizaci z **Centra pro správu Microsoftu 365**. 
+Správci můžou zrušit předplatné Projectu pro svou organizaci z **Centra pro správu Microsoftu 365**.
 
-1. Vyberte možnost **Fakturace.**
+1. Přejděte na stránku **Fakturace > [vaše produkty.](https://go.microsoft.com/fwlink/p/?linkid=842054) **
 
-2. Kliknutím na [Produkty & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) zobrazíte všechna předplatná pro vaši organizaci.
+2. Vyhledejte plán projektu, který chcete zrušit.
 
-3. Vyhledejte plán projektu, který chcete zrušit.
+3. Klepněte na tlačítko **Zrušit předplatné**.
 
-4. Klepněte na tlačítko **Zrušit předplatné**.
+**Refundace: Každý poměrný kredit vám bude vrácen během dalšího fakturačního cyklu.**
 
-**Refundace: Každý poměrný kredit vám bude vrácen během dalšího fakturačního cyklu.** 
+**Poznámka:** Pokud možnost zrušení nevidíte, kliknutím na předplatné zobrazíte podrobnosti a v **nastavení & akcích**se zobrazí možnost **Zrušit předplatné** .
 
-**Poznámka:** Pokud možnost zrušení nevidíte, kliknutím na předplatné zobrazíte podrobnosti a v **nastavení & akcích**se zobrazí možnost **Zrušit předplatné** . 
-
-Další informace najdete v [tématu Zrušení předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
+Další informace najdete v [tématu Zrušení předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
