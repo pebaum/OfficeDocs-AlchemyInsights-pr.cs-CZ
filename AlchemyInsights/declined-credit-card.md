@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705078"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062277"
 ---
 # <a name="declined-credit-card"></a>Odmítnutá kreditní karta
 
-Pokud platíte platební kartou a vaše karta je odmítnuta, přijde vám e-mail s informací o tom, že jsme nemohli platbu zpracovat. Zkontrolujte, zda [údaje o kreditní kartě](https://go.microsoft.com/fwlink/p/?linkid=842054) - číslo karty, datum vypršení platnosti, jméno na kreditní kartě a adresa, včetně města, státu a PSČ - se zobrazují přesně tak, jak se zobrazují na kreditní kartě a výpisu z vaší kreditní karty. Informace o platební kartě můžete aktualizovat a platbu okamžitě odeslat pomocí možnosti **Vyrovnat zůstatek** na stránce [Produkty & služby.](https://go.microsoft.com/fwlink/p/?linkid=842054) 
+Pokud platíte platební kartou a vaše karta je odmítnuta, přijde vám e-mail s informací o tom, že jsme nemohli platbu zpracovat. Zkontrolujte, zda [údaje o kreditní kartě](https://go.microsoft.com/fwlink/p/?linkid=842054) - číslo karty, datum vypršení platnosti, jméno na kreditní kartě a adresa, včetně města, státu a PSČ - se zobrazují přesně tak, jak se zobrazují na kreditní kartě a výpisu z vaší kreditní karty. Informace o platební kartě můžete aktualizovat a platbu okamžitě odeslat pomocí možnosti **Vyrovnat zůstatek** na stránce **[Vaše produkty.](https://go.microsoft.com/fwlink/p/?linkid=842054)** 
 
 Další informace naleznete v tématu "Co když vypršela platnost platební karty a platba je po splatnosti?" v [aplikaci Pay for your Microsoft 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   

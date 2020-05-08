@@ -12,20 +12,20 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: c7d998c56747799e139e8e2035cbccfe71cce14b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66ce0cfed20990a7a6bc6307360a8bc7d91822c8
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709616"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063574"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Jak přidat nebo upravit VatID
 
-**Poznámka:** Pokud se nacházejí v zemi, která používá daň z přidané hodnoty (DPH), například Ve Spojeném království, společnost Microsoft Invoicing vypočítá DPH za vás a použije částku na faktury. Další informace naleznete v prohlášení [o vyloučení odpovědnosti společnosti VIES](https://go.microsoft.com/fwlink/?LinkID=841741) zveřejněnéevropskou komisí.
+**Poznámka:** Pokud se nacházejí v zemi, která používá daň z přidané hodnoty (DPH), například Ve Spojeném království, společnost Microsoft Invoicing vypočítá DPH za vás a použije částku na faktury. Další informace naleznete v prohlášení [o vyloučení odpovědnosti společnosti VIES](https://go.microsoft.com/fwlink/p/?LinkID=841741) zveřejněnéevropskou komisí.
 
 **Přidání nebo úprava vatid**
 
-1. V Centru pro správu Microsoftu 365 přejděte na stránku **Služby fakturačních** \> [produktů &.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. V Centru pro správu Microsoftu 365 přejděte na stránku **Fakturace** \> [produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
 2. Najděte kartu předplatného předplatného, které chcete aktualizovat.
 

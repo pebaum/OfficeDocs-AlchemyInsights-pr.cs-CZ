@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763426"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064078"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Jak znovu aktivovat a spravovat opakované fakturace
 
 Vypadá to, že máte předplatné, jehož platnost vypršela. Pokud byste chtěli znovu aktivovat, zde je návod.
   
-1. V Centru pro správu přejděte na stránku **Fakturace** \> [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. V Centru pro správu přejděte na stránku **Fakturace** \> **[produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Najděte předplatné, které chcete znovu aktivovat. V části **Fakturace** vyberte **Znovu aktivovat**.
 
@@ -36,7 +36,7 @@ Další informace najdete v článku [Opětovná aktivace předplatného](https:
 
 Chcete-li spravovat měsíční nebo roční fakturaci, můžete zapnout nebo vypnout **opakované účtování.**
   
-1. V Centru pro správu přejděte na stránku **Fakturace** \> [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. V Centru pro správu přejděte na stránku **Fakturace** \> **[produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Zvolte předplatné, pro které chcete spravovat opakovanou fakturaci.
 
