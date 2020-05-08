@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: 63c3b42c046efbcae0f509045a8f3e45e49002ac
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7ee232ccd037b64c7591b7332ab58931b86ba349
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717117"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063718"
 ---
-# <a name="how-to-view-and-manage-apps"></a><span data-ttu-id="33cb6-102">Jak zobrazit a spravovat aplikace</span><span class="sxs-lookup"><span data-stu-id="33cb6-102">How to view and manage apps</span></span>
+# <a name="how-to-view-and-manage-apps"></a><span data-ttu-id="61edc-102">Jak zobrazit a spravovat aplikace</span><span class="sxs-lookup"><span data-stu-id="61edc-102">How to view and manage apps</span></span>
 
-<span data-ttu-id="33cb6-103">Aplikace si můžete prohlédnout v Centru pro správu Microsoftu 365.</span><span class="sxs-lookup"><span data-stu-id="33cb6-103">You can view your apps in the Microsoft 365 admin center.</span></span> 
+<span data-ttu-id="61edc-103">Aplikace si můžete prohlédnout v Centru pro správu Microsoftu 365.</span><span class="sxs-lookup"><span data-stu-id="61edc-103">You can view your apps in the Microsoft 365 admin center.</span></span> 
 
-1. <span data-ttu-id="33cb6-104">V Centru pro správu přejděte na stránku **Fakturační** > [produkty & služby.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="33cb6-104">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="61edc-104">V Centru pro správu přejděte na stránku **Fakturace** > **[produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="61edc-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-2. <span data-ttu-id="33cb6-105">Na stránce **Produkty & služby** vyberte kartu **Aplikace.**</span><span class="sxs-lookup"><span data-stu-id="33cb6-105">On the **Products & Services** page, select the **Apps** tab.</span></span>
+2. <span data-ttu-id="61edc-105">Na stránce **[Vaše produkty](https://go.microsoft.com/fwlink/p/?linkid=842054)** vyberte kartu **Aplikace.**</span><span class="sxs-lookup"><span data-stu-id="61edc-105">On the **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, select the **Apps** tab.</span></span>
