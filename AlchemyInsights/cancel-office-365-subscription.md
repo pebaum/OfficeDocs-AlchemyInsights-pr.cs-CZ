@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 7d1e37d00876c117f7c83f960c05a350ed8a982c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 30cdd925c0be9d38572fbc9acc5cd3fcf97ef11f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711552"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061664"
 ---
 # <a name="cancelling-your-microsoft-365-subscription"></a>Zrušení předplatného Microsoftu 365?
 
@@ -24,7 +24,7 @@ Je nám líto, že jste odešel, ale tady jsou vaše možnosti zrušení předpl
   
 - Pokud jste zkušební zákazník, není nic zrušit. Zkušební předplatná vyprší automaticky, pokud nezadáte způsob platby.
 
-- Pokud máte přiřazeno méně než 25 licencí, můžete předplatné zrušit online. Přejděte na **informace o službách & fakturace** \> [produktů](https://go.microsoft.com/fwlink/p/?linkid=842054). V části **Nastavení & akce** zvolte Zrušit **předplatné**.
+- Pokud máte přiřazeno méně než 25 licencí, můžete předplatné zrušit online. Přejděte na **Fakturace** \> **[vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)**. V části **Nastavení & akce** zvolte Zrušit **předplatné**.
 
 - Pokud máte přiřazeno více než 25 licencí, můžete uživatele odebrat, dokud nebudete mít méně než 25, nebo můžete promluvit s pracovníkem podpory pomocí možnosti "Zavolejte nám".
 

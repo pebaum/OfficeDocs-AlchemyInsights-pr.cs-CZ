@@ -1,5 +1,5 @@
 ---
-title: Výchozí obnovovací subsscripce
+title: Výchozí obnovení dolního indexu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 78f6dc6b2cc6e8d3db6a53f38bea9483ef817c2c
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549648"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062241"
 ---
 # <a name="renewing-your-subscription"></a>Obnovení předplatného
 
-Pokud platíte kreditní kartou nebo bankovním účtem, bude opakovaná fakturace ve výchozím nastavení zapnuta. Pokud je zapnuto opakované vyúčtování, bude vaše předplatné i nadále účtováno každý rok v den, kdy jste se přihlásili k odběru. Pokud je předplatné aktivní, můžete je v centru pro správu vypnout nebo znovu zapnout.
+Pokud platíte kreditní kartou nebo bankovním účtem, je ve výchozím nastavení zapnuto opakované účtování. Když je zapnutá opakovaná fakturace, bude se vám předplatné účtovat každý rok v den, kdy jste se přihlásili k odběru. Pokud je vaše předplatné aktivní, můžete ji vypnout nebo znovu zapnout v Centru pro správu.
 
-Pokud jste předplatné předplacena pomocí klíče produktu, vyprší platnost předplatného na konci doby platnosti předplatného. Můžete zapnout opakované účtování a zadat informace o kreditní kartě nebo bankovním účtu, aby předplatné bylo i nadále účtováno každý rok v den, kdy jste se přihlásili.
+Pokud jste předplatné předplatili pomocí kódu Product Key, platnost předplatného vyprší na konci období předplatného. Můžete zapnout opakované účtování a poskytnout informace o platební kartě nebo bankovním účtu, aby se vaše předplatné nadále účtovalo každý rok v den, kdy jste se přihlásili k odběru.
 
-Postup zapnutí opakovaného účtování: 
+Zapnutí opakovaného účtování: 
 
-1. Přejděte na **fakturační** > **produkty & služby**.
-2. Vyberte předplatné, pro které chcete provádět opakovanou fakturaci.
-3. V části **fakturace**vyberte možnost **Upravit** a proveďte změny v okně **nastavení opakovaného účtování** . 
+1. Přejděte na **Fakturace** > **[vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+2. Vyberte předplatné, pro které chcete spravovat opakované účtování.
+3. V části **Fakturace**vyberte **Upravit** a proveďte změny v okně **Nastavení opakované fakturace.** 

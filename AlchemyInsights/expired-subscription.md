@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714143"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063466"
 ---
 # <a name="expired-subscription"></a>Předplatné s prošlou platností
 
@@ -26,7 +26,7 @@ Zdá se, že máte jedno nebo více předplatných, jejichž platnost vypršela.
   
 **Opětovná aktivace**
   
-1. V Centru pro správu přejděte na stránku **Fakturace** \> [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. V Centru pro správu přejděte na stránku **Fakturace** \> **[produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Najděte předplatné, které chcete znovu aktivovat. V části **Fakturace** zvolte **Znovu aktivovat**.
 
@@ -38,7 +38,7 @@ Další informace najdete v článku [Opětovná aktivace předplatného](https:
 
 **Vytvoření nového nákupu**
   
-1. V Centru pro správu přejděte na stránku Služby **fakturace** \> [nákupu.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+1. V Centru pro správu přejděte na stránku Služby **fakturace** \> **[nákupu.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
 
 2. Vyberte předplatné, které chcete koupit, a pak zvolte **Koupit**.
 

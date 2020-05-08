@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: b54457427ffa563b6a6323d85e1c8800191eca11
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912959"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064386"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problémy při vytváření připojeného webu skupiny v SharePointu
 
@@ -26,7 +26,7 @@ Pokud jste odstranili skupinu a její připojený web a chcete vytvořit jiný w
    - Další informace o tom, jak začít s Powershellem, najdete [v tématu Začínáme s SharePointem Online Management Shellem](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
    - Odeberte web z odstraněných webů pomocí rutiny [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell. Powershell je nutné trvale odstranit stránky skupiny.
 
-1. Pokud vytváříte skupinový připojený web a zobrazí se upozornění: **Jiná skupina se stejným aliasem již existuje**, zkontrolujte existující skupiny z Centra pro [správu Microsoftu 365](https://admin.microsoft.com/AdminPortal/Home#/groups). Chcete-li tento problém vyřešit, odstraňte existující skupinu, pokud již není potřeba, nebo vytvořte web s přiřazeným jiným aliasem.
+1. Pokud vytváříte web připojený ke skupině a zobrazí se upozornění: **Jiná skupina se stejným aliasem již existuje**, zkontrolujte existující skupiny z Centra pro [správu Microsoftu 365](https://admin.microsoft.com/AdminPortal/Home#/groups). Chcete-li tento problém vyřešit, odstraňte existující skupinu, pokud již není potřeba, nebo vytvořte web s přiřazeným jiným aliasem.
 
 1. Existují různé způsoby, jak vytvářet a používat moderní skupiny se SharePointem.
 
