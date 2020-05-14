@@ -13,10 +13,10 @@ ms.custom:
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: 07505ce77b392f5b22ae2a2cf0519d4eadda9d02
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44061736"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Zakoupení předplatného Microsoftu 365 z bezplatné zkušební verze
@@ -25,13 +25,13 @@ Vyzkoušeli jste Microsoft 365 a nyní jste připraveni k nákupu. Při nákupu 
   
  **Zakoupení plánu stejného, jako je zkušební verze**
   
-1. V Centru pro správu přejděte na stránku **Fakturace** \> **[produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. V Centru pro správu **Billing** přejděte na \> stránku **[Fakturace produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Najděte předplatné, které chcete koupit. V části **Licence** vyberte **Koupit předplatné**a postupujte podle pokynů k jejich odhlášení.
 
 **Zakoupení jiného předplatného**
   
-1. V Centru pro správu přejděte na stránku Služby **fakturace** \> [nákupu.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+1. V Centru pro správu **Billing** přejděte na \> stránku [Služby fakturace nákupu.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
 3. Najděte předplatné, které chcete koupit, vyberte **Koupit**a postupujte podle pokynů k odjezdu.
 

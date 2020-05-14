@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
 ms.openlocfilehash: adee1c5d1ffc23f54580549ab666ee8fac579263
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063034"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Jak zvýšit úložiště na OneDrivu pro firmy
@@ -27,6 +27,6 @@ Toto nastavení úložného prostoru platí pro všechny uživatele, pro které 
   
 Pokud chcete zvýšit úložiště na OneDrivu pro firmy, zvolte předplatné, které zahrnuje **OneDrive pro business plán 2** nebo Office **365 Enterprise E3**. 
   
-Pokud chcete změnit plány, přejděte v Centru pro správu Microsoftu 365 na stránku **Fakturace** \> **[produktů,](https://go.microsoft.com/fwlink/p/?linkid=842054)** vyberte předplatné, které chcete změnit, a pak zvolte kartu **Upgrade.**
+Pokud chcete změnit plány, přejděte v Centru **Billing** pro správu Microsoftu 365 na \> stránku **[Fakturace produktů,](https://go.microsoft.com/fwlink/p/?linkid=842054)** vyberte předplatné, které chcete změnit, a pak zvolte kartu **Upgrade.**
   
 Další informace o přepínání plánů a úložiště OneDrivu pro firmy najdete [v tématu Přechod na jiný plán Microsoft 365 pro firmy](https://go.microsoft.com/fwlink/?LinkId=2031117) a Popis [služby OneDrivu pro firmy](https://go.microsoft.com/fwlink/p/?LinkId-2031122).

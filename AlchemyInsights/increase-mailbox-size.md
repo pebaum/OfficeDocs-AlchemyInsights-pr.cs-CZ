@@ -13,10 +13,10 @@ ms.custom:
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
 ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064222"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Přepnutí odběrů pro zvětšení velikosti poštovní schránky
@@ -25,7 +25,7 @@ Pokud je velikost poštovní schránky již 100 GB, neexistuje žádný způsob,
   
 Pokud je velikost poštovní schránky 50 GB, můžete ji zvýšit na 100 GB přepnutím na [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) nebo [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Tady jsou kroky, jak přejít na jiné předplatné:
   
-1. V Centru pro správu Microsoftu 365 přejděte na stránku **Fakturace** \> **[produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. V Centru pro správu Microsoftu **Billing** 365 přejděte na \> stránku **[Fakturace produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Vyberte předplatné, které chcete upgradovat.
 

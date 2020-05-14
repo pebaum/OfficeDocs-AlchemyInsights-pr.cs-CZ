@@ -12,10 +12,10 @@ ms.custom:
 - "3043"
 - "1500012"
 ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062241"
 ---
 # <a name="renewing-your-subscription"></a>Obnovení předplatného
@@ -26,6 +26,6 @@ Pokud jste předplatné předplatili pomocí kódu Product Key, platnost předpl
 
 Zapnutí opakovaného účtování: 
 
-1. Přejděte na **Fakturace** > **[vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Přejděte na **Fakturace**  >  **[vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Vyberte předplatné, pro které chcete spravovat opakované účtování.
 3. V části **Fakturace**vyberte **Upravit** a proveďte změny v okně **Nastavení opakované fakturace.** 

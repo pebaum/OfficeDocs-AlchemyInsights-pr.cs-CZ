@@ -12,15 +12,15 @@ ms.custom:
 - "9001669"
 - "3736"
 ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062854"
 ---
 # <a name="your-products"></a>Vaše výrobky
 
-Předplatná vlastněná vaší organizací najdete na stránce **Fakturace** > **[produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Zde jsou některé z vrcholů této stránky spolu s odkazy na více informací o každé funkci:
+Předplatná vlastněná vaší organizací najdete **Billing**na stránce  >  **[Fakturace produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Zde jsou některé z vrcholů této stránky spolu s odkazy na více informací o každé funkci:
 
 1. Spravujte počet licencí, které byly zakoupeny pro každé předplatné, spolu s tím, kolik se používá.  **Poznámka:** Licence, které nejsou používány (nejsou přiřazeny uživateli), jsou stále účtovány.  Chcete-li nevyužité licence neúčtovat, snižte počet zakoupených licencí. Informace o přidání nebo odebrání licencí z předplatného naleznete v tématu [Jak přidat nebo snížit licence](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
@@ -34,4 +34,4 @@ Předplatná vlastněná vaší organizací najdete na stránce **Fakturace** > 
 
 6. [Zrušte předplatné](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Další předplatná si můžete zakoupit na stránce[**Služby nákupu**](https://go.microsoft.com/fwlink/p/?linkid=868433) **fakturace.** > 
+Další předplatná si můžete zakoupit na stránce **Služby nákupu fakturace.**  >  [**Purchase services**](https://go.microsoft.com/fwlink/p/?linkid=868433)

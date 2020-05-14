@@ -13,10 +13,10 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 39512e97c9fba1e15a2c88ce7bc1de8a15c65cc0
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058745"
 ---
 # <a name="change-app-license-quantity"></a>Změna množství licence aplikace
@@ -25,7 +25,7 @@ Můžete zobrazit nebo změnit počet licencí, které máte, a přiřadit je u�
 
 ## <a name="to-change-license-quantity"></a>Změna množství licence
 
-1. Přejděte na stránku **Fakturace** > **[produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** a pak zvolte kartu **Aplikace.**
+1. Přejděte **Billing**na  >  stránku**[Fakturace produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** a pak zvolte kartu **Aplikace.**
 
 2. Najděte a vyberte aplikaci, kterou chcete spravovat.  
 
@@ -35,7 +35,7 @@ Můžete zobrazit nebo změnit počet licencí, které máte, a přiřadit je u�
 
 ## <a name="to-assign-app-licenses"></a>Přiřazení licencí aplikací
 
-1. Přejděte na stránku **Fakturace** > **[produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** a pak zvolte kartu **Aplikace.**
+1. Přejděte **Billing**na  >  stránku**[Fakturace produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** a pak zvolte kartu **Aplikace.**
 
 2. Najděte a vyberte aplikaci, kterou chcete spravovat.  
 

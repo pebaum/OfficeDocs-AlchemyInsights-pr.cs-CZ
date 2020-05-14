@@ -12,10 +12,10 @@ ms.custom:
 - "9001519"
 - "3576"
 ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062457"
 ---
 # <a name="find-and-activate-my-product-key"></a>Vyhledání a aktivace kódu Product Key
@@ -32,7 +32,7 @@ Pokud jste si koupili Microsoft 365 Business Premium Standard v maloobchodě, po
 
 **Poznámka:** Chcete-li pomocí kódu Product Key prodloužit datum vypršení platnosti nebo přidat licenci ke stávajícímu předplatnému Microsoft 365 Business Premium Standard, potřebujete pro stejné předplatné Microsoft 365 nový a nepoužívaný klíč.  Zadání původního kódu Product Key microsoft365 nebude fungovat, protože klíč, který již byl uplatněn, nelze znovu použít.
 
-1. V Centru pro správu přejděte na stránku **Fakturace** > **[produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. V Centru pro správu **Billing**přejděte na  >  stránku**[Fakturace produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Vyhledejte předplatné, ke kterému chcete prodloužit datum vypršení platnosti nebo přidat licence.  Klepněte na [tlačítko Prodloužit koncové datum](https://go.microsoft.com/fwlink/p/?linkid=842054) nebo [přidejte další licence](https://go.microsoft.com/fwlink/p/?linkid=842054).
 

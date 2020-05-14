@@ -15,17 +15,17 @@ ms.custom:
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
 ms.openlocfilehash: 7de2ebb0226b51003a6f9caf36899122b1177ddd
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063502"
 ---
 # <a name="how-to-purchase-education-offer"></a>Jak zakoupit nabídku vzdělávání
 
 Byli jste schváleni pro Office 365 Education. Zakoupení:
   
-1. V Centru pro správu přejděte na stránku **Fakturace** \> **[produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. V Centru pro správu **Billing** přejděte na \> stránku **[Fakturace produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Vyberte zkušební verzi pro **studenty nebo fakultu**.
 
@@ -33,6 +33,6 @@ Byli jste schváleni pro Office 365 Education. Zakoupení:
 
 4. Postupujte podle zbývajících kroků k odjezdu.
 
-Pokud si chcete zakoupit jiné předplatné, než jaké je ve zkušební verzi, přejděte na stránku [Služby nákupu](https://go.microsoft.com/fwlink/p/?linkid=868433) **fakturace** \> a vyberte ze seznamu v části **Vzdělávací plány**.
+Pokud si chcete zakoupit jiné předplatné, než jaké je ve zkušební verzi, přejděte na stránku **Služby nákupu fakturace** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) a vyberte ze seznamu v části **Vzdělávací plány**.
 
 Další informace najdete v [tématu Nákup stejného plánu jako zkušební verze](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
