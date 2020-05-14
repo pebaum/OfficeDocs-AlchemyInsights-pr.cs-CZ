@@ -12,18 +12,18 @@ ms.custom:
 - "9001683"
 - "3748"
 ms.openlocfilehash: c388609ebb1c2cc9506ea1f95f5fa692ef95b24f
-ms.sourcegitcommit: bcd6df19adeb5e3a04e518a05621dd6c68da93f2
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/30/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43955446"
 ---
-# <a name="add-change-or-remove-a-partner-relationship"></a><span data-ttu-id="199de-102">Přidání, změna nebo odebrání partnerského vztahu</span><span class="sxs-lookup"><span data-stu-id="199de-102">Add, change, or remove a partner relationship</span></span>
+# <a name="add-change-or-remove-a-partner-relationship"></a><span data-ttu-id="bfaaa-102">Přidání, změna nebo odebrání partnerského vztahu</span><span class="sxs-lookup"><span data-stu-id="bfaaa-102">Add, change, or remove a partner relationship</span></span>
 
-<span data-ttu-id="199de-103">Jako správce můžete spolupracovat s partnerem na nákupu, aktivaci a obnovení předplatných Microsoft365.</span><span class="sxs-lookup"><span data-stu-id="199de-103">As an admin, you can work with a partner to purchase, activate, and renew Microsoft 365 subscriptions.</span></span> 
+<span data-ttu-id="bfaaa-103">Jako správce můžete spolupracovat s partnerem na nákupu, aktivaci a obnovení předplatných Microsoft365.</span><span class="sxs-lookup"><span data-stu-id="bfaaa-103">As an admin, you can work with a partner to purchase, activate, and renew Microsoft 365 subscriptions.</span></span> 
 
-- <span data-ttu-id="199de-104">Pokud chcete upravit stávající partnerský vztah, přečtěte si informace o [přidání, změně nebo odstranění partnera pro poradenství v oblasti předplatného](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="199de-104">If you're looking to edit your existing partner relationship, see [Add, change, or delete a subscription advisory partner](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).</span></span>
+- <span data-ttu-id="bfaaa-104">Pokud chcete upravit stávající partnerský vztah, přečtěte si informace o [přidání, změně nebo odstranění partnera pro poradenství v oblasti předplatného](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="bfaaa-104">If you're looking to edit your existing partner relationship, see [Add, change, or delete a subscription advisory partner](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).</span></span>
 
-- <span data-ttu-id="199de-105">Pokud hledáte partnera společnosti Microsoft, [přečtěte si informace o tom, že hledáte partnera nebo prodejce Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="199de-105">If you're looking to find a Microsoft partner, see [Find your Microsoft 365 partner or reseller](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).</span></span>
+- <span data-ttu-id="bfaaa-105">Pokud hledáte partnera společnosti Microsoft, [přečtěte si informace o tom, že hledáte partnera nebo prodejce Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="bfaaa-105">If you're looking to find a Microsoft partner, see [Find your Microsoft 365 partner or reseller](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).</span></span>
 
-<span data-ttu-id="199de-106">Pokud jste stávajícím partnerem společnosti Microsoft nebo se jím chcete stát, přečtěte [si](https://support.microsoft.com/help/4499930/partner-center-overview) další informace o výhodách nebo o tom, jak získat pomoc od [podpory partnerů společnosti Microsoft](https://aka.ms/partnersupport).</span><span class="sxs-lookup"><span data-stu-id="199de-106">If you are an existing Microsoft partner or looking to become one, see the [Microsoft Partner Center](https://support.microsoft.com/help/4499930/partner-center-overview) for more information about benefits or how to get assistance from [Microsoft Partner support](https://aka.ms/partnersupport).</span></span>
+<span data-ttu-id="bfaaa-106">Pokud jste stávajícím partnerem společnosti Microsoft nebo se jím chcete stát, přečtěte [si](https://support.microsoft.com/help/4499930/partner-center-overview) další informace o výhodách nebo o tom, jak získat pomoc od [podpory partnerů společnosti Microsoft](https://aka.ms/partnersupport).</span><span class="sxs-lookup"><span data-stu-id="bfaaa-106">If you are an existing Microsoft partner or looking to become one, see the [Microsoft Partner Center](https://support.microsoft.com/help/4499930/partner-center-overview) for more information about benefits or how to get assistance from [Microsoft Partner support](https://aka.ms/partnersupport).</span></span>
