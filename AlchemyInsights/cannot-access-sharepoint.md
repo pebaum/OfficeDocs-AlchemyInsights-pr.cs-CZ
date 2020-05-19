@@ -12,17 +12,15 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: b288c3e7b29265dbb7a68055298a695accaf19c9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
+ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711372"
+ms.lasthandoff: 05/18/2020
+ms.locfileid: "44278813"
 ---
-# <a name="cannot-access-sharepoint"></a><span data-ttu-id="9dea6-102">Nejde získat přístup k SharePointu</span><span class="sxs-lookup"><span data-stu-id="9dea6-102">Cannot access SharePoint</span></span>
+# <a name="cannot-access-sharepoint"></a><span data-ttu-id="209bc-102">Nejde získat přístup k SharePointu</span><span class="sxs-lookup"><span data-stu-id="209bc-102">Cannot access SharePoint</span></span>
 
-<span data-ttu-id="9dea6-103">**Důležité**: V této mimořádné době přijímáme opatření, aby služby SharePointu Online a OneDrivu zůstaly vysoce dostupné. Další informace najdete v článku zaměřeném na [dočasné úpravy funkcí SharePointu Online](https://aka.ms/ODSPAdjustments).</span><span class="sxs-lookup"><span data-stu-id="9dea6-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
+<span data-ttu-id="209bc-103">Existuje několik důvodů, proč může být Microsoft SharePoint nebo Microsoft OneDrive nedostupný.</span><span class="sxs-lookup"><span data-stu-id="209bc-103">There are several reasons why Microsoft SharePoint or Microsoft OneDrive might become inaccessible.</span></span> <span data-ttu-id="209bc-104">Pokud nemáte přístup k SharePointu Online, můžete tento problém vyřešit pomocí následujícího postupu.</span><span class="sxs-lookup"><span data-stu-id="209bc-104">If you can't access SharePoint Online, use the following guide to troubleshoot this issue.</span></span>
 
-<span data-ttu-id="9dea6-104">Existuje několik důvodů, proč může být Microsoft SharePoint nebo Microsoft OneDrive nedostupný.</span><span class="sxs-lookup"><span data-stu-id="9dea6-104">There are several reasons why Microsoft SharePoint or Microsoft OneDrive might become inaccessible.</span></span> <span data-ttu-id="9dea6-105">Pokud nemáte přístup k SharePointu Online, můžete tento problém vyřešit pomocí následujícího postupu.</span><span class="sxs-lookup"><span data-stu-id="9dea6-105">If you can't access SharePoint Online, use the following guide to troubleshoot this issue.</span></span>
-
-- [<span data-ttu-id="9dea6-106">SharePoint Online není přístupný</span><span class="sxs-lookup"><span data-stu-id="9dea6-106">Unable to access SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+- [<span data-ttu-id="209bc-105">SharePoint Online není přístupný</span><span class="sxs-lookup"><span data-stu-id="209bc-105">Unable to access SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
