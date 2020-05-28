@@ -1,5 +1,5 @@
 ---
-title: Spravovat uživatele synchronizovány
+title: Spravovat synchronizované uživatele
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: a943c59d67c512e6326856dacd0053db121f6aa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 84e337a7224fdd3c3ab7ad0f61240692fe007d5a
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541977"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407343"
 ---
-# <a name="unable-to-set-primary-email-address-or-change-user-attributes"></a>Nepodařilo se nastavit primární e-mailovou adresu nebo změnit atributy uživatele
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Nelze nastavit primární e-mailovou adresu, změnit atributy uživatele nebo odebrat nebo odstranit synchronizovaného uživatele.
 
-Pokud je synchronizace adresářů povoleno prostředí, nelze některé atributy pro objekt uživatele nebo změnit pomocí středisku pro správce služeb Microsoft 365.
+Pokud je synchronizace adresářů povolena pro vaše prostředí, některé atributy uživatelů nebo objektů nelze změnit pomocí Centra pro správu Microsoft 365.
 
-Ke správě plně synchronizované uživatele a jejich atributy, pomocí vaší místní služby active directory uživatelé a skupiny konzoly Správa (adsiedit.msc).  
+Chcete-li plně spravovat synchronizované uživatele a všechny jejich atributy, použijte místní uživatele a konzolu pro správu adresářů active directory (adsiedit.msc).  
 
-Můžete také změnit jednotlivé uživatele nebo pro synchronizované uživatele pomocí prostředí powershell jako zobrazené v těchto příkladech společné atributy: 
-- Sada MsolUser - UserPrincipalName user@yourdomain.onmicrosoft.com - AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com
-- Sada MsolUser - UserPrincipalName "user@yourdomain.onmicrosoft.com" - DisplayName "Zkoušky uživatelské" - Příjmení "Uživatel"-"Správce" hlava-oddělení "HR"
-- "User@yourdomain.onmicrosoft.com odebrat MsolUser - UserPrincipalName
+Případně můžete změnit jednotlivé uživatele nebo atributy pro synchronizované uživatele pomocí prostředí PowerShell, jak je znázorněno v těchto běžných příkladech: 
+- `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
+
+- `Set-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com" -DisplayName "Test User" -LastName "User" -Title "Manager" -Department "HR"`
+
+- `Remove-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com`
