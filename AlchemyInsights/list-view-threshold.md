@@ -11,19 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: 1acd2be290464fdefebfbd8b66f005f08247f6db
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
-ms.translationtype: HT
+ms.openlocfilehash: ee47bdd712f719c7167bb554bb4a9f535f2a8586
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953761"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343048"
 ---
-# <a name="list-view-threshold"></a><span data-ttu-id="89219-102">Mezní hodnota zobrazení seznamu</span><span class="sxs-lookup"><span data-stu-id="89219-102">List view threshold</span></span>
+# <a name="list-view-threshold"></a><span data-ttu-id="100d9-102">Mezní hodnota zobrazení seznamu</span><span class="sxs-lookup"><span data-stu-id="100d9-102">List view threshold</span></span>
 
-<span data-ttu-id="89219-103">Sharepointové seznamy a knihovny mohou obsahovat až 30 milionů položek, ale když mají víc než 5000 položek, může se vám při práci s nimi zobrazit chyba s mezní hodnotou zobrazení seznamu.</span><span class="sxs-lookup"><span data-stu-id="89219-103">SharePoint lists and libraries can contain up to 30 million items, but when they have more than 5,000 items, you might see a list view threshold error when you try to work with them.</span></span> <span data-ttu-id="89219-104">Tato mezní hodnota slouží k udržování výkonu služby.</span><span class="sxs-lookup"><span data-stu-id="89219-104">This threshold is in place to maintain performance of the service.</span></span> <span data-ttu-id="89219-105">Nejde změnit.</span><span class="sxs-lookup"><span data-stu-id="89219-105">It can't be changed.</span></span> <span data-ttu-id="89219-106">K této chybě může docházet i při pokusu o sdílení nebo přerušení dědičnosti složky.</span><span class="sxs-lookup"><span data-stu-id="89219-106">You might also receive this error when trying to share or break the inheritance of a folder.</span></span>
+<span data-ttu-id="100d9-103">Prahová hodnota zobrazení seznamu je zavedena pro zachování výkonu služby.</span><span class="sxs-lookup"><span data-stu-id="100d9-103">The list view threshold is in place to maintain performance of the service.</span></span> <span data-ttu-id="100d9-104">Prahovou hodnotu nejde v SharePointu Online změnit.</span><span class="sxs-lookup"><span data-stu-id="100d9-104">The threshold can't be changed in SharePoint Online.</span></span> <span data-ttu-id="100d9-105">Informace o tom, jak se této prahové hodnotě vyhnout, najdete [v tématu Správa velkých seznamů a knihoven v SharePointu](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).</span><span class="sxs-lookup"><span data-stu-id="100d9-105">To avoid hitting this threshold, see [Manage large lists and libraries in SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).</span></span>
 
-<span data-ttu-id="89219-107">Pokud se chcete dosažení této mezní hodnoty vyhnout, projděte si tato témata:</span><span class="sxs-lookup"><span data-stu-id="89219-107">To avoid hitting this threshold visit:</span></span>
-
-- [<span data-ttu-id="89219-108">Správa rozsáhlých seznamů a knihoven v SharePointu</span><span class="sxs-lookup"><span data-stu-id="89219-108">Manage large lists and libraries in SharePoint</span></span>](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-
-- [<span data-ttu-id="89219-109">Chyba sdílení nebo přerušení dědičnosti</span><span class="sxs-lookup"><span data-stu-id="89219-109">Error Share/Break Inheritance</span></span>](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)
+<span data-ttu-id="100d9-106">K této chybě může docházet i při pokusu o sdílení nebo přerušení dědičnosti složky.</span><span class="sxs-lookup"><span data-stu-id="100d9-106">You might also receive this error when trying to share or break the inheritance of a folder.</span></span> <span data-ttu-id="100d9-107">Viz [Chyba dědičnosti sdílení nebo přerušení](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).</span><span class="sxs-lookup"><span data-stu-id="100d9-107">See [Error Share/Break Inheritance](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).</span></span>
