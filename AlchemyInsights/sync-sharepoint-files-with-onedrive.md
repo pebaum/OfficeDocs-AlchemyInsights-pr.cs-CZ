@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767026"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343209"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Řešení potíží s příkazem „Otevřít v Průzkumníkovi“ v SharePointu Online
 
@@ -28,9 +28,6 @@ Pokud chcete vyřešit problémy s funkcí Otevřít v Průzkumníkovi, postupuj
 - [Zkopírování nebo přesunutí souborů knihovny pomocí příkazu Otevřít v Průzkumníkovi](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **Poznámka:**
+>- Funkce Otevřít v Průzkumníkovi je podporovaná jenom v prohlížeči Internet Exploreru 10 nebo 11. Ve Windows příkaz Otevřít v Průzkumníkovi nefunguje v Microsoft Edgi, Google Chromu a Mozilla Firefoxu a nefunguje ani na platformě Mac. Proto může být volba Zobrazení Průzkumníka vyznačená šedě.
 >
 >- Tlačítko Otevřít v Průzkumníkovi se v novém prostředí knihovny nezobrazuje. Vpravo nahoře vyberte z rozevíracího seznamu **Zobrazit** (jeho název se mění podle vašeho aktuálního zobrazení). Potom klikněte na **Zobrazit v Průzkumníkovi souborů**.
->
->- Funkce Otevřít v Průzkumníkovi je podporovaná jenom v prohlížeči Internet Exploreru 10 nebo 11. Ve Windows příkaz Otevřít v Průzkumníkovi nefunguje v Microsoft Edgi, Google Chromu a Mozilla Firefoxu a nefunguje ani na platformě Mac. Proto může být volba Zobrazení Průzkumníka vyznačená šedě.
-
-
