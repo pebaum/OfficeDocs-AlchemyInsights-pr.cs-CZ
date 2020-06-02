@@ -1,5 +1,5 @@
 ---
-title: 1491-search-not-returning-očekávané-výsledky
+title: 1491-search-not-return-expected-results 1491-search-not-return-expected-results 1491-search-not-return-expected-results 1491
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,19 +13,19 @@ ms.custom:
 - "1491"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d0707af19b0299f7257a10a20ab38f47860308fb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 57421d459ef03049d6f931db659a5f9b253f5002
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709220"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510565"
 ---
 # <a name="content-search-not-returning-expected-results"></a>Hledání obsahu nevrací očekávané výsledky
 
-Při spuštění vyhledávání obsahu z Centra pro zabezpečení & Microsoft 365 se mohou zobrazit neočekávané výsledky hledání. Zvažte následující věci, které mohou ovlivnit výsledky vyhledávání:
+Při spouštění vyhledávání obsahu z Centra pro zabezpečení zabezpečení Microsoft 365 & může dojít k neočekávaným výsledkům hledání. Zvažte následující věci, které mohou ovlivnit výsledky hledání:
 
-- **Umístění obsahu a podmínky vyhledávání**: Ujistěte se, že jste vybrali správná umístění obsahu a podmínky vyhledávání. Pokud jste spustili rozsáhlé vyhledávání (s mnoha umístěními), zvažte jeho rozdělení do více vyhledávání.
+- **Umístění obsahu a podmínky vyhledávání**: Ujistěte se, že jste vybrali správná umístění obsahu a podmínky vyhledávání. Pokud jste spustili velké vyhledávání (s mnoha umístěními), zvažte jeho rozdělení do více hledání.
 
-- **Částečně indexované položky**: [Částečně indexované položky](https://docs.microsoft.com/office365/securitycompliance/partially-indexed-items-in-content-search) z poštovních schránek jsou zahrnuty ve výsledcích vyhledávání. Částečně indexované položky z webů na SharePointu a OneDrivu však nejsou zahrnuty do odhadu vyhledávání.
+- **Částečně indexované položky**: [Částečně indexované položky](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search) z poštovních schránek jsou zahrnuty do odhadovaných výsledků hledání. Částečně indexované položky z webů na SharePointu a OneDrivu se však do odhadu vyhledávání nezahrnují.
 
-- **Selhání vyhledávání**: Při prohledávání velkého počtu poštovních schránek (více než 100 000 poštovních schránek) se mohou nazvat chyby při hledání, například CS008-009 a CS012-002). V takovém případě opakujte hledání pouze pro umístění obsahu se nezdařilo. Další informace naleznete v [tomto článku.](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search)
+- **Selhání hledání**: Při hledání velkého počtu poštovních schránek (přes 100 000 poštovních schránek) se mohou zobrazit chyby při hledání s kódy chyb, jako jsou CS008-009 a CS012-002). V takovém případě opakujte hledání pouze pro umístění neúspěšného obsahu. Další informace naleznete [v tomto článku.](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search)

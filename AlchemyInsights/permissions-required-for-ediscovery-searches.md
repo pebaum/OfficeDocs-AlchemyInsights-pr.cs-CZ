@@ -1,5 +1,5 @@
 ---
-title: 1489-oprávnění-požadováno pro zjišťování-vyhledávání
+title: 1489-oprávnění-vyžaduje-pro-ediscovery vyhledávání
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 57e312d1313e4abb7e556542286126561b836226
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758891"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510133"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Oprávnění požadovaná pro vyhledávání eDiscovery
 
-Aby mohl uživatel provádět vyhledávání obsahu v Centru dodržování předpisů & zabezpečení, musí být alespoň členem skupiny rolí Správce eDiscovery, která mu umožňuje provádět vyhledávání a umisťovat poštovní schránky, weby SharePointu a umístění OneDrivu. Členové mohou také vytvářet a spravovat případy eDiscovery, přidávat a odebírat členy případu, vytvářet a upravovat vyhledávání obsahu a přistupovat k datům případu v rozšířeném eDiscovery.
+Chcete-li provádět vyhledávání obsahu v Centru zabezpečení & dodržování předpisů, musí být uživatel alespoň členem skupiny rolí správce eDiscovery, která mu umožňuje vyhledávat a umisťovat blokování do poštovních schránek, sharepointových webů a umístění OneDrivu. Členové mohou také vytvářet a spravovat případy eDiscovery, přidávat a odebírat členy případu, vytvářet a upravovat vyhledávání obsahu a přistupovat k datům případů v rozšířeném eDiscovery.
 
-Chcete-li provádět hledání místního eDiscovery v Centru pro správu Exchange (EAC), musí být uživatel členem skupiny rolí Správa zjišťování v Exchange Online.
+Chcete-li provádět vyhledávání v místě eDiscovery v Centru pro správu Exchange (EAC), musí být uživatel členem skupiny rolí Discovery Management v Exchange Online.
 
-Další informace o oprávněních eDiscovery najdete v tématu: 
+Další informace o oprávněních eDiscovery naleznete v tématu: 
 
-- [Přiřazení oprávnění eDiscovery v Centru dodržování předpisů & zabezpečení](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [Přiřazení oprávnění eDiscovery v Centru dodržování zabezpečení &](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
-- [Přiřazení oprávnění eDiscovery ve Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [Přiřazení oprávnění eDiscovery na Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
 **Poznámka:** Po přiřazení oprávnění eDiscovery může být nutné několik minut počkat, než se oprávnění rozšíří.

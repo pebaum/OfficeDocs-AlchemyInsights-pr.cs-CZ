@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 11d44e7f6616f936723f7609e9219fd529ee68e6
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: bb2e5218f9dc2b6bbdcdad6a6c63fde08c8ea098
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474418"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509629"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Problémy s přihlášením k aplikacím Microsoft 365
 
@@ -25,7 +25,7 @@ Pokud chcete vyřešit problémy s přihlášením k aplikacím Microsoft 365, v
 - Informace o Windows najdete [v tématu Doporučení k řešení běžných problémů s přihlášením.](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - V tématu Mac se [nesdáte k aplikaci Office 2016 pro Mac.](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**Poznámka:** Zakázání moderní ověřování (ADAL) nebo správa webového účtu (WAM) pro opravu problémů s přihlášením nebo aktivací **se nedoporučuje**. Pokud k chybám dojde při připojování k Microsoftu 365 pomocí Office 2013, ujistěte se, že [povolíte moderní ověřování](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) pro klienta Office.
+**Poznámka:** Zakázání moderní ověřování (ADAL) nebo správa webového účtu (WAM) pro opravu problémů s přihlášením nebo aktivací **se nedoporučuje**. Pokud k chybám dojde při připojování k Microsoftu 365 pomocí Office 2013, ujistěte se, že [povolíte moderní ověřování](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) pro klienta Office.
 
 Konkrétní akce řešení potíží naleznete v těchto tématech:
 

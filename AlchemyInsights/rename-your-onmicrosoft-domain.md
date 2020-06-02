@@ -12,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 357524491dc26b3a6101eb0d39d1f446aaf052c3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: fbc247a5dd6c0ee1ba30e4aceb69bceae51529a0
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720166"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510601"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Přejmenování domény onmicrosoft.com
+# <a name="rename-your-onmicrosoftcom-domain"></a>Přejmenování onmicrosoft.com domény
 
- **Doménu onmicrosoft nelze po registraci přejmenovat.** Pokud byla například původní doména, kterou jste zvolili, *fourthcoffee.onmicrosoft.com*, nemůžete ji změnit *tak,* aby byla fabrikam.onmicrosoft.com . Chcete-li používat jinou doménu onmicrosoft.com, museli byste začít nové předplatné s Microsoftem 365.
+ **Po registraci nelze doménu onmicrosoft přejmenovat.** Pokud byla například zvolená počáteční doména *fourthcoffee.onmicrosoft.com*, nelze ji změnit na *fabrikam.onmicrosoft.com*. Chcete-li použít jinou onmicrosoft.com doménu, museli byste začít nové předplatné s Microsoftem 365.
   
-Pokud chcete používat vlastní doménu, jako *je contoso.com* , můžete [ji přidat, kterou vlastníte,](https://docs.microsoft.com/office365/admin/setup/add-domain) nebo [ji koupit od společnosti Microsoft](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
+Pokud chcete použít vlastní doménu, jako *je contoso.com* , můžete [přidat doménu, kterou vlastníte,](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) nebo [si ji koupit od microsoftu](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).
   

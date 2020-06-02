@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: a8c5dd6e75c35be185cea1bf3ffb733b5f5b61d2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8748aaa6e41a138dc8dd9121de92c4097edc5556
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761422"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510889"
 ---
 # <a name="onedrive-missing-files-or-folders"></a>OneDrive: Chybějící soubory nebo složky
 
@@ -24,18 +24,18 @@ ms.locfileid: "43761422"
 
 **Využijte funkci Obnovení souborů OneDrivu**. 
 
-Pokud se spousta souborů OneDrivu odstraní, přepíše, poškodí nebo nakazí malwarem, můžete pomocí funkce [obnovení souborů OneDrivu](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) obnovit celý OneDrive na předchozí čas.
+Pokud se spousta vašich souborů na OneDrivu smaže, přepíše, poškodí nebo nakazí malwarem, můžete celý OneDrive obnovit na předchozí dobu pomocí funkce [obnovení souborů OneDrivu.](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
 
-**Ke kontrole historie souboru použijte protokolování auditu nebo podokno aktivit y souboru**.
+**Pomocí protokolování auditu nebo podokna aktivity souboru zkontrolujte historii souboru**.
 
-Zkontrolujte [zprávy o auditu](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) navigací [sem](https://sip.protection.office.com/).
-
-
-Podokno [aktivity souboru](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) slouží ke kontrole historie souboru.
+Zkontrolujte [zprávy o auditu](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) zde [.](https://sip.protection.office.com/)
 
 
-**Zkontrolujte klienta synchronizace OneDrivu na místním počítači**.
+Pomocí [podokna aktivity souboru](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) zkontrolujte historii souboru.
 
-Pokud synchronizujete soubory v počítači pomocí klienta Synchronizace OneDrivu, zkontrolujte místní složku synchronizace, abyste se ujistili, že byla správně nahrána. Ujistěte se, že jste také zkontrolovali koš v místním počítači.
+
+**Zkontrolujte klienta synchronizace OneDrivu v místním počítači**.
+
+Pokud synchronizujete soubory v počítači pomocí klienta Synchronizace OneDrivu, zkontrolujte místní synchronizační složku a ujistěte se, že byla správně odeslána. Zkontrolujte také koš na místním počítači.
 
