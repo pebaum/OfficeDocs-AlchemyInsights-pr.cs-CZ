@@ -10,35 +10,35 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 9730bd66afd494385db3de605f5fe68d0f274ed3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 01ccc6bc28148f397fb6cd2b7a0eaaeb5b51973f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051706"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511537"
 ---
 # <a name="sharepoint-designer-connection-issues"></a>Problémy s připojením aplikace SharePoint Designer 
 
-Pokud aplikace SharePoint Designer zažívá problémy s připojením k webům služby SharePoint, vyzkoušejte následující běžná řešení.
+Pokud se SharePoint Designer potýká s problémy s připojením k webům Služby SharePoint, vyzkoušejte následující běžná řešení.
 
-Krok 1: Ověřte, zda je aplikace SharePoint Designer 2013 aktualizována pomocí aktualizace [SharePoint Designer Service Pack 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) , a [2. srpna 2016 pro aplikaci SharePoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
+Krok 1: Ověřte, zda je SharePoint Designer 2013 aktualizován [aktualizací SharePoint Designer Service Pack 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) a [aktualizací ze srpna 2016 pro SharePoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
 
 
 
-Krok 2: vymazání místních souborů mezipaměti:
+Krok 2: Vymazání místních souborů mezipaměti:
 
-1. Ukončete aplikaci SharePoint Designer 2013.
+1. Zavřít SharePoint Designer 2013.
 
-2. V místním počítači odeberte všechny soubory nalezené v následujících složkách.
+2. V místním počítači odeberte všechny soubory nalezené v každé z následujících složek.
 
-    - %AppData%\microsoft\webový Server Extensions\Cache
+    - %APPDATA%\Microsoft\Rozšíření webového serveru\Mezipaměť
     - %APPDATA%\Microsoft\SharePoint Designer\ProxyAssemblyCache
     - %USERPROFILE%\AppData\Local\Microsoft\WebsiteCache
 
-3. Spusťte aplikaci SharePoint Designer 2013 a znovu zadejte účet, aby bylo vidět, zda funguje.
+3. Otevřete SharePoint Designer 2013 a znovu zadejte účet, abyste zjistili, jestli funguje.
 
-Krok 3: [Povolte moderní ověřování pro sadu Office 2013 v zařízeních systému Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide).
+Krok 3: [Povolení moderního ověřování pro Office 2013 na zařízeních s Windows](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).
 
-Krok 4: Správci budou muset **Povolit vlastní skript** v nastavení centra pro správu služby SharePoint, aby bylo možné povolit připojení aplikace SharePoint Designer. Další informace naleznete v tématu [Povolení nebo zákaz vlastního skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) .
+Krok 4: Správci budou muset **povolit vlastní skript** v nastavení Centra pro správu SharePointu, aby povolili připojení k SharePoint Designeru. Další informace najdete [v tématu Povolení nebo zabránění vlastnímu skriptu.](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
 

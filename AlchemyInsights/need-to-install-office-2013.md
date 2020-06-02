@@ -11,16 +11,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: a4f59ecd50b92c52e15c4394b467adbaf92b11ff
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 904f1a086999d883feab05bc983cb8a6d8eb55eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761843"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512041"
 ---
-# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Office 2013 už není v předplatných Microsoftu 365 podporovaný
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Office 2013 už není v předplatných Microsoftu 365 podporovaný.
 
 února 2017 už Office 2013 není v předplatných Microsoftu 365 podporovaný.
   
-Chcete-li zajistit zabezpečení sady Office a získat všechny nejnovější funkce, nainstalujte si v rámci předplatného Microsoftu 365 bezplatnou nejnovější verzi Office. Viz [Upgrade uživatelů na nejnovějšího klienta Office](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).
+Chcete-li zajistit zabezpečení sady Office a získat všechny nejnovější funkce, nainstalujte si zdarma nejnovější verzi Office jako součást předplatného Microsoftu 365. Viz [Upgrade uživatelů na nejnovějšího klienta Office](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).
   

@@ -1,5 +1,5 @@
 ---
-title: Nové popisky uchovávání informací vytvořené automaticky
+title: Automaticky vytvořené nové popisky uchování
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 05cd5bb076d16e6d15422ef3491d9c051ad09731
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713495"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511753"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Nové popisky uchovávání informací vytvořené automaticky
+# <a name="new-retention-labels-created-automatically"></a>Automaticky vytvořené nové popisky uchování
 
-V Centru pro správu zabezpečení nebo dodržování předpisů se mohou zobrazit [tři nové popisky uchovávání informací](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) vytvořené automaticky ve vaší organizaci pod **popisky uchovávání informací.** Názvy popisků jsou:
+V Centru pro správu zabezpečení nebo dodržování předpisů se v Centru **pro** správu zabezpečení nebo dodržování předpisů mohou v centru pro správu zabezpečení nebo dodržování předpisů automaticky zobrazit [tři nové štítky uchovávání informací](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) vytvořené automaticky ve vaší organizaci. Názvy popisků jsou:
 
 - Provozní postup
-- Obchodní generál
-- Smlouva o smlouvě
+- Obchodní obecné
+- Smlouva
 
 K tomu dojde při prvním **výběru plánu souborů,** pokud nejsou vytvořeny žádné jiné popisky uchovávání informací. Tyto popisky jsou vytvořeny automaticky a v případě potřeby mohou být odstraněny, pokud ještě nebyly použity na obsah. Odebrání popisků:
 
-1. V Centru pro správu zabezpečení nebo dodržování předpisů zvolte karta**Uchovávání**  > **popisků popisků** >  **klasifikace.**
+1. V Centru pro správu zabezpečení nebo dodržování předpisů zvolte Karta **Uchovávání**  >  **popisků**  >  **Retention** klasifikace.
 
-1. Vyberte popisky uchovávání informací, které chcete odebrat, > **Odstranit popisek** > **Ano,** odstraňte popisek.
+1. Vyberte popisky uchování, které chcete odebrat > **Odstranit popisek**  >  **Ano,** chcete-li popisek odstranit.
 
-Pomocí Správce plánu souborů můžete spravovat popisky a zásady uchovávání informací ve vaší organizaci – další informace naleznete v [tématu Přehled Správce plánu souborů](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).
+Pomocí Správce plánu souborů můžete spravovat popisky uchovávání informací a zásady ve vaší organizaci – další informace naleznete [v tématu Přehled Správce plánu souborů](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager).

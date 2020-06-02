@@ -15,17 +15,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 67195ab9a52342647659162045cc4f536d001ab4
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 715918b88a8340ea722ffe75999e6afaa48dbc31
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059837"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511429"
 ---
 # <a name="reset-or-change-passwords"></a>Resetování nebo změna hesel
 
-Uživatel může změnit své vlastní heslo ze **smí s účtem** > [Zabezpečení & soukromí](https://portal.office.com/account/#security).
+Uživatel může změnit své vlastní heslo z **my account**security  >  [& soukromí](https://portal.office.com/account/#security).
   
-Pokud uživatel zapomněl své heslo, může správce heslo obnovit tak, **že** > přejde na[uživatele aktivní uživatele](https://portal.office.com/adminportal/home#/users), vybere uživatele a klikne na Obnovit **heslo**.
+Pokud uživatel zapomněl své heslo, může správce heslo **Users**obnovit tak, že přejdete na  >  [uživatele Active users](https://portal.office.com/adminportal/home#/users), vyberte uživatele a klepněte na tlačítko Obnovit **heslo**.
   
-[Klikněte zde se dozvíte více](https://docs.microsoft.com/office365/admin/add-users/reset-passwords), nebo aby uživatelé obnovit své vlastní zapomenuté hesla.
+[Chcete-li se dozvědět více , klepněte sem](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)a uživatelé si můžete nechat resetovat vlastní zapomenutá hesla.
