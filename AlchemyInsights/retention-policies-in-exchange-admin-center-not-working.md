@@ -12,53 +12,53 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: e2fb22f872be0eefc3b4b78b18cd09baffa66cda
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3040365b9d686bcbcce60977ee9bdbbaffc70b24
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742426"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502600"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Zásady uchovávání informací v Centru pro správu Exchange
 
- **Problém:** Nově vytvořené nebo aktualizované zásady uchovávání informací v Centru pro správu Exchange se nevztahují na poštovní schránky nebo položky nejsou přesunuty do archivní poštovní schránky ani odstraněny. 
+ **Problém:** Nově vytvořené nebo aktualizované zásady uchovávání informací v Centru pro správu Exchange se nevztahují na poštovní schránky nebo položky nejsou přesunuty do poštovní schránky archivu nebo odstraněny. 
   
  **Příčiny:**
   
-- Důvodem může být, **že Pomocník pro správu složek** nezpracoval poštovní schránku uživatele. Pomocník pro spravované složky se pokusí zpracovat každou poštovní schránku ve vaší organizaci na cloudu jednou za sedm dní. Pokud změníte značku uchovávání informací nebo použijete jiné zásady uchovávání informací pro poštovní schránku, můžete počkat, až pomocník se správou složek zpracuje poštovní schránku, nebo můžete spustit rutinu Start-ManagedFolderAssistant a spustit Pomocníka pro správu pro zpracování určité poštovní schránky. Spuštění této rutiny je užitečné pro testování nebo řešení potíží s nastavením zásad uchovávání informací nebo značky uchovávání informací. Další informace naleznete v části [Spuštění Pomocníka pro správu složek](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- Důvodem může být, že **Pomocník pro spravované složky** nezpracoval poštovní schránku uživatele. Pomocník pro spravované složky se pokusí zpracovat každou poštovní schránku v organizaci na principu shluků jednou za sedm dní. Pokud změníte značku uchovávání informací nebo použijete jinou zásadu uchovávání informací pro poštovní schránku, můžete počkat, dokud pomoc s spravované složky zpracuje poštovní schránku, nebo můžete spustit rutinu Start-ManagedFolderAssistant a spustit Pomocníka pro spravované složky ke zpracování konkrétní poštovní schránky. Spuštění této rutiny je užitečné pro testování nebo řešení potíží se zásadami uchovávání informací nebo nastavením značky uchovávání informací. Další informace naleznete na stránce [Spuštění Pomocníka pro spravované složky](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **Řešení:** Spuštěním Pomocníka pro správu složek pro určitou poštovní schránku spusťte následující příkaz:
+  - **Řešení:** Spuštěním následujícího příkazu spusťte Pomocníka pro spravované složky pro určitou poštovní schránku:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- K tomu může dojít také v případě, že byl v poštovní schránce **povolen** funkci **RetentionHold.** Pokud poštovní schránka byla umístěna na zadržení, zásady uchovávání informací v poštovní schránce nebudou zpracovány během této doby. Další informaton na nastavení RetentionHold viz: [Blokování uchovávání poštovní schránky](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+- K tomu může dojít také v **případě, že retentionhold** byla **povolena** v poštovní schránce. Pokud poštovní schránka byla umístěna na RetentionHold, zásady uchovávání informací v poštovní schránce nebudou zpracovány během této doby. Další informace o nastavení retentionhold najdete v tématu: [Blokování uchovávání poštovní schránky](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
     **Řešení:**
     
-  - Zkontrolujte stav nastavení RetentionHold v konkrétní poštovní schránce v [exo powershellu](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
+  - Zkontrolujte stav nastavení RetentionHold na konkrétní poštovní schránce v [prostředí EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - Chcete-li **zakázat** funkci RetentionHold v určité poštovní schránce, spusťte následující příkaz:
+  - Spuštěním následujícího příkazu **zakázat** RetentionHold na konkrétní poštovní schránky:
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
   ```
 
-  - Nyní znovu spusťte Pomocníka pro správu:
+  - Nyní znovu spusťte Pomocníka pro spravované složky:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Poznámka:** Pokud je poštovní schránka menší než 10 MB, Pomocník pro spravované složky nebude poštovní schránku automaticky zpracovávat.
+ **Poznámka:** Pokud je poštovní schránka menší než 10 MB, Pomocník pro spravované složky poštovní schránku automaticky nezpracuje.
  
-Další informace o zásadách uchovávání informací v Centru pro správu Exchange najdete v tématu:
+Další informace o zásadách uchovávání informací v Centru pro správu Exchange najdete v následujících tématech:
 - [Značky uchovávání informací a zásady uchovávání informací](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 - [Použití zásad uchovávání informací u poštovních schránek](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
 - [Přidání nebo odebrání značek uchovávání informací](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Jak identifikovat typ blokování umístěného na poštovní schránce](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
+- [Jak identifikovat typ blokování umístěného v poštovní schránce](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)

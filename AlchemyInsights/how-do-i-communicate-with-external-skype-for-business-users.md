@@ -1,5 +1,5 @@
 ---
-title: Jak komunikuji s externími uživateli Skypu pro firmy
+title: Jak můžu komunikovat s externími uživateli Skypu pro firmy
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 3bdd3fc028e0cd3cd6ec5692e11c303dcd7ace6b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265081"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496268"
 ---
-# <a name="allow-external-communications-with-skype-for-business"></a>Povolit externí komunikaci se Skypem pro firmy 
+# <a name="allow-external-communications-with-skype-for-business"></a>Povolení externí komunikace se Skypem pro firmy 
 
-Chcete uživatelům Skypu pro firmy povolit kontakt s uživateli mimo vaši organizaci? Viz [Povolit uživatelům kontaktovat externí uživatele Skypu pro firmy](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
+Chcete uživatelům Skypu pro firmy povolit kontaktování uživatelů mimo vaši organizaci? Viz [Povolení uživatelům kontaktovat externí uživatele Skypu pro firmy](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-Aby externí komunikace fungovala správně, musí být záznamy DNS správně nastaveny. Zde [](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) zkontrolujte, zda máme konkrétní pokyny, jak nastavit záznamy DNS u svého poskytovatele. 
+Záznamy DNS musí být správně nastaveny, aby externí komunikace fungovala správně. Tady [here](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) se podívejte, jestli máme konkrétní pokyny, jak nastavit záznamy DNS u vašeho poskytovatele. 
 
-Chcete uživatelům Skypu pro firmy povolit pouze kontaktování uživatelů zákazníků skypu? Viz:
+Chcete uživatelům Skypu pro firmy pouze umožnit kontaktovat uživatele skype pro spotřebitele? Více v článku:
 
-- [Upřete uživatelům Skypu pro firmy, aby přidali kontakty skypu](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
+- [Nechte uživatele Skypu pro firmy přidávat kontakty Skypu](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
 
-- [Přidejte kontakt ve Skypu pro firmy](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
+- [Přidání kontaktu ve Skypu pro firmy](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
 
 
-Pokud chcete, aby uživatelé týmů mohli kontaktovat uživatele mimo vaši organizaci (včetně uživatelů Skypu pro firmy), přečtěte si [recenzi Správa externího přístupu v Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 
+Pokud chcete, aby uživatelé Teams mohli kontaktovat uživatele mimo vaši organizaci (včetně uživatelů Skypu pro firmy), [přečtěte](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people)si možnost Spravovat externí přístup v Microsoft Teams . 

@@ -1,5 +1,5 @@
 ---
-title: Hledání e-mailů v archivní poštovní schránce
+title: Hledání e-mailů v poštovní schránce archivu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,16 +12,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: b6b829713cefd3c8b4bfe610e560469e6c646f59
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 43c3bdae297ec475e951e53d399377f2f3ea133c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709256"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495584"
 ---
-# <a name="search-for-email-in-the-archive-mailbox"></a>Hledání e-mailů v poštovní schránce Archivu
+# <a name="search-for-email-in-the-archive-mailbox"></a>Hledání e-mailů v poštovní schránce archivu
 
-Pokud je pro Microsoft 365 povolena archivní poštovní schránka, můžete pomocí **funkce EDiscovery Search and Export** zjistit obsah v primární i archivní poštovní schránce. Informace o použití **exportu vyhledávání eDiscovery** k nalezení tohoto obsahu naleznete v uvedených [postupech](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Pokud je pro Microsoft 365 povolena archivní poštovní schránka, můžete pomocí **funkce eDiscovery Search and Export** zjišťovat obsah v primární i archivní poštovní schránce. Informace o použití **exportu vyhledávání eDiscovery** k nalezení tohoto obsahu naleznete v zde uvedených krocích [.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
   
-Tento obsah můžete také zachovat přidáním poštovní schránky do zásad uchovávání informací. Tím se obsah umístí do poštovní schránky Primární i Archiv na blokování. Další informace o vytváření zásad uchovávání informací pro zachování e-mailu naleznete v krocích uvedených [zde](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).
+Tento obsah můžete také zachovat přidáním poštovní schránky do zásad uchovávání informací. Tím se obsah do primární i archivní poštovní schránky zadrží. Další informace o vytváření zásad uchovávání informací pro uchovávání e-mailů naleznete v zde uvedených [krocích](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
   

@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: c68fc2381432a9681ed60dac4e8c8fde3c303b8c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0d7bc37cd2b418883142c760ad2bfdb504c1c679
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710184"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44499036"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>Máte problémy s připojením Outlooku?
 
-Zjistili jsme, že Outlook není nakonfigurován tak, aby fungoval správně pod následujícími doménami:
+Zjistili jsme, že outlook není nakonfigurovaný tak, aby fungoval správně v rámci následujících domén:
   
 {HealthCheckString}
   
-Záznamy NS nebo CNAME nastavení domény (DNS) nejsou správně nastaveny. Podrobné pokyny naleznete [v odkazu Vytvořit záznamy DNS u libovolného poskytovatele hostingu DNS.](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) 
+Záznamy NS nebo CNAME nastavení domény (DNS) nejsou správně nastaveny. Podrobné pokyny najdete v tématu o [vytvoření záznamů DNS u libovolného poskytovatele hostingu DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider). 
   
-Pokud chcete problém opravit, přejděte na stránku [Domény](https://admin.microsoft.com/adminportal/home#/Domains) v Centru pro správu Microsoftu 365 a my vám s tím pomůžeme. 
+Pokud chcete problém opravit, přejděte v centru pro správu Microsoftu 365 na stránku [Domény](https://admin.microsoft.com/adminportal/home#/Domains) a my vám s tím pomůžeme. 
