@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 9200f436bae0e10a15b3edeed1e4bec3c1b698b6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709436"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505536"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Chcete si koupit nové předplatné?
 
-Pokud už máte předplatné Microsoft 365 pro firmy a chcete si koupit další předplatné pro vaši organizaci, přejděte na stránku [Služby nákupu](https://go.microsoft.com/fwlink/p/?linkid=868433) **fakturace** \> a podívejte se na seznam předplatných, která jsou pro vaši organizaci dostupná.
+Pokud už máte předplatné Microsoft 365 pro firmy a chcete si koupit jiné předplatné pro vaši organizaci, přejděte na stránku **Služby fakturace** \> [nákupu](https://go.microsoft.com/fwlink/p/?linkid=868433) a podívejte se na seznam předplatných dostupných pro vaši organizaci.
  
 1. Vyberte požadované předplatné a pak vyberte **Koupit**.
 
-2. Zvolte způsob platby a počet potřebných uživatelských licencí.
+2. Zvolte, jak chcete platit, a počet potřebných uživatelských licencí.
 
 3. Zvolte **Přejít k pokladně**. Na další stránce můžete zkontrolovat objednávku a dokončit nákup.
 
-4. Po dokončení nákupu může být nutné znovu přiřadit licence nebo zrušit předplatné. Nápovědu k tomu naleznete v části Další zdroje níže.
+4. Po dokončení nákupu může být nutné znovu přiřadit licence nebo předplatné zrušit. Pomoc s tímto tématem naleznete v části Další zdroje níže.
 
- **Další zdroje informací:**
+ **Další zdroje:**
   
-- [Přiřazení licencí uživatelům v Microsoftu 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Přiřazení licencí uživatelům v Microsoftu 365 pro firmy](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
-- [Zrušení předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Zrušení předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Pokud máte zájem o přepínání předplatných, přečtěte si informace [o přechodu na jiný plán Microsoft 365 pro firmy.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+- Pokud máte zájem o přepnutí předplatných, přečtěte si přečtěte si informace [o přechodu na jiný obchodní plán Microsoftu 365.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

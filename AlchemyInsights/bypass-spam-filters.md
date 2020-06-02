@@ -1,5 +1,5 @@
 ---
-title: 2637 Obejít filtrování spamu povolit konkrétní zprávy?
+title: 2637 Obejít filtrování nevyžádané pošty, aby určité zprávy?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,13 +12,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: bc0f5a050c74eb551282b10f43a14ae6303cb48e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fbc5bc9cdabf2a19181c9d5bbabf63d6c1cbfb7
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712128"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506184"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Chcete-li povolit určité zprávy, obejít filtrování nevyžádané pošty?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Chcete-li povolit určité zprávy, vynecháte filtrování nevyžádané pošty?
 
-Doporučujeme [opatrnost](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) při vytváření seznamu povolených položek. Pokud například povolíte vlastní doménu, budou moci škodlivé odesílatelé falšovat a odesílat jako doménu.  Místo toho doporučujeme tento [průvodce odstraňováním potíží s falešně pozitivními výsledky](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), který vám pomůže zjistit, proč byla legitimní zpráva označena jako nevyžádaná pošta a co můžete udělat pro bezpečné doručení zprávy.
+Při vytváření seznamu povolených [doporučujeme opatrnost.](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) Pokud například povolíte vlastní doménu, budou moci uživatelé se zlými úmysly zfalšovat a odesílat jako doménu.  Místo toho doporučujeme tento [průvodce odstraňováním potíží s falešnými poplachy](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection), který vám pomůže určit, proč byla legitimní zpráva označena jako spam a co můžete udělat pro bezpečné povolení doručení zprávy.

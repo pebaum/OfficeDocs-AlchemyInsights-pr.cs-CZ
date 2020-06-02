@@ -1,5 +1,5 @@
 ---
-title: 1491-search-not-returning-očekávané-výsledky
+title: 1491-search-not-return-expected-results 1491-search-not-return-expected-results 1491-search-not-return-expected-results 1491
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 4e07b178fa41015bb942d939c08c534c2bfac30e
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912251"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505120"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Nástroj pro vyhledávání obsahu pro vyhledání relevantních informací
 
-Pomocí nástroje pro vyhledávání obsahu v Centru dodržování předpisů zabezpečení & rychle najděte e-maily v poštovních schránkách Exchange, dokumenty na sharepointových webech a umístěních OneDrivu a konverzace pomocí rychlých zpráv ve Skypu pro firmy. Pomocí nástroje pro vyhledávání obsahu můžete vyhledávat e-maily, dokumenty a konverzace pomocí rychlých zpráv v nástrojích pro spolupráci microsoftu 365, jako jsou Microsoft Teams a Skupiny Microsoft 365.
+Pomocí nástroje Pro vyhledávání obsahu v Centru pro zabezpečení & dodržování předpisů můžete rychle najít e-maily v poštovních schránkách Exchange, dokumentech na sharepointových webech a umístěních OneDrivu a konverzací pomocí rychlých zpráv ve Skypu pro firmy. Pomocí nástroje pro vyhledávání obsahu můžete vyhledávat e-maily, dokumenty a konverzace pomocí rychlých zpráv v nástrojích pro spolupráci Microsoft 365, jako jsou Microsoft Teams a Skupiny Microsoftu 365.
 
 
-Před použitím [funkce Hledání obsahu](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) z Centra pro dodržování předpisů zabezpečení [&](https://sip.protection.office.com/homepage)budete chtít dokončit nastavení konfigurace včetně [konfigurace oprávnění](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), nastavení [rychlosti stahování](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) a nastavení [exportu](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
+Před použitím [vyhledávání obsahu](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) v Centru pro zabezpečení & [dodržování předpisů](https://sip.protection.office.com/homepage)budete chtít dokončit nastavení konfigurace včetně konfigurace [oprávnění](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search), [nastavení rychlosti stahování](https://docs.microsoft.com/microsoft-365/compliance/increase-download-speeds-when-exporting-ediscovery-results) a nastavení [exportu](https://docs.microsoft.com/microsoft-365/compliance/disable-reports-when-you-export-content-search-results).
 
-Další informace o vyhledávání obsahu naleznete tak, že prozkoumáte [požadavky a limity](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [prozkoumáte částečně indexované položky](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) a další výsledky, které je třeba znát.
+Zjistěte více o vyhledávání obsahu kontrolou [požadavků a omezení](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search), zkoumání [částečně indexovaných položek](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) a další výsledky, které je třeba znát.
 
-Po kontrole nastavení konfigurace a omezení vyhledávání obsahu vyhledejte [</a> položky na místě, jako jsou e-maily, dokumenty a konverzace pomocí rychlých zpráv ve vaší organizaci](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Po kontrole nastavení konfigurace a omezení vyhledávání obsahu vyhledejte [ </a> místní položky, jako jsou e-maily, dokumenty a konverzace pomocí rychlých zpráv ve vaší organizaci](https://docs.microsoft.com/microsoft-365/compliance/content-search).
 
-Úplné podrobné informace o hledání obsahu najdete v tématu [Hledání obsahu v Microsoftu 365.](https://docs.microsoft.com/office365/securitycompliance/search-for-content)
+Kompletní podrobné hledání obsahu najdete v tématu [Hledání obsahu v Microsoftu 365,](https://docs.microsoft.com/microsoft-365/compliance/search-for-content) kde najdete další informace.

@@ -1,5 +1,5 @@
 ---
-title: Oprava aplikací Office Nemohla najít zprávu přidruženou k licencím office
+title: Oprava aplikací Office Nemůžu najít přidruženou zprávu o licencích Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 565df0a05baa974a6cbac58ac6be8d78470dbc5d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 887be4bee2bd1562bdc3b29783e9deafe47d8d57
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715625"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505860"
 ---
-# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Oprava zprávy Ohledání aplikací Office "Nelze najít přidružené licence office"
+# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Oprava zprávy O opravě aplikací Office "Nelze najít přidružené licence office"
 
 Pokud se zobrazí tato zpráva, vyzkoušejte následující postup:
 
-1. Zkontrolujte bránu firewall, antivirový software a nastavení proxy serveru a ověřte, zda neblokují přístup k Internetu aplikacím Office. Viz [Adresy URL a rozsahy IP adres společnosti Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
-2. Odeberte a [znovu přiřaďte licenci Office](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) pro postiženého uživatele. 
+1. Zkontrolujte nastavení brány firewall, antivirového softwaru a proxy serveru a ověřte, zda neblokují přístup k Internetu k aplikacím Office. Viz [Microsoft 365 URL a rozsahy IP adres](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+2. Odeberte a [znovu přiřaďte licenci Office](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) pro postiženého uživatele. 
 3. Otevřete aplikaci Office a [odhlaste se od](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) všech existujících uživatelských účtů.
-4. Přejděte na Nastavení **systému** > Windows > účty**E-mailové účty &** a odeberte všechny pracovní účty kromě ovlivněného účtu.
-5. Přejděte na nastavení **systému** > Windows > účty**přístup k práci nebo do školy**a odpojte všechny pracovní účty kromě ovlivněného účtu.
+4. Přejděte na Nastavení systému Windows > **účty**  >  **e-mail & účtů**a odeberte všechny pracovní účty kromě ovlivněného účtu.
+5. Přejděte na Nastavení systému Windows > **Accounts**  >  **účty Přístup k práci nebo škole**a odpojte všechny pracovní účty kromě ovlivněného účtu.
 6. Resetujte stav aktivace Office. [Přečtěte si, jak](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 7. [Přihlaste se](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) pomocí ovlivněného uživatelského účtu.
 
-Další řešení řešení potíží naleznete v tématu [Nelicencovaný produkt a chyby aktivace v Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Další řešení potíží najdete [v tématu Chyby nelicencovaného produktu a aktivace v Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
