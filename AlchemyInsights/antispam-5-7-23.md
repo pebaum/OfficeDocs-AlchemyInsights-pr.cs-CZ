@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: 307b738c40c620d057e68eff7d218c8c9b5eb665
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8122b409a731a5fcc46c718aff1eeda07e26890b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676490"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506436"
 ---
-# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Oprava problémů s doručováním e-mailů pro kód chyby 5.7.23
+# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Řešení problémů s doručováním e-mailů s kódem chyby 5.7.23
 
-Ověřte záznam DNS SPF pro vaši doménu na veřejně dostupné kontrole záznamů SPF nebo DNS na webu.
+Ověřte záznam SPF DNS pro vaši doménu ve veřejně dostupné kontrole záznamů SPF nebo DNS na webu.
 
-Ověřte, zda odchozí zpráva nebyla společností Microsoft označena jako nevyžádaná pošta a směrována přes [fond pro doručování vysokých rizik](https://docs.microsoft.com/office365/SecurityCompliance/high-risk-delivery-pool-for-outbound-messages). Zprávy ve fondu doručování s vysokým rizikem neprojdou kontrolami SPF, a proto nebudou akceptovány cílovou e-mailovou organizací.
+Ověřte, zda společnost Microsoft neoznačil odchozí zprávu jako spam a zda nebyla směrována prostřednictvím [fondu pro doručování s vysokým rizikem](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages). Zprávy ve fondu doručování s vysokým rizikem neprojdou kontrolami SPF, a proto nebudou přijaty organizací cílového e-mailu.
 
-Pokud problém přetrvává, možná budete muset kontaktovat správce hostitele pošty, kterému se pokoušíte odeslat e-mail. Poznamenejte si podrobnou externí chybu, která je k dispozici ve zprávě o okamžitém opuštění. Podpora společnosti Microsoft nemusí být schopna dále pomoci.
+Pokud problém přetrvává, bude pravděpodobně nutné kontaktovat správce hostitele pošty, kterému se pokoušíte odeslat e-mail. Poznamenejte si podrobnou externí chybu, která je k dispozici ve zprávě o vrácení. Podpora společnosti Microsoft nemusí být schopna dále pomoci.

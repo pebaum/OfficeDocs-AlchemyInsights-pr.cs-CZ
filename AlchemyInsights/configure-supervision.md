@@ -1,5 +1,5 @@
 ---
-title: Konfigurace dohledu
+title: Konfigurovat dohled
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -10,24 +10,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 28c8070d9042e876263ff5e94e0a69bd53998a67
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9694192fa9338b972369d06dfbd3fa648dcb1165
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705906"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507759"
 ---
 # <a name="configure-supervision-policies"></a>Konfigurace zásad dohledu
 
-Zásady dohledu v Microsoftu 365 umožňují sledovat e-maily Exchange, Online Skype pro firmy, Microsoft Teams a komunikaci třetích stran odeslanou ve vaší organizaci i mimo ni. Určení recenzenti mohou sledovat monitorované zprávy, aby se ujistili, že jsou v souladu se zásadami vaší organizace, řízením rizik a standardy dodržování předpisů, a vyřešit je pomocí typu klasifikace.
+Zásady dohledu v Microsoftu 365 umožňují sledovat e-maily Exchange, Online Skype pro firmy, Microsoft Teams a komunikaci třetích stran odesílanou ve vaší organizaci i mimo ni. Určení recenzenti mohou zkontrolovat monitorované zprávy, aby se ujistili, že jsou v souladu se zásadami vaší organizace, řízením rizik a standardy dodržování předpisů, a vyřešit je s typem klasifikace.
 
-Chcete-li ve vaší organizaci používat zásady dohledu, je třeba:
+Chcete-li ve vaší organizaci používat zásady dohledu, musíte:
 
-- Určete komunikaci, kterou chcete sledovat.
-- Rozhodněte, kdo provede kontrolu komunikace.
-- Nastavení zásad dohledu
+- Určete komunikaci, která má být sledována.
+- Rozhodněte, kdo bude provádět kontrolu komunikace.
+- Zásady dohledu nad nastavením
 
 Víc se uč:
 
-- [Přehled zásad dohledu](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
-- [Konfigurace zásad dohledu](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)
+- [Přehled zásad dohledu](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Konfigurace zásad dohledu](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)

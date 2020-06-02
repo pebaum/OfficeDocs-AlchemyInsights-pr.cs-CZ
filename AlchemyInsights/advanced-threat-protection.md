@@ -1,5 +1,5 @@
 ---
-title: Rozšířená ochrana před hrozbami v Office 365
+title: Pokročilá ochrana před hrozbami office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 680f182fbc2f0110a4aa4ed168b35a1a694b2ef4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5fc3f30e1f08764393dcced94be541b1c6bcc84d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710328"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506587"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Rozšířená ochrana před hrozbami v Office 365
+# <a name="office-365-advanced-threat-protection"></a>Pokročilá ochrana před hrozbami office 365
 
-- Bezpečné přílohy, bezpečné odkazy a ochrana proti phishingu jsou součástí rozšířené ochrany před internetovými zprávami (ATP) office 365 Advanced Threat Protection (ATP). Enterprise E5, Education A5 a Microsoft 365 Business Premium zahrnují atp. Všechny ostatní plány vyžadují doplňkové předplatné ATP.
+- Bezpečné přílohy, bezpečné odkazy a ochrana proti phishingu jsou součástí rozšířené ochrany před hrozbami (ATP) office 365. Mezi podniky E5, Education A5 a Microsoft 365 Business Premium patří ochrana ATP. Všechny ostatní plány vyžadují předplatné atp.
 
-- Je třeba přiřadit příslušné licence k ochraně uživatelů pomocí ochrany počítače Office 365 ATP. Pokyny k hromadnému použití licencí uživatelům naleznete v [tomto tématu.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- K ochraně uživatelů pomocí ochrany ochrany uživatelů podle ochrany ochrany uživatelů v Office 365 je třeba přiřadit příslušné licence. Pokyny k hromadnému použití licencí pro uživatele najdete v [tomto tématu.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-- Globální správci nebo správci zabezpečení mají přístup k funkcím ochrany ATP sady Office 365 v Centru dodržování předpisů zabezpečení & v **zásadách**řízení **hrozeb** \> .
+- Globální správci nebo správci zabezpečení mohou přistupovat k funkcím ochrany ATP office 365 v Centru ochrany & dodržování předpisů v centru ochrany zabezpečení v zásadách **Managmeent** \> **pro hrozby**.
 
-- Bezpečné přílohy a zásady bezpečného propojení mohou být vymezeny v celé organizaci, konkrétních doménách nebo menších skupinách uživatelů.
+- Bezpečné přílohy a zásady bezpečného propojení vám mohou být vymezeny celou organizací, konkrétními doménami nebo menšími skupinami uživatelů.
 
-- Neexistuje žádná výchozí zásada bezpečnépřílohy ATP. Musíte [vytvořit zásadu](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) a použít ji pro uživatele.
+- Neexistuje žádná výchozí zásady bezpečné přílohy ATP. Je třeba [vytvořit zásadu](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) a použít ji pro uživatele.
 
-- Existuje výchozí zásada ochrany atp bezpečné odkazy, která platí pro všechny ve vaší organizaci. Chcete-li upravit tuto zásadu nebo vytvořit vlastní zásady, přečtěte [si toto téma](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).
+- Existuje výchozí zásada bezpečných odkazů ATP, která platí pro všechny uživatele ve vaší organizaci. Chcete-li tyto zásady upravit nebo vytvořit vlastní zásady, přečtěte si [toto téma](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).

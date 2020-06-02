@@ -10,47 +10,47 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788659"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507019"
 ---
 # <a name="enable-an-archive-mailbox"></a>Povolení archivní poštovní schránky
 
-Archivní poštovní schránky v Microsoftu 365 (nazývané také *Online archivy* nebo *Místní archivy*) poskytují uživatelům další úložiště e-mailů. Uživatelé mohou přesunout nebo zkopírovat položky do své archivní poštovní schránky a správci mohou vytvořit zásadu archivu, která automaticky přesune položky do archivních poštovních schránek.
+Archivovat poštovní schránky v Microsoft 365 (také nazývané *online archivy* nebo *archivy v místě*) poskytují uživatelům další úložiště e-mailů. Uživatelé mohou přesouvat nebo kopírovat položky do své archivní poštovní schránky a správci mohou vytvořit zásadu archivace, která automaticky přesune položky do archivních poštovních schránek.
   
-Tady je postup, jak vytvořit archivní poštovní schránku:
+Zde je postup, jak vytvořit archivní poštovní schránku:
   
 1. Přejděte na [https://protection.office.com](https://protection.office.com).
 
-2. Přihlaste se k Microsoftu 365 pomocí svého účtu správce.
+2. Přihlaste se k Microsoftu 365 pomocí účtu správce.
 
-3. V levém podokně &amp; Centra dodržování předpisů zabezpečení vyberte **Archiv** **zásad správného řízení** \> informací .
+3. V levém podokně Centra dodržování předpisů zabezpečení &amp; vyberte Archiv **zásad správného řízení informací** \> **Archive**.
 
 4. Vyberte uživatele, jehož archivní poštovní schránku chcete povolit.
 
-5. V podokně podrobností vpravo klikněte na **Povolit** a potom v upozornění povolte archivní poštovní schránku klepnutím na **tlačítko Ano.**
+5. V podokně podrobností vpravo klikněte na **Povolit** a potom v upozornění povolte archivní poštovní schránku kliknutím na **Ano.**
 
-Archivní poštovní schránky můžete také hromadně povolit výběrem více uživatelů (pomocí kláves **Shift** nebo **Ctrl)** a potom klepnutím na **povolit** v podokně podrobností.
+Archivovat poštovní schránky můžete také hromadně povolit tak, že vyberete více uživatelů (pomocí kláves **Shift** nebo **Ctrl)** a pak v podokně podrobností kliknete na **Povolit.**
   
 ### <a name="shared-mailboxes"></a>Sdílené poštovní schránky
 
-Chcete-li povolit archiv pro sdílenou poštovní schránku, je vyžadována licence Exchange Online Plan 2 nebo licence Plánu Exchange Online 1 s licencí exchange online archivace.  
+Chcete-li povolit archivaci sdílené poštovní schránky, je vyžadována licence Exchange Online Plan 2 nebo Licence plánu Exchange Online 1 s licencí Archivace Exchange Online.  
 
-Povolení archivu pro sdílenou poštovní schránku:
+Povolení archivu sdílené poštovní schránky:
 
-1. Přejděte do [Centra pro správu Exchange](https://outlook.office365.com/ecp) a přihlaste se pomocí svého účtu správce.
+1. Přejděte do [Centra pro správu Exchange](https://outlook.office365.com/ecp) a přihlaste se pomocí účtu správce.
 
-2. Přejděte na**Sdílené** **příjemce** > .
+2. Přejděte na **Recipients**  >  **Sdílení příjemci**.
 
 3. Vyberte sdílenou poštovní schránku.
 
-4. V podokně podrobností vpravo v části **In-Place Archive**klikněte na **Enable**a potom klepnutím na tlačítko **Ano** povolte archivní poštovní schránku.
+4. V podokně podrobností vpravo klikněte v části **Archiv na místě**na **povolit**a potom klepnutím na tlačítko **Ano** povolte archivní poštovní schránku.
 
 Další informace najdete tady:
   
-- [Povolení archivních poštovních schránek](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Povolení archivních poštovních schránek](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
-- [Nastavení zásad archivu a odstranění](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Nastavení zásad archivace a odstranění](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

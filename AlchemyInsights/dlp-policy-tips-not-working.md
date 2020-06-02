@@ -1,5 +1,5 @@
 ---
-title: Tipy pro zásady ochrany před únikem informací nefungují
+title: Tipy pro zásady ochrany před únikem let do provozu
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -12,28 +12,28 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 7d31f6bcbd464b7428092b6fd6ff9f9582db2a8b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9369878b62a5abe79bd215487bea6cabb0e80f06
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704370"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507435"
 ---
-# <a name="dlp-policy-tip-issues"></a>Problémy s tipem na zásady ochrany před únikem
+# <a name="dlp-policy-tip-issues"></a>Problémy s tipem zásad ochrany před únikem let
 
 **Důležité**: V této mimořádné době přijímáme opatření, aby služby SharePointu Online a OneDrivu zůstaly vysoce dostupné. Další informace najdete v článku zaměřeném na [dočasné úpravy funkcí SharePointu Online](https://aka.ms/ODSPAdjustments).
 
-**Tipy pro zásady ochrany před únikem informací**
+**Tipy zásad ochrany před únikem let**
 
-Při použití **zásad ochrany před únikem informací**mohou být uživatelé upozorněni na porušení zásad pomocí tipů **zásad**. Správci mohou nakonfigurovat tipy zásad k zobrazení při testování zásad ochrany před únikem informací nebo při úplném vynucování.
+Při použití **zásad ochrany před únikem dat**mohou být uživatelé upozorněni na porušení zásad pomocí tipů k **zásadám**. Správci mohou nakonfigurovat tipy zásad, které se budou zobrazovat při testování zásad ochrany před únikem informací nebo v případě, že je zásada v režimu úplného vynucení.
   
-Chcete-li nakonfigurovat tipy pro zásady ochrany před únikem informací v centru zabezpečení a dodržování předpisů v režimu úplného vynucení, postupujte takto:
+Chcete-li nakonfigurovat tipy zásad pro zásady ochrany před únikem let v Centru zabezpečení a dodržování předpisů v plném režimu vynucení, udělejte toto:
   
-- Ujistěte se, že byly **povoleny** tipy zásad na pravidlo ochrany před únikem informací pomocí [kroků zde](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Ujistěte se, že byly **povoleny** tipy zásad u pravidla ochrany před únikem dat pomocí kroků [zde](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
 
-- Ujistěte se, že váš **obsah odpovídá tomu,** co je **nutné** k aktivaci pravidla uvedeného v tomto článku [zde](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- Ujistěte se, že váš **obsah odpovídá** **tomu,** co je nutné k aktivaci pravidla uvedeného v tomto článku [zde](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 
-- Tipy pro zásady se zobrazují v aplikaci OWA i v aplikaci Outlook. Pokud však používáte **Outlook 2013 nebo novější**, zobrazí se tipy zásad pouze za určitých podmínek. Zde jsou uvedeny tyto podmínky: [Podporované podmínky pro Outlook 2013 nebo novější pro zobrazení tipů zásad](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- Tipy pro zásady se zobrazují v aplikaci OWA i Outlook. Při použití **aplikace Outlook 2013 nebo novější**se však tipy zásad zobrazují pouze za určitých podmínek. Tyto podmínky jsou uvedeny zde: [Podporované podmínky pro Outlook 2013 nebo novější pro zobrazení tipy zásad](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-Další informace o tipech pro zásady ochrany před únikem informací naleznete v [tématu: Zobrazit tipy zásad pro zásady ochrany před únikem informací](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+Další informace o tipy zásad ochrany před únikem informací naleznete v [tématu: Zobrazit tipy zásad pro zásady ochrany před únikem informací](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
   
