@@ -14,22 +14,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 03fd19c5758e591a1b791e3cfd081647c5584b6d
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 115e8d3cd5d7a98297963b43c4fb6fb39566bda7
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645989"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509413"
 ---
-# <a name="set-passwords-to-never-expire"></a>Nastavení, aby nikdy nevypršela platnost hesel
+# <a name="set-passwords-to-never-expire"></a>Nastavení hesla na nikdy nevyprší
 
-Pokud chcete nastavit, aby platnost všech hesel nikdy nevypršela, přejděte v Centru pro správu Microsoftu 365 na stránku[ochrany osobních údajů &amp; zabezpečení](https://portal.office.com/adminportal/home#/settings/security) **nastavení.** >  Vyberte **Upravit** vedle **zásad hesla**a přepněte jezdec **na Zapnuto**.
+Pokud chcete nastavit platnost všech hesel tak, aby nikdy nevypršely, přejděte v Centru pro správu Microsoftu 365 na **Settings**  >  stránku[ochrany osobních údajů zabezpečení &amp; nastavení.](https://portal.office.com/adminportal/home#/settings/security) Vyberte **Upravit** vedle **zásady hesla**a zapněte jezdec na **Zapnuto**.
   
 Podrobnější informace naleznete v: 
 
-- [Nastavte zásady vypršení platnosti hesla pro vaši organizaci.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
+- [Nastavte zásady vypršení platnosti hesla pro vaši organizaci.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [Nastavení, aby heslo pro konkrétní uživatele nikdy nevypršelo](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
+- [Nastavit heslo tak, aby pro konkrétní uživatele nikdy nevypršely](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
 - [Heslo musí splňovat požadavky na složitost](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   

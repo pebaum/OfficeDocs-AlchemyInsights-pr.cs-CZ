@@ -1,5 +1,5 @@
 ---
-title: Zrušení předplatného?
+title: Zrušíte předplatné?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,25 +12,25 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
-ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
+ms.openlocfilehash: bf86d0f3f01221211b7759a0f874ef9c6758a276
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44086667"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508153"
 ---
-# <a name="canceling-your-subscription"></a>Zrušení předplatného?
+# <a name="canceling-your-subscription"></a>Zrušíte předplatné?
 
-Bude nám líto, že jste odešel, ale pokud chcete zrušit předplatné, zde jsou vaše možnosti:
+Bude nám líto, že odejdete, ale pokud chcete předplatné zrušit, zde jsou vaše možnosti:
   
-- Pokud jste zkušební zákazník, není nic zrušit. Zkušební předplatná vyprší automaticky, pokud nezadáte způsob platby.
+- Pokud jste zákazník zkušební verze, není co zrušit. Platnost zkušebního předplatného automaticky nevyprší, pokud nezadáte způsob platby.
 
-- Pokud máte přiřazeno méně než 25 licencí, můžete předplatné zrušit online. Přejděte na stránku **Fakturace** \> **[produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)** V části **Nastavení & akce** zvolte Zrušit **předplatné**.
+- Pokud máte méně než 25 přiřazených licencí, můžete předplatné zrušit online. Přejděte **Billing** na \> stránku **[Fakturace produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)** V části **Nastavení & akce** zvolte Zrušit **předplatné**.
 
-- Pokud máte přiřazeno více než 25 licencí, můžete uživatele odebrat, dokud nebudete mít méně než 25.
+- Pokud máte více než 25 přiřazených licencí, můžete uživatele odebrat, dokud nebudete mít méně než 25.
   
-**Refundace: Každý poměrný kredit vám bude vrácen během dalšího fakturačního cyklu.** 
+**Refundace: Jakýkoli poměrný kredit vám bude vrácen během příštího fakturačního cyklu.** 
 
-**Poznámka:** Pokud možnost zrušení nevidíte, kliknutím na předplatné zobrazíte podrobnosti a v **nastavení & akcích**se zobrazí možnost **Zrušit předplatné** . 
+**Poznámka:** Pokud nevidíte možnost zrušit, klikněte na předplatné pro zobrazení podrobností a měli byste vidět **možnost Zrušit předplatné** v Nastavení & **akce**. 
 
-Další informace najdete v [tématu Zrušení předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Další informace najdete v [tématu Zrušení předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

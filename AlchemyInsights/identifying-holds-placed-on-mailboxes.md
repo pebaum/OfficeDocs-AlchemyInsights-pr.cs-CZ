@@ -12,29 +12,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 13eb97b9278ac3327425bbb6f03ebeb2e3a24ea2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724769"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508873"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Identifikace blokování umístěných v poštovních schránkách
+# <a name="identify-holds-placed-on-mailboxes"></a>Identifikovat blokování umístěné na poštovních schránkách
 
-Máte obsah microsoft365, který je **zachován** **blokování,** které nelze identifikovat? Potřebujete **zjistit,** kde se přidržovací místo nachází na **poštovní schránce** ? Blokování (*retenční prvky*) lze použít jednou z následujících metod:
+Máte obsah aplikace Microsoft 365, který je **uchováván** **blokováním,** které nelze identifikovat? Potřebujete **zjistit,** kde se nachází blokování na **poštovní schránce** ? Blokování (*retenční funkce*) lze použít jednou z následujících metod:
   
 - Blokování soudních sporů
 
-- podržení služby eDiscovery
+- Blokování eDiscovery
 
-- Podržení na místě
+- Blokování na místě
 
-- Zásady uchovávání informací v Microsoftu 365 
+- Zásady uchovávání informací pro Microsoft 365 
 
-  - Specifické zásady uchovávání informací o poloze
+  - Konkrétní zásady uchovávání informací o poloze
 
   - Zásady uchovávání informací pro celou organizaci
 
-- Popisky Microsoft 365
+- Štítky Microsoftu 365
 
-Chcete-li zjistit, který typ blokování je použit pro poštovní schránku uživatele, přečtěte si informace [o tom, jak identifikovat typ blokování umístěného v poštovní schránce Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Chcete-li zjistit, který typ blokování se použije na poštovní schránku uživatele, naleznete v [tématu Jak určit typ blokování umístěné v poštovní schránce Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).

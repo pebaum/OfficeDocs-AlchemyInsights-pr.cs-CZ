@@ -12,23 +12,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: d2b398bda3a2d1760b8380e0651caa2ed9883504
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: af100836a666a220d8fb77e9dc480993c71e3741
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710364"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508477"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Pokročilá ochrana před internetovými hrozbami (ATP) v SharePointu a OneDrivu
+# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Pokročilá ochrana před hrozbami (ATP) na SharePointu a OneDrivu
 
-Viz následující:
-- [ATP pro SharePoint, OneDrive a týmy](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Průzkumník hrozeb a detekce v reálném čase](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+Podívejte se na následující:
+- [ATP pro SharePoint, OneDrive a Týmy](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Průzkumník hrozeb a detekce v reálném čase](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
 
 
 Další informace:
 
-- [Detekce virů v SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Šifrování dat v ODB a SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Detekce virů v SPO](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [Šifrování dat v ODB a SPO](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
 - [Zabezpečení dat v SharePointu](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [Detekce ransomwaru a obnovení souborů](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [Detekce a obnova souborů ransomware](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
